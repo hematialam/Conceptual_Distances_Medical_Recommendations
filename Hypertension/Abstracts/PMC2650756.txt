@@ -1,0 +1,15 @@
+OBJECTIVE:
+
+To provide updated, evidence-based recommendations for the diagnosis and assessment of adults with hypertension.
+OPTIONS AND OUTCOMES:
+
+The diagnosis of hypertension is dependent on the appropriate measurement of blood pressure, the timely assessment of serially elevated readings, the degree of blood pressure elevation, the method of measurement (office, ambulatory, home) and any associated comorbidities. The presence of cardiovascular risk factors and target organ damage should be ascertained to assess global cardiovascular risk, and to determine the urgency, intensity and type of treatment required.
+EVIDENCE:
+
+MEDLINE searches were conducted from November 2005 to October 2006 with the aid of a medical librarian. Reference lists were scanned, experts were contacted, and the personal files of authors and subgroup members were used to identify additional studies. Content and methodological experts assessed studies using prespecified, standardized evidence-based algorithms. Recommendations were based on evidence from peer-reviewed, full-text articles only.
+RECOMMENDATIONS:
+
+Recommendations for blood pressure measurement, criteria for hypertension diagnosis and follow-up, assessment of global cardiovascular risk, diagnostic testing, diagnosis of renovascular and endocrine causes of hypertension, home and ambulatory monitoring, and the use of echocardiography in hypertensive individuals are outlined. Key messages in 2007 include continued emphasis on the expedited, accurate diagnosis of hypertension, the importance of assessing the risk of cerebrovascular events as part of global risk assessment, the need for ongoing reassessment of patients with high normal blood pressure, and reviews of recent studies involving laboratory testing and home monitoring.
+VALIDATION:
+
+All recommendations were graded according to strength of the evidence and were voted on by the 57 members of the Canadian Hypertension Education Program Evidence-Based Recommendations Task Force. All recommendations reported here received at least 70% consensus. These guidelines will continue to be updated annually.

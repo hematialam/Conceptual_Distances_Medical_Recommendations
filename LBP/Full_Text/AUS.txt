@@ -1,0 +1,443 @@
+﻿Introduction
+Internationally and nationally, LBP is a major cause of disability, with a quarter of Australians having LBP at any one time. High levels of disability result in personal and societal economic costs. It is the most common health condition to result in someone retiring from the workforce early. The direct costs of managing ‘back problems' in Australia in 2012 is estimated to be almost $A4.8 billion. Approximately $220 million was reimbursed by Medicare in 2013 for spinal imaging, much of which could have been avoided if the numerous international guidelines for ALBP were followed.
+Studies have shown that about 40% of those reporting an episode of ALBP recover within six weeks. However, 48% still have pain and disability after three months and of these almost 30% do not recover by 12 months.
+A key problem in the management of ALBP is the number of people who develop chronic LBP following an ALBP episode. We expect that early appropriate care may reduce such a transition.
+The key objective of this model of care (MoC) is to reduce pain and disability associated with acute low back pain. An episode of ALBP is defined as a new episode of pain between the twelfth rib and buttock crease, with or without leg pain, that has a duration of less than three months and is preceded by one month of no pain.
+The model of care
+A model of care has been developed through the ACI Musculoskeletal Network in consultation with the ACI Pain Management Network. This collaboration ensures consistent interventions and messaging across acute and chronic pain management. Emergency care, neurosurgical and orthopaedic specialties were also involved.
+The MoC is primarily a primary-care based model that will be supported as required by specialty clinicians and the NSW health system. This approach is backed by evidence and by the experience of practitioners in NSW who agree that people with ALBP should ideally be managed in primary care where follow-up over time can be provided and self-management supported in a wellness model.
+The MoC was developed for people aged 16 years and over who present to their general practitioner (GP), emergency department or other entry point to health care with a new episode of ALBP. It provides different care pathways for people with ALBP using three triage classifications: non-specific LBP, LBP with leg pain, and suspected serious pathology (red flag conditions).
+While multiple practitioners could be involved in care of these patients, the primary team members are the patient and their family and their GP, practice nurse and physiotherapist. It will also be used by clinical teams, health managers and administrators in public and private health services across NSW.
+Basic standards of care
+The MoC is underpinned by basic standards of care in six areas:
+ASSESSMENT
+TRIAGE (see Appendices 1-5)
+NO IMAGING IN NON-SPECIFIC LBP
+PERSONALISED EVIDENCED-BASED HEALTH EDUCATION
+MANAGEMENT IN LINE WITH EVIDENCED-BASED PRACTICE GUIDELINE
+SCHEDULED FOLLOW-UP REVIEW IS PLANNED
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 3
+Key principles
+Principle 1: Assessment - history and examination
+A systematic and formal history and examination including the consideration of red flags is required at the outset to determine the pathway of care for each individual patient.
+Principle 2: Risk stratification
+Prognostic risk stratification tools, such as the STarT Back and Orebro questionnaires, stratify patients into low, medium or high risk groups, determining the amount and type of treatment that they require.
+Principle 3: Patient education
+From the first assessment, each person will receive one-on-one discussion and support of self-management, along with electronic and paper-based education packs that detail the best practice management.
+Principle 4: Active physical therapy encouraged
+Physical therapies will primarily be a ‘hands off' approach. The emphasis is on self-management assisting the patient to understand their condition and a staged resumption of normal activities. Consultation with team members may include a physiotherapist or practice nurse.
+Principle 5: Begin with simple analgesic medicines
+Where pain medicines are required it is best to begin with simple analgesics using time-contingent dosing. Non-steroidal anti-inflammatory medications can be used for short time-frames after consideration of possible adverse reactions. Opiates should be avoided.
+Principle 6: Judicious use of complex medicines
+llllllllllll
+In the presence of persisting severe leg pain, some complex medication regimens may support pain control. These include tricyclic anti-depressants, anticonvulsant agents and serotonin noradrenaline reuptake inhibitors. However, caution is required considering the impact of potential mood changes and somnolence. Opiates are less effective in this patient group, and corticosteroid spinal injections offer only short-term pain relief and should not be initiated in the primary care setting.
+Principle 7: Cognitive behavioural approach
+The principles of cognitive behavioural therapy are used to ensure the patient is supported to understand the relationship between beliefs and behaviours, and to develop a goal-orientated plan of care.
+Principle 8: Only image those with suspected serious pathology
+Imaging is only indicated when a thorough patient history and physical examination indicates that there may be a medically serious cause for the lower back pain.
+Principle 9: Pre-determined times for review
+Review each individual's progress at two, six and twelve weeks. If there has been insufficient progress then change the treatment plan as outlined in the MoC.
+P
+ple 10
+ely referral and access to specialist services
+If the patient has not recovered by twelve weeks arrange for review by a musculoskeletal specialist as outlined in the MoC.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 4
+Implementation
+Five implementation strategies will be pursued in 2016-2018, including:
+•	dissemination across sites in NSW and localised development of a HealthPathway for the management of people with ALBP
+•	support and encouragement for the MoC to be used in Aboriginal Medical Services
+•	Local Health Districts encouraged to implement the MoC in their health services
+•	collaboration with Ambulance Service NSW regarding calls they receive for people with ALBP
+•	development of consumer oriented version of the MoC based on the outcomes of focus groups with people who have had experience of ALBP.
+Evaluation and refinement strategies to determine outcomes and need for any changes of the MoC will include:
+•	an audit of patient files pre- and postimplementation to determine the change after adopting the key principles
+•	focus group and individual consultation with consumers pre- and post-implementation
+•	'before and after' focus groups and individual consultations with a wide range of health professionals who have agreed to support implementation of the MoC
+•	a community awareness strategy to provide general understanding of the management of non-specific LBP.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 5
+Section 1 j
+The case for change
+At any one time a quarter of Australians have LBP.1 Data from 2010 ranked back pain as the most burdensome disease in Australia,2 whether measured in terms of disability-adjusted life years3 or years lived with disability.4 Back pain is the most common health condition forcing Australians into involuntary early retirement.5 Its prevalence, the high levels of disability and the huge personal and societal economic costs associated with the condition have led to proposals for it to be a national health priority in Australia.
+The estimated economic cost of treatment for LBP in Australia is $4.8 billion,6 but health outcomes are often poor.7 The total cost attributable to LBP, including indirect costs such as reduced productivity, was $9 billion in 2001.1 Inappropriate investigations and management of LBP contribute to these costs. This is despite the numerous guidelines that say the use of radiological imaging be limited to people where there is a strong suspicion of serious pathology or in those with persistent LBP accompanied by signs of neurological compromise.8
+A key problem with LBP is the number of people progressing from an acute to chronic state. While 40% of people with an episode of ALBP will recover within six weeks, 48% still have pain and disability at three months and, of those, almost 30% will not recover at 12 months.7 Once LBP is chronic, levels of recovery and effectiveness of most interventions are much more challenging 9 and, in 2005, 38% of those with back problems in Australia had to change their work status as a result of back pain. As well as significantly affecting activity participation, LBP is frequently associated with co-morbidities such as depression, with rates 2.5 times those in people without LBP.
+The quality of care for LBP is uneven.10 Too often patients expect 11 and are provided with care quite different to that recommended in the NHMRC guideline.11 As an illustration, a large survey of Australian primary care providers for ALBP revealed significant improvements were possible in the prescribing of appropriate analgesic medicines and provision of educational advice. While guidelines discourage routine imaging, this study revealed that more than 25% of people seeking care were referred for imaging on the first visit.10
+Evidence suggests that implementing best practice guidelines among Australian primary care providers remains a challenge due to ongoing evidence gaps and limited conversion of evidence into practice. A recent Australian study 11 revealed that most people experiencing ALBP expect imaging, believing it would identify the cause of their pain and so was a prerequisite for effective care: a set of views directly conflicting with the approach in the NHMRC guideline.
+In October 2013, the Australian Government Department of Health announced a Medicare Benefits Schedule (MBS) review of imaging for back pain. The accompanying MBS data showed that about $220 million was spent on imaging for back pain in 2013. While expenditure on plain radiographs was relatively constant over the past five years, expenditure on MRI rose by 44% and CT by 22%.
+Surveys of primary care for LBP based upon the BEACH database10 and an audit of medical records suggests considerable scope for improved care. For example, the recent CareTrack study 12/13 found that fewer than 50% of people with LBP managed in general practice received a physical examination, and less than 25% received a neurological examination. Screening for serious pathology is universally endorsed in clinical practice guidelines, but is inconsistently performed.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 6
+In summary, there are three key areas in which management of back pain could be improved:
+Thus, the MoC for management of ALBP will need to include educational resources for the patient, primary care practitioners and the general community.
+1.	application of more appropriate clinical examination and use of radiological imaging only as necessary
+2.	better use of appropriate analgesia
+3.	enhanced patient education.
+Kristine's story
+I am 35 and live in the Blue Mountains of NSW. I have three children under seven. My husband works in the mines and helps out when he is home from WA.
+My life has been disrupted with low back pain for the last few months. It started when I picked up my four-month-old daughter and my back just 'went'. The pain spread across both sides of the back and I was frozen in that position for several minutes. The pain was excruciating to the point that I was barely able to get around and I was worried that I would not be able to look after my children. I went to the hospital and a CT scan was done. They said it showed I had worn-out discs. I was given some strong painkillers which only made we dizzy and just heightened my concern about how I could care for the children with my husband so far away. I remembered the lady next door had a 'bad back' and she said that is how her pain started. She very kindly gave me some of her pain tablets and told me I could get a machine over the internet to help with the pain. By the time my husband came home the pain had begun to improve but I took the chance to rest up as much as I could. I then went to my GP who sent me to physiotherapy where I had ultrasound and hot packs which made my back very comfortable for a few hours.
+This pain has been going for two months now, some days easier than others. When it is bad I can only get relief by lying down. I am not sleeping well and my mother has come to live with me because I think my discs will never get better. I am only 35 and becoming very frustrated that nothing seems to help and I don't know what to do or who to turn to for help.
+Kristine is fearful with few social supports. She was given inappropriate imaging then non evidence-based information regarding the scan findings. This reinforced her fear of movement. Analgesic advice was not explained or tailored to her circumstances. No advice on physical activities was given nor any follow-up consultation provided.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 7
+Section 2 k
+Aims and objectives
+The aim of the MoC is to support evidencebased care provided in primary care settings for people presenting with ALBP.
+It will be used by clinical teams, health managers and administrators in public and private health services across NSW. A companion document that guides consumers and community members in the elements of the MoC has been developed based on the outcomes of a focus group of people who have experienced ALBP.
+The key objectives are to improve the process of care as measured by compliance with Agreed basic care standards while improving patient outcomes and satisfaction with care. The standards represent the key evidence-practice gaps noted in primary care management of ALBP.
+Agreed basic care standards - ALBP
+1.	Each patient is assessed: history, physical examination and, when indicated, a lower limb neurological examination.
+2.	Each patient is triaged into one of the following categories:
+o non-specific LBP
+o LBP with leg pain
+o suspected serious pathology.
+3.	No patient with non-specific LBP is referred for imaging.
+4.	Each patient receives health education about their condition that reflects contemporary treatment and self-management approaches.
+5.	Patient management is guided by an evidencebased practice guideline.* *
+6.	A follow-up review is scheduled for each patient.
+•	The Musculoskeletal Network does not mandate a one-treatment approach. For example, healthcare teams could choose from the following guidelines and their support documents:
+•	Low back and radicular pain: a pathway for care developed by the British Pain Society 14
+•	O'Sullivan P, Lin IB. Acute low back pain. Beyond drug therapies 15
+•	LBP clinical practice guideline from the American College of Physicians and the American Pain Society 16
+•	National Health and Medical Research Council (NHMRC) acute LBP guideline 17
+•	Back Pain Choices: an Electronic Decision Support System (EDSS) 18
+•	Primary care management of low back pain: care process model.19
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 8
+Section 3
+Context and scope
+The development, implementation and evaluation of a new model of care for ALBP is essential to reduce the burden from the consequences of low back pain for the individual and society. The model described in this document is based on high quality, evidence-based and patient-centred care, and focuses on improving the individual's quality of life as well as reducing healthcare costs associated with unnecessary imaging, specialised care and preventable hospital admissions.
+The MoC for ALBP could involve multiple practitioners with the primary team members being the patient and their family and their GP, practice nurse and physiotherapist. There could be a need, depending on the required pathway of care for each individual, for collaboration and communication between other stakeholders and health professionals including LHDs, allied health professionals, nurses, specialist medical practitioners and their respective professional bodies. The model incorporates the best available scientific evidence to guide the treatment pathway of people with LBP from the moment they seek primary care. Management of all aspects of the condition, including its physical and psychosocial impact is essential to the model.
+The following resources were used in developing this MoC:
+•	Lee J, Gupta S, Price C et al. Low back and radicular pain: a pathway for care developed by the British Pain Society.14
+•	The STarT Back trial.20
+•	O'Sullivan P, Lin IB. Acute low back pain. Beyond drug therapies.15
+•	American College of Physicians' guidance on imaging for people with LBP.21
+•	LBP clinical practice guideline from the American College of Physicians and the American Pain Society.22
+•	NHMRC. Evidence-based management of acute musculoskeletal pain.17
+•	Peiris D, Williams C, Holbrook R et al. An online clinical decision support tool for primary health care management of back pain-development and mixed methods evaluation.18
+•	Royal Australian and New Zealand College of Radiologists. Acute low back pain. Education modules for appropriate imaging referrals.22
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 9
+Section 4
+Background
+This MoC was developed using resources from published clinical research and guidelines. While there is an increasing number of quality studies relating to ALBP, few are aimed at understanding how to best improve patient care. Where evidence was lacking or of poor quality, a consensus was used. The Working Group also examined international and Australian MoCs.
+4.1	Guidelines
+There are several evidence-based clinical guidelines for the management of LBP 8 with consensus that provision of advice and education on self-management are vital factors to include in routine management of LBP. However, there is poor compliance with clinical guidelines.10,23 The challenge of implementing clinical guidelines in practice is well acknowledged. 8 This discrepancy between evidence-based guidelines and the reality of clinical practice suggests problems with dissemination of guidelines or in some cases their development.24 More importantly, data demonstrating that implementation of clinical guidelines leads to better outcomes for people with LBP warrant further investigation and would likely strengthen implementation in clinical practice.
+4.2	International models of care
+Pathways and guidelines for ALBP have been proposed internationally by, for example, the American College of Physicians and the American Pain Society 16 and The National Institute for Health and Clinical Excellence/UK (NICE) and the British Pain Society.14 These international guidelines inform many aspects of the ACI MoC for ALBP. For instance, all international MoCs emphasise focused history and physical examination to classify patients into pathways of care that manage nonspecific LBP, serious underlying pathology or neurological deficit. Both US and UK guidelines include the assessment of psychosocial risk factors that can predict the development of chronic back pain. More specifically, the American guideline recommends imaging only for people with severe or progressive neurological deficit or suspected serious pathology, emphasising the risk of routine imaging and other diagnostic tests for people with non-specific LBP.
+These risks include the poor psychological effect on the individual concerning their fears for their health status that can lead to chronic status of the back pain.25 Another aspect included in international models is a focus on evidence-based advice to stay active and self-manage their condition as appropriate. The National Institute for Health and Clinical Excellence/UK and the British Pain Society 14 MoCs have a strong self-management component as first-line care for back pain, with considerable efforts in providing evidencebased and accessible resources to guide patients such as online audio links, telephone helplines, leaflets and information web-links.
+Patient-centred care is also an essential component of all international MoCs. The clinical care providers must consider the individual's preferences after discussing and disclosing the risks, benefits, safety and relative lack of long-term effectiveness of treatment options for ALBP. 16 Individuals are informed of the risks and benefits of interventions such as exercise programs and manual therapy that can be offered if self-management and pain control medication do not provide significant improvements.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 10
+A final common element among international MoCs is the interdisciplinary perspective and incorporation of principles of psychological management much earlier in the care plan. These include the use of psychologically informed GP and physiotherapy care. This contrasts to earlier approaches in which behavioural management and multidisciplinary care were reserved for those who failed initial single-discipline primary care. The British Pain Society model recommends using the STarT Back tool 20 to stratify patient management, including psychological care, with the aim of identifying barriers to resuming normal activities and discouraging the 'one treatment fits all' approach.
+4.3	Australian models of care
+The WA Musculoskeletal Health Network published a MoC for spinal pain in 2009.26 The WA MoC provides guidance on spinal pain across the condition trajectory and has been used as a guide for some interventions that this NSW MoC advocates.
+There are also a number of Australian-developed online resources to support the NSW MoC.
+4.3.2	painHEALTH
+painHEALTH was developed through the WA Department of Health in collaboration with Curtin University, the University of WA and the WA Musculoskeletal Health Network. The website aims to assist people with musculoskeletal pain to access reliable and usable evidence-informed information, and learn skills to assist in the co-management of their musculoskeletal pain. painHEALTH is available at: http://painhealth.csse.uwa.edu.au/
+4.3.3	PAIN-ED
+PAIN-ED is an online resource for patients and healthcare practitioners regarding evidence-based management of LBP. It was developed by clinical researchers who recognised the need to translate the scientific evidence about pain for both public and healthcare practitioners. The site aims to dispel some common myths about chronic pain and provide hope for change. PAIN-ED is available at: http://www.pain-ed.com/
+4.3.1	Back pain choices
+Back pain choices is an electronic decision support system (EDSS) developed by the George Institute for Global Health and NPS MedicineWise.
+The algorithm for the system was derived from key recommendations in the UK, US and Australian LBP guidelines. The user interface guides the GP through a four-step process of excluding serious pathology, clinical assessment, establishing treatment options and building a personalised patient information sheet.18 Back pain choices is available at: http://www.nps.org.au/ conditions/nervous-system-problems/pain/for-individuals/pain-conditions/low-back-pain/back-pain-acute-low/back-pain-choices
+4.3.4	ACI-Chronic Pain
+The ACI Pain Management Network in partnership with Chronic Pain Australia developed an online consumer resource that provides practical self-management tools and personal stories of people with chronic pain (i.e. duration of at least three months). The site emphasises better understanding of pain conditions and prognoses, as well as improving communication between patients and their health professionals.
+The ACI Chronic Pain website is available at: http://www.aci.health.nsw.gov.au/chronic-pain
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 11
+Section 5
+Key elements of the model of care
+5.1	Overview
+This model of care aims to address a treatment gap and apply evidence-based guidelines to the assessment and management of people experiencing ALBP. MoCs for people with chronic pain are currently addressed by the implementation of the NSW Pain Management Plan 2012-2016; the MoC for people with ALBP will complement this plan.
+The MoC aims to reduce back pain concurrent with maintaining an individual's function, while bringing evidence-based indications to requests for lumbar imaging.
+The MoC for ALBP will focus on people presenting in a primary care setting and hospital emergency departments with ALBP. It is intended that all services across NSW assessing and treating people who present with ALBP will utilise the MoC concepts. In addition, its use by NSW Ambulance is encouraged so the MoC will be incorporated into their patient encounters. Emergency departments of hospitals will be included as this is where many people seek care for ALBP.
+Core team members of this MoC are the person's GP, their practice nurse and a physiotherapist. However, the mix will depend on local availability. Depending on the patient's clinical status, determined in the initial assessment (Appendix 1), other team members may include psychologists, nurse practitioners and, where appropriate, musculoskeletal specialists such as rheumatologists, rehabilitation physicians, pain physicians and spinal surgeons. However, the MoC draws on evidence that the vast majority of people with ALBP are managed in a primary care setting, with fewer than 10% requiring specialist assessment, medical imaging or complex interventions.
+It is expected that where a range of health professionals is not accessible, there may be a need to train those available to deliver therapies traditionally provided by another health professional. For example, physiotherapy undergraduate education has not traditionally included cognitive behavioural therapy (CBT) principles of pain management. It may be necessary to train physiotherapists or other health professionals, who have not previously been exposed to CBT principles, to deliver psychologically informed interventions as done by physiotherapists in the STarT Back trial.
+Most people with ALBP improve within six weeks when treated following evidence-based guidelines.27 The MoC targets ALBP; however, many principles that apply to chronic care are relevant to ALBP, with the prevention of chronic LBP prominent in adopting these principles. The factors that predict a poor outcome and the development of persistent LBP are complex and include a range of biophysical (e.g. pain intensity and presence of leg pain) psychological (e.g. co-existent psychological distress) and social issues (e.g. job dissatisfaction and compensation).28 Cultural perceptions of LBP may result in a belief that any episode of ALBP is a career-ending event. Likewise, unrealistic expectations of medical therapies often result in patients thinking that if they find the correct treatment then this will resolve their pain. Such cultural beliefs can also affect the health professional's approach to patients with ALBP. 29 Consequently, the chronic care principles of a patient-centred approach to identify potential poor prognostic factors are required to address these, using psychological, physical and pharmacological approaches.
+A fundamental element of the ACI MoC for ALBP will be patient-centred health education, leading to informed self-management of ALBP. The MoC will be complemented by development of a primary health and community education plan in order for the NSW community to understand best practice LBP management.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 12
+Assessment and documentation of background patient belief systems, fears, anxieties, cognitive patterns, psychosocial issues and emotional responses to pain - the so-called yellow flags (page 1) - need to be assessed and their possible impact included in care planning. Tools such as STarT Back20 or Orebro30 will help in determining any yellow flags as described in the text box after the Glossary on page 1. Quantifying pain severity and response to treatment will also be documented.
+This MoC aims to develop self-management skills, promote normal musculoskeletal function and halt inappropriate medical imaging; all aimed at reducing current numbers of people presenting with ALBP that progress from acute to chronic pain. The MoC recognises that consistent implementation of the recommendations by primary healthcare providers will be difficult, as has occurred for other attempts to implement guidelines for ALBP. Improving and recalibrating a health professional's knowledge base and beliefs along with patient and clinician experience of improved outcomes are necessary for behaviour change in primary care.31
+5.2 Principles of primary care ALBP management
+The initial patient encounter will utilise a pathways approach through triaging patients according to whether the ALBP is associated with leg paina plus or minus neurological signs, or is accompanied by clinical features suggesting serious spinal pathology. Any symptoms and signs to suggest serious spinal pathology are documented and acted upon at this first visit.
+The treatments comprise physical therapies, psychologically informed physiotherapy, psychological therapies and pharmacological therapies.
+a The term 'leg pain' was chosen over 'radicular pain' as the latter pre-supposes a particular pathological diagnosis.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 13
+llllllllllll
+Principle 1: Assessment - history and examination
+A systematic and formal history and examination including the consideration of red flags is required at the outset to determine the pathway of care for each individual patient.
+Principle 2: Risk stratification
+Prognostic risk stratification tools, such as the STarT Back and Orebro questionnaires, stratify patients into low, medium or high risk groups, determining the amount and type of treatment that they require.
+Principle 3: Patient education
+From the first assessment, each person will receive one-on-one discussion and support of self-management, along with electronic and paper-based education packs that detail the best practice management.
+Principle 4: Active physical therapy encouraged
+Physical therapies will primarily be a ‘hands off' approach. The emphasis is on self-management assisting the patient to understand their condition and a staged resumption of normal activities. Consultation with team members may include a physiotherapist or practice nurse.
+Principle 5: Begin with simple analgesic medicines
+Where pain medicines are required it is best to begin with simple analgesics using time-contingent dosing. Non-steroidal anti-inflammatory medications can be used for short time-frames after consideration of possible adverse reactions. Opiates should be avoided.
+Principle 6: Judicious use of complex medicines
+In the presence of persisting severe leg pain, some complex medication regimens may support pain control. These include tricyclic anti-depressants, anticonvulsant agents and serotonin noradrenaline reuptake inhibitors. However, caution is required considering the impact of potential mood changes and somnolence. Opiates are less effective in this patient group, and corticosteroid spinal injections offer only short-term pain relief and should not be initiated in the primary care setting.
+Principle 7: Cognitive behavioural approach
+The principles of cognitive behavioural therapy are used to ensure the patient is supported to understand the relationship between beliefs and behaviours, and to develop a goal-orientated plan of care.
+Principle 8: Only image those with suspected serious pathology
+Imaging is only indicated when a thorough patient history and physical examination indicates that there may be a medically serious cause for the lower back pain.
+Principle 9: Pre-determined times for review
+Review each individual's progress at two, six and twelve weeks. If there has been insufficient progress then change the treatment plan as outlined in the MoC.
+P
+ple 10
+ely referral and access to specialist services
+If the patient has not recovered by twelve weeks arrange for review by a musculoskeletal specialist as outlined in the MoC.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 14
+The key components of the MoC for ALBP are graphically depicted in Appendices 1-5. The following is a precis of the specific interventions.
+5.2.1	Assessment: history and examination
+The initial assessment is based upon a complete history, physical examination and where indicated a focused neurological examination. This allows triage of patients into those with LBP alone (non-specific back pain)¥ or those with back and leg pain (Appendix 1). Where back and leg pain are present the history will also establish if the leg pain has qualities to suggest neurogenic claudication. At this time people exhibiting symptoms or signs of spinal infection, or have bladder or bowel dysfunction that are signs of potential cauda equina compression, require immediate referral to an emergency department. If the patient has a history of previous malignancy, symptoms and signs of inflammatory arthritis, or a history of trauma, relevant investigations are required before referral for specialist care. In people with back pain who also have osteoporosis, vertebral fracture may arise with minimal trauma. See the red flags on page 1.
+When assessing people who have experienced an episode of ALBP with previous resolved bouts of pain, and providing they have experienced one month free of pain prior to the new episode, review of all previous investigations is required.
+Following the initial assessment and referral of people with suspected serious pathology, the majority will have non-specific LBP (Pathway A in Appendix 2) and so will not require imaging. The other cohorts arising from the first visit will comprise people with LBP and leg pain with or without neurological signs (Pathway C in Appendix 5). The smallest group will have signs and symptoms of progressive lower limb neurological loss (Pathway B in Appendix 4).
+5.2.2	Patient education
+At the first consultation, health education will be provided to all patients. This may include a DVD to watch or a web site to visit such as: http://www. youtube.com/watch?v=BOjTegn9RuY or http:// painhealth.csse.uwa.edu.au/pain-management.html Some sites providing this MoC may elect to ask all patients to arrive early enough to allow time for delivery of educational material by the physiotherapist or practice nurse before seeing the GP. The patient should be able to discuss the contents and their response to the educational material with a clinical team member before they complete the initial visit. Information packs will be given to the patient for their personal reference on self-management strategies to implement between clinical consultations.
+There is indirect evidence that evidence-based, person-focused health education alone may reduce the length of time that ALBP persists.32
+Guidelines recommend that patients be advised to remain active and avoid bed rest, and be reassured of the favourable prognosis of ALBP. This is arguably the most important aspect of care that health professionals can provide. Health practitioners who know their patients well are aware of the impact certain descriptors may have on the patient's understanding of their condition. The key messages to be conveyed to a patient with ALBP are outlined in Box 1 and suggestions for language to use (and to avoid) in Boxes 2 and 3.
+During the post-education follow-up, if there are significant fears or anxieties then early use of a yellow flag assessment tool is recommended. In such instances, earlier application of psychological strategies may be required along with other treatments, as discussed in 5.2.4.
+¥ Non-specific back pain is defined as pain between the twelfth rib and buttock crease that is not attributable to an identifiable disease or condition.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 15
+Box 1: Key messages
+Reassure and explain that back pain is a symptom and that in most situations it does not indicate serious disease or impending long-term disability. Most episodes settle quickly.
+Avoid labelling as injury, disc trouble, degeneration or wear and tear.
+Reassure about good natural history, providing the patient stays active, but with accurate information and recurrent symptoms and how to deal with them.
+Advise the use of simple, safe treatments to control symptoms.
+Encourage staying active, continuing daily activities as normally as possible, and staying at work. This strategy leads to the most rapid and complete recovery and less risk of recurrent problems.
+Avoid 'let pain be your guide'.
+Encourage patients to take responsibility for their own continued management.
+Tell patients that 'backache should not cripple you unless you let it.'
+Source: Adapted with permission from advice advocated by Gordon Waddell 34
+Box 2: Language to avoid when speaking with patients
+Language that promotes beliefs about structural damage/dysfunction
+'You have degeneration/arthritis/disc bulge/disc disease/a slipped disc'
+'Your back is damaged'
+'You have the back of a 70 year old'
+'It's wear and tear'
+Language that promotes fear beyond the acute phase
+'You have to be careful/take it easy from now on'
+'Your back is weak'
+'You should avoid bending/lifting'
+Language that promotes a negative future outlook
+'Your back wears out as you get older'
+'This will be here for the rest of your life'
+'I wouldn't be surprised if you end up in a wheelchair'
+Suggestions that hurt equals harm
+'Stop if you feel any pain'
+'Let pain guide you'
+Source: O'Sullivan P, Lin IB. Acute low back pain. Beyond drug therapies. Pain Management Today 2014; 1(1): 8-13. 15
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 16
+Box 3: Language to use when speaking with patients 15
+Language that promotes a biopsychosocial approach to pain
+'Back pain does not mean your back is damaged. Many structures around the spine may, for short periods of time, become painful before resolving. Usually there is no injury to cause the pain. When there is no pain projected into the leg below the knee, imaging techniques do not show a cause for the pain. While returning to normal function some back movements will temporarily have a reduced range of movement and are associated with a feeling of muscle tightness. This tautness and pain are made worse by inactivity, lack of sleep, stress, worry and low mood.'
+'Most back pain is linked to minor strains that can be very painful'
+'Sleeping well, exercise, a healthy diet and cutting down on smoking will help your back as well'
+'The brain acts as an amplifier - the more you worry and think about your pain the worse it gets'
+Language that promotes resilience
+'Your back is one of the strongest structures of the body'
+'It's very rare to do permanent damage to your back'
+Language that encourages normal activity and movement
+'Relaxed movement will help your back pain settle'
+'Your back gets stronger with movement'
+'Motion is lotion'
+'Protecting your back and avoiding movement can make you worse'
+Language that addresses concerns about imaging results and pain
+'Your scan changes are normal, like grey hair'
+'The pain does not mean you are undergoing damage - your back is sensitive'
+'Movements will be painful at first - like an ankle sprain - but they will get better as you get active'
+Language that encourages self-management
+'Let's work out a plan to help you help yourself'
+'Getting back to work as you are able, even part-time at first, will help you recover'
+Source: O'Sullivan P, Lin IB. Acute low back pain. Beyond drug therapies. Pain Management Today 2014; 1(1): 8-13. 15
+5.2.3	Physical therapies
+Passive physical therapies, such as ultrasound, interferential therapy and massage, have a limited role in managing ALBP. The US guideline16 recommends superficial heat as a self-care option, and spinal manipulative therapy delivered by a physiotherapist or chiropractor. Acupuncture, electrotherapy modalities, massage, traction and lumbar supports should be avoided, as evidence suggests they offer no benefit for the person with ALBP and their passive nature conflicts with the contemporary active approach.
+The contemporary approach is very much a move away from the patient being a passive recipient of therapy, to one where the clinician discusses the condition, the importance of strategies for self-management and guiding the staged resumption of normal activities with the patient. Many techniques used in managing chronic pain such as pacing and goal setting can be applied to ALBP, as clearly outlined in the ACI Pain Management Network MoC. See http ://www. aci.health.nsw.gov.au/ chronic-pain/for-everyone/pain-and-physical-activity
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 17
+During the initial stage of recovery, guiding the person to resume their normal physical activities should be the physical therapy focus without a separate structured exercise program.34 There is some evidence that exercise can delay recovery when commenced in the early acute phase.35 An exercise program may have value once the patient has recovered from the acute episode, as trials have shown that exercise programs begun at this point can halve the risk of recurrence.36
+5.2.4	Stratification of care based upon adverse prognostic factors
+Fears about future health, employment prospects or even concerns regarding an individual's ability to remain independent at home may be triggered by an episode of ALBP. The identification of such beliefs as well as maladaptive illness behaviour, catastrophic thinking and depressed affect (yellow flags) are critical in improving outcomes and preventing a progression to chronic pain.37, 38 Assessment tools such as STarT Back or Orebro help in identifying these risks for poor outcomes but the same information may be gained by direct questioning. In any case, using these assessment tools allows people with back pain to be grouped into those with minimal yellow flag issues and those with significant yellow flag issues.
+The purpose of splitting the non-specific ALBP cohort into those with and without significant yellow flag issues is that therapies directed at addressing fear and catastrophic thinking are beneficial for the outcomes of an ALBP episode.39 Failure to incorporate such approaches into treatment protocols produces poor treatment outcomes.40, 41
+People assessed using the STarT Back tools are stratified into low, medium and high risk, with treatments specific to each group. The treatments are delivered by an individual clinician, usually a physiotherapist, trained in such therapies. All groups receive basic care of health education, analgesia and advice to remain as physically active as possible. The medium risk group receive treatments aimed at preventing disability by addressing patient concerns, giving reassurance and providing relief of symptoms, while working with the patient to develop a self-management plan. The high-risk group will also receive a psychosocial assessment that identifies possible barriers to recovery and addresses these using a CBT approach. A collaborative approach to goal setting is also undertaken. Typically, six treatment sessions are delivered over a 12-week timeframe. Sowden etal. comprehensively describes the STarT Back treatment approaches.42
+5.2.5	Cognitive-behavioural approaches to pain management
+These approaches, not necessarily managed by a clinical psychologist, are to be used within the ALBP MoC and include simple CBT, even for those without yellow flags. The special issue of Physical Therapy on psychologically informed practice provides an introduction to these approaches, written for clinicians who are not psychologists.32, 41, 43-54
+Evidence shows improved outcomes for people with ALBP when CBT is used to inform the delivery of physical and other therapy, helping to modify any psychosocial drivers for pain.55 The clinician and the patient analyse the relationship between beliefs and pain behaviours together, then develop a goal-orientated plan that is used to monitor progress over time.54 These approaches improve the person's ability to self-manage their pain control in future episodes.56 However, when yellow flags are identified or when pain persists past the 14-week review, a more complex psychological intervention may be needed. If necessary, these treatments should be applied earlier if the need is identified.14
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 18
+5.2.6	Evidence-based use of spinal imaging
+Reviews of evidence universally conclude that radiological imaging for acute non-specific LBP (i.e. serious pathology or radicular syndromes are not suspected) is not appropriate.40, 57 Community education of imaging guidelines would help align patient expectations with those of their GPs. This would contribute to better guideline compliance in primary care. 29
+5.2.7	Timely referral and access to specialist services Access to specialist care needs to be available once it is clear that LBP is persisting in an individual despite the interventions outlined in pathways A, B and C. Specialist care may be from musculoskeletal physiotherapists, rheumatologists, psychologists, spinal surgeons, pain physicians and rehabilitation physicians.
+5.2.8	Analgesia
+Regular paracetamol is recommended for ALBP. However, both clinician and patients should be mindful that a recent trial demonstrated it was no more effective than a placebo plus 'best evidence education'.58 If during the course of treatment, patients find that paracetamol is not helping, then cessation and review for additional analgesia, such as non-steroidal anti-inflammatory drugs (NSAIDs), is suggested. NSAIDs are recommended for reducing pain for short periods.59, 60 However, assessment for contraindications is required before prescribing NSAIDs. These include severe hypertension, renal disease, previous gastrointestinal haemorrhage and current corticosteroid use. The lower incidence of gastrointestinal side effects must be balanced with increased cardiovascular risks associated with some CoX-2 NSAIDs (Cyclo-oxygenase 2 inhibitors are anti-inflammatory medications that have lower gastrointestinal side affects when compared to other NSAIDs). The judicious short-term use of low dose, short-acting opiates may also be required but opiates are generally best avoided.
+5.2.9	Complex pharmacological therapies
+Patients with pain associated with nerve root compression may benefit from tricyclic antidepressants, anticonvulsant agents and serotonin noradrenaline reuptake inhibitors. Some anticonvulsant medications can help in the treatment of neuropathic pain; however, their efficacy for treating all causes of leg pain associated with LBP is unclear.60, 61 The clinician must carefully consider the impact of potential mood changes and somnolence when using these agents.62 Opiates are generally less effective than other agents for neuropathic pain.
+Spinal corticosteroid injections are increasingly used to treat radicular pain and lumbar spinal canal stenosis. However, available evidence suggests that, whether given via transforaminal or inter-laminar routes, they offer only short-term relief of acute radicular pain63 and minimal or no benefit for lumbar canal stenosis.64 Spinal injections initiated in the primary care setting are not recommended. There is little evidence supporting facet joint or trigger point injections or prolotherapy, and this MoC discourages their use in primary care.65
+5.2.10	Pre-determined times for review
+This MoC outlines a prescriptive timetable of regular patient review until pain is resolved or other treatments invoked. After the initial visit, review is suggested within the next two weeks, then if required at six and 12 weeks. In some instances pain may not completely resolve. In these circumstances, the aim is for the resumption of pre back-pain activities with improved function and self-management becoming important additional objectives. Adherence to the prescriptive timetable for regular patient reviews ensures that best practice treatments are available to people in whom pain persists. This also allows ongoing health education strategies, reinforcing the evidenced-based messages and reassurance for those with persisting LBP. Should pain patterns change, for example to low back and leg pain, then the appropriate clinical pathway of care can be applied early.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 19
+Section 6
+The ideal patient experience
+Keith's story
+I am 68 years old and for the past five years I have been troubled on and off by osteoarthritis in both knees. But I know I am very lucky as I have had wonderful support from my GP, Ruth, since the first day I saw her with my pain. Every time I now see Ruth, even after all these years, she asks me of my progress and checks on my ability to work through painful times. I feel very well cared for and really she doesn't need to do this as I have long ago determined my actions when I have a flare-up of my knee pain.
+I was very surprised and a little annoyed (if I'm honest) when I first saw Ruth with this episode of back pain. Like most people I had occasional twinges in my back in the past, for example when I moved house, but nothing that lasted more than a day or two. But this was quite different; the pain was awful and I could hardly move when it first started. When I went to see Ruth she did check me over and on reflection I could tell she was being methodical during this examination. But at the end she advised me that the best thing to do was to start taking Panadol regularly throughout the day, and keep up with most of my normal day activities.
+She told me I wasn't to lie down except for my normal sleep. Well... not even an X-ray? Surely this could help diagnose the cause? No scan? No specialist doctor? Ruth explained this could be done but all experts, including the specialists, now know that in most cases this is not required. Of course she said she needed to check on my progress in the next few weeks and if I wasn't progressing we would certainly consider which health professionals I may need.
+OK! I decided I would try what Ruth suggested knowing that she would re-consider the plan when she checked on me in two weeks. It wasn't easy but I was determined to stick with our agreed plan. I could do this for two weeks. and she did tell me to phone her if I needed to before I saw her again.
+I had to admit that the next time I saw Ruth my pain was easing considerably and I could see improvement day by day. I have to say I was really surprised, but gee it was good to know I didn't have to see a specialist or start spending money on expensive tests. I was out of the woods for now. Ruth suggested I now see a physiotherapist who she said would support me to start exercising and guide me through any set-backs. Leonie would help me know how to identify early episodes of my pain and support me working out what worked best for me to help alleviate the problem early.
+During the first few sessions with Leonie I started to ease off on the Panadol and found I could omit these all together after about a month. Amazingly, I had started to lose a bit of the weight I had abhorred for the past couple of years. Thank goodness I was now in control and responsible for keeping my back happy.
+I knew this wasn't the end of my troubles but have found I know what to do early and have Ruth and Leonie still working in my neighbourhood to call in for moral support if I need it.
+Keith had a thorough physical examination and history taken. Good quality education was provided and imaging not undertaken. Self-management techniques
+were instituted. Follow-up appointment was provided.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 20
+Section 7
+Implementation
+7.1	Services implementing the MoC
+Four distinct areas of implementation strategies will be sought in 2016-2018.
+Firstly, the Management of people with ALBP MoC was implemented as a part of the MSK PHCI project that was completed in June 2016. The MSK PHCI was hosted by the ACI Musculoskeletal Network and implemented in four Primary Health Networks and their partner LHDs.
+Secondly, it is intended to implement the MoC in Aboriginal Medical Services who agree to work with the Musculoskeletal Network on this endeavour.
+To date two Aboriginal Medical Services have expressed interest in trialling the MoC in their patient cohort.
+Thirdly, in 2016 and 2017 LHDs will be invited to trial the MoC with people who present to their health services with ALBP.
+Finally, NSW Ambulance will be encouraged to establish synergies with the MoC so that a consistent approach is adopted throughout the whole of the patient journey when experiencing ALBP.
+Other strategies to support implementation include the following:
+7.2	Health Pathway
+During the MSK PHCI the North Coast team developed a HealthPathway for the management of people with ALBP. This HealthPathway is now available for other service sites to use as the basis of building local pathways across primary and secondary care.
+7.3	Development of consumer MoC document In March 2016, consumers participated in a focus group coordinated by the ACI Patient Experience and Consumer Engagement team, seeking their advice on the elements and design of a companion consumer version of the MoC document. This document will describe the MoC in general community language and will be used for patient and community education of the concepts of the MoC. A consumer flyer will be developed based
+on the views of the focus group participants.
+7.4	Web resource page
+A purpose specific web page is under development which will be available at https://www.aci.health.nsw. gov.au/resources/musculoskeletal/management-of-people-with-acute-lower-back-pain/acute-low-back-pain-model-of-care
+The page will have links to consumer and clinically focused sites as well as access to resources the NSW Health system develops to support implementation of the model of care.
+7.5	Community awareness
+A community awareness strategy will be developed in order to support general community understanding of the management of LBP. The consumer version of the model of care will assist with this strategy but others will be used over time that require development at the time of producing this document.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 21
+Section 8
+Evaluation and monitoring
+8.1	Patient identification and access to program
+Any patient aged 16 years and over attending a primary healthcare location (such as general practice, emergency departments, community nursing services and private allied health providers) reporting recent onset of LBP that has duration of less than three months will be eligible for care through the ALBP MoC. The level of pain would be such that they have consulted the healthcare provider specifically for that purpose.
+8.2	Service site audits
+Each service site will be encouraged to undertake an audit of how they meet the ten Key Principles for the management of people with ALBP. The audits will be undertaken pre-implementation of the MoC at the service site and then again periodically over the first 12 months of implementing the MoC. It is suggested 40 patient files be audited at each time period using a specially developed Audit Tool for this purpose.
+8.3	Key performance indicators
+All participating sites will be encouraged to participate in the reporting of key performance indicators and clinical indicators. The key performance indicators follow.
+1.	The number of people who present to their GP or emergency department for the first time with ALBP.
+2.	The number of people who participate in a person-focussed needs assessment leading to development of an appropriate and agreed care plan consistent with the MoC for ALBP.
+3.	The number of people participating in a review of their progress and adjustment of the care plan, as appropriate to their needs, by 12 weeks after the initial assessment.
+4.	Improved primary care satisfaction in treating ALBP.
+5.	Patient satisfaction with their experience of participation in the care provided according to this MoC.
+8.4	Further monitoring
+Other strategies to monitor implementation and further refine the MoC over time include:
+•	focus group and individual consultation with consumers who require the interventions of the MoC before and after implementation
+•	focus groups and individual interviews with GPs, community-based nurses and allied health professionals and NSW health system healthprofessionals who have agreed to support the implementation of the MoC, both before and after implementation
+Advice from these strategies will help refine the MoC over time.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 22
+Section 9
+Communication strategy
+Strategies to alert the health and general community of NSW concerning this MoC include the following.
+•	Professional associations and colleges will be advised of the MoC and their advice sought on further refining the model as well as suggestions on implementation strategies.
+•	The implementation strategy will include an Aboriginal Medical Service. Lessons learnt from this experience will be shared with and validation sought through Aboriginal Health directors within LHDs across NSW.
+•	The MoC, implementation methods, lessons learnt and outcomes as the implementation progresses will be presented at events within the NSW health system; in community settings where local teams will be encouraged to participate in local events; at clinically appropriate professional events; and any other suitable opportunity.
+•	Media alerts will be issued by ACI, and experts in the management of ALBP will be available for interview and consultation. As relevant, these experts will be drawn from the ACI Musculoskeletal Network and their partners in this MoC development, especially the ACI Pain Management Network, and local experts when focusing on media outlets in local areas.
+•	Evidence on the need for the MoC will be shared as it comes to hand, such as incidence and economic data that the ACI Health Economics and Evaluation Team provide. These will be shared with LHDs and Primary Health Networks in the first instance.
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 23
+
+Appendices
+Appendix 1 - Presentation to Primary Care with acute low back pain
+History and examination Consider red flags
+Red flags excluded	
+Chronic non-specific pain with significant yellow flags
+Non-specific ALBP
+ALBP with leg dominant pain where there is progressive loss of neurological function
+ALBP with leg pain
+Refer to Chronic Pain Management Program
+Pathway A
+Pathway B
+Pathway C
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 27
+Appendix 2 - Pathway A
+http://www.youtube.com/watch?v=BOjTegn9RuY
+http://painhealth.csse.uwa.edu.au/pain-management.html
+VISIT 1
+Non-specific ALBP
+Explanation given followed by educational material e.g. back pain overview from an online source Patient questions answered by HCP after viewing of the educational material Pain relief (see 5.2.8) and movement advice (see 5.2.3)
+(Note 1)
+If significant yellow flags are apparent at visit 1, administer assessment tool
+VISIT 2
+Review at two weeks
+If no improvement use yellow flag assessment tool
+Low risk
+Medium risk
+High risk
+Health education review analgesia, encourage activity and self-management support (Note 2)
+As with low risk group plus evidence-based physiotheraphy (Note 2)
+As with medium risk group plus more targeted management of psychosocial obstacles to recovery using a cognitive-behavioural approach (Note 2)
+Low risk - continue current therapy until pain subsides
+VISIT 3
+Review after six weeks
+Medium and high risk
+No improvement -review with GP
+VISIT 4
+Review at twelve weeks
+No improvement: consider referral to musculoskeletal consultant (see glossary) Continue psychological evaluation, analgesia, physical therapy
+Referral to a multidisciplinary chronic pain program
+Improvement -support of maintence skills
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 28
+Appendix 3 - Notes for Pathway A
+Note 1
+•	Low risk: Take home materials that reinforce the message contained in the DVD e.g. the Australian version of the UK Pain Tool Kit http://www.paintoolkit.org/downloads/PTK-AUSTRALIA New.pdf. Encourage a plan to treat any relapse.
+Note 2
+•	Medium risk: As for low risk, but also receive evidence-based treatments aimed at the prevention of disability by addressing patient concerns, giving reassurance and providing relief of symptoms, while developing a self-management plan.
+•	High risk: As for medium risk, but also receive a psychosocial assessment that identifies possible barriers to recovery and addresses these using a cognitive behavioural approach.
+•	Physiotherapist or health worker to administer cognitive behavioural treatments and will need to have resources to undertake a biopsychosocial assessment. Such treatment would also need to be culturally appropriate. Training modules may be required either via websites, telehealth links or from tertiary referral.
+Yellow flag assessment tools
+STarT Back or Orebro
+STarT Back is © Keele University 01/08/07 and funded by Arthritis Research UK.
+Please go to http://www.keele.ac.uk/sbst/ for disclaimers and acknowledgements.
+Orebro questionnaire is used with kind permission from Professor Steven Linton, Orebro University, Sweden.
+Appendix 4 - Pathway B
+LOW BACK AND LEG PAIN
+PAIN WITH PROGRESSIVE NEUROLOGICAL LOSS OR CAUDA EQUINA SYNDROME
+URGENT IMMEDIATE REFERRAL TO TERTIARY REFERRAL HOSPITAL
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 29
+Appendix 5 - Pathway C
+	ALBP and leg pain History and examination	
+		
+ALBP with leg pain but no loss of neurological function
+ALBP with leg pain and loss of neurological function
+Analgesia, only consider neuropathic agents if radicular symptoms present
+Advice on physical activities
+Patient education - see Glossary for definition
+Severe pain, rapid loss of neurological function
+No improvement
+Imaging - MRI where available
+Normal MRI
+Abnormal MRI consistent with clinical features
+Severe pain
+Neurological loss not explained by MRI
+Persisting pain without neurological loss of function
+Consider yellow flags
+Persisting pain with neurological loss of function
+Consider yellow flags
+Neurological referral
+Complex pharmacological therapies Ongoing physical therapies
+Complex pharmacological therapies
+Ongoing physical therapies
+No improvement
+Review
+Multi-disciplinary pain clinic
+MSK specialist review
+Spinal surgical review
+ACI Musculoskeletal Network - Management of people with acute low back pain - Model of care
+Page 30

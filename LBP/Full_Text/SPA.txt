@@ -1,0 +1,736 @@
+﻿
+1.	Introduction
+Low back pain (LBP) is one of most prevalent and controversial diseases for clinical management by multiple factors: resistance of practitioners to the application of tire knowledge based on scientific evidence, limited use of reliable information, excessive and costly radiologic prescriptions either tendency to apply "innovative" technologies and, in some cases, to satisfy wishes patients (Cabana MD, 1999).
+There is great variability in medical practice, even within developed countries, which can worsen the outcome of the treatment, unjustifiably increase the risk of iatrogenic, and needlessly increase healthcare costs.
+So guidelines are needed to reduce it; clinical practice is defined as: "assertions developed systematically for help to the doctor and the patient to make decisions appropriate in clinical and specific circumstances" (Field MJ & Lohr KN, 1990).
+If further complemented by analysis of cost effectiveness, they adapt to local differences, provide for improvement qualify systems, are revised and can be summarized and disseminated by various means, we will largely achieve the desired goal.
+This chapter aims to disseminate knowledge contrasted on the management of low back pain based on scientific evidence and assist medical personnel in key facets as "Critical analysis", "Evidence-based medicine" "Design of working groups" and "Clinical trials methodology2 * * * * 7" for the elaboration of a multidisciplinary7 and improved clinical practice guideline.
+2.	Costs and scientific evidence of low back pain
+In developed countries the prevalence is estimated between 12-33%, In the USA the annual
+amount are beetwen 22-65% and tire 5th most common cause of doctor visits. (Deyro RA,
+2006). A quarter of adults reported a duration of episode of at least one week. (Carey7 TS,1996).
+The costs generated are high, medical treatment is estimated between 9000 and 19000 $ per
+patient per year, and interventions around 19000 (Straus BN, 2002). Approximately7 5% of
+www.intechopen.com
+34
+Low Back Pain
+the population with disability, generates 75% of healthcare costs for low back pain (Frymoyer JW, 1991).
+Those who attend care doctor however achieve rapid intensity improvements of pain (58%), disability (58%) and ease returning to work (2%) (Pengel LHM, 2003). But relapses are very frequent, 60-75% of patients may present at least one of year (Gatchel RJ, 1995).
+On the other hand there are many options for evaluation and treatment of back pain, but little consensus regarding the appropriate use if diagnostic and treatment media, excessive variation for example indication of surgery, in USA is five times higher than Europe (Gherkin DC, 1994). Few technologies have often proved or ineffective and even damaging, some based on studies with few benefits.
+There was an increase of 235% between 1997-2006 interventionist techniques in USA between 2002-2006 increased to 22%, this growth was parallel to a rise in the prevalence of pain due to an improvement of diagnostic means, and progress new injection techniques guided by fluoroscopy. Lifetime prevalence of spinal pain was 54-80% (Walker BF, 2000).
+There are significant geographic variations, duration and chronicity also disputes, 90% of attacks are resolved in 6 weeks, 5-10% of patients develop persistent pain, however despite believing that there will be more episodes, are frequent relapses (4-10%) (Nachemson A, 2000).
+The "Eurobarometer" 2003-2007 analiyze various aspects of European citizens health, is a part of the European Commission Health Strategy7. Musculoskeletal problems (bone, muscles and joints) affects 22 per cent population, a third of respondents (32%) had experienced some pain week prior to the survey. Pain most common type was low back,affects 67 million Europeans, became apparent factors demographic. The 55 age group are the most likely to say they experienced restrictive pain (44%) (Special Eurobarometer,
+2007).
+Each year one in five adults have low back pain, (Cassidy JD, 2005) to the silent suffering back is the second location more frequent of pain (Watkins et al., 2006). However 5-15% of acute cases with an established cause should be identified, chronic pain lasts more than 3 months and affects 10% of cases with high annual costs to 100-200 billion $ (Katz JN, 2006). Few documents provide advantages or outcomes assessment, and the first international guide for prevention and management of chronic cases was published 2006 (Airaksinen O, et al. 2006).
+Low back pain is the most common cause and orthopedic, industrial, face of disability of workers under 45. Those who have medical care 25-40% have radiated pain and only 2% have strong findings of good surgical results forecasts for the nerve root decompression (Saal JA et al., 1990).
+Those with signs of disk herniation, one in half recover a suitable tolerance of daily activities so dismiss the surgery7.
+Back is one of the most frequently reasons for primary care visit (Saal JA, 1990), sciatica slows recovery and is considered announcement of a significant loss of tolerance to activities. There is a significant cultural influence on disability appreciation, 20% of Swedes who deny having had problems with his back causing disability, continue the work during
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+35
+episodes, have been visited and treated, and many of them being farmers on their own (Blau Jn. & Logue V, 1978).
+In Europe lifetime prevalence reaches 59% (Veerle Hermans, 2000), in working population with up to 85% recurrence (The bone and joint decade Report 2005).
+The peril of LBP at work affect more frequently to the agriculture, fisheries, and construction. The most common body location is the back (Eurobarometer 2007) (Figure 1)
+Locations of pain restricting activity
+Head 6 %
+Neck / Shoulder 7 °/o
+Low back 11 °/o
+Knees 8%
+Ankle/Foot 5 °/o
+Fig. 1. Special Eurobarometer 272e/Wave 66.2 requested by Directorate General SANCO of European Commission 2003-2007
+2.2	Scientific evidence
+Annual scientific production is estimated to be close to 900,000 publications, which nearly 40000 are medical. Exponential growth since 1970, thanks to the development of basic sciences such as mathematics, statistical analysis, computer engineering, the epidemiology and biology amongst others.
+The number of systematic reviews and Meta-analysis in Biomedical Sciences published per year, is high and increasing, only in English reaches the 2,500. Despite the efforts made with certain "resources" and "Declarations" that contemplate later, studies show deficiencies in quality and few demonstrate impact of improvement initiatives or inclusion on editorial criteria (Moher D the al., 2007).
+Try to standardize clinic practices through diagnostic and therapeutic "protocols" that contemplated management diagrams but were due more to a development consensus and panels of experts; that is why a group of epidemiologists from Me Master University7
+www.intechopen.com
+36
+Low Back Pain
+(Sackett) published a series of articles on "how to interpret the publications", especially those of a clinical and experimental nature.
+Bom in 1980s, Canadian Medical Association Journal by proposing term "critical appraisal" to describe application of basic rules that allow to find evidence in scientific literature, converted by Sackett in "appreciation criticism in header of patient", to extend clinical practice.
+In 90's Guyatt coined term "evidence-based medicine" which should apply from University education to clinical practice, to provide efficiency and effectiveness in clinical events and individualized way (Guyatt GH, Renie D, 1991). Emerging entities as Collaboration Cochrane made systematic revisions of scientific literature by extracting truly relevant studies through Meta-analysis and promoting the edition of clinical practice guidelines based on scientific evidence (www.cochrane.org).
+Due to variability of medical practice, not consistent with scientific evidence, and profusion of scientific literature with poor quality, emerging entities as CONSORT (1994) which are intended to implement the quality of work and scientific tests in health area. Through global outreach programs that use internet resources developed during the past 25 years (www.consort-statement.org).
+2.3	Health economics
+Health systems in the West have been developped and consolidated with the hospital network, organization of primary care which began to generate significant economic costs, the European Community adopted a common policy called "System of Social Welfare" which provided for the right to universal and State health care whose costs are loaded to state budgets and they did recover through taxes fairly distinct. Soon will detect need for implementation principles of Economics. Comes the concept of "Clinical Governance"
+Within this trend, large companies and institutions begin became interested in the policies of containment of costs and including derivatives of industrial casualties (Spengler D, 1986) and tire financial outlay to cover the fees of workers and medical care costs (Frymover J, 1991).
+So develop epidemiological research on diseases most prevalent in tire industry (Bergquist-Ullman M, 1977) in parallel with studies of Biomechanics and ergonomics, with adoption of measures of legislation to limit the burden on labour and improve the productivity and cost.
+In 1991 Deyo RA publishes one research and collaborators which examines all aspects related to low back pain and its impact labor, health, economic and social system is entering a crisis.
+First Clinical Practice Guidelines (CPG) were developed in order to manage more prevalent diseases; in 1994 tire Agency for Health Care Policy Research published the "CPG for management of acute low back pain in adults" based on consensus (Bigos S, 1994).
+Subsequently they adapt and develop guides aimed at acute low back pain as "Committee on health of New Zealand" (New Zealand acute low back pain guide 1997) which analyses risk factors for long-term disability and work loss. Improvement of aspects such as diagnosis and treatment as the case of the Guide to Australasia (Bogduk N, 1999).
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+37
+In Europe from population-based studies on low back pain (Biering Sorensen f., 1983), National cost-effectiveness in Netherlands (Van Tulder MW, 1995) and systematized the Cochrane Cochrane Collaboration reviews, of clinical practice guidelines amounts a step, based on scientific evidence and cost-effectiveness. Articulate local adaptations for ah national health systems in European Union, be revised and therefore adaptable to further scientific evidence.
+The COST B13 Guide is pan-European, multidisciplinary, based on scientific evidence, publicly funded without participation of the industry or profit institutions. It provides for comprehensive management of acute, chronic low back pain and its prevention (Van Tulder MW, 2002). In the Spanish adaptation recommendations relating to acute and chronic low back pain were merged into a single temporal sequence, in order to improve clinical practice application, ordering implementation of technologies recommended depending on type of patients and scientific evidence, efficacy, effectiveness and efficiency, and safety (Latorre E
+2008). Added a declaration of conflicts of interest of its members, and followed the collaboration criteria AGREE applying this instrument to improve quality (www.agreecollaboration.org).
+3.	Which is Low Back Pain (LBP)?
+3.1	Concept and types
+In general, Low back pain is "the pain between the costal margins and the inferior gluteal folds, it is influenced by physical activities and postures, accompanied by painful limitation of motion, frequently associated with referred pain".
+"Common Low Back Pain is not related to fractures, ankylosis, direct trauma or systemic conditions" (or "Non-Specific").
+Specific low back pain is related to specific pathologies and can be diagnosed early through warning signs (Neoplasm, Infectious,vascular,metabolic,or endocrine related) (Wipf & Deyo RA, 1995).
+The distribution of the cause of LBP are by frequency: Common low back pain 90%, symptomatic herniated disk 3-4%, ankylosis 0.3 - 5%, compression fractures 4%, and spinal malignancy 0.7% (Van Tulder, 2006).
+Pain can occur in different ways:
+Episodes acute last less than 3 months in more than 90% of the cases, which are usually benign, and they can be treated with simple steps, usually this corresponds to the type "Nonspecific" but the rest of the cases may be due to other causes and therefore must diagnose and treat "specifically" and quickly (Van Tulder MW & COST B13 working group 2006).
+Chronic pain lasts more than 3 months and constitutes about 10% of cases, but which generates higher costs.
+This classification may seem simplistic since in many cases the pain yields around 6 weeks, why is has introduced the term subacute to see episodes that reach between 6 and 12 weeks and are warning signs ("Yellow flags") that requires new evaluations and treatments. (Burton A.K. & COST B13 working group 2006). The key to preventing acute pain
+www.intechopen.com
+38
+Low Back Pain
+occurrence and chronicity is implementation of preventive measures (Burton AK & COST B13 working group 2006).
+Can be integrated into low back pain clinical course; diagnostic, therapeutic and preventive actions so optimize long term results (table 1).
+Course of LBP	Red Flags	Yellow Flags
+Acute (< 6 weeks)) Information Rule out red flags No routine Radiology' Stay active + Analgesics Muscle relaxants (optional) Aware Yellow Flags Subacute (6-12 weeks) Expectations of patient Regular Re-assessment Active treatments Cognitive behavioral therapy' Multidisciplinary' Occupational programme for workers? Chronic (> 12 weeks) Low disability': simple therapies Severe disability’: biopsychosocial	Systemic disease: Pain < 20 or > 50 age. Thoracic spine pain Deficit Neurologic Deformity', not flexion of 5th Bad general State, fever Trauma or Neoplasms Use of corticosteroids Addictions Immunodeficiency, AIDS Surgery Urgent: Paresis, loss of control of sphincters, "saddle" anesthesia Consultation : 6 Weeks of treatment, limitation of ambulation. Radicular pain > 6 months + image of spinal stenosis	Emotional problems Depression, low morale, and social ■withdrawal Use /Abuse ofpsicho-mimetics Inappropriate attitudes and beliefs about pain "pain is harmful or disabling" "passive, rather than active, treatment will be beneficial" Inappropriate pain behavior Fear and reduced activity' levels Social, Financial problems Labour disputes
+Table 1. Current status and management of LBP and warning signs changed (Van Tulder & Araksinen 2006)
+3.2	Basis of spinal pain
+Not only low-back pain is a clinical entity, but also a psycho-social and economic problem.
+It seems that relationship exists between adoption of bipedal position and biomechanical changes of musculoskeletal, spine aging, loss of exercise capacity and stamina, working conditions, personal expectations, psychological state, intersocial relationship, with low back pain. These aspects are detailed in other chapters, but introduce variables that increase the complexity' of diagnosis management and treatment results.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+39
+This multidimensional mechanism has generated different handlings for different specialties for decades producing poor results, however since publication of Bio-psycho-social model in 1977, with adoption of management models based on evidence and cost-effectiveness, has been creating multidisciplinary teams integrating information and improving outcomes (Kovacs FM, 2006).
+However he tends in some areas to excessive psycho-social reductionism and based exclusively on this model of treatment, leaving the Neurophysiologic model which based part of the treatment on interventional techniques (Manchikanti L, 2009).
+Clinical application of nerve blockade or surgical techniques on the focus and pain pathway, has emerged as response to need for action on physical structures that generate, but arising in many cases studies with poor methodological quality and so not supported Metaanalysis, generating controversy.
+Techniques "not recommended" in various guides ( COST B13, RCGP UK) are being revised based on improvements in the quality of study design, include studies of cost-effectiveness, and therefore possibly be integrated into new "reviews" (Latorre E., 2008).
+4.	Critical appraisal & methodology of scientific evidence
+The Begining of medicine until today, the concern has been to provide the best possible assistance, applying means proper diagnosis and optimal treatment. The Hippocratic principle is relevant for people with pain.
+Since the development of science in the industrial era until today, we have attended to tire improvement of the scientific method, and in turn the dissemination of information, which in recent years is massive. However in what affects the biomedical sciences, have originated important defects because at present we do not have instruments of ratification of the veracity of the information and analysis to make checks at the same speed that discovered new treatments or diagnostic applications.
+At the moment we have a method, perfected from tire 20th century, involving the application of the "Critical Analysis" of the scientific literature, and "Systematic Reviews" & "Meta-Analysis" for development of clinical practice guidelines based on what really is helpful, so try' to minimize the variability7 of medical practice and clinical research.
+However this process is expensive, slow and is occasionally7 provide obsolete results at the time of its publication and dissemination.
+The scientific method have been based on the three classical premises (elaboration of hypothesis, experimentation and analysis, and conclusion) to another more complex process that we intend to explain to the reader and allows y7ou to start or improve their skills in the development of strategies for applied research in the clinic practice, following our experiences.
+The script indicated below is intended to achieve a systematization to avoid biases that are generated throughout the process and thus increase the reEability7 of the results:
+Approach to the issue to investigate
+Scope of the topic of research
+www.intechopen.com
+40
+Low Back Pain
+Collection and analysis of existing information
+Assessment of the methodological quality of the detected evidence
+Development, review and approval
+Conflicts of interest statements
+External and editorial review
+Dissemination of the results of the research
+We understand that they may be useful basic facets as the description of the method of critical analysis of the publications and resources for clinical research provided by various institutions and entities, which have electronic edition of easy access, which includes chapters of methodology7 and practical aid as well as the possibility of on-line training. Given the limited scope of the chapter we have narrated in the first place a brief description, but we urge strongly are consulted for its value.
+4.1	Critical reading
+Critical reading is a technique that allows increase effectiveness our reading, acquiring necessary7 skills to exclude low quality scientific articles and accept others to help our decision-making process for care of patients.
+Scientific articles should be evaluated in three aspects:
+•	Validity7:
+Confident in validity of results? The criteria of methodological validity articles are different for different questions: treatment, diagnosis, prognosis, economic evaluation... Depending on validity, an article may be classified in evidence levels scale, and grades of recommendation.
+•	Effects and Precision:
+How do results measure the effect? Are results accurate?
+•	Applicability:
+Are these results in my middle applicable?
+There are quality7 scales will help us evaluate job quality7 in a simple way. In the example before us, we used the "Jadad quality scale" to rate on a range of zero to 5 points:
+Does the study random assignment? IF = 1 POINT; NOT = 0; If random assignment was explained and suitable gives 1 point and if wasn't it him remains.
+Meet the study criteria of double-blind? IF = 1 POINT; NOT = 0; If the double blind is unspoken and applied adequately is assigned 1 point and if does not take away.
+Are described withdrawals and dropouts from the study? IF = 1 POINT; NO = 0
+There is also a rating system "Validation Level Pain of Oxford" (The Oxford Pain Validity7 Scale: IPOs) with a maximum of 16 points.
+This scale has been developed to test internal validity7 pain trials and their results. The scale assigns points to an essay based on the number of patients in each treatment group, whether or not study satisfies criteria of blind or not and if this is correct, used results, summary7 test statistics and if these results or evidence were property7 employed.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+41
+The Evidence-based medicine (on Systematic reviews & Meta-analysis), have become increasingly in health care. They are often used as a starting point for developing clinical practice guidelines (Green S et al., 2007).
+A systematic review is a review of to clearly formulated question that uses systematic and explicit methods to identify, select and critically appraise relevant research, and to collect and analyze data from the studies that are included in the review.
+Meta-analysis refers to the use of statistical techniques in a systematic review to integrate the results of included studies.
+REVIEW	Attempt of synthesis of findings and conclusions of two or more publications related to a theme.
+SYSTEMATIC	Review with exhaustive identification of all literature, quality assessment and synthesis of results of a given subject.
+META-ANALYSIS	Systematic review incorporating a specific statistical strategy bring together results of several studies on a single estimate.
+Table 2. Sackett D et al. Clinical Epidemiology: A basic science for clinical medicine 2nd ed. Little, Brown & Company, 1991.
+4.2	Resources
+Unfortunately medical reviews are subjective, scientifically unsound, and often inefficient (Group VPC-IRYS, 2005). Strategies for identifying and selecting information are rarely defined. Collected information is reviewed haphazardly with little attention to systematic assessment of quality. Under such circumstances, cogent summarization is an arduous not insurmountable task.
+Experts from different areas, such as appropriate specialists, statisticians, and research methodologists, can be used both to help develop standardized appraisal forms and to rank data.Resources used for these purposes have also access program and provide training and support for clinical research, are the following:
+4.2.1	Search, bibliographic databases systems.
+They ar e varied and known of published articles (Medline, Lilacs, Embase) and unpublished as recognized research centers internationally accessible through institutional web pages.
+4.2.2	QUOROM Statement
+To address suboptimal reporting of meta-analysis, an international group developed a guidance called "QUOROM Statement" (QUality Of Reporting Of Meta-analysis), which focused reporting meta-analysis of randomized controlled trials (RCT) (Moher D, 1999).
+4.2.3	COCHRANE Collaboration
+Stimulus for systematic reviews has come from hand of Cochrane Collaboration. Archie Cochrane was a wake-up call to underline how collected evidence through RCTs could affect medical practice.
+www.intechopen.com
+42
+Low Back Pain
+Acknowledged that professionals interested in making their decisions based on the best evidence found had no real access to this information and much less elaborate results.
+In 2008 changed "Cochrane Handbook Reviewer" version 5, which serves to help authors reviews explicit and systematic development. Collaboration also has interesting possibilities for training and development on its website and is accessible at http://www.coch.rane-handbook.org.
+Available in Spanish, access is universal and free thanks to the subscription by Ministry of Health and Social Policy.
+The edition of the Web site (Cochrane.es) is borne by the Iberoamerican Cochrane Centre located in "Hospital de la Santa Cruz and San Pablo" of the Autonomous University of Barcelona, also contribute to maintenance activities "Institute de Salud Carlos in", as Ministry' of Health.
+Handbook Website offers a multitude aid to health professional, investigator or public. Includes resources for users of Cochrane Library plus, design reviews, introduction to authors research methodology' in English, manual search and training. Access to finished clinical practice guides, program of skills of reading criticism, the Center for evidence-based medicine and evidence-based health care.
+4.2.4	Bandolier
+Bandolier is a health resource for physicians, evidence based, available over Internet (http://www.ebandolier.com) print as a monthly' magazine, primarily' in United Kingdom. The wealth of information based on evidence that contains Bandolier appears mainly in form of short articles and systematic reviews on various conditions and medical interventions. Information submitted in concisely and already performed, mainly' in "Number Needed to Treat" (NNT).
+From Bandolier home page, is an Oxford Pain link Internet Site, with various systematic reviews summaries previously' published on acute and chronic pain.
+Another link leads to Pain Research Unit, Oxford, which contains detailed information on current and past research.
+4.2.5	PRISMA (PRoposal to Improve the publication of Systematic reviews and MetaAnalysis)
+QUORUM statement was published 1999 in order to establish objective standards that improve quality reporting randomized trials meta-analy'sis. Contains checklist with 18 sections that allow researchers and editors certify work quality that will be published, and a flow diagram describe the process.
+PRISMA (2009) statement arises to update and expand aspects of QUORUM which had deficiencies and enable acceptance of editors those standards of quality. Consists of 27 items and a ellaboration process of guidelines as well as 7 tables that explain key' aspects of methodology and conduction of systematic reviews. New features in PRISMA are: adoption of COCHRANE collaboration terminology, application extension scope, not only systematic reviews of randomized trials, but also for other study' ty'pes. 4 new aspects are:
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+43
+After publication Protocol to reduce the impact of biases. Distinction between driving and research study publication.
+Evaluation risk of bias through studies or outcomes.
+The importance of publication bias.
+Detailed tables and diagrams information is available at http://www.Prisma-statement.org.
+Main differences between QUOROM (Quality Of Reporting Of Meta-analysis) and PRISMA arethe relating to:
+•	Flow diagram more detailed and informative. PRISMA based on randomized clinical trials, and have useful for meta-analysis as QUOROM, trials continues with total number of records or unique citations and ends with individual studies included in qualitative synthesis (systematic review) and quantitative (meta- analysis).
+•	Establishes differences at each stage process between records or references, articles to full and individual studies.
+•	Includes format peak (description of participants, interventions, comparisons and outcomes).
+•	Explanation of previous Protocol to review and access medium.
+•	Strategies for electronic search and evaluation risk bias.
+•	Extent text increases expense of improving clarity and transparency of information.
+4.2.6	EQUATOR Network (Enhancing the Quality and transparency Of Health Research) (Altman & Simera, 2008)
+Is a network of resource development aimed at improving the quality of publications in health sciences, this has provided assistance through its website ( http://www.equator-network.org/) that allow a single researcher as well as groups, teach design guidelines for developing quality and transparency. (Liberati A, 2009)
+4.2.7	CONSORT declaration (Consolidated Standards of Reporting Trials)
+This led to clinical trials improve quality methodology and resources publication as CONSORT statement, 25 items checklist set of recommendations and a flow diagram development progress.
+Objetives are to assist preparation, transparency, critical review and interpretation of Randomized Controlled Trials (RCT).
+The first version of 2001 has been revised and perfected in 2010 and includes on its website (http://www.consort-statement.org/) additional resources such as CONSORT "Explanation and Elaboration" document and CONSORT Library7 of examples of good reporting.
+Pureed both access to Downloads, Evidence Database, Glossary7, Related Instruments, and link to Useful sites as for example EQUATOR
+Members of CONSORT Group continually monitoring literature. Information gleaned from these efforts provides an evidence base on which to update CONSORT statement. We add, drop, or modify7 items based on that evidence and recommendations of "CONSORT Group", an international and eclectic group of clinical reserarchers, epidemiologists, statisticians, and biomedical editors. More than 400 journals, published around the world and in many7
+www.intechopen.com
+44
+Low Back Pain
+languages, have explicitly supported CONSORT statement. However, there is a significant limitation based on this instrument orientation, which is limited to two-group, parallel randomized, controlled trials (RCT) .The items should elicit clear pronouncements of how and what authors did, but do not contain any judgments on how and what authors should have donate. Moreover, CONSORT 2010 Statement does not include recommendations for designing and conducting randomized trials (Schulz K 2010).
+4.2.8	AGREE instrument (Appraisal of Guidelines Research and Evaluation in Europe)
+Defines European criteria standards for preparation clinical practice guidelines (GPC). Is available for researchers in http://www.agreecollaboration.org. Assesses both, Information of quality of document provided and some aspects of recommendations. Provides validity guide. Means quality clinical practice guideline confidence that potential biases of the development of tire guide have been identified in an appropriate manner and that recommendations are valid both internally and externally, and can lead to practice. Designed to evaluate guidelines developed by local, regional, national or international groups as governmental organizations. Applicable to published guides in paper and electronic format. AGREE consists of 23 key items organized in six areas. Each area tries to cover a dimension differentiated quality of the Guide:
+Domains of AGREE Appraisal Instrument II
+•	Scope & Purpose (1,2,3) objective, health question and population specifically described.
+•	Stakeholder involvement (4,5,6) Relevant professional groups, Views and preferences of the target population, Target users defined.
+•	Rigour of Development (7-14) Systematic search, Criteria, strenghs and limitations, metods of formulating recommendations, health benefits, side effects and risks, explicit link beetwin recommendation and evidences, Externally reviewed by experts, procedure updating provided.
+•	Clarity of Presentation (15-17) Recommendations specific I ambiguous, different management options, Key recommendations identifiable.
+•	Applicability (18-21) describe barriers/facilitators, Advices/Tools to put in practice, Potential resource implications, Monitoring / Auditing.
+•	Editorial Independence (22, 23) Not influence of Publisher, Conflicts of interest group members.
+Table 3. Appraisal of Guidelines Research and Evaluation in Europe Instrument AGREE II
+Aims and scope (items 1-3) refers to the overall purpose of the Guide to clinical specific questions and target patient population.
+Participation of those involved (items 4-7) refers to the degree in which the Guide represents the views of users to which it is intended.
+Rigor in drawing up (items 8-14) refers to the process used to gather and synthesize evidence, to formulate recommendations and methods for updating them.
+Clarity and presentation (items 15-18) deals with the language and format of the Guide.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+45
+Applicability (items 19-21) refers to the possible implications of the implementation of the guidance on organizational aspects, behavior and costs.
+Editorial independence (items 22-23) has to do with the independence of the recommendations and the recognition of the potential conflicts of interest by the group.
+At the present time there is only another validated scale which assesses the quality of the GPC (Shaneyfelt TM, 1999), but a comparative study between these two instruments (Rich R, 2004) shows that the instrument AGREE, as well as being that in this moment has greater acceptance and provides a more manageable format, manages to make a grouping of criteria more clearly and fully. In recent years he has tried to improve the validity of this instrument and value items that better assess the quality of a guide; as a result is the development of the II AGREE to replace the original version (AGREE, 2009).
+4.3 Recommendations for the process of research development
+The fundamental steps to be taken in the development process include the sections described as selection of the topic to research, defining the scope of the rexdew of existing scientific evidence and the process of development, revision, and approval of the recommendations. Furthermore today should be added others relating to the integrity of the members of the research team, transparency and editorial independence, utility, and the costs.
+4.3.1	Previous guidelines and state of the question
+One of the first evidence-based clinical practice guidelines for management of low back pain was published by "The Quebec Task force on spinal Disorders" in 1987.Using an explicit scientific basis found insufficient evidence to support the use of most common diagnostic procedures and treatment modalities.
+The U.S. Agency for Health Care and Policy Research (AHCPR) convened a multidisciplinary panel of experts issued recommendations on management of Acute Low Back Pain (LBP) in 1994, however none of the 40 recommendations made for clinical care were viewed as support by strong research evidence, and only 6 by at least moderate quality.
+More than eleven international guidelines have been published since 1994, but their diagnostic and therapeutic recommendations are similar. Only there are few discrepancies to recommendations for exercise, spinal manipulation, muscle relaxants and patient information that reflect contextual differences between countries without signification.
+The most interesting from a methodologic point of view are the U.S. Guideline issued by the Veterans Affairs/Department of Defense (VA/DoD) in 1999, the Guideline of Royal College of General Practitioners (RCGP) initially released in 1996 and updated in 1999 , and the European COST B 13 Guidelines.
+The European Multinational COST B 13 program was developed by The European Commission Directorate General Research Political Co-Ordination and Strategy branch under the title "Low Back Pain: Guidelines for its management". Since 1999 to 2005 were
+www.intechopen.com
+46
+Low Back Pain
+reviewed 74 clinical practice guidelines and 871 Systematic Reviews, Randomized control trials (RCT') and Prevention studies. Involving a total of 49 experts including Epidemiologists, Public Health, Chiropractors, Psychologists, Physiotherapists, Ergonomists, Physiologists, and Medical Specialists (Primary Care, Anesthesiology, Pain Terapy, Rheumatology, Traumatology, Neurosurgery, Pathology, Rehabilitation, Radiology, Sports Medicine, Emergency Medicine and Occupational Medicine.). The main difference with previous guides is that COST B13 Guide includes recommendations for management Acute, Chronic and prevention of LBP.
+In 2009 the American Pain society (APS) has issued a new clinical practice guideline that emphasizes the use of non-invasive treatments over interventional procedures, published of the journal Spine. Based on a extensive review of existing research , this review 913 citations for systematic reviews, 265 full text articles for inclusion, of those 186 met inclusion criteria. Identifies 7591 citations from 44 searches for primary studies , from these, 202 primary studies were relevant. For Interventional Therapies and surgery a total of 1331 citations.
+However controversy is served because reaffirm previous recommendations (see COST B13 Guide) that avoid invasive therapies and showing benefits of non-invasive (stay active, intensive rehabilitation and cognitive/behavioural emphasis). In contrast the American Society of Interventional Pain Physicians has been published a critical review of Interventional Techniques for chronic and acute LBP (2010) that differs from APS Guidelines including caudal epidural injections, lumbar facet joint nerve blocks, radiofrequency neurotomy, and percutaneous adhesiolysis as appropriate methodology.
+Probably better designed studies obtain a balance between non-invasive and interventional therapies.
+4.3.2	Key points of systematic reviews and LBP
+A systematic review is a complex process, but we want to emphasize tire fundamental aspects of methodology.
+1.	Selection of Topics
+Choosing a topic is the first step in development process. We must consider tire following criteria: effect of condition on morbidity , mortality , prevalence of back pain , areas of uncertainty' evidence, cost, relevance and availability' of developed recommendations.
+2.	Scope of Topics
+Address screening , diagnosis and treatment of back pain focus on the effectiveness of interventions, cost and cost-effectiveness.
+3.	Review of Evidence for Clinical Recommendations
+Evaluating Evidence.
+The key' questions and scope for the evidence-review papers are developed from the Clinical Guidelines Committee. The evidence review paper is a comprehensive systematic review of meta-analy’sis that address to management of back pain. Specifies the criteria that are used to identify' evidence related to each the key' questions for inclusion in the review.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+47
+Quality of evidence were evaluated using the AHCPR Guide and "The Levels of Evidence" recommended for The Back Group of Cochrane Collaboration (van Tulder 2003). Evidence reviews provide information about whether the studies included are reHable and accurate and provide reasonable assessments of potential adverse effects, information on systematic gaps particularly with respect to areas of clinical importance or relevance.
+Statistical Review.
+The evidence reviews also go through a statistical peer-review process to staticians during its early stages of development.
+A three-stage development process was undertaken. First, recommendations were derived from systematic reviews. Secondly, existing national guidelines were compared and recommendations from these guidelines summarised. Thirdly, the recommendations from the systematic (Cochrane) reviews and guidelines were discussed by the group. A section was added to the guidelines in which the main points of debate are described. The recommendations are put in a clinicaHy relevant order; recommendations regarding diagnosis have a letter D, treatment T. A grading system was used for the strength of the evidence. This grading system is simple and easy to apply, and shows a large degree of consistency' between the grading of therapeutic and preventive, prognostic and diagnostic studies. The system is based on the original ratings of the AHCPR Guidelines (1994) and levels of evidence recommended in the method guidelines of the Cochrane Back Review group. Several of the existing systematic reviews have included non-English language literature, usuaHy pubHcations in French, German, and Dutch language and sometimes also Danish, Norwegian, Finnish and Swedish. All existing national guidelines included studies published in their own language. Consequently, the non-English literature is covered for countries that already have developed guidelines.
+The group additionally included the Spanish hterature, because this evidence was not covered by existing reviews and guidelines.
+The Working Group aimed to identify gaps in the literature and included recommendations for future research.
+4.3.3	Methodological quality of studies and levels of evidence
+A grading system was used for the strength of the evidence. This grading system is simple and easy to apply, and shows a large degree of consistency between the grading of therapeutic and preventive, prognostic and diagnostic studies. The system is based on the original ratings of the AHCPR Guidelines (1994) and levels of evidence used in systematic (Cochrane) reviews on low back pain.
+Level of evidence:
+1.	Therapy and prevention:
+Level A:
+Generally consistent findings provided by (a systematic review of) multiple high quaHty randomised controHed trials (RCTs).
+www.intechopen.com
+48
+Low Back Pain
+Level B:
+Generally consistent findings provided by (a systematic review of) multiple low qualify RCTs or non-randomised controlled trials (CCTs).
+Level C:
+One RCT (either high or low qualify) or inconsistent findings from (a systematic review of) multiple RCTs or CCTs.
+Level D:
+No RCTs or CCTs.
+Systematic review: systematic methods of selection and inclusion of studies, methodological qualify assessment, data extrachon and analysis.
+2.	Prognosis:
+Level A:
+Generally consistent findings provided by (a systematic review of) multiple high qualify prospective cohort studies.
+Level B:
+Generally consistent findings provided by (a systematic review of) multiple low qualify prospective cohort studies or other low quality prognostic studies.
+Level C:
+One prognostic study (either high or low quality) or inconsistent findings from (a systematic review of) multiple prognostic studies.
+Level D, no evidence:
+No prognostic studies.
+High qualify prognostic studies: prospective cohort studies Low qualify prognostic studies: retrospective cohort studies, follow-up of untreated control patients in a RCT, case-series
+3.	Diagnosis:
+Level A:
+Generally consistent findings provided by (a systematic review of) multiple high quality diagnostic studies.
+Level B:
+Generally consistent findings provided by (a systematic review of) multiple low qualify diagnostic studies.
+Level C:
+One diagnostic study (either high or low qualify) or inconsistent findings from (a systematic review of) multiple diagnostic studies.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+49
+Level D, no evidence:
+No diagnostic studies.
+High quality diagnostic study: Independent blind comparison of patients from an appropriate spectrum of patients, all of whom have undergone both the diagnostic test and the reference standard. (An appropriate spectrum is a cohort of patients who would normally be tested for the target disorder. An inappropriate spectrum compares patients already known to have the target disorder with patients diagnosed with another condition) Low quality diagnostic study: Study performed in a set of non-consecutive patients, or confined to a narrow spectrum of study individuals (or both) all of who have undergone both the diagnostic test and the reference standard, or if the reference standard was unobjective, unblinded or not independent, or if positive and negative tests were verified using separate reference standards, or if the study was performed in an inappropriate spectrum of patients, or if the reference standard was not applied to all study patients.
+The methodological quality of additional studies will only be assessed in areas that have not been covered yet by a systematic review or of tire non-English literature.
+The methodological quality of trials is usually assessed using relevant criteria related to the internal validity of trials. High quality trials are less likely to be associated with biased results than low quality trials. Various criteria lists exist, but differences between the lists are subtle.
+Quality assessment should ideally be done by at least two reviewers, independently, and blinded with regard to the authors, institution and journal.
+However, as experts are usually involved in quality assessment it may often not be feasible to blind studies. Criteria should be scored as positive, negative or unclear, and it should be clearly defined when criteria are scored positive or negative. Quality assessment should be pilot tested on two or more similar trials that are not included in the systematic review. A consensus method should be used to resolve disagreements and a third reviewer was consulted if disagreements persisted. If the article does not contain information on the methodological criteria (score 'unclear'), the authors should be contacted for additional information. This also gives authors the opportunity to respond to negative or positive scores.
+The following checklists are recommended:
+4.3.4	Checklist for methodological quality
+Checklist for methodological quality of therapy/ prevention studies
+Items:
+1.	Adequate method of randomisation,
+2.	Concealment of treatment allocation,
+3.	Withdrawal / drop-out rate described and acceptable,
+4.	Co-interventions avoided or equal,
+5.	Blinding of patients,
+6.	Blinding of observer,
+www.intechopen.com
+50
+Low Back Pain
+7.	Blinding of care provider
+8.	Intention-to-treat analysis,
+9.	Compliance,
+10.	Similarity of baseline characteristics.
+Checklist for methodological quality of prognosis (observational) studies
+Items:
+1.	Adequate selection of study population,
+2.	Description of in- and exclusion criteria,
+3.	Description of potential prognostic factors,
+4.	Prospective study design,
+5.	Adequate study size (> 100 patient-years),
+6.	Adequate follow-up (> 12 months),
+7.	Adequate loss to follow-up (< 20%),
+8.	Relevant outcome measures,
+9.	Appropriate statistical analysis.
+Checklist for methodological quality of diagnostic studies
+Items:
+1.	Was at least one valid reference test used?
+2.	Was the reference test applied in a standardised manner?
+3.	Was each patient submitted to at least one valid reference test?
+4.	Were the interpretations of the index test and reference test performed independently of each other?
+5.	Was the choice of patients who were assessed by the reference test independent of the results of the index test?
+6.	When different index tests are compared in the study: were the index tests compared in a valid design?
+7.	Was the study design prospective?
+8.	Was a description included regarding missing data?
+9.	Were data adequately presented in enough detail to calculate test characteristics (sensitivity and specificity7)?
+4.3.5	Inclusion of non-English language literature
+Background
+There is still an ongoing debate about inclusion in systematic reviews of studies published in other languages than English. Although inclusion of non-English literature is often recommended, it may not always be feasible and may depend on the time and resources available. Some authors suggested that there is empirical evidence that exclusion of trials published in other languages than English might be associated with bias. Positive results by authors from non-English speaking countries are more likely to be published in English and negative results in the authors' language. They found an example of a metaanalysis where inclusion of a non-English language trial changed the results and conclusion.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+51
+Authors of German-speaking countries in Europe were more likely to publish RCTs in an English-language journal if the results were statistically significant. On the other hand, Moher et al. (1996) evaluated the quality of reporting of RCTs published in English, French, German, Italian and Spanish between 1989 and 1993 and did not find significant differences. Trials published in some non-English languages (Chinese, Japanese, Russian and Taiwanese) had an unusually high proportion of positive results.
+Excluding trials published in other languages than English generally has little impact on the overall treatment effect.
+Although the evidence seems to be inconclusive, most authors concluded that all trials should be included in a systematic review regardless of the language in which they were published, to increase precision and reduce bias. The Cochrane Back Review Group recommended in its method guidelines for reviews on low back pain that if RCTs published in other languages are excluded from a review, the reason for this decision should be given, (van Tulder et al 2003) Especially on topics where there are likely to be a significant number of non-English language publications (for example, the Asian literature on acupuncture) it may be wise to consider involvement of a collaborator with relevant language skills. The members of the Working Group acknowledged that a different literature search should be performed for non-English literature than for the English literature. Databases do not exist for most other languages, the reliability and coverage of the databases that do exist is unclear, and sensitive search strategies for these databases may not have been developed.
+Most of the systematic reviews used in the European guidelines included trials published in English and some other languages (mostly German, French, Dutch and sometimes Swedish, Danish, Norwegian and Finnish). Obviously, the national guidelines that we have used as basis for our recommendations have included studies published in their respective languages. National committees that developed guidelines in these languages have considered Danish, Dutch, Finnish, French, German, Norwegian and Swedish language studies. Only Italian and Spanish trials have yet not been considered, because guidelines in these countries do not exist.
+Because there was no Italian member participating in the WG, we only considered the Spanish literature.
+Objectives
+To summarise the evidence from the Spanish literature and evaluate if it supports the evidence review and recommendations of the guidelines.
+Methods
+Literature search
+Relevant trials were identified in existing databases: Literature Latino Americana e do Caribe em Ciencias da Saude (LILACS) and fndice Medico Espahol (IME). The Iberoamerican Cochrane Centre (Centro Iberoamericano de la Colaboracion Cochrane ) was contacted for additional trials.
+Inclusion criteria are: 1) randomised controlled trials, 2) acute and subacute low back pain (less than 12 weeks), and 3) any intervention.
+www.intechopen.com
+52
+Low Back Pain
+Quality Appraisal
+The abstracts with no English version have been translated from Spanish by a native English speaker. Some papers had an English version of their abstracts. In these cases, the translator has just done a linguistic review of them and, in those cases in which the Spanish and English versions did not match, a translation of the Spanish abstract has been done. Some Spanish journals publish only short reports of the studies (similar to abstracts). In these cases, the entire report has been considered as the abstract. Other Spanish journals have a mandatory structure for the abstracts they publish, which may have changed over time, but most do not. Therefore, there is a considerable difference in the amount of information provided by different abstracts.
+Two reviewers assessed the quality of the trials using the checklist for methodological quality of therapy/prevention studies.
+Data extraction
+Data were extracted regarding characteristics of patients, interventions and outcomes (pain, functional status, global improvement, return to work, patient satisfaction, quality of life, generic functional status and intervention-specific outcomes) and the final results of the study for each outcome measure at each follow-up moment.
+Data analysis
+The results of tire Spanish literature (quality, data and results) were considered by the members of the WG to see if the results do or do not support the recommendations. If not, reasons for these inconsistencies were explored.
+4.4 Dissemination and implementation
+Clinical guidelines are usually defined as 'systematically developed statements to assist practitioner and patient decisions about appropriate health care' as a vehicle for assisting health care providers in grasping new evidence and bring it into daily clinical routines for improving practice and for diminishing costs.
+Implementation of guidelines means putting something (e.g. a plan or an innovation) into use. The process of spreading clinical guidelines implies diffusion, active dissemination and implementation. Diffusion is a passive concept while dissemination is a more active process including launching of targeted and tailored information for the intended audience. Implementation often involves identifying and assisting in overcoming barriers to tire use of the knowledge obtained from a tailored message.
+Normally implementation procedures mean a multi-disciplinary' enterprise.
+Effectiveness of interventions
+Success in the implementation process requires knowledge about important factors behind general positive and negative attitudes towards guidelines related to usefulness, reliability, practicality and availability of the guidelines. Also the overall individual, team and organisational competence to follow recommended procedures seem to be vital.
+Systematic reviews of the effectiveness of interventions to promote professional behaviour or change have shown:
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+53
+Consistently effective are
+•	Educational outreach visits (for prescribing in North American settings)
+•	Reminders (manual or computerised)
+•	Multifaceted interventions
+A combination that includes two or more of the following: audit and feedback, reminders, local consensus process and marketing
+•	Interactive educational meetings
+Participation of health care providers in workshops that include discussions of practice
+Mixed effects
+•	Audit and feedback
+Any summary7 of clinical performance
+•	Local opinion leaders
+Use of providers nominated by7 their colleagues as 'educationally influential'
+•	Local consensus process
+Inclusion of participating providers in discussion to ensure that they agreed that chosen clinical problem was important and the approach to managing the problem was appropriate.
+•	Patient mediated interventions
+Any intervention aimed at changing the performance of health care providers where specific information was sought from or given to patients.
+Little or no effect
+•	Educational materials
+Distribution of published or printed recommendations for clinical care, including clinical practice guidelines, audio-visual materials and electronic publications.
+•	Didactic educational meetings
+Lectures
+4.4.1	Barriers and facilitators
+A successful implementation of guidelines requires thoroughly7 performed planning and monitoring of the implementation whereof addressing barriers and facilitators appear to be of vital importance to enhance tire implementation process. Before starting the implementation such barriers and facilitators should be systematically7 recorded among target groups for applying the clinical guidelines.
+Potential barriers to change may7 include:
+Practice environment
+•	Limitations of time
+•	Practice organisation, e.g. lack of disease registers or mechanisms to monitor repeat prescribing.
+Educational environment
+•	Inappropriate continuing education and failure to link up with programmes to promote quality7 of care
+•	Lack of incentives to participate in effective educational activities
+www.intechopen.com
+54
+Low Back Pain
+Health care environment
+•	Lack of financial resources
+•	Lack of defined practice populations
+•	Health policies which promote ineffective or unproven activities
+•	Failure to provide practitioners with access to appropriate information
+Social environment
+•	Influence of media on patients in creating demands/beliefs
+•	Impact of disadvantage on patients' access to care
+Practitioner factors
+•	Obsolete knowledge
+•	Influence of opinion leaders
+•	Beliefs and attitudes (for example, related to previous adverse experience of innovation)
+Patient factors
+•	Demands for care
+•	Perceptions/cultural beliefs about appropriate care
+Implementation strategies should be tailored according to recorded identified barriers and facilitators. How to do this is described in detail in Evidence Based Practice in Primary Care.
+Evaluation
+In general it is also recommended to evaluate outcome and result of the implementation process. Outcome measures related to low back pain will often be before and after status of use of health services, for instance x-ray, sickness absence and back related health status of the patient population (e.g. pain, function/quality of life). Types of evaluation may include RCTs, cross-over and semi-experimental trials, before-after study and interrupted time series analyses. An economic evaluation is also required on both the course and the benefits of implementation analysis.
+Oxman et al. reviewed 102 randomised controlled trials in which changes in physician behaviour were attempted through means such as continuing medical education workshops and seminars, educational materials, academic detailing and audit and feedback. Each produced some change but the authors concluded that a multi-faceted strategy was called for using a combination of methods and that there can be no "magic bullet" for a successful implementation.
+4.5	Search strategy for the systematic reviews
+Literature search, conducted 11.12.2001
+Databases
+1.	Cochrane
+2.	Medline
+3.	Health Star
+4.	Embase
+5.	Pascal
+6.	Psychoinfo
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+55
+7.	Biosis
+8.	Lilacs
+9.	IME (Indice Medico Espanol)
+Search Strategy:
+1.	Cochrane: # 1 Back pain.
+2.	Medline and Health Star:
+a.	sensitive strategy:
+#1 (back pain) AND systematic [sb]
+#2 (back pain) AND systematic [sb] Field: All Fields, Limits:
+Publication Date from 1990
+b.	specific strategy: Adding:
+#3 (back pain) AND systematic[sb] Field: All Fields, Limits:
+Publication Date from 1990, Review
+3.	Embase: #1 Back pain. De (MESH)
+#2 Low back pain. De (MESH)
+#3 1 OR 2
+#4 Systematic
+#5 3 and 4 (Limitado por Review y publicaciones desde 1990)
+4.	Pascal, Psychoinfo and Biosis:
+#1 Back pain
+#2 Low back pain
+#3 1 OR 2
+#4 Systematic
+#5 3 AND 4 (limit to Publication type"Review" and Publication Date sincel990)
+5.	Lilacs: #1 dolor de espalda. [DE]
+#2 (lumbago) O lumbalgia. [TI]
+#3 (dolor) Y espalda. [TI]
+#4 #1 O #2 O #3
+#5 (revision) Y sistematica.
+#6 #4 Y #5
+6.	IME: #1 (dolor de espalda) O lumbago O lumbalgia. [DE]
+#2 (dolor de espalda) O lumbago O lumbalgia 203
+#3 revision sistematica
+www.intechopen.com
+56
+Low Back Pain
+#4 #1 Y #3
+#5 #2 Y #3
+RESULTS
+Total hits
+Cochrane 12
+Medline and Health Star
+"Specific": 121 5 excluded 20 redundant
+"Sensitive" 273 121 redundant with
+Medline specific
+14	excluded
+10	redundant
+Embase 13 1 redundant
+Pascal, Psychoinfo and Biosis 14 2 redundant
+Lilacs 0
+IME 0
+Typical subgroup search
+(e.g. results for physical treatments and exercise) Embase
+No. Records Request
+1	9163 back pain
+2	74295 randomized trial
+3	458 #1 and #2
+4	81 exercise and #3
+5	44 training and #3
+614 traction and #3
+7	0 bracing and #3
+8	29 manipulation and #3
+914 massage and #3
+10	8 heat and #3
+11	5 cold and #3
+12	4 ultrasound and #3
+13	7 tens and #3
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+57
+14	0 electrotherapy and #3
+15	3 diathermy and #3
+16	4 laser and #3
+17	9 manual therapy and #3
+18	4 TNS and #3
+19	1 interferential therapy and #3
+* 20 163 #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or #13 or #14 or
+#15 or #16 or #17 or #18 or #19
+Psychinfo
+Search History
+#20 #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or
+#13 or #14 or #15 or #16 or #17 or #18 or #19 (6 records)
+#19 interferential therapy and #3 and (PY=1995-2002) (0 records)
+#18 TNS and #3 and (PY=1995-2002) (0 records)
+#17 laser and #3 and (PY=1995-2002) (0 records)
+#16 diathermy and #3 and (PY=1995-2002) (0 records)
+#15 electrotherapy and #3 and (PY=1995-2002) (0 records)
+#14 manual therapy and #3 and (PY=1995-2002) (0 records)
+#13 tens and #3 and (PY=1995-2002) (0 records)
+#12 ultrasound and #3 and (PY=1995-2002) (0 records)
+#11 cold and #3 and (PY=1995-2002) (0 records)
+#10 heat and #3 and (PY=1995-2002) (0 records)
+#9 massage and #3 and (PY=1995-2002) (0 records)
+#8 manipulation and #3 and (PY=1995-2002) (0 records)
+#7 bracing and #3 and (PY=1995-2002) (0 records)
+#6 traction and #3 arid (PY=1995-2002) (0 records)
+#5 training and #3 and (PY=1995-2002) (0 records)
+#4 exercise and #3 and (PY=1995-2002) (2 records)
+#3 #1 and #2 (6 records)
+#2 randomized trial and (PY=1995-2002) (352 records)
+#1 back pain and (PY=1995-2002) (645 records)
+wwwintechopencom
+58
+Low Back Pain
+5.	Elaboration of a CPG based on scientific evidence. The Spanish version of COST B13 European program
+It is a long and complex process that must be completed by a method of work explained in part previous sections and follows a basic sequence ( figure 3). The systematic reviews were identified using the results of validated search strategies in the Cochrane Library, Medline, Embase and, if relevant, other electronic databases, performed for Clinical Evidence, a monthly, updated directory7 of evidence on the effects of common clinical interventions, published by the BMJ Publishing Group (www.evidence.org). The literature search covered the period from 1966 to October 2005. A search for clinical guidelines was first performed in Medline. Since guidelines are only infrequently published in medical journals we extended the 5 search on the Internet (using search terms 'back pain' and 'guidelines', and searching national health professional association and consumers websites) and identified guidelines by personal communication with experts in the field.
+A three-stage development process was undertaken. First, recommendations were derived from systematic reviews. Secondly, existing national guidelines were compared and recommendations from these guidelines summarised. Thirdly, the recommendations from the systematic (Cochrane) reviews and guidelines were discussed by the group. A section was added to the guidelines in which the main points of debate are described. The recommendations are put in a clinically relevant order; recommendations regarding diagnosis have a letter D, treatment T.
+A grading system was used for the strength of the evidence. This grading system is simple and easy to apply, and shows a large degree of consistency between the grading of therapeutic and preventive, prognostic and diagnostic studies. The system is based on the original ratings of the AHCPR Guidelines (1994) and levels of evidence recommended in tire method guidelines of the Cochrane Back Review group. The strength of the recommendations was not graded.
+Several of the existing systematic reviews have included non-English language literature, usually publications in French, German, and Dutch language and sometimes also Danish, Norwegian, Finnish and Swedish. All existing national guidelines included studies published in their own language. Consequently, the non- English literature is covered for countries that already have developed guidelines.
+The group additionally included the Spanish literature, because this evidence was not covered by existing reviews and guidelines.
+The Working Group aimed to identify7 gaps in the literature and included recommendations for future research.
+Basic Sequence:
+5.1	Constitution of the multidisciplinary working group
+Constitution of the multidisciplinary7 working group through a Management Committee composed of experts in field of low back pain, appointed by the Governments of 14 countries participating in European Union, framed in the Directorate General Research, Political Co-ordination and Strategy7 (COST) and B13 program "Low back Pain: Guidelines for its management".
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+59
+To streamline the work plan were drafting chapters on acute low back pain, chronic and prevention, stratified components in 3 sub-working groups. Finally, in our case was working Spanish Group for improvement and adaptation directed by the Spanish representatives of European Management Committee.
+5.2	Search and selection of scientific evidence
+Search and selection of scientific evidence by means computerized databases and documentary looking time period more comprehensive as possible, with strategies to include those available in languages other than English, particularly in Spanish, but also supplement with contributions of studies which were undergoing investigation or publication, but excluding not accepted.
+Explored databases were Cochrane, Medline, Embase, health Star, Pascal, PsycINFO, SPORT ciscos, Biosis, Lilacs and EMI.
+5.3	Methodological evidence quality assessment
+Methodological evidence quality7 assessment detected in each systematic review and original studies found according to Oxman and Guyatt methodological criteria (annex 2 GPC COST)
+5.4	Levels of evidence for recommendations
+Levels of evidence for recommendations arising from number of studies that underlie them, quality7 methodology7 and consistency7 results, according to criteria based on guidance of advice (Bigosl994) and "levels of evidence" recommended by the Cochrane Collaboration back group (van Tulder 2003). (Table 4)
+Level A : Results of a systematic" review of multiple studies* (high quality).
+Level B : Results of a systematic" review of studies* (low quality7).
+Level C : Results of a single study * (high or low quality),
+or inconsistent systematic ' review of multiple studies.
+Level D : Non-obviousness (lack of studies).
+Table 4. Evidence Levels
+"Criterion of" Systematic review”: use of systematic methods to select and include studies, assessment of methodological quality and extraction and analysis of data. Are defined as "results consistent to the coincidence in the sense of the results, at least 75% of the studies".* Studies: diagnostic, prognosis (prospective), treatment (controlled clinical trial), prevention (controlled clinical trial)
+5.5	Review and approval content of Guide
+Review and approval content of Guide once analysed available scientific evidence each group developed recommendations and discussion according to a fixed timetable, by7 electronic means and meetings seeing them joint the overall content of the Guide, articulating a mechanism of critical inter groups until approval by7 unanimity7.
+5.6	Spanish adaptation by the Working Group
+Spanish adaptation by7 the Working Group formed with the aim of:
+www.intechopen.com
+60
+Low Back Pain
+5.6.1	Help detect and collect evidence in Spanish
+Help detect and collect evidence in Spanish might have been forgotten in e-strategies prior.
+5.6.2	Critical analysis
+Critical analysis:Successive drafts produced by work groups.
+5.6.3	Adaptation
+To Spanish health system, dissemination and use of GPC elaborated by working groups. The Spanish adaptation is stuck studying organizational aspects necessary for recommendations implementation, definition targets, measurement organization and registration indicators systems, implementation and identification of local barriers to be overcome.
+5.6.4	Application of the criteria of the instrument AGREE
+Application of the criteria of the instrument AGREE, and detection of gaps in the previous format (International) as: not-identification of target user, lack of tools to facilitate practical application, or establishment methods to make e final recommendations, and non-inclusion of declarations interest conflicts.
+5.6.5	Updating of the Guide COST B13
+Through following mechanisms: regular meetings of representatives of participating entities, provision of sources of funding for an automated mechanism for detection, analysis and aggregation of results of further studies. Use as a basis for updates Cochrane Collaboration systematic reviews relating to clinical trials on therapeutic technologies, and formation of a network of evaluation teams in studies published in mentioned area.
+5.6.6	Declaration of conflicts of interest
+Economic, effective type or species, direct or indirect, generic or specific, personal or collective produced or expected, that goes beyond use of technologies which mentioned in a clinical setting or research purposes. Performed in nominal and explicit way by components of the Spanish working group and contained in a table extensive version.
+5.7 Guide publication by previously established, varied media
+Written in extended version including a management role and through free electronic access algorithm through www.REIDE.org . In GPC said based on scientific evidence, specify all relevant studies for each specific recommendation, analyzes town methodology and are non-technical summary evidence on efficiency, effectiveness, safety' and cost/ effectiveness and indications of each treatment.
+5.7.1 Algorithm
+Integrates all information is published on paper and you can print from electronic access, consists of a flow diagram that includes evidence of each recommended technology7 and designed to take up a minimum space, is Pocket-Guide.
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+61
+LUMBALGIA
+Lumbalga: ^Hey sedalee de alerta9
+Para denvaodn Para atocotm especlica B)
+aougaA) ^.Justlfican	-------» Lurrtoakya nespedfica (>95% casos)
+♦ Derive a drugla
+St Reedtados No
+______________1______________
+Informer y desdramatizar Evitarmposo an cama
+Manlaner mayor actMdad posibla Firmacos 1‘llnaa >)
+Patotogla espedfica: Tto espedfico
+^ResoKiaOrVmeyxIa relevante an 2 semanas9
+No: Raevalue Ay B
+Valore |NRT ~~]
+SI' Ejeraoo prevenHvo E)
+SI: r.Son ntenaaa y la lumbdgia dtra mas de 6 semanas9
+SI
+-
+No: Raevalue A. B y G ♦ Valore
+E/arocki E) Escuala de la Espaida J)
+AMUapmhrM ik >
+Si Ejeraoo preventive
+No: Reevakie A. B y G ♦ Valore
+St Ejeraoo prevented E)
+Pandas da Capsacna
+Optdceos
+PENS(N) 
+No Reevakie A. B y G
+c Dapon Ue trataman to cognSnoomdudual con epraao?
+Si:E)eraaoprevw>trw> E)
+SI: PreecrlMo (I)	No
+tMekxIa?	tCrledos caugla9 |O| _______________
+,—I------- SIArfodasB
+• No----1---No	no mstrunertada O)
+^ReeducMn?
+Si
+Prev«ntiv0 | Programas muBdiecIpllnarlos |
+Las vers tones mke completes de eats Guia de PrSctics Clinics eaten dlspon tolos on www REIDE org
+www.intechopen.com
+62
+Low Back Pain
+LBP naming sign# (Flags")?
+r t
+Referral to Surgery (A) For specific LBP (B) I
+Request Additional Test warranted?
+I	I
+Yes	No ---------------------k
+Surgery' Specific LBP:
+Specific Treatment
+No
+Nonspecific LBP (> 95%)
+Information (C) Activity if possible First Line Drugs (D)
+Improvement or Resolution in 2 weeks ?
+No Re-Evaluation A & B	Yes
+Values y ou NRT (!•' I
+I
+Exercise Program
+Signals of poor functional prognosis ? (G )
+Yes and LBP > 6 weeks No Short Educative Program (11
+I
+Cognitive-Behavioral I reatment I ) ________________________________
+Improvement or Resolution ?
+Yes: Exercise Program i i
+Not: Re-evaluation A, B & G
+Yes Exercise Program I
+Not Re-evaluate \.B. &G
+Available Cognitive-Behavioral Treatment & Exercise ?
+Yes?: Apply (I)	_______
+No Improvement ?: _________Criteria for Surgery ''t'1 Yes
+No
+I
+Multidisciplinary Programs (P)
+Yes Exercise Program • I
+Arthrodesis not Instrumented * O) Resolution ?
+www. intechopen com
+The Treatment of Low Back Pain and Scientific Evidence
+63
+Clarification of Algorithm
+A For referral to surgery :
+a.	Emergency Surgery7 if progresive or bilateral paresis, loss of bladder control or sadle anesthesia.
+b.	Severe Radicular pain > 6 weeks despite all non surgery treayments (disc herniation ). Or only withwalking, needs flexion or sitting, is longer > 6 months and there are images of spinal stenosis.
+B For systemic pathology: values X-ray, simple analysis, MRI in early pain in <20 o > 50 years old, dorsal, at night,, neurologic defficit, diffuse, flexion 5° failed, deformation,malaise, loss weigth, fever, neoplasms, corticosteroids, trauma, intranenous addictions, inmunosuppression or AIDS.
+C Information patient: Avoid bed rest, nonspecific back pain not due to serious illnes, pain emanating from structures of the spine, spontaneous resolved to 2-6 weeks. To speed recoveryand reduce the risk of recurrence mantainphysical activity including work if possible.
+D First line Drugs: Paracetamol 650-1000 mgs each 6-8 hours, AINEs < 3 months, muscle relaxants < 1 week.
+E Exercise: Not before 2-6 weeks of episode, as preventive and treatment.
+F Neuroreflexotherapy (NRT) : if LBP >2 weeks, moderate to intense (>3 points of 1-10 scale) and there are one acredited unit.
+G Signals of Poor functional prognosis
+H Brief Educative Programs: Pocket back Manual, chat with patient for positive reinforcement, internet direction with consistent information (www.espalda.org).
+I Cognitive-behavioral treatment: Only if LBP > 6 weeks with signals of poor functional prognosis ,potentially active work situation, LBP intense and > 3 months with failure of treatments or with exercise instead of surgery7 in degenerative spondylosis.
+J Back School: Not centered in traditional education but in activity maintenance.
+K Antidepressants: Analgesic dosing.
+L Capsaicin Patches: If intense pain ( >5 points of 1-10 scale)
+M Opiates: Patterned and slow-release with strict medical control.
+N Peripheral Neuro-Stimulation (PNS)
+O Arthrodesis Preferable not instrumented only7 if disabling pain > 2 years despite all treatments maximum 2 segments of spine.
+P Multidisciplinary7 programs: Intensive and combined D, E, I, K and M , by7 Psychologist, Physiotherapist and Medical staff in specialized units.
+(Based on Figure 1 (Management Algorithm) pg 13-14. And CPG Spanish version pocket guide, disposable in www.REIDE.org
+Latorre Marques E., Kovacs F., Gil del Real Ma T., Alonso P., Urrutia G.: Spanish version of COST B13 Guide: A clinical pactical guideline for non-specific back pain based on scientific evidence. Dolor 2008; 23: 7-17)
+Fig. 2. Management Algorithm of LBP based on Scientific Evidence.
+www.intechopen.com
+64
+Low Back Pain
+1999 Start
+COSTB13 20??
+Revision
+2000
+European Working Group
+December 2005
+Improvement Program
+Publication
+Pocket Algoritm
+Dissemination
+Revision
+Adaptation
+Discussion
+Fig. 3. Development schedule of a CPG based on scientific evidence
+Attached and rear face contains explanatory notes of management; as can be seen is integrated into a single temporal sequence low back pain acute, sub-acute and chronic.
+5.7.2 Recommendations summary GPC of low back pain
+Reflected in a 22 page booklet and contains information relating recommended diagnostic process, recommended treatments based on scientific evidence, technologies not recommended for treatment, prevention of occurrence, or recurrence, and handling algorithm. It can also be downloaded on the internet. Includes authors and reviewers, as well as relevant national entities adopting recommendations.
+One of novelties is incorporation of treatments cognitive-behavioral early mode and early detection of signs of poor functional prognosis by simple and specific tests (Table 5).
+Signs of poor functional prognosis	Recommended treatments
+Mistaken beliefs Misconduct Occupational factors Emotional problems	Interview training Written validated information Electronic information Brief educational program
+Table 5. Signs of poor functional prognosis and recommended treatment
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+65
+6.	Discussion
+Until the year 2005 revisions and CPG's served to help primary care to manage only acute low back pain. Few documents provided outcome assessment, until emergence of CFG COST B13 program of European Union.
+Inclusion of basic principles management summan' and outcome assessment in low back pain, that daily practice medicine, scientific evidence based, makes this CPG a reliable instrument.
+Our working group decided include "Criteria to define the evidence needed to develop recommendations":
+•	For studies considered for each analysis group (builds clinicians, in addition to controlled clinical trials in chronic low back pain and studies on prevention in the corresponding group).
+•	Referred to non-specific.
+•	Refer to specific field of each group (acute, chronic low back pain and prevention) and mechanisms of warning mutual between groups given overlapping populations included in systematic reviews or studies.
+•	Relevant analysis of variable for each field. In case of treatments for acute and chronic low back pain: pain intensity, degree of disability, level of quality of life or absenteeism I return to work.
+Numerous adaptations and improvements (Pillastrini P 2011) have been developed. Comparing the quality of the CPG's from 2004 until today for LBP has improved, however developers need to still increase quality transparency process, especially with regard editorial applicability and independence (Bouwmeester W, 2009).
+The process of the CPG's is still costly in economic resources and time, in best cases for up to 4 years is therefore possible that arise this period new evidence should incorporate, to which review mechanisms should be established involving staff sufficiently prepared both clinical management and analysis of the scientific evidence. For this reason must obtain support of scientific entities and non-profit publishers to remain independent and professionals without conflict of interest.
+In our case, was obtained scientific and professional broadest possible support, described favorably by evaluation agencies in health technology, approved by CPG of national health system catalog (GuiaSalud), applied in hospitals and health centers. Its use was recommended by entities as Council official schools of Spain doctors, but unlike other CPG's included support for consumer organizations in health sendees. Our version identifies concrete entities of explicit, improving transparency.
+However from reading our guide has emerged a contradiction in the meaning of the scientific evidence available at that time because we do not recommended the use of Botulinum Toxin for chronic low back pain treatment, although at that time there was a controlled trial which demonstrated their effectiveness, but after analysis observed low methodological quality and low scale of clinical effects reflected without compensating for the risks of its use. Also our version not recommended vertebral manipulation, while European version was Yes. This is due to the Spanish working group could discuss
+www.intechopen.com
+66
+Low Back Pain
+publications that appeared after first had been released, which showed methodological errors that inclined in negative sense and therefore not apply in daily clinical practice, and still less be taken in National Health Spanish System (Kovacs FM, 2005).
+Other technologies that have in Spain anecdotal usage data, such as ozone therapy or drug enforcement anti-TNF (Tumor Necrosis Factor), were discarded for lack of evidence on efficacy, safety or efficiency, after incorporating them by the Spanish working group, to a new analysis of quality whose result was negative.
+As evaluated and treatments "not recommended" used in the "treatment of pain unit" also disputes that remain have been (American Pain Society, Chou & Hoyt Huffman, 2009) for the application of nerve blocks in the treatment of low back pain.
+Sacroiliac Joint Blockade did not provide evidence that special use, even the infiltration with corticosteroids is no better than placebo (level C), epidural injections were not recommended in non-specific LBP (Level D), however this option can arise in the case of root compression symptomatic herniated disc contained and not extruded, obtaining better results combined with corticosteroid and local anesthesics and is cost-effective (Karpinen J) (2001). Facet injections with corticosteroids were not superior to placebo (level B), and combinations of steroids and local anesthetics were similar to anesthetic alone (level C) effectiveness, therefore not recommended them. Similarly, infiltrations and electrotherapy intra-disc, and facet-joint radiofrequency showed no conclusive data in 2005, probably by the poor quality of the studies, but long series has now been re-designed, with assessment of cost effectiveness and improvement of methodological quality seem to support its use in selected circumstances (Manchikanti L., 2010).
+Other low back pain versions CPG's lack elicitation in relation to the criteria of organizational adaptation to various health services and ensure coordination and efficiency, so the Spanish version includes a process for identification of local variations in story to the applicability and adaptation mechanisms.
+Given that the Pan-European version finished his project in 2005, we decided to update mechanisms, based on the detection and analysis of the evidence that arise in the future, marking a timetable for action that also incorporated social and scientific entities to improve adherence and outcomes (Spanish working group program COST B13 2005).
+7.	Conclusion
+Low back pain is a common and potentially disabling condition in adults, and included numerous treatment options. The best available evidence currently suggest that in absence of serious spinal pathology, specific causes of non-spinal origin or progressive neurologic deficit, management should focus on patient education, self-care, common analgesics and exercise.
+Short term relief in radiating pain may be obtained with epidural blockade with local anesthetics and steroids, or facet blocks in selected cases. Peripheral Neuromodulation (PNS) and Neuro-Reflex-Therapy (NRT) can offer good results in LBP.
+For patients with psychological comorbidities, cognitive-behavioral therapy or multidisciplinary rehabilitation is appropriate. Participation of patient is crucial: patient
+www.intechopen.com
+The Treatment of Low Back Pain and Scientific Evidence
+67
+wish to be taken seriously, give clear and understandable feedback during consultation, and discuss what can be done.
+Is needed to improve structuring of multidisciplinary and low cost consultation (Laerum E, 2006), and indicate only surgery treatment in selected cases, by minimally invasive techniques.
+The other hand we must improve tire procedures for developing clinical trials to make them consistent, and adopt the quality standards in obtaining scientific evidence; for this are emerging tools that help groups and conduct systematic reviews using criteria of quality, transparency and independence. Hope this chapter helps to achieve these objectives.

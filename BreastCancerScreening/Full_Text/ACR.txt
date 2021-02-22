@@ -1,0 +1,195 @@
+Breast Cancer Screening With Imaging: Recommendations From the Society of Breast Imaging and the ACR on the Use of Mammography, Breast MRI, Breast Ultrasound, and Other Technologies forthe Detection of Clinically Occult Breast Cancer
+
+Screening for breast cancer with mammography has been shown to decrease mortality from breast cancer, and mammography is the main stay of screening for clinically occult disease. Mammography, however, has wellrecognized limitations, andrecently, other imaging including ultrasound and magnetic resonance imaging have been used as adjunctive screening tools, mainly for women who maybe at increased risk for the development of breast cancer. The Society of Breast Imaging and the Breast Imaging Commission of the ACR are issuing these recommendations to provide guidance to patients and clinicians on the use of imaging to screen for breast cancer. Wherever possible, there commendations are based on available evidence. Where evidence is lacking, the recommendations are based on consensus opinions of the fellows and executive committee of the Society of Breast Imaging and the members of the Breast Imaging Commission of the ACR.
+
+INTRODUCTION
+
+The significant decrease in breast cancer mortality, which amounts to nearly 30% since 1990,is a major medical success and is due in large part to the earlier detection of breast cancer through mammographic screening. Nevertheless, major efforts continue to build on this success by developing additional methods to screen for early breast cancer. Consequently, recommendations for breast cancer screening With imaging technologies have become increasingly complex. Several organizations, most notably the American Cancer Society (ACS) [1], have guidelines that are largely evidence-based, for how screening mammography should be used. In addition, the ACS has issued guidelines, also based predominately on existing evidence, for the use of magnetic resonance imaging of the breast to screen for breast cancer  However, there are gaps in these guidelines, undoubtedly due to a lack of data concerning many aspects of the optimal utilization of available screening tests. To address some of these gaps, the Society of Breast Imaging (831) and the ACR, whose members are directly responsible for performing these screening tests, have performed and analyzed many of the trials establishing appropri ate screening algorithms, and have the most expertise in these technologies, are issuing these guidelines and recommendations for breast cancer screening. Whenever possible, these are based on peeroreviewed published scienti?c data. Where data are lacking, the recommendations re?ect expert consensus opinions by the fellows of the 531 and the members of the Breast Imaging Commission of the ACR. These guidelines and recommendations are intended to suggest appropriate utilization of imaging modalities for screening. They are not intended to replace sound clinical judgment and are not to be construed as representing the standard of care. It should be remembered that mammography is the only imaging modality that has been proven to decrease mortality from breast cancer.
+
+The SBI and the ACR also wish to remind women and their physicians that in those instances in which there is a concern that risk for developing breast cancer is considerably elevated above that of the general population, consultation with appropriate experts in breast cancer genetics or high-risk management is desirable.
+
+SOCIETY OF BREAST IMAGING AND AMERICAN COLLEGE OF RADIOLOGY RECOMMENDATIONS FOR IMAGING SCREENING FOR BREAST CANCER
+A. BY IMAGING TECHNIQUE
+1. Mammography
+Women at average risk for breast cancer
+ Annual screening from age 40 
+Women at increased risk for breast cancer
+Women with certain BRCAI or BRCAZ mutations or who are untested but have ?rstdegree relatives (mothers, sisters, or daughters) who are proved to have BRCA mutations
+Yearly starting by age 30 (but not before age 25)
+
+Women with >=20% lifetime risk for breast cancer on the basis of family history (both maternal and paternal)
+
+Yearly starting by age 30 (but not before age 25), or 10 years mrlier than the age of diagnosis of the youngest affected relative, whichever is later
+
+Women with mothers or sisters with preomenopausal breast cancer 
+Yearly starting by age 30 (but not before age 25), or 10 years earlier than the age of diagnosis of the youngest affected relative, whichever is later
+
+Women with histories of mantle radiation (usually for Hodgkinis disease) received between the ages of 10 and 30
+Yearly starting 8 years after the radiation therapy, but not before age 25
+
+Women with biopsy-proven lobular neoplasia (lobular carcinoma in situ and atypical lobular hyperplasia), atypical ductal hyperplasia (ADI-I), ductal carcinoma in situ (DCIS), invasive breast cancer or ovarian cancer
+Yearly from time of diagnosis, regardless of age
+
+a. Screening Mammography by Age
+
+i. Age at Mich Annual Screening Mammography Should Start
+
+Age 40
+
+Women at average risk
+Younger Than Age 40
+BRCAI or BRCAZ mutation carriers: by age 30, but not before age 25
+
+Women with mothers or sister with preomenopausal breast cancer: by age 30 but not before age 25, or 10 years earlier than the age of  of relative, whichever is later
+
+Women with 220% lifetime risk for breast cancer on the basis of family history (both maternal and paternal): yearly starting by age 30 but not before age 25, or 10 years earlier than the age of diagnosis of the youngest affected relative, whichever is later
+
+Women with histories of mantle radiation received between the ages of 10 and 30: beginning 8 years after the radiation therapy but not before age 25
+
+Women with biopsy-proven lobular neoplasia, ADI-I, DCIS, invasive breast cancer, or ovarian cancer regardless of age
+
+ii. Age at Mich Annual Screening Wtb Mammography Should Stop
+
+When life expectancy is <5 to 7 years on the basis of age or comorbid conditions
+When abnormal results of screening would not be acted on because of age or comorbid conditions
+
+2. Ultrasound (in Addition to Mammography)
+
+Can be considered in high-risk women for whom magnetic resonance imaging (MRI) screening may be appropriate but who cannot have MRI for any reason
+
+Can be considered in women with dense breast tissue as an adjunct to mammography
+
+3. MRI
+Proven carriers of a deleterious BRCA mutation
+Annually starting by age 30
+
+Untested ?rstvdegree relatives of proven BRO4 mutation carriers
+Annually starting by age 30
+Women with >20% lifetime risk for breast cancer on the basis of family history
+Annually starting by age 30
+
+Women with histories of chest irradiation (usually as treatment for Hodgkinis disease)
+Annually starting 8 years after the radiation therapy
+
+Women with newly diagnosed breast cancer and normal contralateral breast by conventional imaging and physical examination
+Single screening MRI of the contralateral breast at the time of diagnosis
+
+May be considered in women with between 15% and 20% lifetime risk for breast cancer on the basis of
+
+personal history of breast or ovarian cancer or biopsyoproven lobular neoplasia or ADH
+
+B. BY RISK FACTOR
+1. Average Risk
+Annual mammogram starting at age 40
+
+2. High Risk
+
+BRCAI or BRCAZ mutation carriers, untested first-degree relatives of BRCA mutation carrier
+Annual mammogram and annual MRI starting by age 30 but not before age 25
+
+Women with 220% lifetime risk for breast cancer on the basis of family history
+
+Annual mammography and annual MRI starting by age 30 but not before age 25, or 10 years before the age of the youngest affected relative, whichever is later
+
+History of chest irradiation received between the ages of 10 and 30
+
+Annual mammogram and annual MRI starting 8 years after treatment; mammography is not recommended before age 25
+
+Personal history of breast cancer (invasive carcinoma or DCIS), ovarian cancer, or biopsy diagnosis of lobular neoplasia or ADI-I
+Annual mammography from time of diagnosis; either annual MRI or ultrasound can also be considered; if screening MRI is performed in addition to mammography, also performing screening ultrasound is not necessary
+
+Women with dense breasts as the only risk factor
+The addition of ultrasound to screening mammography may be useful for incremental cancer detection
+
+DISCUSSION
+
+RECOMMENDATIONS FOR SCREENING
+MAMMOGRAPIHY
+
+Screening Annually Beginning at Age 40
+
+Evidence to support the recommendation for regular periodic screening mammography comes from the results of several randomized controlled trials (RCTs) conducted in Europe and North America [3-10] that included a total of nearly 500,000 women. The trials varied in age of included women and in screening frequency, but all but 1 demonstrated statistically significant decreases in breast cancer mortality among the populations invited to screening. Overall, on the basis of a metaanalysis of the RCTs, there was a 26% reduction in mortality [11]. More recent studies of the effect of screening mammography in routine use (service screening) have demonstrated an even greater benefit [12,13]. Duffy et al [13] reported a 39% reduction in breast cancer mortality when comparing the period before the advent of population-based screening in screening to the period after its introduction. They estimated that three quarters of this reduction was due to mammographic screening.
+
+There has been some controversy about the age at which regular screening with mammography should start[14]. Originally chosen as a surrogate for menopause, it has been argued that the effectiveness ofscreening changes at the age of 50, and some have suggested that the data do not support screening before this age [15,16]. The evidence in fact does not support this opinion. A careful review of the arguments shows that the suggestion that the age of 50 has any biologic or screening relevance is nothing more than an artifact of inappropriate subgroup analysis of data that were never designed to permit such analysis [17,18]. The RCTs did not have suf?cient statistical power to permit analysis of this subgroup, yet the results of analyzing women aged 40 to 49 years as a subgroup led to the misinterpretation that screening was inherently different among them, when in fact the data show that they bene?t in the same way as do women aged >=50 years [19-23].
+
+Recently, the United States Preventive Services Task Force (USPSTF), an independent government agency consisting of 16 primary care physicians and public health specialists issued revised recommendations for screening [24,25]. Whereas they had formerly recommended routine screening every one to two years starting at age 40, they are now recommending against routine screening for women aged 40 to 49 and biennial rather than annual screening for women aged 50 to 74. They make no recommendation for women over age 74, citing insufficient evidence.
+
+In their meta-analysis of the randomized controlled trials, they acknowledge a statistically significant 15% reduction in mortality among women aged 40 to 49 who are screened but state that the "harms" associated with screening, including anxiety over false positive results, need for additional testing or biopsy, and the possibility of overdiagnosis and overtreatment outweigh the benefits. They also used mathematical modeling to predict the mortality reduction achieved with various screening strategies and determined through these models that screening biennially would preserve 81% of the mortality reduction of annual screening and starting at age 40 rather than age 50 would result in additional mortality reduction of only 3% [26]. They also stated that screening at age 50 rather than 40 would sacri?ce 33 years of life per 1000 women. Despite these analyses, they concluded that biennial screening beginning at age 50 would achieve most of the bene?t of annual screening starting at age 40 with substantially less harm.
+
+In their 2009 recommendations, the USPSTF suggest that women aged 40 to 49 years might want to consider their personal risk for developing breast cancer before deciding to participate in screening [24]. This has also been suggested by the American College of Physicians[27]. Not only does this recommendation ignore the basic fact that the age of 50 has no meaning, but there is no direct evidence that screening women with mammography, on the basis of their individual risk for breast cancer, will have the same mortality decrease as screening the general population. None of the RCTs of screening mammography strati?ed women by risk. Despite the identification of factors that increase a woman's risk for developing breast cancer, most women who develop breast cancer have no demonstrable risk other than they are women and they are aging. It is estimated that approximately 70% to 80% of breast cancers occur in women with no identifiable risk factors [28,29]. Therefore, if only high-risk women are screened, the majority of breast cancers would be missed, because most breast cancers occur among the very large population of women who are not at increased risk.
+
+The revised USPSTF recommendations were met with widespread concern among the breast imaging community and the public. The ACR and SBI along with the ACS and other organizations strongly criticized the USPSTF recommendations, disagreeing with the conclusions reached by their analysis of the existing data and with the method by which their recommendations were formulated. Amidst all the ?iror, the ACR and SBI firmly stand behind their recommendation that screening mammography should be performed annually beginning at age 40 for women at average risk for breast cancer.
+
+Screening With Digital Mammography
+
+Several studies comparing the performance of digital mammography and film-screen techniques for screening have found equivalent sensitivity for breast cancer detection [30-34]. The Digital Mammographic Imaging Screening Trial, a multicenter study that enrolled >49,000 women at 33 centers across the United States and Canada, found no signi?cant difference between digital and film-screen mammography in sensitivity among the entire cohort [32]. However, digital mammography performed signi?cantly better than analog mammography in premenopausal and perimenopausal women, those aged <50 years, and those with dense breasts [32,34]. For these women, digital mammography might be preferred. However, the RCTs that have demonstrated mortality reduction from screening mammography have been based on ?lm-screen mammography, and the ACR and SBI feel that women should continue to be screened, even if digital mammography is not available in their communities.
+
+Screening Women With Mammography Before Age 40
+
+Randomized controlled trials have not been performed to test the impact of mammographic screening on mortality reduction in highOrisk women of any age, including those aged <40 years. However, if the level of risk for developing breast cancer in a high-risk woman aged <40 years is the same or greater than the level of risk of a 40-year-old in the general population, it is reasonable to offer screening to these younger women. Because no data exist on the optimum age to start screening mammography in women at increased risk for breast cancer, the recommendations in this document are based on consensus opinions by the members of the ACR Breast Imaging Commission and the fellows of the SBI. A discussion of the risk associated with various conditions is presented below.
+
+Women who have undergone breast conservation have a recurrence rate in the treated breast of 0.5% to 1% per year [35]. The risk for all women with personal histories of breast cancer (at any age) to develop a second cancer is 5% to 10% in the first decade after their diagnoses [36]. For any woman with histories of breast cancer, marnmographic screening should be performed annually after the diagnosis of breast cancer, whatever the age of the patient.
+
+Similarly, women with personal histories of ovarian cancer have a 3-fold to 4-fold increased risk for the sub. sequent development of breast cancer [37], and it is the opinion of the SBI and ACR that they should have screening mammography yearly from the time of diagnosis of the ovarian cancer.
+
+Women with histories of mediastinal radiation are at increased risk for breast cancer due to scatter radiation to the breasts. The largest group of these women is those treated for Hodgkinis disease with mantle radiation to the mediastinum [38]. It is acknowledged that the relative risk for developing breast cancer in these women is high, estimated between 4 and 75 times, particularly when the radiation was delivered between the ages of 10 and 30 or was >4 Gy [39-42]. In one study, 35% of women with mediastinal radiation for Hodgkinis disease developed breast cancer by age 40 [40]. Breast cancers have been diagnosed as early as 10 years after Hodgkinis disease has been cured. Therefore, mammographic screening is recommended to begin 8 to 10 years after treatment but not before age 25 [43,44].
+
+High-risk histopathologies found at the time of breast biopsy are premalignant changes and convey an increased risk for developing breast cancer. They include lobular neoplasia and ADI-I. Annual mammographic screening after these diagnoses is indicated.
+
+Lobular carcinoma in situ is found incidentally in about 1% of breast biopsies. It is associated with 6% of breast cancers. Ninety percent of women diagnosed with lobular carcinoma in situ are premenopausal. The risk for breast cancer is estimated at 0.5% to 1.0% per year [45], and breast cancers can develop in either breast. Routine annual mammography and clinical surveillance have reduced mortality at a rate comparable to that achieved with bilateral mastectomy. These women should be screened annually with mammography after the diagnosis of lobular carcinoma in situ is made. Atypical ductal hyperplasia is the nonobligate precursor lesion to DCIS. It has a relative risk for developing breast cancer for women aged 20 to 30 years of 7.0; for women with positive family histories, the risk increases to 9.7 [46]. The mean time to developing cancer is 8.2 years. These women should be screened annually with mammography after this diagnosis is made.
+
+Several genes and numerous mutations have been shown to be responsible for hereditary breast cancer. Of these the most common are mutations on BRCA genes. The BRCAI mutation conveys a 19% risk for breast cancer by age 40, with the lifetime risk estimated as high as 85%. Mutations to BRCAZ convey a similar lifetime risk, although cancer seems to develop later in these women. Both genes also increase risk for ovarian cancer, and this risk should also be addressed in these women. These women reach a risk for developing breast cancer comparable with that of an average 40-year-old woman at a young age [47]. By expert consensus, screening of these women should not begin before age 25, because breast cancers rarely develop in these women before then, breast tissue in very young women is often dense and difficult to screen, and breast tissue in young women has increased sensitivity to radiation. The optimum age to start screening these high-risk women has not been established. Most government-sponsored high-risk screening programs outside the United States start screening with mammography and MRI at age 25 or 30, sometimes with the addition of ultrasound.
+
+The PTEN gene, associated with Cowdenis syndrome, the p53 gene of Li-Fraumeni syndrome, and Muir-Torres syndrome (the MSH2 and MLI-Il genes) are rare and seem to convey increased breast cancer risk[48] . The risk is also elevated in Peutz-Jeghers syndrome (STKll gene), although the exact risk has not been calculated. Because of the rarity of these syndromes and the paucity of clinical experience with mammographic screening among such women, recommendations for early screening cannot be made at this time.
+
+At What Age Should Breast Cancer Screening End?
+
+None of the RCTs included women aged >74 years. Consequently, there are no data to prove mortality reduction for women aged >74 years. However, there is no reason to expect that mammographic screening would be any less effective among older women. It has been shown that the sensitivity and positive predictive value of mammography in diagnosing breast cancer increases with increasing age [19,49,50]. In a retrospective study of >690,000 women aged 66 to 79 years, the incidence of metastatic breast cancer was reduced by 43% in the screened versus nonscreened population [51]. Although actual mortality from breast cancer could not be gauged from this study, metastatic breast cancer seems a reasonable surrogate for mortality and lends evidence to the effectiveness of screening in the older age group.
+
+It is the general consensus that the potential benefit of early detection should be weighed against the risks of false-positive results, the quality of life, and life expectancy. It has been shown from the RCTs that it takes approximately 5 to 7 years for the benefit of mortality reduction from screening to become evident [52]. Women in average health aged 70 to 74 years can expect to live an additional 13.4 years [53]. Life expectancy for women with average health aged 75 to 79 years is approximately 10 years, nearly 8 years for women aged 80 to 84 years, and 6.6 years for women aged 285 years [53]. However, women of these ages who have health problems might have substantially shorter life expectancies. Therefore, universal upper age limits for screening mammography may not be justi?ed. In deciding who should be screened, it seems reasonable to take into account a womanis life expectancy on the basis of age and comorbid conditions, as well as an individual womanis preference regarding the potential bene?t of diagnosing an occult breast cancer versus the disadvantage of additional testing that screening mammography may generate.
+
+Given the competing causes of morbidity and mortality that increase with age, the ACR and SBI suggest that screening with mammography should continue as long as a woman has a life expectancy of 25 to 7 years on the basis of age and health status, is willing to undergo additional testing including biopsy, if indicated by findings on mammography, and would be treated for breast cancer if diagnosed.
+
+HIGH-RISK SCREENING
+Risk Assessment
+
+There are a variety of risk assessment tools available to calculate a womanis breast cancer risk, including the Gail, Claus, BRCAPRO, Breast and Ovarian Analysis of Disease Incidence and Carrier Estimation Algorithm(BODAICEA), and Tyrer-Cuzick models [54-58]. Each of these models is based on different data sets and takes into account different risk factors. The first to be widely used is the Gail model, which includes race, age at menarche, age at ?rst live birth, number of previous breast biopsies, and number of ?rst-degree relatives with breast cancer [54]. This is the model that is available on the National Cancer Instituteis online breast cancer risk assessment tool and is the one incorporated into some automated mammography reporting systems. The Gail model is the only one of the various risk assessment models that has been validated for African American as well as white women. However, it does not take into consideration the ages at diagnosis of the first-degree relatives, paternal family history, or second-degree relatives and is not recommended by the ACS for use in assessing whether a woman should receive supplemental screening with MRI.
+
+The Claus model is based on the number of relatives with breast cancer, which relatives have breast cancer, and the ages at diagnosis of these relatives [55]. It includes paternal family history but includes information only from white women.
+
+The BRCAPRO model determines the probability that a woman is carrying a mutation of the BRCAI or BRCAZ gene [56]. This model is based on whether the woman has a personal history of breast cancer or a history of breast or ovarian cancer among her firstodegree and second-degree relatives. It also considers Ashkenazi Jewish ancestry.
+
+The BOADICEA is also used to estimate the likelihood of carrying a BRCAI or BRCAZ mutation as well as the risk for developing breast or ovarian cancer [57] .
+
+The Tyrer-Cuzick model takes into account family and reproductive history as well as Ashkenazi Jewish ancestry, reproductive history, and other personal factors such as rf height and weight [58]. None of the models include thirdodegree relatives or breast density as a factor. The result of the risk assessment can vary a great deal in any one individual, depending on which model is used. Because of this complexity, women who are potentially at increased risk for breast cancer are best served by having formal risk assessments performed by trained health professionals. However, for some women, their radiologists may be the health care providers who are most aware of the possibility that they are at increased risk for breast cancer. A mechanism by which this information is conveyed to patients so that appropriate risk assessment, counseling, screening, and prevention options can be determined needs to be established by the health care community. Radiologists are encouraged to have a basic understanding of risk assessment to understand when the request for a screening examination may or may not be appropriate. An excellent review of screening high-risk women was recently published by Berg [59] and provides an overview and foundation for a rational approach to this issue.
+
+Screening With Breast MRI
+
+For women with the highest risk for developing breast cancer, screening technologies in addition to mammography have been adopted. These have been particularly sought after for those women at risk for hereditary breast cancer, for which mammographic screening may have relatively low sensitivity. Recently, the ACS issued recommendations for screening breast MRI among certain high-risk women [2]. The ACR and SBI endorse these recommendations. Several prospective trials of MRI screening of women at risk for familial breast cancer have shown increased detection of breast cancer with the use of this modality compared to mammographic screening[60-65] . All of these studies have demonstrated higher sensitivity for breast MRI screening compared with mammography and breast ultrasound in this group of high-risk women, and the ACR and SBI suggest that annual screening MRI be performed in addition to annual mammography for women with >20% lifetime risk for the development of breast cancer.
+
+In addition to having the BRCAI or BRCAZ mutation, a family history that may suggest a genetic predisposition to breast cancer includes having 22 first-degree relatives with breast cancer, a ?rst-degree relative with premenopausal breast cancer, a family history of breast and ovarian cancer, a firstodegree relative with more than one independent cancer, and having a male relative with breast cancer. Whether women who have a 15% to 20% lifetime risk for developing breast cancer, such as those with biopsy proven lobular neoplasia, ADI-I, or prior breast cancer, should be screened with MRI is still in question. In its recently issued guidelines, the ACS did not recommend either for or against screening of women in these groups [2]. It may be best for an individual breast imaging facility to decide, after consultation with referring clinicians, whether these women will be screened with MRI and to be rigorous in risk assessment and consistent in the choice of populations that undergo MRI screening at their facilities.
+
+The ACS guidelines state that screening with MRI is inappropriate for women at <15% lifetime risk for breast cancer, and the ACR and SBI concur with this conclusion.
+
+It is important to emphasize that breast MRI is not meant to replace mammography. There are cases, particularly of DCIS, that are detectable by mammography but not by MRI. In performing screening MRI and mammography, they can either be done concurrently or staggered by 6 months. The advantage of staggering is that patients have some form of screening every 6 months. The advant of concurrent screenin is that correlation age 8 between the two examinations is facilitated, especially if there is an abnormality on one of the studies. The timing of the screening examinations, whether they should be concurrent or staggered, is a matter to be determined by individual facilities.
+
+For women with newly diagnosed breast cancer, there is evidence that a single round of screening of the contralateral breast with MRI at the time of diagnosis will detect otherwise occult malignancy in approximately 3% to 9% of these women [66o68].
+
+The addition of breast MRI to the screening algorithm for women at greatest risk adds considerable cost. Studies have suggested that for those at the greatest risk, carriers of the BROelI mutation, adding MRI to mammography increases screening cost by >$S0,000 per cancer [69]. These costs increase considerably as the risk for developing cancer diminishes. It is to be expected that as women with decreasing risk undergo MRI, this will also increase the false-positive biopsy rate and other parameters of false-positive image interpretation. This is the rationale for limiting MRI screening to those women at the greatest risk for developing breast cancer.
+
+Screening With Ultrasound
+
+Several published papers from independent breast imaging facilities have reported that breast ultrasound screening in women with dense breasts and negative mammograms and clinical examinations yielded an incremental cancer detection rate of 2.8 to 4.6 cancers per 1,000 women [70-74]. A recent multi-institutional stud of screening breast ultrasound sponsored by ACRIN included women who not only had dense breasts but who were also at increased risk for breast cancer [75]. The ACRIN study reported results similar to those of the single-institution studies with an incremental cancer detection rate of 4.2 per 1,000 women screened. In all of the studies, breast cancers detected by ultrasound only have been reported to be small invasive cancers, with a high proportion of node-negative cases.
+
+With the release of the ?rst results of the ACRIN trial, more attention is being paid to the use of supplemental screening with ultrasound, particularly in women with dense breasts. Breast density in and of itself has been shown by several studies to be an independent risk factor for the development of breast cancer, with the relative risk for women with the most dense breasts 2 to 6 times that of women with the least dense breasts [76-78] . There is some controversy over the methodology of these density studies, raising the question of the true relationship between density and risk [79]. However, it has been demonstrated that the sensitivity of mammography is lower in women with dense breasts, and regardless of whether women with dense breasts are at increased risk or not, it has been shown that the use of supplemental ultrasound screening will result in the detection of otherwise occult cancers.
+
+There are several challenges associated with the wide-spread adoption of screening ultrasound. All published screening ultrasound studies have reported high false-positive rates. In the ACRIN study, in which experienced radiologists specializing in breast imaging followed a standard protocol, the positive biopsy rate was 8.8%, or 6.7% if cyst aspirations are included among biopsy cases. The screening ultrasound examinations in all but one of the reported studies were performed by the radiologist, and the mean examination time has been on the order of 10 to 20 minutes.
+
+Several studies comparing mammography, breast ultrasound, and breast MRI for screening have demonstrated superior sensitivity of MRI for cancer detection in high-risk women [61,63,80]. Performing supplemental screening with ultrasound in these women adds no additional benefit over screening with mammography and MRI. However, screening breast ultrasound may have a role as a supplemental screening tool for high-risk women who have contraindications to MRI or in those whose levels of risk do not reach the level recommended for breast MRI screening by the ACS.
+
+Clearly, it would not be feasible, given the current shortage of radiologists who perform breast imaging, for all women whose only risk factor is breast density to undergo radiologist-performed supplemental ultrasound screening. Issues related to reproducibility, high false-positive rates, low positive predictive value for biopsy recommendations, operator dependency of the examination, inability to image most DCIS cases, and lack of agreement on which solid or complex lesions found at screening require biopsy have resulted in a failure of widespread acceptance of breast ultrasound screening[81] . Because of the demonstrated superior sensitivity of breast MRI for screening high-risk women, the disadvantages associated with screening ultrasound and constraints of a limited number of radiologists who perform breast imaging, many facilities have chosen not to offer ultrasound screening. The ACR and SBI consider such a choice to be acceptable within the standard of care.
+
+Screening With Other Imaging Technologies
+
+There are no large, peer-reviewed published studies that support the routine use of other imaging techniques such as thermography, sestimibi, PET, transillumination, electrical impedance scanning, or optical imaging for breast cancer screening. Of these alternate screening modalities, thermography is the most widely studied. It was initially included in the Breast Cancer Detection Demonstration Project but was dropped after experience during the ?rst 4 years of the project showed a sensitivity of only 43% for the detection of breast cancer [82]. The ACR and SBI do not endorse thermography or any of these other modalities for screening for breast cancer.
+

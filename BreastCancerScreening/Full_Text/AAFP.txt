@@ -1,0 +1,151 @@
+Summary of Recommendations for  Clinical Preventive Services 
+
+March 2017 
+
+These policy recommendations describe AAFP policy for a number of clinical preventive services for general and specific populations. 
+
+
+
+
+These recommendations are provided only as assistance for physicians making clinical decisions regarding the care of their patients.  As such, they cannot substitute for the individual judgment brought to each clinical situation by the patient's family physician.  As with all clinical reference resources, they reflect the best understanding of the science of medicine at the time of publication, but they should be used with the clear understanding that continued research may result in new knowledge and recommendations. 
+
+
+
+American Academy of Family Physicians  
+11400 Tomahawk Creek Parkway, Leawood KS 66211-2672  
+913-906-6000 · http://www.aafp.org
+800-274-2237
+
+Introduction to AAFP Summary of Recommendations For Clinical Preventive Services 
+ 
+ 
+The AAFP Summary of Recommendations for Clinical Preventive Services (RCPS) is a document that is periodically updated through the work of the AAFP's Commission on Health of the Public and Science (CHPS) and is approved by the AAFP Board of Directors. The starting point for the recommendations is the rigorous analysis of scientific knowledge available as presented by the United States Preventive Services Task Force (USPSTF).   
+http://www.uspreventiveservicestaskforce.org/ 
+The USPSTF conducts impartial assessments of the scientific evidence for the effectiveness of a broad range of clinical preventive services, including screening, counseling, and preventive medications.  
+ 
+The CHPS reviews recommendations released by the USPSTF and makes recommendations to the AAFP Board of Directors.  In most cases the AAFP agrees with the USPSTF, however, there are circumstances where there are differences.   
+ 
+In 2007, the USPSTF changed the grading of evidence for new recommendations issued (http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm).  Therefore, the AAFP has also changed its grading of the evidence to be more consistent with the USPSTF.  The USPSTF and AAFP are in a transition period and are implementing the use of two different grading systems for the recommendations.  The first grading system applies to the recommendations that occurred before May 2007, and the second grading system applies to recommendations that occurred during or after May 2007.  These grading systems are outlined below.   
+The AAFP grading systems for the recommendations that occur during or after May 2007 includes:  
+A     Recommendation: The AAFP recommends the service. There is high certainty that the net benefit is substantial. 
+B     Recommendation:  The AAFP recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial. 
+ 
+ 
+ 
+C    Recommendation:  The AAFP recommends against routinely providing the service. There may be considerations that support providing the service in an individual patient. There is at least moderate certainty that the net benefit is small. 
+D   Recommendation: The AAFP recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.  
+I     Recommendation:  The AAFP concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.    
+I-HB Healthy Behavior is identified as desirable but the effectiveness of physician's advice and counseling is uncertain. 
+ 
+The AAFP grading system for those recommendations before May 2007 includes:  
+ 
+SR   Strongly Recommend: Good quality evidence exists which demonstrates substantial net benefit over harm; the intervention is perceived to be cost effective and acceptable to nearly all patients. 
+R     Recommend: Although evidence exists which demonstrates net benefit, either the benefit is only moderate in magnitude or the evidence supporting a substantial benefit is only fair.  The intervention is perceived to be cost   effective and acceptable to most patients. 
+NR    No Recommendation Either For or Against:  Either good or fair evidence exist of at least a small net benefit.  Cost-effectiveness may not be known or patients may be divided about acceptability of the intervention. 
+RA    Recommend Against: Good or fair evidence which demonstrates no net benefit over harm.  
+I        Insufficient Evidence to Recommend Either for or Against: No evidence of even fair quality exists or the existing evidence is conflicting. 
+I-HB Healthy Behavior is identified as desirable but the effectiveness of physician's advice and counseling is uncertain. 
+ 
+Where appropriate, specific website URL's are provided which link directly to the clinical consideration section of the U.S. Preventive 
+Services Task Force.  The clinical consideration section provides additional information needed to interpret and implement the recommendations.   
+ 
+Physicians are encouraged to review not only the needs of individual patients they see, but also of the populations in the communities they serve to determine which specific population recommendations need to be implemented systematically in their practices.  The recommendations contained in this document are for screening, chemoprophylaxis and counseling only.  They do not necessarily apply to patients who have signs and/or symptoms relating to a particular condition.   
+ 
+These recommendations are provided only as assistance for physicians making clinical decisions regarding the care of their patients.  As such, they cannot substitute for the individual judgment brought to each clinical situation by the patient's family physician.  As with all clinical reference resources, they reflect the best understanding of the science of medicine at the time of publication, but they should be used with the clear understanding that continued research may result in new knowledge and recommendations. These recommendations are only one element in the complex process of improving the health of America.  To be effective, the recommendations must be implemented.  
+ 
+AAFP Recommendations for Genetic and Genomic Tests 
+The AAFP Recommendations for Genetic and Genomic Tests is provided to aid members their delivery of evidence-based practices to their patients. These recommendations are updated periodically through the work of the AAFP's Commission on Health of the Public and Science (CHPS) and are approved by the AAFP Board of Directors. The starting point for the recommendations is the rigorous analysis of the scientific outcomes available as presented by the Evaluation of Genomics in Practice and Prevention Working Group (EGAPP WG). http://www.egappreviews.org/workingrp.htm  
+The CHPS reviews recommendations released by the EGAPP WG and makes recommendations to the AAFP Board of Directors. The AAFP agrees with the EGAPP WG in their recommendations whenever possible; however, there may be circumstances that could warrant different recommendations. 
+The AAFP uses language consistent with the language in the recommendations from the EGAPP WG. The language is as follows:  
+Recommend for: The AAFP recommends the test. There is evidence to support that the magnitude of the effect of the test is substantial, moderate or small (as opposed to zero benefit). 
+Recommend against: The AAFP recommends against the test. There is evidence to support that the magnitude of the effect of the test is zero or that there are net harms. 
+Insufficient: The AAFP concludes that the current evidence is insufficient to assess the balance of benefits and harms of the test. 
+Where appropriate, specific website URL's are provided which link directly to the clinical consideration section of the EGAPP WG. This section provides additional information for interpreting and implementing the recommendation. 
+These recommendations are provided only as assistance for physicians making clinical decisions regarding the care of their patients. As such, they cannot substitute for the individual judgment brought to each clinical situation by the patient's family physician. As with all clinical reference resources, they reflect the best understanding of the science of medicine at the time of publication, but they should be used with the clear understanding that continued research may result in new knowledge and recommendations. These recommendations are only one element in the complex process of improving the health of America. To be effective, the recommendations must be implemented. 
+ 
+Breast Cancer, Mammography  
+ 
+ Breast Cancer, Mammography, Before age 50 
+The decision to start screening mammography in women prior to age 50 years should be an individual one. Women who place a higher value on the potential benefit than the potential harms may choose to begin biennial screening between the ages of 40 and 49 years. (2016) 
+ 
+ For women who are at average risk for breast cancer, most of the benefit of mammography results from biennial screening during ages 50 to 74 years. Of all of the age groups, women aged 60 to 69 years are most likely to avoid breast cancer death through mammography screening. While screening mammography in women aged 40 to 49 years may reduce the risk for breast cancer death, the number of deaths averted is smaller than that in older women and the number of false-positive results and unnecessary biopsies is larger. The balance of benefits and harms is likely to improve as women move from their early to late 40s.  
+
+ In addition to false-positive results and unnecessary biopsies, all women undergoing regular screening mammography are at risk for the diagnosis and treatment of noninvasive and invasive breast cancer that would otherwise not have become a threat to their health, or even apparent, during their lifetime (known as "over diagnosis"). Beginning mammography screening at a younger age and screening more frequently may increase the risk for over diagnosis and subsequent overtreatment.  
+
+ Women with a parent, sibling, or child with breast cancer are at higher risk for breast cancer and thus may benefit more than average-risk women from beginning screening in their 40s.  
+
+
+(Grade: C recommendation) 
+Grade Definition: http://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions 
+Clinical Considerations: http://www.uspreventiveservicestaskforce.org/Page/Document/RecommendationStatementFinal/breast-cancer-screening1#Pod6 
+ 
+Breast Cancer, Mammography, Women 50 and 74 
+The AAFP recommends biennial screening mammography for women aged 50 to 74 years. (2016)  
+(Grade: B recommendation) 
+Grade Definition: http://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions 
+Clinical Considerations 
+ 
+ 
+Breast Cancer, Mammography, Women 75 years and older 
+The AAFP concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women aged 75 years or older. (2016)  
+(Grade: I statement)  
+Grade Definition: http://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions 
+Clinical Considerations 
+ 
+Breast Cancer, Self BSE 
+ Family physicians should discuss with each woman the potential benefits and harms of breast cancer screening tests and develop a plan for early detection of breast cancer that minimizes potential harms.  These discussions should include the evidence regarding each screening test, the risk of breast cancer, and individual patient preferences. The recommendations below are based on current best evidence as summarized by the United States Preventive Services Task Force (USPSTF) and can help to guide physicians and patients.  These recommendations are intended to apply to women who are not at increased risk of developing breast cancer and only apply to routine screening procedures.  
+ 
+The AAFP recommends against clinicians teaching women Breast Self-Examination (BSE). (2016)  
+(Grade: D recommendation) 
+(Grade Definition: http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm#post) 
+(Clinical Consideration) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Breast Cancer, Clinical Examination (CBE) 
+ Family physicians should discuss with each woman the potential benefits and harms of breast cancer screening tests and develop a plan for early detection of breast cancer that minimizes potential harms.  These discussions should include the evidence regarding each screening test, the risk of breast cancer, and individual patient preferences. The recommendations below are based on current best evidence as summarized by the United States Preventive Services Task Force (USPSTF) and can help to guide physicians and patients.  These recommendations are intended to apply to women who are not at increased risk of developing breast cancer and only apply to routine screening procedures. 
+ 
+The AAFP concludes that the current evidence is insufficient to assess the benefits and harms of clinical breast examination (CBE) for women aged 40 years and older. (2016)  
+(Grade: I recommendation) 
+(Grade Definition: http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm#post) 
+(Clinical Considerations) 
+ 
+Breast Cancer, Digital Breast Tomosynthesis (DBT), All Women 
+ 
+ The AAFP concludes that the current evidence is insufficient to assess the benefits and harms of digital breast tomosynthesis (DBT) as a primary screening method for breast cancer. (2016)  
+(Grade: I statement) 
+Grade Definition: http://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions 
+Clinical Considerations: http://www.uspreventiveservicestaskforce.org/Page/Document/RecommendationStatementFinal/breast-cancer-screening1#Pod6 
+ 
+Breast Cancer, Screening Women with Dense Breasts  
+ 
+ The AAFP concludes that the current evidence is insufficient to assess the balance of benefits and harms of adjunctive screening for breast cancer using breast ultrasonography, magnetic resonance imaging (MRI), DBT, or other methods in women identified to have dense breasts on an otherwise negative screening mammogram. (2016) 
+(Grade: I statement) 
+Grade Definition: http://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions 
+Clinical Considerations: http://www.uspreventiveservicestaskforce.org/Page/Document/RecommendationStatementFinal/breast-cancer-screening1#Pod6 
+ 
+Breast Cancer, Prevention Medication  
+ The AAFP recommends that clinicians engage in shared, informed decision making with women who are at increased risk for breast cancer about medications to reduce their risk. For women who are at increased risk for breast cancer and at low risk for adverse medication effects, clinicians should offer to prescribe risk-reducing medications such as tamoxifen or raloxifene. (2013) 
+(Grade: B recommendation) 
+(Grade Definition: http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm) 
+(Clinical Considerations: http://www.uspreventiveservicestaskforce.org/uspstf13/breastcanmeds/breastcanmedsrs.htm#consider )  
+ 
+The AAFP recommends against the routine use of medications, such as tamoxifen or raloxifene, for risk reduction of primary breast cancer in women who are not at increased risk for breast cancer. (2013) 
+(Grade: D recommendation) 
+(Grade Definition: http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm) 
+(Clinical Considerations:   http://www.uspreventiveservicestaskforce.org/uspstf13/breastcanmeds/breastcanmedsrs.htm#consider)    
+ 
+Breast Cancer/BRCA Mutation Testing 
+ 
+ The AAFP recommends that primary care providers screen women who have family members with breast, ovarian, tubal, or peritoneal cancer with one of several screening tools designed to identify a family history that may be associated with an increased risk for potentially harmful mutations in breast cancer susceptibility genes (BRCA1 or BRCA2). Women with positive screening results should receive genetic counseling and, if indicated after counseling, BRCA testing. (2013) (Grade: B recommendation) 
+(Grade Definition:http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm#brec) 
+(Clinical Consideration:  http://www.uspreventiveservicestaskforce.org/uspstf12/brcatest/brcatestfinalrs.htm#consider)  
+ 
+The AAFP recommends against routine genetic counseling or BRCA testing for women whose family history is not associated with an increased risk for potentially harmful mutations in the BRCA1 or BRCA2 genes. (2013) (Grade: D Recommendation) 
+(Grade Definition:http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm#brec) 
+Clinical Consideration: http://www.uspreventiveservicestaskforce.org/uspstf12/brcatest/brcatestfinalrs.htm#consider) 

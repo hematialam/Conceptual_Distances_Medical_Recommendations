@@ -1,0 +1,835 @@
+﻿Objective
+To help Alberta clinicians make evidence-informed decisions about care of patients with nonspecific low back pain
+Target Population
+Adult patients 18 years or older in primary care settings
+Exclusions
+Pregnant women; patients under the age of 18 years; diagnosis or treatment of specific causes of low back pain such as: surgical conditions including instability; referred pain (from abdomen, kidney, ovary, pelvis, bladder); inflammatory conditions (rheumatoid arthritis, ankylosing spondylitis); infections (discitis, osteomyelitis, epidural abscess); degenerative and structural changes (spondylosis, spondylolisthesis, gross scoliosis and/or kyphosis); fracture; neoplasm; metabolic bone disease (osteoporosis, osteomalacia, Paget's disease)
+For information on this guideline, see the Background statement, Appendix A - Categorization of Recommendations « X, ?), Appendix B - Evidence Source, Appendix C - Glossary, and Appendix D -Interventions and Practices Considered. Other appendices in this guideline include: Appendix E - Red and Yellow Flags, Appendix F - Medication Table, Appendix G - Injection Therapies, Appendix H - List of Revisions, and Appendix I - Summary. References can be found at the end of this document.
+Note: Statements in italics relate to harm. These statements were sourced from the recommendations or elsewhere in the “seed” guidelines, or from a systematic review identified from a supplementary literature search required by the Guideline Development Group or Guideline Update Committee.
+Recommendations
+Prevention of Occurrence and Recurrence of Low
+Back Pain
+Recommendation	Evidence Source (See Legend p. 25)
+Patient Education S Provide information or patient educational material on back pain prevention and care of the healthy back to emphasize patient responsibility and workplace ergonomics (see patient information sheets and brochures). Emphasize that acute low back pain is nearly always benign and generally resolves within one to six weeks. There is inconclusive evidence to determine what quantity, intensity, or media is optimal for delivering this information. Patient information and educational material based on a biomedical or biomechanical model (anatomical and “traditional” posture information) can convey negative messages about back pain and are not recommended.	SR (G2, G5)
+INSTITUTE OF HEALTH ECONOMICS
+
+These recommendations are systematically developed statements to assist practitioner and patient decisions about appropriate health care for specific clinical circumstances. They should be used as an adjunct to sound clinical decision-making.
+ 
+Recommendation	Evidence Source (See Legend p. 25)
+Exercise for Prevention of Recurrence S Recommend physical activity. There is inconclusive evidence to recommend for or against any specific kind of exercise, or the frequency/intensity of training.	SR (G2c, G5, IHE Database) + EO (GUC)
+Advise patients who are recovering from an episode of acute low back pain that recurrent episodes are common and that remaining physically active and participating in regular exercise may reduce the likelihood of recurrences.	
+Shoe Insoles/Orthoses X DO NOT recommend shoe insoles/orthoses for preventing low back pain.	RCT (G5) + SR (IHE Database)
+Lumbar Supports X DO NOT recommend lumbar supports for preventing low back pain.	RCT (G3) + SR (IHE Database)
+Manual Therapy - Spinal Manipulative Therapy ? There is insufficient evidence to recommend for or against spinal manipulative therapy for preventing low back pain.	RCT (G5)
+Manual Therapy - Spinal Mobilization ? There is insufficient evidence to recommend for or against spinal mobilization for preventing low back pain.	RCT (G5)
+Risk Factor Modification ? Although overweight/obesity and smoking are associated with the increased prevalence of low back pain, there is inconclusive evidence to recommend modifying overweight/obesity and smoking for preventing low back pain. There is insufficient evidence to recommend reducing alcohol consumption for the prevention of low back pain.	SR (G3, IHE Database)
+Additional Options ? There is insufficient evidence to recommend for or against the following interventions for preventing low back pain. • Any specific type of chair	CS (G5)
+• Any specific type of mattress	RCT (G5)
+Clinical Practice Guideline
+Page 2 of 49
+Recommendations
+ 
+Acute and Subacute Low Back Pain
+Recommendation	Evidence Source (See Legend p.25)
+Diagnostic Triage S The first qualified practitioner with the ability to do a full assessment (i.e., history, physical and neurological red flags, and psychosocial yellow flags) should assess the patient and undertake diagnostic triage (see Appendix E for summary of red and yellow flags, and the companion documents Clinical Assessment for Psychosocial Yellow Flags and Management of Psychosocial Yellow Flags - see complete list of companion materials). If serious spinal pathology is excluded, manage as non-specific low back pain.	SR (G2, G4)
+Ankylosing Spondylitis S Consider a diagnosis of ankylosing spondylitis, particularly in younger adults who, in the absence of injury, present with a history of needing to get out of bed at night and reduced side bending.	SR (G1)
+Emergent Cases S Refer patient with red flags (see Appendix E for red flag definitions) indicating a high likelihood of serious underlying pathology for immediate evaluation and treatment to an appropriate resource depending on what is available in your region (e.g., emergency room, relevant specialist). The presence of Cauda Equina Syndrome is considered to be a surgical emergency.	EO (G2a) EO (GUC)
+Cases Requiring Urgent Evaluation S Schedule an urgent appointment with a physician if any of the red flags are present (see Appendix E for red flag definitions).	EO (G2a,b)
+Evaluate for Fracture S Order AP and lateral plain film imaging for low back pain when compression or other fracture is suspected. Oblique x-rays should not be done in this circumstance.	SR (G2c) + EO (GUC)
+Imaging to Rule Out Underlying Pathology in the Absence of Radiculopathy S Only order imaging to clarify anatomy where the results will direct treatment. Imaging is typically not useful except for the following indications: •	MRI indications: ■	Major or progressive neurologic deficit (e.g., foot drop or functionally	SR (G2c) + SR (IHE Database)
+Clinical Practice Guideline
+Page 3 of 49
+Recommendations
+ 
+Recommendation		Evidence Source (See Legend p.25)
+	limiting weakness such as hip flexion or knee extension)	
+■	Cauda Equina Syndrome (sudden or progressive onset of new urinary retention, fecal incontinence, saddle [perineal] anesthesia radicular [leg] pain often bilateral, loss of voluntary rectal sphincter contraction)	
+■	Progressively severe pain and debility despite non-interventional therapy	
+■	Severe or incapacitating back or leg pain (e.g., requiring hospitalization, precluding walking, or significantly limiting the activities of daily living)	
+■	Clinical or radiological suspicion of neoplasm (e.g., lytic or sclerotic lesion on plain radiographs, history of cancer, unexplained weight loss, or systemic symptoms)	
+■	Clinical or radiological suspicion of infection (e.g., endplate destruction of plain radiographs, history of drug or alcohol abuse, or systemic symptoms)	
+■	When there are indications for surgical intervention or therapeutic injection in the presence of moderate to severe low back pain or radicular pain that is unresponsive to non-interventional therapy	
+•	CT indications:		
+■	MRI is contraindicated	
+■	Primary bone tumors (detect or characterize)	
+■	Trauma (rule out or characterize fracture, evaluate for healing)	
+Imaging to Rule out Underlying Pathology in the Presence of Radiculopathy		SR (G2c, IHE
+S Consider referral for MRI if the patient has radiculopathy (leg-dominant pain) that persists after six weeks of non-interventional treatment.		Database) + CS (G8)
+Continue non-interventional treatment when clinical and imaging findings correlate, and monitor for functional improvement as non-surgical recovery is still likely, unless symptoms progress or red flags prompt surgical referral.		
+•	MRI indications:		
+■	Major or progressive neurologic deficit (e.g., foot drop or functionally limiting weakness such as hip flexion or knee extension)	
+■	Cauda Equina Syndrome (sudden or progressive onset of new urinary retention, fecal incontinence, saddle (perineal) anesthesia, radicular (leg) pain often bilateral, loss of voluntary rectal sphincter	
+Clinical Practice Guideline
+Page 4 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+contraction) ■	Progressively severe pain and debility despite non-interventional therapy ■	Severe or incapacitating back or leg pain (e.g., requiring hospitalization, precluding walking, or significantly limiting the activities of daily living) ■	Clinical or radiological suspicion of neoplasm (e.g., lytic or sclerotic lesion on plain radiographs, history of cancer, unexplained weight loss, or systemic symptoms) ■	Clinical or radiological suspicion of infection (e.g., endplate destruction of plain radiographs, history of drug or alcohol abuse, or systemic symptoms) ■	When there are indications for surgical intervention or therapeutic injection in the presence of moderate to severe low back pain or radicular pain that is unresponsive to non-interventional therapy •	CT indications: ■	MRI is contraindicated ■	Primary bone tumors (detect or characterize) ■	Trauma (rule out or characterize fracture, evaluate for healing)	
+Referral to a Spinal Care Specialist S Refer patient with disabling back or leg pain, or significant limitation of function including job-related activities, within two to six weeks to a spinal care specialist such as a physical therapist, chiropractor, osteopathic physician, or physician who specializes in musculoskeletal medicine.	EO (G2)
+Referral for Inflammatory Disease S Order a CRP and/or an ESR blood test if inflammatory disease is suspected based on patient presentation. Patients with inflammatory disease should be referred to a rheumatologist.	EO (GUC)
+Laboratory Testing S Order the appropriate blood tests if cancer or infection is suspected. In the absence of red flags, no laboratory tests are recommended.	EO (G2)
+Psychosocial Risk Factors S Assess for psychosocial risk factors (yellow flags) and conduct a detailed review if there is no improvement (see Appendix E for summary of yellow	SR (G2, G4)
+Clinical Practice Guideline
+Page 5 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+flags, and the companion documents Clinical Assessment for Psychosocial Yellow Flags and Management of Psychosocial Yellow Flags ). Psychosocial risk factors include fear, financial problems, anger, depression, job dissatisfaction, family problems, or stress.	
+Reassessment of Patients Whose Symptoms Fail to Resolve S Reassess patients whose symptoms are not resolving. •	Follow-up in one week if pain is severe and has not subsided. •	Follow-up in six weeks if not substantially recovered. •	Consider further appropriate management if serious pathology (red flag) is identified. Identify psychosocial risk factors (yellow flags) and address appropriately (see Appendix E for definitions of red and yellow flags, and the companion documents Clinical Assessment for Psychosocial Yellow Flags and Management of Psychosocial Yellow Flags for chronicity and increased disability).	G (G2, G4)
+Information and Reassurance S Educate the patient and describe the typically benign, long-term course of low back pain. Provide educational materials that are consistent with your verbal advice to reduce fear and anxiety (see patient information sheets and brochures). Other methods for providing self-care education, such as e-mail discussion groups and videos, are not well studied, but may also be beneficial (see http://www.ihe.ca/research-programs/hta/aagap).	SR (G1, G2, G4)
+Advice to Stay Active S Advise patient to stay active and continue his/her usual activity, including work, within the limits permitted by the pain. Recommend physical exercise. Patients should limit/pace any activity or exercise that causes spread of symptoms (peripheralization). Self-treating with an exercise program not specifically designed for the patient may aggravate symptoms.	SR (G1, G2, G4)
+Therapeutic Exercise	SR (G2c, G4, IHE
+S Recommend exercise in the treatment of subacute low back pain. The specific type of exercise may vary. Progressive exercise is based on a number of variables that include but are not limited to increasing physical activity, education regarding pain, and a graded exercise program. Emphasis should	database)
+Clinical Practice Guideline
+Page 6 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+be on optimizing function and de-emphasizing pain. Refer patients whose pain is exacerbated by physical activity and exercise to a spinal care specialist such as a physical therapist, chiropractor, osteopathic physician, or physician who specializes in musculoskeletal medicine for individualized advice. Patients should limit/pace any activity or exercise that causes spread of symptoms (peripheralization). Self-treating with an exercise program not specifically designed for the patient may aggravate symptoms.	
+Return to Work S Encourage early return to work. Refer workers with low back pain beyond six weeks to a comprehensive return-to-work rehabilitation program. Effective programs are typically multidisciplinary and involve case management, education about keeping active, psychological or behavioural treatment, and participation in an exercise program. Working despite some residual discomfort poses no threat and will not harm patients.	SR (G1, G2)
+Heat or Cold Packs J Recommend superficial heat (application of heating pads or heated blankets) for the short-term relief of acute low back pain.	SR (G1, G2)
+Clinical experience supports a role for superficial cold packs and alternating heat and cold as per patient preference. Heat or cold should not be applied directly to the skin, and not for longer than 15 to 20 minutes. Use with care if lack of protective sensation.	EO (GUC)
+Analgesia S Prescribe medication, if necessary, for pain relief preferably to be taken at regular intervals. First choice acetaminophen; second choice NSAIDs. Only consider adding a short course of muscle relaxant (benzodiazepines, cyclobenzaprine, or antispasticity drugs) on its own, or added to NSAIDs, if acetaminophen or NSAIDs have failed to reduce pain. Serious adverse effects of NSAIDs include gastrointestinal complications (e.g., bleeding, perforation, and increased blood pressure). Drowsiness, dizziness, and dependency are common adverse effects of muscle relaxants. See Medication Table in Appendix F.	SR (G1, G2, G4, G7, IHE Database)
+Clinical Practice Guideline
+Page 7 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+BRIEF Course of Narcotic Analgesics (Opioids) S Cautious and responsible use of opioids should only be considered for carefully selected patients with severe acute pain not controlled with acetaminophen and NSAIDs, at a minimum effective dose only for a limited period of time, usually less than one to two weeks. Ongoing need for opioids is an indication for reassessment. In general, opioids and compound analgesics have a substantially increased risk of side effects and risk of dependence compared with acetaminophen alone. Advise patient to avoid driving until cognitive side effects have been ruled out.	SR (G1, G2c, IHE Database)
+Manual Therapy - Spinal Manipulation S Patients who are not improving may benefit from referral for spinal manipulation provided by a spinal care specialist such as a physical therapist, chiropractor, osteopathic physician, or physician who specializes in musculoskeletal medicine. Risk of serious complication after spinal manipulation is low (estimated risk: Cauda Equina Syndrome less than one in one million). Current guidelines contraindicate manipulation in patients with severe or progressive neurological deficit.	SR (G1, G2c, G4)
+Multidisciplinary Treatment Programs for Occupationally-Related Subacute Low Back Pain S For subacute low back pain (duration four to eight weeks), intensive interdisciplinary rehabilitation (defined as an intervention that includes a physician consultation coordinated with a psychological, physical therapy, social, or vocational intervention) is moderately effective. There is evidence that functional restoration with a cognitive-behavioural component reduces work absenteeism.	SR (G1)
+Bed Rest X DO NOT prescribe bed rest as a treatment. If the patient must rest, bed rest should be limited to no more than two days. Prolonged bed rest for more than four days is not recommended for acute low back problems. Bed rest for longer than two days increases the amount of sick leave compared with early resumption of normal activity in acute low back pain. There is evidence that prolonged bed rest is harmful.	SR (G2, G4, G7)
+Clinical Practice Guideline
+Page 8 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+Diagnostic Imaging X DO NOT order diagnostic imaging test, including x-ray, CT, and MRI for acute low back pain (no red flags). In the absence of red flags, routine use of x-rays is not justified due to the risk of high doses of radiation and lack of specificity.	SR (G1, G2c, G4, G8)
+Imaging to Rule out underlying Pathology in the Absence of Radiculopathy X DO NOT order imaging where the results are not going to affect treatment.	EO (GUC)
+Antibiotic Treatment Based on MRI Modic Changes X DO NOT prescribe antibiotic treatment in primary care.	EO (GUC)
+Traction X DO NOT use traction. Traction has been associated with significant adverse events. Passive treatment modalities such as traction should be avoided as monotherapy and not routinely be used because they may increase the risk of illness behavior and chronicity. Adverse effects from traction include reduced muscle tone, bone demineralization, and thrombophlebitis.	SR (G1, G2c, G4, G7)
+Therapeutic Ultrasound X DO NOT use therapeutic ultrasound for acute or subacute low back pain.	RCT (G1) + SR (IHE Database)
+Transcutaneous Electrical Nerve Stimulation (TENS) X DO NOT use TENS for acute low back pain.	SR (G1, G4)
+Oral Steroids X DO NOT use oral steroids for acute low back pain.	EO ( G2a,b)
+Systemic Steroids X DO NOT prescribe systemic corticosteroids (intramuscular injection) for treatment of patients with acute low back pain and a negative result on a straight-leg-raise test.	RCT (G1)
+Epidural Steroid Injections in the Absence of Radiculopathy X DO NOT use epidural steroid injections for acute low back pain in the absence of radiculopathy.	SR (G4)
+Clinical Practice Guideline
+Page 9 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+Epidural Steroid Injections in the Presence of Radiculopathy ? There is inconclusive evidence to recommend for or against epidural steroid injections in the presence of radiculopathy. Image-guided epidural steroid injections may be helpful for some patients with lumbar radicular pain for longer than six weeks who have not responded to non-interventional treatments. Clinical experience suggests that patients who have responded favourably (improved function and pain relief) to an epidural steroid injection may benefit from a follow-up injection after three months. Adverse effects are infrequent and include headache, fever, and subdural penetration; rare but catastrophic events, including epidural abscess and paralysis, can occur. See Appendix G and the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology for further information.	SR (G4) + EO (GUC)
+Multidisciplinary Treatment programs ? No evidence was found to recommend interdisciplinary rehabilitation for acute low back pain (pain less than four weeks).	SR (G1)
+Antidepressants and Anticonvulsants as Adjuvant Therapies Analgesic Antidepressants ? There is insufficient evidence to recommend for or against analgesic antidepressants such as amitriptyline, other tricyclic antidepressants, or serotonin-norepinephrine reuptake inhibitors (SNRIs) for acute low back pain with or without leg dominant pain.	EO (G1, GUC)
+Anticonvulsants ? There is insufficient evidence to recommend for or against anticonvulsants (gabapentin, topiramate) for acute low back pain with or without leg dominant pain.	EO (G1, GUC)
+Marijuana (Dried Cannabis) ? There is insufficient evidence to recommend for or against marijuana/dried cannabis for acute or subacute low back pain. Consult the preliminary guidance Authorizing Dried Cannabis for Chronic Pain or Anxiety published by the College of Family Physicians of Canada for additional information.	EO (GUC)
+Clinical Practice Guideline
+Page 10 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p.25)
+Additional Options ? There is inconclusive evidence to recommend for or against the following interventions for acute or subacute low back pain: • Acupuncture	SR (G7, IHE Database)
+•	Back Schools	SR (G1)
+• The clinical prediction rule for spinal manipulative therapy	SR (G2c)
+•	Herbal medicine	SR (IHE Database)
+•	Low-level laser therapy	RCT (G1) + SR (IHE Database)
+•	Manual therapy - massage therapy	SR (G1, IHE Database)
+•	Operant conditioning provided by a physiotherapist	SR (IHE Database)
+• Short-wave diathermy	RCT (G1) + SR (IHE Database)
+• Topical NSAIDS	SR (IHE Database)
+? There is insufficient evidence (no evidence from SRs) to recommend for or against the following interventions for acute or subacute low back pain: •	Craniosacral massage/therapy	EO (GUC)
+•	Interferential current therapy	EO (GUC)
+•	Manual therapy - spinal mobilization	EO (GUC)
+•	Modified work duties for facilitating return to work	RCT (G1)
+• Shock-wave treatment	EO (GUC)
+• Tapentadol (Nucynta®)	EO (GUC)
+• Touch therapies	EO (GUC)
+• Yoga therapy	EO (GUC)
+Clinical Practice Guideline
+Page 11 of 49
+Recommendations
+ 
+Chronic Low Back Pain
+Recommendation	Evidence Source (See Legend p. 25
+Diagnostic Imaging S Lumbar spine x-rays may be required for correlation prior to more sophisticated diagnostic imaging, for example prior to an MRI scan. In this case, the views should be limited to standing AP and lateral in order to achieve better assessment of stability and stenosis. CT scans are best limited to suspected fractures or contraindication to MRI. X-rays of the lumbar spine are very poor indicators of serious pathology. Hence, in the absence of clinical red flags spinal x-rays are not encouraged. More specific and appropriate diagnostic imaging should be performed on the basis of the pathology being sought (e.g., DEXA scan for bone density and bone scan for tumours and inflammatory diseases). In the absence of red flags, radiculopathy, or neurogenic claudication, MRI scanning is generally of limited value. Oblique view x-rays are not recommended; they add only minimal information in a small percentage of cases and more than double the patient’s exposure to radiation.	EO (GUC)
+Exercise and Therapeutic Exercise S Recommend exercise and therapeutic exercise. Encourage patient to initiate gentle exercise and to gradually increase the exercise level within his/her pain tolerance. Sophisticated equipment is not necessary. Other options may include unsupervised walking and group exercise programs, such as those offered by chronic disease management programs. The peer support of group exercise is likely to result in better outcomes, giving patients improved confidence and empowering them to manage with less medical intervention. When exercise exacerbates the patient's pain, the exercise program should be assessed by a qualified physical therapist or exercise specialist. If exercise persistently exacerbates their pain, patients should be further assessed by a physician to determine if further investigation, medication, treatment, or consultation is required. Some studies reported mild negative reactions to exercise programs, such as increased low back pain and muscle soreness in some patients.	SR (G6, G11)
+Therapeutic Aquatic Exercise S Recommend therapeutic aquatic exercise for chronic low back pain.	SR (IHE Database)
+Clinical Practice Guideline
+Page 12 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+Yoga Therapy S There is some evidence that Viniyoga and Iyengar types of yoga can be helpful in the treatment of chronic low back pain. No evidence was found to recommend other types of yoga. It is important to find an instructor who has experience in working with individuals who have low back pain to avoid further injury.	SR (IHE Database)
+Education S Provide brief education to optimize function. Brief education is defined as review of clinical examination results, provision of low back pain information and advice to stay active, and reduction of fear and catastrophizing.	SR (G11)
+Self-Management Programs S Recommend, if available, a structured community-based self-management group program for a patient interested in learning pain coping skills. These programs are offered through chronic disease management and chronic pain programs. Self-management programs focus on teaching core skills, such as self-monitoring of symptoms, to determine likely causal factors in pain exacerbations or ameliorations, activity pacing, relaxation techniques, communication skills, and modification of negative ‘self-talk’ or catastrophizing. These programs use goal setting and ‘homework assignments’ to encourage participants’ self confidence in their ability to successfully manage their pain and increase their day-to-day functioning. Most community-based programs also include exercise and activity programming, which are also recommended. Where structured group programs are not available, refer to a trained professional for individual self-management counselling.	G (G6)
+Manual Therapy - Massage Therapy S Recommend massage therapy as an adjunct to a broader active rehabilitation program.	SR (G6)
+Acupuncture S Recommend acupuncture as a short-term therapy or as an adjunct to a broader active rehabilitation program. No serious adverse events were reported in the clinical trials. The incidence of minor adverse events was 5%.	SR (G6, G11)
+Clinical Practice Guideline
+Page 13 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+Acetominophen and Non-Steroidal Anti-inflammatory Drugs (NSAIDS) S Recommend acetaminophen and NSAIDs. A proton pump inhibitor (PPI) should be considered for patients over 45 years of age when using an oral NSAID/COX-2 inhibitor. Cardiovascular, renal, gastrointestinal risks, and comorbidities need to be taken into account when prescribing any NSAID. NSAIDs are associated with mild to moderately severe side effects such as: abdominal pain, bleeding, diarrhea, edema, dry mouth, rash, dizziness, headache, and tiredness. See Medication Table in Appendix F.	SR (G6, IHE Database) + EO (GUC)
+Muscle Relaxants S Muscle relaxants (e.g., cyclobenzaprine) may be appropriate in selected patients for symptomatic relief of pain and muscle spasm. Caution must be exercised with managing side effects, particularly drowsiness, and also with patient selection given the abuse potential for this class of drugs. See Medication Table in Appendix F.	SR (G6)
+Analgesic Antidepressants (amitriptyline and nortriptyline) S Tricyclic antidepressants amitriptyline and nortriptyline may have a small to moderate effect for chronic low back pain with or without leg dominant pain at much lower doses than might be used for depression. Possible side effects include drowsiness and anticholinergic effects. See Medication Table in Appendix F.	SR (G6, IHE Database)
+Herbal Medicine S The following herbal medicines can be considered as treatment options for acute exacerbations of chronic low back pain: •	An aqueous extract of Harpagophytum procumbens (also called devil's claw, grapple plant, wood spider) at a standardized daily dosage of 50 mg harpagoside •	A combination of extract of Salix daphnoides and Salix purpurea (also called purple willow, red willow) at a standardized dosage of 240 mg salicin/day •	A plaster of Capsicum frutescens (also called bird pepper, hot pepper, red chili, spur pepper, Tabasco pepper)	SR (IHE Database)
+Clinical Practice Guideline
+Page 14 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+Devil’s claw is associated with the following adverse events: repeated coughs, tachycardia, and gastrointestinal upset. Use of Capsicum frutescens plaster is associated with inflammatory contact eczema, urtcaria, minute hemorrhagic spots, vesiculation or dermatitis, sensation of warmth locally, and pruritus. Patients should be advised to read the product ingredients to ensure they are getting the correct amount and correct product mentioned in the recommendation. It is important to be aware that a product could list on the label different extracts of the same active ingredient (e.g., devil’s Claw and wood spider). Devil’s Claw, Salix, and Capsicum frutescens are currently regulated by Health Canada (see http://www.hc-sc.gc.ca/dhp-mps/prodnatur/applications/licen-prod/lnhpd-bdpsnh-eng.php).	
+Cognitive Behavioural Therapy S Where group chronic pain cognitive behavioural therapy programs are not available, consider referral for individual cognitive behavioural therapy provided by a psychologist or other qualified provider with training and/or experience in cognitive behavioural therapy for chronic pain management.	SR (G6)
+Respondent Behavioural Therapies (progressive relaxation or EMG biofeedback) S Progressive relaxation or electromyographic (EMG) biofeedback can be considered for chronic pain.	SR (G11)
+Multidisciplinary Treatment Program S Refer patient significantly affected by chronic low back pain and no improvement with primary care management to a multidisciplinary chronic pain program.	SR (G6, G11)
+Referral for Surgical Opinion S Refer patients who: •	Are engaged in an optimal package of care including a combined physical and psychological treatment program (usually six months of care); and •	Still have severe low back pain for which the patient would consider surgery, particularly if related to spinal stenosis with leg pain or claudication To optimize surgical outcome, anyone with significant psychological distress should be referred for appropriate treatment. Counsel the patient that it may be determined that surgery may not be an	EO (GUC)
+Clinical Practice Guideline
+Page 15 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+option in his/her case.	
+Referral for Inflammatory Disease S Order a CRP and/or an ESR blood test if inflammatory disease is suspected based on patient presentation. Patients with inflammatory disease should be referred to a rheumatologist.	EO (GUC)
+Selective Serotonin Reuptake Inhibitors (SSRIs) X DO NOT offer SSRIs for treating chronic low back pain. They may, however, be indicated for co-morbid depression.	SR (IHE Database)
+Antibiotic Treatment Based on MRI Modic Changes X DO NOT prescribe antibiotic treatment for MRI modic changes in primary care.	EO (GUC)
+Motorized Traction X DO NOT use motorized traction for chronic low back pain.	SR (IHE Database)
+Prolotherapy as a Sole Treatment X DO NOT use prolotherapy as a sole treatment for chronic low back pain.	SR (G6)
+Transcutaneous Electrical Nerve Stimulation (TENS) X DO NOT use TENS as a sole treatment for chronic low back pain.	SR (G6)
+Lumbar Discography in Primary Care X DO NOT recommend lumbar discography in primary care. Discography may be relevant as a diagnostic test before surgery in a patient with degenerative disc disease for diagnosis of discogenic back pain. However, the patient must have the ability to report if the pain produced by the injection is the same as the primary complaint. Discography is a controversial test because it: •	Is painful, invasive, and expert-dependent •	May induce further disc degeneration •	Carries the risk of neurological injury and infection	SR (IHE Database) + NRCS (G9)
+Electrodiagnostic Studies in Primary Care X DO NOT recommend electrodiagnostic studies in primary care. They should only be used as an adjunct to clinical examination and imaging to rule out conditions that may mimic radiculopathy.	EO (G10) + SR (IHE Database)
+Clinical Practice Guideline
+Page 16 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+When the diagnosis of lumbar disc herniation with radiculopathy is suspected, cross-sectional imaging is the diagnostic test of choice.	
+Diagnostic Selective Nerve Root Blocks (SNRBs) in Primary Care X DO NOT order diagnostic SNRBs in primary care. There is evidence to support their use in specialty services to assist in diagnosis when multiple levels may be involved; they require specialist followup to interpret. See Appendix G - Injection Therapies and the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology for further information.	SR (G9) + EO (GUC)
+Diagnostic Lumbar Facet Joint Nerve Blocks (includes medial branch blocks and intra-articular facet joint blocks) ? There is inconclusive evidence to recommend for or against diagnostic lumbar facet joint nerve blocks. See Appendix G - Injection Therapies and the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology for further information.	SR (IHE Database)
+Diagnostic Sacroiliac Joint Blocks ? There is insufficient evidence to recommend for or against diagnostic sacroiliac joint blocks. See Appendix G- Injection Therapies and the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology for further information.	EO (GUC)
+Manual Therapy - Spinal Manipulative Treatment ? There is inconclusive evidence to recommend for or against spinal manipulative treatment for chronic low back pain.	SR (G6, IHE Database)
+Manual Therapy - Spinal Mobilization ? There is inconclusive evidence to recommend for or against spinal mobilization for chronic low back pain.	SR (G6, IHE Database)
+Prolotherapy as an Adjunct Treatment ? Prolotherapy may be useful for carefully selected and monitored patients who are participating in an appropriate program of therapeutic exercise and/or manipulation or mobilization. The most commonly reported adverse events were temporary increases in	EO (G6)
+Clinical Practice Guideline
+Page 17 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+back pain and stiffness following injections. Some patients had severe headaches suggestive of lumbar puncture, but no serious or permanent adverse events were reported.	
+Transcutaneous Electrical Nerve Stimulation (TENS) as an Adjunct Treatment ? TENS may be useful as an adjunct in select patients for pain control to reduce the need for medications. A short trial (two to three treatments) using different stimulation parameters should be sufficient to determine if the patient will respond to this modality. Skin irritation is a common adverse event.	EO (G6)
+Therapeutic ultrasound ? There is insufficient evidence to recommend for or against the use of therapeutic ultrasound for chronic low back pain. Based on expert opinion, this modality is overused relative to any potential therapeutic benefit.	SR (IHE Database)
+Epidural Steroid Injections ? There is inconclusive evidence to recommend for or against epidural steroid injections. For patients with leg pain, image-guided epidural steroid injections may be effective in providing short-term and occasional long-term pain relief. Clinical experience suggests that patients who have responded favourably (improved function and pain relief) to an epidural steroid injection may benefit from a follow-up injection after three months. Adverse effects are infrequent and include headache, fever, and subdural penetration; rare but catastrophic events, including epidural abscess and paralysis, can occur. See Appendix G - Injection Therapies and the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology for further information.	SR (G4, G6) + EO (GUC)
+Therapeutic Lumbar Facet Joint Interventions ? There is insufficient evidence to recommend for or against conventional radiofrequency neurotomy with or without appropriate diagnostic evaluation by controlled lumbar facet joint blocks. The most commonly reported adverse events include increased pain (usually temporary) due to neuritis and cutaneous dysaesthesias.	EO (GUC)
+Clinical Practice Guideline
+Page 18 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+	
+Therapeutic Sacroiliac Joint Interventions ? There is insufficient evidence to recommend for or against intra-articular sacroiliac injections.	EO (GUC)
+STarT Back Screening Tool ? There is insufficient evidence to recommend for or against using the STarT back screening tool and its associated system of stratified care for chronic low back pain. Note that this tool has been designed to accommodate a specific program delivery model.	EO (GUC)
+Clinically Organized Relevant Exam (CORE) Back Screening Tool ? There is inconclusive evidence to recommend for or against using the CORE back tool for chronic low back pain. Note that this tool has been designed to accommodate a specific program delivery model.	SR (IHE Database)
+Opioids ? Evidence is lacking for long-term use of opioids for chronic low back pain. However, there is some evidence of the benefit of opioids for short-term pain and function improvements. Long-term use of opioids should only follow an unsuccessful trial of nonopioid analgesics. In severe chronic pain, strong opioids require careful consideration. Long-acting opioids are preferred as they can establish a steady state blood and tissue level that may minimize the patient's experience of unsteady dosing (cyclical improvement and/or withdrawal) from short-acting opioids. Any use of opioids over the long term will lead to physical dependence. Avoid escalating doses above 50 mg/day if initiating, and above 90 mg/day oral morphine equivalent for ongoing use. Careful attention to incremental improvements in pain or function is required to justify ongoing use of opioids. Because little is known about the long-term effects of therapy it should be monitored carefully. A history of addiction is a relative contraindication. Consultation with an addictions specialist may be helpful in these cases. Opioid side effects (including headache, nausea, somnolence, constipation, dry mouth, and dizziness and opiate-induced hyperalgesia and	SR (G6, G11, IHE Database) + EO (GUC)
+Clinical Practice Guideline
+Page 19 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+endocrinological changes) should be high in the differential diagnosis of new complaints. Consult the 2017 Canadian guideline for Opioids for Chronic non-Cancer Pain. •	Effectiveness - improved function or at least 30% reduction in pain intensity •	Valuable monitoring and screening tools for opioid use and addiction See Medication Table in Appendix F.	
+Marijuana (Dried Cannabis) ? There is insufficient evidence to recommend for or against marijuana/dried cannabis for chronic low back pain. Consult the preliminary guidance Authorizing Dried Cannabis for Chronic Pain or Anxiety published by the College of Family Physicians of Canada for additional information.	EO (GUC)
+Additional Options ? There is inconclusive evidence to recommend for or against the following interventions for chronic low back pain: • Duloxetine	SR (IHE Database)
+•	Gravity tables (inversion/inverted traction, self-traction, gravitational traction)	SR (IHE Database)
+•	Low-level laser therapy	SR (IHE Database)
+•	Mindfulness-based meditation	SR (IHE Database)
+• Shock-wave treatment	SR (IHE Database)
+• Spa therapy	SR (IHE Database)
+• Trigger point injections	SR (IHE Database)
+? There is insufficient evidence (no evidence from SRs) to recommend for or against the following interventions for chronic low back pain:	
+Clinical Practice Guideline
+Page 20 of 49
+Recommendations
+ 
+Recommendation	Evidence Source (See Legend p. 25
+•	Back belts, corsets, non-motorized traction, or over-the-counter TENS	EO (GUC)
+•	Buprenorphine Transdermal system	EO (GUC)
+•	Craniosacral massage/therapy	EO (GUC)
+•	Intramuscular stimulation	EO (GUC)
+•	Interferential current therapy	EO (GUC)
+• Tapentadol (Nucynta®)	EO (GUC)
+• Topical NSAIDs	EO (GUC)
+• Touch therapies	EO (GUC)
+Background
+Introduction
+This guideline has been adapted from eleven “seed” guidelines for prevention and treatment of acute, subacute, and chronic low back pain published between 2003 and 2014 (referenced as G1 through G11; see Seed Guideline References).
+When considering recommended interventions it is important to take into account the patient's expectations and preferences, but do not use his/her expectations and preferences to predict response to treatments. Discrepancies between patient expectations and preferences and evidence-informed practice could reflect a lack of awareness. This presents an opportunity for dialogue, mutual decision-making, and utilizing educational resources.
+The most common type of low back pain is called 'non-specific low back pain' and accounts for approximately 90% of cases in primary care settings.16 Less than 2% of people with low back pain have potentially serious spine conditions that will require surgery or medical intervention.6,7
+Up to 84% of people in developed countries will experience at least one episode of low back pain during their lifetime, with up to 23% of the adult population suffering from back pain at any given time.15 8 Back pain is usually self-limiting and resolves within two to six weeks, but symptoms may linger for up to two months.5,9-12 A small minority of patients (2% to 7%) will develop chronic low back pain.5,9 Given that low back pain is common and predominantly benign, it is helpful to think of it as a condition of life rather than a medical problem that always requires investigation and intervention.
+The initial aim of the primary care practitioner is to identify the small proportion of patients with serious pathology or barriers to recovery by recognizing the clinical “red flags” and “yellow flags”.
+The vast majority of patients with non-specific low back pain need to be reassured about the very low
+Clinical Practice Guideline
+Page 21 of 49
+Background
+ 
+risk of a serious disorder being present, educated about the natural history of low back pain, and encouraged to self-manage whenever possible.
+The role of the primary care practitioner is to normalize the patient's experience in line with the expected course of recovery, while explaining that recurrences are common. At least 25% of patients will experience further episodes within a year, and over three quarters will have a recurrence at some point in their lives.5-8-9-12-13 Many patients who understand the benign and common nature of their complaint and who have access to appropriate self-management techniques are able to manage future recurrences on their own. Nonetheless, there will be instances where patients will need to have their low back pain managed in primary care because of severity, disability, or uncertainty. When indicated, patients can be given pain relieving medications, informed about the various therapeutic modalities for which there is some positive evidence, and referred to specialty care in the minority of cases in which it is required.
+Investigations
+A precise anatomical diagnosis is not required to determine an effective treatment plan for nonspecific low back pain. Imaging can lead to unnecessary costs and inferior patient outcomes. Finding irrelevant anatomic abnormalities can lead to diagnostic confusion and patient anxiety, as well as to unnecessary additional expense. In the absence of “red flags”, x-rays and advanced imaging are only indicated when the results will inform a treatment plan that includes surgery or another interventional therapy. Imaging findings alone rarely lead to a change in treatment plan, and there is some evidence that imaging in the absence of red flags does not reassure patients.14,15
+When imaging is ordered, the results need to be explained to the patient in a way that normalizes the findings and does not attribute them to the cause of pain, except when the results will lead to a change in treatment or when “red flags” such as fracture, infec tion, or neoplasm are present. This applies regardless of whether nerve root compression radiculopathy is present or not as the initial management pathway is the same. Imaging can usually be deferred until the patient's clinical response to conservative treatment has been determined, except in cases of severe or progressive radicular pain when more urgent investigation and interventional management may be needed.
+Rehabilitation
+Exercise and activity have a positive role in the treatment of low back pain, but current evidence does not support detailed recommendations on the duration, frequency, and specific type of exercises. However, it is reasonable to consider specific exercises provided by a qualified examiner that are tailored to patients' needs and interests.
+Many experts consider active rehabilitation to be preferable to passive treatment, particularly when patients have not responded to a brief trial of passive therapies. Active rehabilitation includes:
+•	Education about back pain principles;
+•	Self-management programming (see Self-Management Programs recommendation);
+•	Gradual resumption of normal activities (including work and physical exercise) as tolerated;
+•	Therapeutic exercise (see Exercise and Therapeutic Exercise recommendations).
+Clinical Practice Guideline
+Page 22 of 49
+Background
+ 
+Some of the rehabilitation interventions currently undergoing active research are listed in this guideline as Do Not Know recommendations to reflect the fact that there is as yet insufficient or inconclusive evidence of their efficacy in treating low back pain.
+Communication
+Rapport and the development of an effective therapeutic alliance can have a significant impact on patient engagement. Providers have the opportunity to enhance patient wellbeing by encouraging self-management, adaptation to physical limitations, and return to highly valued activities including work and exercise as early as tolerated. Patient information pamphlets, booklets, and videos can be effective tools for enhancing patients' understanding and acceptance of back pain and its commonly transient nature, as well as strategies for minimizing the chance of future recurrence.
+Medication
+While there have been some studies of medications used specifically for low back pain, in many cases the probable effectiveness has to be inferred from more general studies of the management of painful conditions generally, either acute or chronic.
+When it is possible to differentiate pain as having nociceptive, neuropathic, inflammatory, infectious or malignant qualities then appropriate medication selection will naturally follow. In non-malignant low back pain, most pain is nociceptive or neuropathic in nature. Medications for either classification can be selected in a step-wise fashion as summarized in the Medication Table (Appendix F). Any medication should be tapered and withdrawn if it is clearly not improving pain or function. It is also important for patients to understand that successful use of medications may not bring complete pain relief. With chronic pain, a reduction of pain by 30 or 40% may be considered a success with no further gains to be made by increasing the medication dosing.
+The use of opiates in chronic low back pain remains controversial due to the lack of adequate research demonstrating long-term efficacy in this population.
+Companion Materials
+All materials and/or links are available at: http://tinyurl.com/top-lowbackpain
+For clinicians:
+•	Summary of the clinical practice guideline (also see Appendix I)
+•	Clinical Assessment of Psychosocial Yellow Flags16
+•	Management of Psychosocial Yellow Flags16
+•	2017 Canadian Guideline for Opioids for Chronic Non-Cancer Pain17 (external link)
+•	Instructional video: The 3-Minute Primary Care Low Back Examination18 (external link)
+•	Guideline Background document (external link)
+Clinical Practice Guideline
+Page 23 of 49
+Background
+ 
+•	Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology (external link)
+•	Authorizing Dried Cannabis for Chronic Pain or Anxiety published by the College of Family Physicians of Canada19 (external link)
+For patients:
+•	Patient information sheets
+•	Patient brochures20 (external	link)
+•	Instructional YouTube videos	(external	link)
+Clinical Practice Guideline
+Page 24 of 49
+Background
+ 
+ITGP StiSzcd
+I *3* I Practice
+Appendix A - Categorization of Recommendations
+Summary of Criteria to Determine the Ca tegoriza tion of Recommenda tions:
+Do	•	The Guideline Development Group (GDG) accepted the original recommendation, which provided a prescriptive direction to perform the action or used the term “effective” to describe it •	The GDG supplemented a recommendation or created a new one, based on their collective professional opinion, which supported the action •	A supplementary literature search found at least one systematic review presenting consistent evidence to support the action
+Do Not Do X	•	The GDG accepted the original recommendation, which provided a prescriptive direction not to perform the action, used the term “ineffective” to describe it, or stated that the evidence does “not support” it •	The GDG supplemented a recommendation or created a new one, based on their collective professional opinion, which did not support the action •	A supplementary literature search found at least one systematic review presenting consistent evidence that did not support the action
+Do Not Know ? ■	•	The GDG accepted the original recommendation, which did not recommend for or against the action or stated that there was “no evidence,” “insufficient or conflicting evidence,” or “no good evidence” to support its use •	The GDG supplemented a recommendation or created a new one, based on their collective professional opinion, which was equivocal with respect to supporting the action •	A supplementary literature search found either no systematic reviews (‘insufficient evidence to recommend for or against”) or at least one systematic review presenting conflicting or equivocal results or stating that the evidence in relation to the action was “limited,” “inconclusive,” “inconsistent,” or “insufficient” (“inconclusive evidence to recommend for or against”)
+Evidence Source Legend
+Systemic Review = SR
+Randomized Control Trial = RCT
+Non-Randomized Comparative Study = NRCS Case Series = CS
+Guideline = G
+Expert Opinion = EO
+Guideline Development Committee = GDC
+Guideline Update Committee = GUC
+Clinical Practice Guideline
+Page 25 of 49 Appendix A - Categorization of Recommendations
+ 
+Appendix B - Evidence Source
+The Evidence Source provides information on the “seed” guideline(s) that were used to develop the Alberta guideline recommendations and the design of the studies referenced by the seed guideline(s) in support of their recommendations.
+The following evidence sources were considered:
+•	Systematic review (SR): as cited by the seed guideline(s) or identified from a supplementary literature search required by the Guideline Development Group (GDG) or Guideline Update Committee (GUC). The literature search spanned from January 1996 to August 2007 for the first edition of this guideline, from January 2002 to December 2010 for the second edition, and from January 2010 to April 2014 for the third edition.
+•	Randomized controlled trial (RCT): as cited by the seed guideline(s)
+•	Non-randomized comparative study (NRCS) as cited by the seed guideline(s)
+•	Case series (CS): as cited by the seed guideline(s)
+•	Guideline (G): as cited by the seed guideline(s)
+•	Expert opinion (EO) as cited by the seed guideline(s): when no evidence was provided by the “seed” guideline(s) in support of the recommendation
+•	EO (GDG) or EO (GUC): after examining the individual studies cited by the seed guideline(s) or additional SRs on low back pain, as identified by a supplementary literature search spanning from January 1996 to April 2014 (see above), the original recommendation was rejected and a new one was drafted based on the collective EO of the Ambassador GDG or GUC
+For evidence cited by the seed guideline(s), only the highest level of evidence was listed. For example, when the evidence cited by a seed guideline was from SRs and studies of other design (i.e., RCT, NRCS, CS, or G) only SR is listed as the source. When no SR was referenced in the seed guideline, the evidence source was indicated in the following order: RCT, NRCS, CS, G, EO. The same classification for the evidence source was applied when multiple seed guidelines were used to inform one recommendation.
+Each recommendation in the Alberta guideline came from one or more seed guidelines or was created by the GDG or GUC, based on their collective professional opinion and an analysis of relevant evidence. The GDG constructed the first edition of the Alberta guideline. Subsequent editions were constructed by the GUC.
+Clinical Practice Guideline
+Page 26 of 49
+Appendix B - Evidence Source
+ 
+Appendix C - Glossary
+(Adapted from 5, 21-44, G1, G5, G10, G11)
+Acupuncture	An intervention consisting of the insertion of needles at specific acupuncture points.
+Acute and subacute low back pain	Pain present for less than three months.
+Back schools	An intervention consisting of education and a skills program, including exercise therapy, in which all lessons are given to groups of patients and supervised by a paramedical therapist or medical specialist.
+Behavioural treatment (BT) & Cognitive behav ioural treatment (CBT)	BT: There are three behavioural treatment approaches: operant, cognitive, and respondent. Each of these focuses on the modification of one of the three response systems that characterize emotional experiences: behaviour, cognition, and physiological reactivity. CBT: A range of therapies based on psychological models of human cognition, learning and behaviour that are usually taught as a “package” and are intended to provide patients with a variety of skills for managing their pain.
+Brief education in a clinical setting	Brief education in clinical setting is defined as review of the patient's clinical examination results, provision of low back pain information and advice to stay active, and reduction of fear and catastrophizing.
+Catastrophizing	Exaggerating the potential or real consequences of an event and becoming fearful of these consequences.
+Chronic low back pain	Pain present for more than three months.
+Craniosacral therapy	An alternative treatment approach that involves applying a gentle manual force to address somatic dysfunctions of the head and body, with the aim of releasing restrictions around the spinal cord and brain and restoring body function.
+Electrodiagnostic studies	Studies performed in the electromyography (EMG) laboratory, including nerve conduction studies, F-waves, somatosensory evoked potentials, and EMG.
+Electromyography (EMG)	The recording of electrical activity generated in skeletal muscle for diagnostic purposes. EMG is performed using an instrument called an electromyograph to produce a record called an electromyogram.
+Exercise	Therapeutic exercises are prescribed according to the results of an individual patient assessment. Recommendations are based on the specific impairments identified. Supervised exercise programs and formal home exercise regimens range from programs aimed at general physical fitness or aerobic exercise to programs aimed at muscle strengthening, flexibility, stretching, or different combinations of these elements.
+Facet joint injection	Injection of local anesthetic, with or without corticosteroid medication, into one or more of the small joints along the sides of each vertebrae to diagnose or treat low back pain associated with facet joint dysfunction. See also the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology.
+Clinical Practice Guideline
+Page 27 of 49
+Appendix C - Glossary
+ 
+Functional restoration (also called physical conditioning, work hardening, or work conditioning)	An intervention that involves simulated or actual work tests in a supervised environment in order to enhance job performance skills and improve strength, endurance, flexibility, and cardiovascular fitness in injured workers.
+Interdisciplinary rehabilitation (also called multidisciplinary therapy)	A biopsychosocial intervention that combines and coordinates physical, vocational, and behavioural components and is provided by multiple health care professionals with different clinical backgrounds. The intensity and content of interdisciplinary therapy varies widely.
+Interferential current therapy	The superficial application of a medium-frequency alternating current modulated to produce low frequencies up to 150 Hz. It is thought to increase blood flow to tissues and provide pain relief and is considered more comfortable for patients than transcutaneous electrical nerve stimulation.
+Intramuscular stimulation	Uses very thin needles to 'dry needle' affected areas without the injection of any substance. IMS differs from acupuncture in its application because needle insertion is indicated by physical signs as opposed to the predetermined meridians of acupuncture. IMS is based on known scientific, neurophysiological principles.
+Low-level laser therapy	The superficial application of lasers at wavelengths between 632 and 904 nm to the skin in order to apply electromagnetic energy to soft tissue. Optimal treatment parameters (wavelength, dosage, doseintensity, and type of laser) are uncertain.
+Lumbar disc herniation with radiculopathy	Localized displacement of disc material beyond the normal margins of the intervertebral disc space resulting in pain, weakness or numbness in a myotomal or dermatomal distribution.
+Lumbar discography	Procedure that is used to characterize the pathoanatomy and architecture of the intervertebral disc and to determine if the intervertebral disc is a source of chronic low back pain.
+Lumbar supports	External devices designed to reduce spinal mobility.
+Manual therapy	Manual therapy (MT) is an umbrella term that has increasingly been adopted to encompass various forms of hands-on treatment, including both manipulation and mobilization (see spinal manipulative therapy and spinal mobilization). Manual therapy as a treatment option in the management of pain is an intervention that is practised by a variety of healthcare professionals including physiotherapists, osteopaths, and chiropractors. Philosophical differences exist both within and between the various professions regarding the possible mechanisms of action of manual therapy.
+Massage	Soft tissue manipulation using the hands or a mechanical device through a variety of specific methods. The pressure and intensity used in different massage techniques vary widely.
+Medial branch block	An injection of local anesthetic, with or without corticosteroid medication, in the area of the medial branch of the posterior primary ramus, the primary nerve innervating the intervertebral facet joint, to diagnose or treat back pain. See also the companion document Radiological Diagnostic and
+Clinical Practice Guideline
+Page 28 of 49
+Appendix C - Glossary
+ 
+	Therapeutic Interventions Directed to Lumbar Spine Pathology.
+Mindfulness	The skill of non-judgmentally observing emotions, sensations, or cognitions (moment-to-moment awareness). It is learned through meditation exercises that have been adapted from Buddhist traditions.
+Motorized traction	An intervention involving drawing or pulling in order to stretch the lumbar spine. Various methods are used, usually involving a harness around the lower rib cage and the iliac crest, with the pulling action done by using free weights and a pulley, motorized equipme nt, inversion techniques, or an overhead harness.
+MRI	Magnetic resonance imaging; an imaging technique used to image internal structures of the body, particularly the soft tissues without use of radiation.
+Multidisciplinary therapy (multidisciplinary treatment programs)	See Interdisciplinary rehabilitation.
+Nonspecific low back pain	Pain occurring primarily in the back with no signs of a serious underlying condition (such as cancer, infection, or Cauda Equina Syndrome), spinal stenosis or radiculopathy, or another specific spinal cause (such as vertebral compression fracture or ankylosing spondylitis). Degenerative changes on lumbar imaging are usually considered nonspecific, as they correlate poorly with symptoms.
+Osteopathic physician	The training of osteopathic physicians incorporates the diagnosis, treatment, prevention and rehabilitation of musculoskeletal conditions. Osteopathic manual therapy, including manipulation, can be an important part of treatment.
+Physiotherapy provided operant conditioning	Operant conditioning is defined as a time contingent, graduated increase in activity including goal setting and the education and reinforcement of positive pain behaviours with the ultimate aim of decreasing disability and increasing function.
+Prevention of occurrence of low back pain	Reduction of the incidence (first-time onset) of low back pain or the risk of new cases appearing, i.e., primary prevention.
+Prevention of recurrence of low back pain	Reduction of the occurrence of a new episode of low back pain after a symptom-free period in patients who have previously experienced low back pain, i.e., secondary prevention.
+Progressive (muscle) relaxation	A technique that involves the deliberate tensing and relaxation of muscles to facilitate the recognition and release of muscle tension.
+Prolotherapy	Injections of irritant solutions to strengthen lumbosacral ligaments.
+Proton pump inhibitor	A type of drug that reduces the production of acid in the stomach, and is used to treat indigestion and stomach ulcers.
+Radiculopathy	Dysfunction of a nerve root associated with pain, sensory impairment, weakness, or diminished deep tendon reflexes in a nerve root distribution. The most common symptom of lumbar radiculopathy is sciatica.
+Radiofrequency neurotomy	Application of a high-frequency electrical current via an electrode to spinal nerves to destroy nerve function and interrupt pain signals to the brain. Also known as radiofrequency ablation.
+Clinical Practice Guideline
+Page 29 of 49
+Appendix C - Glossary
+ 
+	See also the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology.
+Red flags	Clinical (i.e. physical) features that may alert to the presence of serious but relatively uncommon conditions or diseases requiring evaluation. Such conditions include tumours, infection, fractures, and neurological damage/ disease.
+Respondent therapy using EMG biofeedback	A therapy aimed at modifying physiological response to pain by reducing muscular tension. It is based on the idea of a pain-tension cycle, where pain is viewed as both a cause and a result of muscular tension. Respondent therapy attempts to interrupt this cycle by using a tension-incompatible reaction, such as relaxation. EMG biofeedback is frequently used to reduce the assumed muscular tension, relieve anxiety, and subsequently pain (see separate glossary entry).
+Sacroiliac joint block	An injection of local anesthetic, with or without corticosteroid medication, into the sacroiliac joint to diagnose or treat low back pain associated with sacroiliac joint dysfunction. See also the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology.
+Sciatica	Pain that radiates along the path of the sciatic nerve, which runs from the lower back, through the buttock, and down the back of the leg. Sciatica can be caused by irritation or compression of the sciatic nerve.
+Selective nerve root block (SNRB)	An injection of local anesthetic, with or without other substances such as corticosteroid medication, along a specific nerve root that exits from the spinal cord to diagnose or treat nerve root pain in the back. Also known as selective transforaminal epidural injection. See also the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology.
+Shock-wave treatment	Application of low-frequency sound waves (10, 50, 100, or 250 Hz) to the skin, causing an oscillatory pressure in the underlying soft tissue. Also commonly known as “vibrotherapy”.
+Short-wave diathermy	Therapeutic elevation of the temperature of deep tissues by application of short-wave electromagnetic radiation with a frequency range from 10-100 MHz.
+Spa therapy	An intervention involving several interventions, including mineral water bathing, usually with heated water, and other interventions such as massage and exercise, typically while staying at a spa resort.
+Spinal care specialist	A physical therapist, chiropractor, osteopathic physician, or physician who specializes in musculoskeletal medicine.
+Spinal manipulative therapy	Application of high-velocity, low-amplitude manual thrusts to the spinal joints slightly beyond the passive range of joint motion. This may be accompanied by an audible ‘crack’ or ‘pop’.
+Spinal mobilization	Application of manual force to the spinal joints within the passive range of joint motion that does not involve a thrust.
+Spinal stenosis	A condition in which there is diminished space available for the neural and vascular elements in the lumbar spine, secondary to degenerative changes in the spinal canal. When symptomatic, this causes a variable clinical syndrome of gluteal and/or lower extremity pain and/or fatigue, which may occur with or without back pain.
+Clinical Practice Guideline
+Page 30 of 49
+Appendix C - Glossary
+ 
+	See also the companion document Radiological Diagnostic and Therapeutic Interventions Directed to Lumbar Spine Pathology.
+TENS	Transcutaneous electrical nerve stimulation; use of a small, battery-operated device to provide continuous electrical impulses via surface electrodes, with the goal of providing symptomatic relief by modifying pain perception.
+Therapeutic aquatic exercise	Active exercise in warm water; such as aqua-aerobics and aquajogging.
+Therapeutic ultrasound	The use of, externally applied sound waves to generate heat within specific parts of the body.
+Trigger point injection	An injection of fluid directly into a hyperirritable area of muscle or soft tissue (trigger point) that is tender when compressed and can give rise to referred pain. Also known as direct wet needling.
+Touch therapies	Touch therapies are defined as energy based complementary therapies including healing touch, therapeutic touch, and Reiki.
+Yellow flags	Psychosocial and sociological factors that increase the risk of developing or perpetuating long-term disability and work loss associated with low back pain.
+Yoga	An intervention distinguished from traditional exercise therapy by the use of specific body positions, breathing techniques, and an emphasis on mental focus. Many styles of yoga are practiced, each emphasizing different postures and techniques. Iyengar yoga: A type of hatha yoga; make use of a variety of props so that perfect alignment is obtained regardless of physical limitations. Viniyoga: A type of hatha yoga customized by the practitioner for each individual. Other types of hatha yoga include: Ashtanga, Kripalu, Bikram, Anusara.
+Clinical Practice Guideline
+Page 31 of 49
+Appendix C - Glossary
+ 
+Appendix D - Interventions & Practices Considered
+Prevention of Occurrence and Recurrence of Low Back Pain
+Patient education
+Exercise for prevention of recurrence
+Shoe insoles/orthoses
+Lumbar supports
+Manual therapy - spinal manipulative therapy
+Manual therapy - spinal mobilization
+Risk factor modification
+Chairs
+Mattresses
+Acute and Subacute Low Back Pain
+Diagnostic triage
+Ankylosing spondylitis
+Emergent cases
+Cases requiring further evaluation
+Evaluate for fracture
+Imaging to rule out underlying pathology in the absence of radiculopathy
+Imaging to rule out underlying pathology in the presence of radiculopathy
+Referral to a spinal care specialist
+Referral for inflammatory disease
+Laboratory testing
+Psychosocial risk factors
+Reassessment of patients whose symptoms fail to resolve
+Information and reassurance
+Advice to stay active
+Therapeutic exercise
+Return to work
+Heat or cold packs
+Analgesia
+BRIEF course of narcotic analgesics (opioids)
+Manual therapy - spinal manipulation
+Multidisciplinary treatment programs for occupationally-related subacute low back pain
+Bed rest
+Diagnostic imaging
+Imaging to rule out underlying pathology in the absence of radiculopathy
+Antibiotic treatment based on MRI modic changes
+Traction
+Therapeutic ultrasound
+Transcutaneous electrical nerve stimulation (TENS)
+Oral steroids
+Systemic steroids
+Epidural steroid injections in the absence of radiculopathy
+Clinical Practice Guideline
+Page 32 of 49
+Appendix D - Interventions & Practices
+ 
+Epidural steroid injections in the presence of radiculopathy
+Multidisciplinary treatment programs
+Antidepressants and anticonvulsants as adjuvant therapies
+Marijuana (dried cannabis)
+Acupuncture
+Back schools
+The clinical prediction rule for spinal manipulative therapy
+Herbal medicine
+Low-level laser therapy
+Manual therapy - massage
+Operant conditioning provided by a physiotherapist
+Short-wave diathermy
+Topical NSAIDs
+Craniosacral massage/therapy
+Interferential current therapy
+Manual therapy - spinal mobilization
+Modified work duties for facilitating return to work
+Shock-wave treatment
+Tapentadol (Nucynta®)
+Touch therapies
+Yoga therapy
+Chronic Low Back Pain
+Diagnostic imaging
+Exercise and therapeutic exercise
+Therapeutic aquatic exercise
+Yoga therapy
+Education
+Self-management programs
+Manual therapy - massage therapy
+Acupuncture
+Acetaminophen and non-steroidal anti-inflammatory drugs (NSAIDs)
+Muscle relaxants
+Analgesic antidepressants (amitriptyline and nortriptyline)
+Herbal medicine
+Cognitive behavioural therapy
+Respondent behavioural therapies (progressive relaxation or EMG biofeedback)
+Multidisciplinary treatment program
+Referral for surgical opinion
+Referral for inflammatory disease
+Selective serotonin reuptake inhibitors (SSRIs)
+Antibiotic treatment based on MRI modic changes
+Motorized traction
+Prolotherapy as a sole treatment
+Transcutaneous electrical nerve stimulation (TENS)
+Lumbar discography in primary care
+Electrodiagnostic studies in primary care
+Diagnostic selective nerve root blocks (SNRBs) in primary care
+Clinical Practice Guideline
+Page 33 of 49
+Appendix D - Interventions & Practices
+ 
+Diagnostic lumbar facet joint nerve blocks (includes medial branch blocks and intra-articular facet joint blocks) Diagnostic sacroiliac joint blocks
+Manual therapy - spinal manipulative treatment
+Manual therapy - spinal mobilization
+Prolotherapy as an adjunct treatment
+Transcutaneous electrical nerve stimulation (TENS) as an adjunct treatment
+Therapeutic ultrasound
+Epidural steroid injections
+Therapeutic lumbar facet joint interventions
+Therapeutic sacroiliac joint interventions
+STarT back screening tool
+Clinically Organized Relevant Exam (CORE) back screening tool
+Opioids
+Marijuana (dried cannabis)
+Duloxetine
+Gravity tables (inversion/inverted traction, self-traction, gravitational traction)
+Low-level laser therapy
+Mindfulness-based meditation
+Shock-wave treatment
+Spa therapy
+T rigger point injections
+Back belts, corsets, non-motorized traction, or over-the-counter TENS
+Buprenorphine transdermal system
+Craniosacral massage/therapy
+Intramuscular stimulation
+Interferential current therapy
+Tapentadol (Nucynta®)
+Topical NSAIDs
+Touch therapies
+Clinical Practice Guideline
+Page 34 of 49
+Appendix D - Interventions & Practices
+ 
+Appendix E - Red and Yellow Flags
+Red Flags (Adapted from G2, G4, G6, G7, G8, EO [GDG/GUC])
+Definitions
+Emergency - referral within hours
+Urgent - referral within 24 - 48 hours
+Soon - within weeks
+Depending on the clinical situation, consider communicating with the specialist consultant to determine the urgency and timelines for referral.
+While patient is waiting to be seen by specialist: general advice is analgesia, rest and activity avoidance. Advise patient that tests are needed to clarify the diagnosis but that results may be inconclusive.
+•	Cauda equina syndrome (sudden or progressive onset of new urinary retention, fecal incontinence, saddle (perineal) anesthesia, radicular (leg) pain often bilateral, loss of voluntary rectal sphincter contraction) - EMERGENCY referral to ER
+•	Severe unremitting (non-mechanical) worsening of pain (at night and pain when laying down), consider infection or tumor - URGENT referral to ER for pain control and prompt investigation
+•	Significant trauma, consider fractures - check for instability and refer URGENTLY to spinal surgery if indicated
+•	Weight loss, fever, history of cancer or HIV, consider infection or tumor -URGENT referral for MRI scan and to spinal surgery if indicated
+•	Use of IV drugs or steroids, consider infection or compression fracture - URGENT investigation required. In case of suspected infection, consider blood work (CBC and ESR or CRP). If blood work is positive, proceed to MRI, if available. In case of suspected compression fracture, proceed to standing AP and lateral x-rays
+Risk factors for compression fractures include: severe onset of pain with minor trauma in patients >50 years of age (higher risk >65 years of age), history of prolonged corticosteroid intake, or structural deformity
+•	Widespread neurological signs, consider tumor or neurological disease - investigate further and refer SOON if indicated
+•	Patient over 50 years of age, but particularly over 65 years of age, with first episode of severe back pain, if other risk factors for malignancy are present (history of cancer/carcinoma in the last 15 years, unexplained weight loss, failure of conservative care [four weeks]) - investigate further, refer SOON as indicated
+Clinical Practice Guideline
+Page 35 of 49
+Appendix E - Red and Yellow Flags
+ 
+Yellow Flags16
+Yellow Flags indicate psychosocial barriers to recovery that may increase the risk of long term disability and work loss. Identifying any Yellow Flags may help when improvement is delayed. There is more about Clinical Assessment for Psychosocial Yellow Flags and Management of Psychosocial Yellow Flags in the companion documents to this guideline.
+Yellow Flags include:
+Yellow Flag	Intervention
+Belief that pain and activity are harmful	Educate and consider referral to active rehab including CBT
+‘Sickness behaviours’ (like extended rest)	Educate and consider pain clinic referral
+Low or negative moods, social withdrawal	Assess for psychopathology and treat
+Treatment beliefs do not fit best practice	Educate
+Problems with claim and compensation	Connect with stakeholders and case manage
+History of back pain, time-off, other claims	Follow-up regularly refer if recovering slowly
+Problems at work, poor job satisfaction	Engage case management through disability carrier
+Heavy work, unsociable hours (shift work)	Follow-up regularly refer if recovering slowly
+Overprotective family or lack of support	Educate patient and family
+Clinical Practice Guideline
+Page 36 of 49
+Appendix E - Red and Yellow Flags
+ 
+Appendix F - Medication Table
+The medications presented are those for which systematic review(s) (SRs) were identified by literature search. Some drugs in the table are recommended based on GDG/GUC expert opinion. Other drugs are sometimes used for neuropathic and musculoskeletal pain.
+Any medication should be tapered and withdrawn if clearly not improving pain or function.
+Pain Type	Medication			Dosage Range	Contraindications/ Precautions	Side effects	Ongoing monitoring
+Acute low back pain or flare-up of chronic low back/spinal pain45-51		1st line<a> - Acetaminophen	Up to 1000 mg QID (max. of 3000 mg/day for long term use)	These are time limited strategies typically several days to a week and rarely up to a month. Monitor judiciously.	Negligible.	See Acetaminophen below.
+		2nd line<a>	Ibuprofen NSAIDs (b)	Diclofenac Add: Cyclobenzaprine for prominent muscle spasm If taking controlled release (CR) opioids add a short-acting opioid or increase CR opioid by 20l25%(c)	Up to 800 mg TID (max. of 800 mg QID) Up to 50 mg BID (max. of 100 mg/day 10 to 30 mg per day; Greatest benefit seen within one week; therapy up to 2 weeks may be justified. See opioids below.		See NSAIDs below.	See NSAIDs below.
+					Sedation, dry mouth.	Related to the TCAs but without robust evidence to support long-term use.
+					See opioids below.	See opioids below.
+Chronic low back/spinal pain45-48; 50-52		1st line<a> Acetaminophen	Up to 1000 mg TID (max. of 3000 mg/day for longterm use)	Liver disease. Concomitant long term use with NSAIDs may inc. risk of ulcers.	Negligible.	Primarily liver toxicity with long-term, high-dose consumption. Increased risk of high BP associated with long-term use.
+		2nd line<a>	Ibuprofen	Up to 800 mg TID (max. of 800 mg QID)	Elevated risk of GI complications; coagulation defects.	Primarily GI, possible fluid retention or CNS effects such as dizziness or fatigue at higher doses.	Patients over 45 years of age should have gastric protection with a PPI. Monitor for CV risk factors and renal function if long term use.
+		Diclofenac	Up to 50 mg TID			
+		3rd line	Amitriptyline Tnr'i/r'lir'o incyclics	Nortriptyline fewer (ICA)	adverse effects	10 to 100 mg HS	Start low & go slow; TCAs have positive effects on sleep architecture.	Drowsiness, anticholinergic effects.	Precautions in patients with preexisting cardiac abnormalities and glaucoma.
+	OPIOIDS (administered with caution)!4)	3rd line	Codeine Weak	CR Codeine Opioids	30 to 60 mg every 3 to 4 hours CR Codeine - 50 to 100 mg Q8h, may also be given Q12h.	Up to 30% of patients do not respond to codeine.	Constipation, nausea, CNS side effects.	Monitor constipation.
+		4th line - Tramadol	Slow titration; max. of 400 mg/day Note: Monitor total daily acetaminophen dose when using tramadol-acetaminophen combination.	Slow titration then convert to a CR product. Possible loss of analgesia when combined with high-dose opioid. Caution if adding to TCAs or SNRIs.	Dizziness, drowsiness, asthenia, gastrointestinal complaints, risk for potential hypoglycemia.	Hepatic and/or renal dysfunction or pre-existing seizure risk.
+		5th line	Morphine sulfate Strong	Hydromorphone HCI Opioids (CR)	Oxycodone HCI Fentanyl patch<b>	15 to 45 mg BID 3 to 10 mg BID 10 to 30 mg BID 12.5 to 25 mcg/hr Q3days	Assess addiction potential. Use an opioid agreement. Observe and assess for a dose-response relationship. A MDE of 30 mg is required before any fentanyl patch can be started.	Anticipate constipation and nausea; treat accordingly. CNS side effects. Opiate-induced hyperalgesia and endocrinological changes. Tolerance occurs.	Ongoing use of opioids supported by documentation of at least 30% pain reduction and/or improved function in at least two predetermined domains, and tolerable adverse effects. If achieved, further dose escalation not beneficial.
+Clinical Practice Guideline
+Page 37 of 49
+Appendix F - Medication Table
+ 
+Neuropathic pain if co-emergent with musculoskeletal complaints!’ 45 4	1st line Anticonvulsants (Gabapentin or Pregabalinih)	Gabapentin: 100 mg HS up to a suggested maximum of 1200 mg TID. Higher doses have been used. Pregabalin: 75 to 300 mg BID; may need to start @ 25 mg for elderly or sensitive patients.	Renal impairment requires dose adjustment. Slower titration required for pregabalin.	Sedation, dizziness and other CNS side effects.	Occasional renal function tests.
+53-56	Tricyclics (TCA)	See TCA for chronic low back/spinal pain above.	See TCA above.	See TCA above.	See TCA above.
+	SNRIs	Duloxetine •	Start at 30 mg with titration (recommended max. daily dose 60 mg45	Significant renal impairment requires dose adjustment.	Dizziness, headache, insomnia or sedation,	Possible weight loss (esp. venlafaxine).
+	Venlafaxine(h	Start at 37.5 mg with titration (recommended max daily dose 225 mg45	Do not stop abruptly.	gastrointestinal complaints.	Venlafaxine more activating.
+	2nd line - Add opioids including tramadol	See opioids including tramadol, above.	See opioids including tramadol, above.	See opioids including tramadol, above.	See opioids including tramadol, above.
+(a) Sequence is based on the GDG expert opinion of common usage and potential risks/side effects; (b) COX-2 Inhibitors (i.e., celecoxib) for patients with a history of severe complications; Requires special authorization for Blue Cross coverage; Fentanyl patch for patients unable to tolerate at least two of the following: morphine, hydromorphone, oxycodone; (c) Cautions and responsible use of opioids should only be considered for those carefully selected patients with severe acute LBP not controlled with acetaminophen and NSAIDs; (d) See the 2017 Canadian Guideline for Opioids for Chronic Non-Cancer Pain,17 available at: http://nationalpaincentre.mcmaster.ca/euidelines.html; (e) Not currently covered by Alberta Blue Cross; (f) If the patient has not responded to 1st or 2nd line medications, or may have a more central neuropathic pain focus, please refer to the Canadian neuropathic pain guidelines53-(g) There is inconclusive evidence to recommend for or against the use of duloxetine for chronic LBP; (h) Recommended based on GDG expert opinion; no evidence (SR) was found to support recommending the use of venlafaxine for patients with chronic LBP.
+BID: twice a day; CR: controlled-release; HS: at bedtime; MDE: daily oral morphine equivalent; Q_h: every so-many hours; QD: once a day; QID: four times a day; TID: three times a day
+Clinical Practice Guideline
+Page 38 of 49
+Appendix F - Medication Table
+ 
+Appendix G - Injection Therapies
+Source: EO (GDG/GUC)
+Injections therapies, including Prolotherapy, Facet Joint Blocks, Medial Branch Blocks, and Neurotomy are areas of active research and the clinical factors that predict their optimum use remain undetermined at present. Nonetheless, clinically, there appears to be reason to support their use in carefully selected patients. At present they are recommended only for patients selected by a clinician with training and experience in evaluating the physical examination findings that the receiving consultant physician has agreed are predictive of successful intervention. The referring clinician may be another physician with an interest in these treatment modalities, or a similarly qualified physiotherapist or chiropractor. This requires a degree of local co-operation to establish the appropriate referral networks, which is not feasible in all settings.
+Physical examination findings predictive of facet joint origin for low back pain:
+While published research suggests a significant degree of inter-examiner variability in interpreting physical examination findings, the following are considered by the authors to be suggestive of a facet joint origin for low back pain. Within the limitations noted above, such patients may be considered for referral for facet joint blocks as a confirmatory test:
+•	Pain is often of rapid onset
+•	Pain is unilateral or bilateral at or above the belt-line. If radiation to the leg is present it tends to be to the buttocks or lateral thigh and rarely below the knee
+•	Pain tends to be worse with low back extension, and may be relieved with flexion or sitting
+•	Pain may be provoked with palpation over the paravertebral tissues in the area of the facet joints lateral to the midline, and often under several layers of muscle that may also be pain generators
+•	Pain may be provoked by “facet joint loading maneuvers” on physical examination, for example: while standing with feet pointing ahead at shoulder distance apart, the patient is asked to look over one shoulder, followed by trunk rotation to the same side, then lumbar extension. The resulting lumbar extension in combination with side-bending and rotation will cause facet joint loading on the same side. The examiner may need to help stabilize the patient to prevent a loss of balance
+Similarly, the following findings are considered by the authors to be suggestive of a sacroiliac joint origin for low back pain:
+•	Pain is localized in the lower back and buttock area, usually unilaterally and just below the belt line
+•	The patient points to the sacroiliac joint as the area of maximal pain
+•	Pain may be aggravated by either flexion or extension, but the patient points to the same point as the pain generator
+Clinical Practice Guideline
+Page 39 of 49
+Appendix G - Injection Therapies
+ 
+•	Pain is reproduced with palpation along the affected sacroiliac joint
+•	Pain is amplified by sacroiliac joint stress maneuvers such as the “Patrick” or “Figure 4” test
+Central canal lumbar spinal stenosis is suspected based upon a history of neurogenic claudication:
+•	Pain that is consistent in onset after a set distance walking or time standing
+•	Pain is radiating into the legs bilaterally
+•	Pain is relieved by sitting
+•	Patients often note that they have significantly increased activity tolerance when in a lumbar flexed position e.g., cycling or swimming. They will often rely on a walker or lean on a shopping cart to mobilize
+•	On examination a loss of lordosis is often noted as well as a limited or absent range of motion into extension
+•	Vascular claudication has been ruled out
+Clinical Practice Guideline
+Page 40 of 49
+Appendix G - Injection Therapies
+ 
+Appendix H - List of Revisions
+New or Revised Recommendation	Nature of Revision	Final Category	Page#
+Acute and Subacute Low Back Pain			
+Evaluate for fracture	New recommendation	Z	3
+Imaging to rule out underlying pathology in the absence of radiculopathy	New recommendation	Z/x+	3
+Referral for inflammatory disease	New recommendation	Z	5
+Therapeutic exercise	Changed from “Do Not Know” to “Do”	Z	6
+BRIEF course of narcotic analgesics (opioids)	Changed from “Do Not Know” to “Do”	Z	7
+Antibiotic treatment based on MRI modic changes	New recommendation	X	9
+Marijuana (dried cannabis)	New recommendation	?	10
+Clinical prediction rule for spinal manipulative therapy	New recommendation	?	11
+Craniosacral massage/therapy	New recommendation	?	11
+Manual therapy - spinal mobilization	New recommendation	?	11
+Shock-wave treatment	New recommendation	?	11
+Tapentadol (Nucynta®)	New recommendation	?	11
+Chronic Low Back Pain			
+Education	New recommendation	Z	13
+Respondent behavioural therapies (progressive relaxation or EMG biofeedback)	New recommendation	Z	15
+Referral for inflammatory disease	New recommendation	Z	16
+Antibiotic treatment based on MRI modic changes	New recommendation	X	16
+Lumbar discography in primary care	Changed from “Do Not Know” to “Do Not Do”	X	16
+Electrodiagnostic studies in primary care	New recommendation	X	16
+Diagnostic selective nerve root blocks (SNRBs) in primary care	New recommendation	X	17
+Diagnostic lumbar facet joint nerve blocks (includes medial branch blocks and intra-articular facet joint blocks)	New recommendation	?	17
+Diagnostic sacroiliac joint blocks	New recommendation	?	17
+Epidural steroid injections	Changed from “Do” to “Do Not Know”	?	18
+Therapeutic lumbar facet joint interventions	New recommendation	?	18
+Therapeutic sacroiliac joint interventions	New recommendation	?	19
+STarT back screening tool	New recommendation	?	19
+Clinically Organized Relevant Exam (CORE) back screening tool	New recommendation	?	19
+Clinical Practice Guideline
+Page 41 of 49
+Appendix H - List of Revisions
+ 
+New or Revised Recommendation	Nature of Revision	Final Category	Page#
+Opioids	Changed from “Do” to “Do Not Know”	?	19
+Marijuana (dried cannabis)	New recommendation	?	20
+Gravity tables (inversion/inverted traction, selftraction, gravitational traction)	New recommendation	?	20
+Mindfulness-based meditation	New recommendation	?	20
+Shock-wave treatment	New recommendation	?	20
+T rigger point injections	New recommendation	?	20
+Back belts, corsets, non-motorized traction, or over-the-counter TENS	New recommendations	?	21
+Craniosacral massage/therapy	New recommendation	?	21
+Tapentadol (Nucynta®)	New recommendation	?	21
+Laboratory testing	Removed from guideline	NA	
+J “Do” category - indicates that the action should be undertaken; x “Do Not Do” category - indicates that the action should not be undertaken; ? “Do Not Know” category - indicates that there was either insufficient evidence or a lack of conclusive evidence to make a definitive decision regarding the action.
+f”Do” for clarifying anatomy and directing treatment decisions and “Do Not Do” when results are not going to affect treatment decisions.
+Clinical Practice Guideline
+Page 42 of 49
+Appendix H - List of Revisions
+ 
+Appendix I - Summary
+A Summary of the Guideline for the |
+Evidence-Informed Primary Care Management of LOW
+3rd Edition, 2015 (Minor Revision 2017)
+This evidence-informed guideline is for non-specific, non-malignant low back pain in adults only
+Red Flags help identify rare but potentially serious conditions. They include:
+•	Features of Cauda Equina Syndrome including sudden or progressive onset of loss of bladder/bowel control, saddle anaesthesia (emergency)
+•	Severe worsening pain, especially at night or when lying down (urgent)
+•	Significant trauma (urgent)
+•	Weight loss, history of cancer, fever (urgent)
+•	Use of steroids or intravenous drugs (urgent)
+•	Patient with first episode of severe back pain over 50 years old, especially over 65 (soon)
+•	Widespread neurological signs (soon)
+EMERGENCY - referral within hours
+URGENT - referral within 24 - 48 hours
+SOON - referral within weeks
+History taking
+Physical and neurological exam Evaluation of Red Flags Psychosocial risk factors/Yellow Flags
+Yellow Flags indicate psychosocial barriers to recovery. They include:
+•	Belief that pain and activity are harmful
+•	‘Sickness behaviours’ (like extended rest)
+•	Low or negative mood, social withdrawal
+•	Treatment expectations that do not fit best practice
+•	Problems with claim and compensation
+•	History of back pain, time off, other claims
+•	Problems at work, poor job satisfaction
+•	Heavy work, unsociable hours (shift work)
+•	Overprotective family or lack of support
+Acute and — Subacute (within 12 weeks of pain onset)
+Consider referring for evaluation (including lab tests and imaging as indicated) and treatment
+e. g., emergency room, relevant specialist, rheumatologist (in the case of inflammatory disease)
+Chronic ----------
+(more than 12 weeks since pain onset)
+Educate patient that low back pain typically resolves within a few weeks, but that recurrences are common (refer to patient information sheet and brochure) Prescribe self-care strategies including alternating cold and heat, continuation of usual activities as tolerated Encourage early return to work
+Prescribe exercise or therapeutic exercise Consider analgesics in this order:
+-	Acetaminophen
+-	NSAIDs
+-	Short-course muscle relaxants
+-	Short-acting opioids (rarely, for severe pain)
+One to Six Weeks
+Reassess (including Red Flags) if patient is not returning to normal function or symptoms are worsening
+Consider Referral
+•	Physical therapist
+•	Chiropractor
+•	Osteopathic physician
+•	Physician specializing in musculoskeletal medicine
+•	Spinal surgeon (for unresolving radicular symptoms)
+•	Multidisciplinary pain program (if not returning to work)
+TOP
+Toward
+Optimized Practice
+•	Educate patient with a clear diagnosis, advice to stay active, and discussion of hurt vs. harm and activity pacing
+•	Prescribe exercise or therapeutic exercise
+•	Analgesics Options
+-	Acetaminophen
+-	NSAIDs (consider PPI)
+-	Short-term cyclobenzaprine if prominent muscle spasm
+-	Low-dose analgesic antidepressants
+See medication table in the complete guideline for recommendations if neuropathic pain suspected
+•	Referral Options
+-	Community-based active rehabilitation program
+-	Community-based self-management/cognitive behavioural therapy program
+•	Additional Options
+-	Progressive relaxation or EMG biofeedback
+-	Acupuncture, as a short-term or adjunct therapy
+-	Massage, as an adjunct therapy
+-	Yoga and aqua therapy
+Moderate to Severe Pain
+•	Tramadol, opioids for carefully selected patients with documented functional goals to monitor for improvement (refer to Canadian National Opioid Guideline endorsed by the College of Physicians and Surgeons of Alberta - see p. 2)
+•	Referral Options
+-	Multidisciplinary chronic pain program
+-	Injection therapies in carefully selected patients
+-	Surgery in carefully selected patients
+For complete guideline refer to the TOP Website: www.topalbertadoctors.org
+IHE
+INSTITUTE OE HEALTH ECONOMICS
+ALBERTA CANADA
+Clinical Practice Guideline
+Page 43 of 49
+Appendix I - Summary
+ 
+Key Messages
+Contraindications
+Evidence indicates these actions are ineffective or harmful
+Low Back Pain
+Do a full clinical assessment; rule out red flags and yellow flags
+In the absence of red flags, reassure the patient there is no reason to suspect a serious cause
+Reinforce that pain typically resolves in a few weeks without intervention, but may recur Recommend exercise and therapeutic exercise
+If pain continues beyond six weeks, reassess and consider additional treatment and referrals The goal of chronic pain management is improved quality of life
+Check for yellow flags and if present, follow good clinical practice’
+Encourage and support pain self-management
+Monitor patient for relative benefit versus side effects
+Lab tests and diagnostic imaging in the • Epidural steroid injections in the absence of red flags	absence of radicular pain
+Prolonged bed rest	• TENS for acute pain
+Traction (including motorized)	• TENS as solo treatment for
+Ultrasound	chronic pain
+Oral and systemic steroids
+*See the guideline s companion documents’Clinical Assessment of Psychosocial Yellow Flags' and ’Management of Psychosocial Yellow Flags' on the TOP website
+Pain Type	Medication	Dosage Range	
+Acute and subacute low back pain or flare-up of chronic low back/ spinal pain	1st line	Acetaminophen	Up to 1000 mg QID (max of 3000 mg/day long-term)
+	2nd line NSAIDs (consider PPIs if >45 years of age)	Ibuprofen	Up to 800 mg TID (max of 800 mg QID)
+		Diclofenac	Up to 50 mg BID
+	Add: Cyclobenzaprine for prominent muscle spasm		10 to 30 mg/day; Greatest benefit seen within one week; therapy up to 2 weeks may be justified
+	If already on a controlled release opioid: add a short-acting opioid or increase controlled release opioid by 20 to 25%		See opioids below
+Chronic low back/spinal pain	1 i w i Q ' O 1 Q_ i O I Q 1 z ! w : y I £ 1 O 1 tr ' i— i ■ ■	1st and 2nd lines	See acute pain, above	
+	3rd line Tricyclics (TCAs)	Amitriptyline Nortriptyline* *fewer adverse effects	10 to 100 mg HS
+	3rd line Weak Opioids	Codeine	30 to 60 mg every 3 to 4 hours
+		Controlled release codeine	50 to 100 mg Q8h, may also be given Q12h
+	4th line T ramadol**		Slow titration max 400mg/day. Note: Monitor total daily acetaminophen dose when using tramadol -acetaminophen combination
+	5th line Strong Opioids** (controlled release)	Morphine sulfate	15 to 45 mg BID
+		Hydromorphone HCI	3 to 10 mg BID
+		Oxycodone HCI	10 to 30 mg Bl D
+		Fentanyl patch	12.5 to 25 mcg/hr Q3 days
+**for carefully selected patients with documented functional goals to monitor for improvement
+This guideline was written to provide primary healthcare providers and patients with guidance about appropriate prevention, assessment, and intervention strategies
+It was developed by a multidisciplinary team of Alberta clinicians and researchers
+This guideline is for adults 18 years of age or older with low back pain and is not applicable to pregnant women
+It is recognized that not all recommended treatment options are available in all communities
+See the 2017 Canadian Guideline for Opioids for Chronic Non-Cancer Pain, available at http://nationalpaincentre.mcmaster.ca/guidelines.html
+For further details on the recommendations visit: http://tinyurl.com/top-lowbackpain
+Clinical Practice Guideline
+Page 44 of 49
+Appendix I - Summary
+ 

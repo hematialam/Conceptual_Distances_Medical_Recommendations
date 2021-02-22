@@ -1,0 +1,403 @@
+Abstract
+
+Background
+
+For many years, low back pain has been both the leading cause of days lost from work and the leading indication for medical rehabilitation. The goal of the German Disease Management Guideline (NDMG) on non-specific low back pain is to improve the treatment of patients with this condition.
+Methods
+
+The current update of the NDMG on non-specific low back pain is based on articles retrieved by a systematic search of the literature for systematic reviews. Its recommendations for diagnosis and treatment were developed by a collaborative effort of 29 scientific medical societies and organizations and approved in a formal consensus process.
+Results
+
+If the history and physical examination do not arouse any suspicion of a dangerous underlying cause, no further diagnostic evaluation is indicated for the time being. Passive, reactive measures should be taken only in combination with activating measures, or not at all. When drugs are used for symptomatic treatment, patients should be treated with the most suitable drug in the lowest possible dose and for as short a time as possible.
+Conclusion
+
+A physician should be in charge of the overall care process. The patient should be kept well informed over the entire course of his or her illness and should be encouraged to adopt a healthful lifestyle, including regular physical exercise.
+
+
+For many years, low back pain has been both the leading cause of days lost from work and the leading indication for medical rehabilitation (1, 2). Musculoskeletal diseases have been second only to mental disorders in recent years as a cause of early retirement due to loss of the ability to work (3). In 2010, 26% of all adults participating in the mandatory nationwide health insurance system in Germany sought medical help at least once because of low back pain (4). The new update of the German Disease management Guideline (NDMG) on non-specific low back pain (5) contains many new elements. Among other things, psychosocial and workplace-related factors are given more emphasis, multiple imaging procedures are discouraged, and early multidisciplinary assessment is recommended. Moreover, both the guideline’s positive recommendations, such as those for less intensive diagnostic evaluation and for exercise rather than bed rest, and its negative recommendations, such as the recommendation against passive measures, are now supported by high-level evidence and confirmed by the guideline group.
+Go to:
+Method
+
+The following instruments were used in the creation of the NDMG:
+
+    The concepts of the Guidelines International Network (G-I-N),
+
+    the guideline criteria of the German Medical Association (Bundesärztekammer, BÄK) and the National Association of Statutory Health Insurance Physicians (Kassenärztliche Bundesvereinigung, KBV) (6),
+
+    the guideline regulations of the Association of the Scientific Medical Societies in Germany (Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften, AWMF) (e1), and
+
+    the German Guideline Evaluation Instrument (Deutsches Leitlinienbewertungsinstrument, DELBI) (e2).
+
+The essentials of the guideline-creating procedure are described in the methods report (e3), and specific details are described in the guideline report (e4). The current version of the NDMG on non-specific back pain was developed from March 2015 to March 2017 by a multidisciplinary guideline group (ebox 1). It was then organized by the German Association for Quality Assurance in Medicine (Ärztliches Zentrum für Qualität in der Medizin, ÄZQ). All of the participants’ conflicts of interest have been documented and made public, as stipulated by the AWMF (e4).
+
+
+For this update, a systematic search was carried out in Medline (via PubMed) and the Cochrane database for aggregated evidence regarding non-specific low back pain (etable 1). In a two-step procedure, the retrieved articles were examined and their key questions and recommendations were classified, extracted, and evaluated (efigure 1) (e4). On some issues, such as the use of opioids to treat acute, non-specific back pain, supplementary searches for primary studies were carried out. Moreover, the S3 guideline on the long-term use of opioids to treat non-cancer pain (LONTS) (7) was used as a reference guideline.
+eTable 1
+Literature search for aggregated evidence on non-specific low back pain
+Medline searching strategy (www.pubmed.org) (20 April 2015)
+No.	Query	Hits
+#3	Search (#1 OR #2) Filters: Systematic Reviews; Publication date from 2006/01/01; English; German	873
+#2	Search (“low* back pain*”[tiab] OR “lumbago”[tiab] OR “low* backache*”[tiab] OR “low* back ache*”[tiab] NOT medline[sb]) Filters: Systematic Reviews; Publication date from 2006/01/01; English; German	158
+#1	Search low back pain[mesh] Filters: Systematic Reviews; Publication date from 2006/01/01; English; German	715
+Number of hits: 873
+PICO scheme:
+Population: low back pain, chronic or acute, non-specific low back pain
+Intervention: no restriction
+Comparison: no restriction
+Outcome: no restriction
+Study type: only systematic reviews
+Searching strategy for Cochrane Library databases (20. April 2015)
+No.	Query	Hits
+#3	#1 or #2, Publication Year from 2006, in Cochrane Reviews (Reviews only), Other Reviews and Technology Assessments	313
+#2	TI, AB, KW: “low* back pain*” or “lumbago” or “low* backache*” or “low* back ache*”:ti,ab,kw (Word variations have been searched)	4862
+#1	MeSH descriptor: [Low Back Pain] explode all trees	2127
+Number of hits: 313
+Cochrane Database of Systematic Reviews (48)
+Others (208)
+Health Technology Assessment Database (57)
+Summary of results from databases
+	Medline	Cochrane Databases	Total
+Aggregated evidence
+Hits
+(2006–2015)	873	313	1186
+Relevant hits
+(2010–2015) 	576	201	777
+An external file that holds a picture, illustration, etc. Object name is Dtsch_Arztebl_Int-114-0883_002.jpg
+eFigure 1
+
+Flow chart for literature search
+Recommendation grades and consensus process
+
+Recommendation grades were assigned in consideration of the following:
+
+    the strength of the underlying evidence
+
+    ethical commitments
+
+    the clinical relevance of the effect strengths that were documented in the studies
+
+    the applicability of the study findings to the target patient group
+
+    patient preferences
+
+    and the practicality of implementation in routine clinical practice.
+
+Two upward arrows (??) indicate a strong recommendation, a single upward arrow (?) indicates a weak recommendation, and a horizontal double arrow (?) indicates an open recommendation. The recommendations, algorithms, and information for patients were agreed upon in a formalized, written voting procedure (Delphi process) or in a consensus conference (nominal group process). The draft guideline was made accessible for public comment in September 2016 (www.versorgungsleitlinien.de). Potential consequences of the comments that were received were voted upon in a written Delphi process (e4).
+Go to:
+Results
+Diagnostic evaluation
+
+If the initial history and physical examination of a patient with low back pain do not yield any sign of a dangerous course of the disease or other serious conditions, no further diagnostic steps should be undertaken for the time being (??, expert consensus). Restricting the diagnostic evaluation spares the patient an unnecessary burden while avoiding unnecessary costs for the health-care system (e5). Intensive diagnostic evaluation that is not justified by clinical findings will only exceptionally result in a relevant, specific diagnosis and may well promote the patient’s fixation on his or her condition and the chronification of pain (e6– e8). The Figure is a depiction of the diagnostic course of a patient with acute low back pain or a new episode of recurrent back pain, starting from the initial contact with a physician. If any somatic warning signs (“red flags”) are present (ebox 2), then further imaging or laboratory tests and/or referral to a specialist should ensue, depending on the particular diagnosis that is suspected and its degree of urgency (??, expert consensus).
+An external file that holds a picture, illustration, etc. Object name is Dtsch_Arztebl_Int-114-0883_001.jpg
+Figure
+
+Diagnosis and treatment on initial contact with a physician
+eBOX 2
+“Extravertebral” causes, somatic warning signs (“red flags”) and psychosocial risk factors for chronification (“yellow flags”)
+
+“Extravertebral” causes of low back pain (due to processes affecting neighboring organs not belonging to the bony, muscular, or discoligamentous structures of the spine):
+
+    abdominal and visceral processes, e.g., cholecystitis, pancreatitis
+
+    vascular changes, e.g., aortic aneurysms
+
+    gynecological causes, e.g., endometriosis
+
+    urological causes, e.g., urolithiasis, renal tumors, perinephric abscesses
+
+    neurological disease, e.g., peripheral neuropathy
+
+    mental and psychosomatic illnesses
+
+Somatic warning signs (“red flags”)
+
+    Fracture/osteoporosis
+
+        severe trauma, e.g., due to automobile accident, fall from a height, sporting accident
+
+        minimal trauma (e.g., coughing, sneezing, or heavy lifting) in an elderly patient or a patient with osteoporosis
+
+        systemic steroid therapy
+
+    Infection
+
+        systemic symptoms, e.g., recent fever/chills, anorexia, fatigability
+
+        recent bacterial infection
+
+        intravenous drug abuse
+
+        immune suppression
+
+        underlying debilitating disease
+
+        recent spinal infiltration therapy
+
+        severe pain at night
+
+    Radiculopathy/neuropathy
+
+        in younger patients, disk herniation as the most common cause of nerve root compression
+
+        pain radiating down one or both legs in a dermatomal distribution, possibly associated with sensory disturbances such as numbness or tingling in the area of pain, and/or with weakness
+
+        cauda equina syndrome: bladder and bowel dysfunction of sudden onset, e.g. urinary retention, urinary frequency, incontinence
+
+        perianal/perineal sensory deficit
+
+        marked or progressive neurologic deficit (weakness, sensory deficit) in one or both lower limbs
+
+        improvement of pain with simultaneous worsening of weakness, up to complete loss of function of the segmental muscle (“nerve root death”)
+
+    Tumor/metastases
+
+        elderly patient
+
+        history of malignancy
+
+        systemic symptoms: weight loss, anorexia, fatigability
+
+        worse pain when supine
+
+        severe pain at night
+
+    Axial spondylarthritis
+
+        low back pain persisting for more than 12 weeks in a patient under age 45
+
+        insidious onset of pain
+
+        morning stiffness (= 30 minutes)
+
+        improvement of low back pain with movement rather than at rest
+
+        awakening at night or early in the morning because of pain
+
+        alternating buttock pain
+
+        progressive stiffness of the spine
+
+        accompanying peripheral arthritis, enthesitis, uveitis
+
+        concomitant psoriasis or inflammatory bowel disease
+
+    Psychosocial risk factors for chronification (“yellow flags”) (selection)
+
+        depressive mood, distress (i.e., negative stress, mainly related to occupation or workplace)
+
+        pain-related cognitions: e.g., catastrophizing tendency, helplessness/hopelessness, fear-avoidance beliefs
+
+        passive pain behavior: e.g., markedly defensive and fearful/avoidant behavior; excessively active pain behavior: task persistence, suppressive pain behavior
+
+        pain-related cognitions: thought suppression
+
+        somaticizing tendency
+
+Psychosocial and workplace-related risk factors (ebox 2) should be considered from the beginning (??, expert consensus). After four weeks of persistent pain with an inadequate response to treatment that has been provided in accordance with the guideline (efigure 2), the coordinating physician should assess psychosocial risk factors (“yellow flags”) with a standardized screening instrument (e.g., the STarT Back Tool or the Örebro Short Questionnaire) (?, expert consensus) and may also assess workplace-related factors with a standardized screening instrument (?, expert consensus). Patient information and related questionnaires are freely accessible via the German-language website www.kreuzschmerz.versorgungsleitlinien.de.
+An external file that holds a picture, illustration, etc. Object name is Dtsch_Arztebl_Int-114-0883_003.jpg
+eFigure 2
+
+Diagnosis and treatment of persistent low back pain (at 4 weeks)
+Imaging
+
+Patients with acute or recurrent low back pain in whom the history and physical examination yield no evidence of a dangerous course of the disease or other serious condition should not undergo any imaging (??, [8, 9]). A systematic review of randomized and controlled trials (RCTs) revealed that, among patients with acute or subacute low back pain who have no clinical evidence of a serious condition, the intensity of pain at three months or at 6–12 months was no different in those who underwent imaging immediately than in those who had no imaging at all (standardized mean difference [SMD] at 3 months 0.11, 95% confidence interval [-0.29; 0.50]; corresponding figures at 6 months, -0.04 [-0.15; 0.07]), and at 12 months 0.01; [-0.17; 0.19]); the two groups of patients received the same treatment (8). These data were confirmed by a prospective cohort study involving 5239 patients over age 65 with acute low back pain: at one year, there was no difference in functional ability between patients who underwent imaging at an early or late date (i.e., less vs. more than 6 weeks after diagnosis). The SMD and confidence interval figures were, for plain x-rays, -0.10 [-0.71; 0.5]; for magnetic resonance imaging (MRI) and computed tomography (CT), -0.51; [-1.62; 0.60]) (9). Moreover, imaging can lead to unnecessary treatment and promote chronification (10). Patient information leaflets were developed as an aid to physician-patient communication on this topic.
+
+Most patients experience appreciable improvement within 6 weeks (11). For patients whose low back pain continues to limit their physical activity or has worsened despite treatment in accordance with the guideline (efigure 2), the indication for diagnostic imaging should be reassessed in 4 to 6 weeks (??, expert consensus based on [10, 12]). Early reassessment in 2–4 weeks may be necessary if a currently employed patient has been unable to work for a considerable period of time, or if a diagnostic evaluation is required before the initiation of multimodal treatment. The authors of the guideline consider one-time diagnostic imaging to be justified as part of such an assessment, alongside the history and physical examination. Nevertheless, imaging that lacks any potential therapeutic relevance should be avoided. After 4–6 weeks of pain, physicians should place greater emphasis on the search for a specific somatic cause than at the patient’s initial presentation. Even in patients with persistent pain, however, the physician should first consider whether the symptoms and course might not be accounted for by other risk factors or by the individual history. Current evidence does not support routine imaging (e.g., MRI) for chronic, non-specific low back pain (12).
+
+An analysis of claims data by WIdO (which is the scientific department of AOK, a German health-insurance carrier) revealed that 26% of patients with low back pain underwent two instances of diagnostic imaging of the lumbar spine within 5 years, and 27% underwent three or more (4). Patients with unchanged symptoms should not undergo repeated imaging (??, expert consensus), as there is no reason to expect any relevant structural changes calling for a change in the treatment strategy. If the symptoms change, however, the indications for imaging may need to be reassessed.
+Multidisciplinary assessment
+
+Patients whose activities in everyday life are still restricted and who still have inadequate relief of pain despite 12 weeks of treatment in accordance with the guideline, as well as patients with an exacerbation of chronic non-specific low back pain, should undergo multidisciplinary assessment (??, expert consensus). Patients at high risk of chronification should undergo such an assessment after 6 weeks of persistent pain (efigure 2). In the assessment, the patient’s symptoms are evaluated as comprehensively and holistically as possible and the findings are discussed in a multidisciplinary case conference, where plans are made for further diagnostic evaluation and treatment.
+
+In the outpatient setting, the principles of multidisciplinary assessment are best met by combining the diagnostic expertise of the physician, the physical therapist, and the psychologist. Broad implementation is generally difficult in ambulatory care but is feasible in the German health care system with the aid of an “integrated care contract” (IV-Vertrag; IV = integrierte Versorgung). Such assessments are regularly performed in multidisciplinary pain centers, which are entitled to obtain reimbursement for them, but usually only in a later phase of the course of the disease (13).
+The management of low back pain
+
+A physician should be responsible the overall care process (Figure and eFigure 2) (??, expert consensus). Over the course of the disease, the physician should continually explain the condition and the treatment to the patient and should encourage the pursuit of a healthful lifestyle, including regular physical exercise (??, [e9–e13]). Recommendations for special situations are summarized in Box 1. The diagnostic and therapeutic process for patients with persistent low back pain is presented in eFigure 2.
+BOX 1
+Care requirements in special situations*
+
+    Pharmacotherapy for longer periods of time (>4 weeks)
+
+        need for the continuation of pharmacotherapy
+
+        side effects (e.g., gastrointestinal symptoms due to nonsteroidal anti-inflammatory drugs [NSAID])
+
+        interactions with other drugs
+
+        appropriate dosing; dose reduction or switch to another drug if necessary (consultation with specialist)
+
+        use of suitable non-pharmacological measures, e.g., psychosocial interventions
+
+        need for specialized work-up or follow-up of pre-existing or new comorbidities
+
+        need for the initiation of multimodal treatment
+
+    Discharge from multimodal treatment
+
+        support with the initiation and adaptation of treatment measures; monitoring of implementation if necessary
+
+        stepwise reintroduction to the workplace or initiation of occupational reintegration measures
+
+        initiation and coordination of further psychotherapeutic care, if necessary
+
+        coordination of continued care by a specialist, if necessary
+
+        consideration of the patient‘s disability and compensation status (consequent to medical judgments) and its potential effects on health, if necessary
+
+    Persistent chronification factors and/or psychosocial consequences of the painful condition
+
+        basic psychosomatic care
+
+        regular screening for chronification factors
+
+        initiation and coordination of further psychotherapeutic care, if necessary; the patient should be encouraged to participate as a component of medical treatment
+
+        possibly social counseling with respect to disability and compensation, or initiation of such counseling
+
+        possibly suggestion of measures for occupational reintegration and/or retraining
+
+    Symptom-maintaining or symptom-reinforcing comorbidities
+
+    (e.g., affective disorders such as anxiety and depression, or somatoform disorders)
+
+        regular appointments for treatment; unscheduled visits only in case of an emergency
+
+        basic psychosomatic care
+
+        initiation and coordination of disorder-specific treatment
+
+    Continued inability to work
+
+        screening for workplace-related risk factors
+
+        contact with company physician (if there is one) and, if necessary, with employer (after discussion with the patient) or pension insurance company
+
+        consider and, if necessary, initiate measures to support occupational reintegration
+
+*Selected items; for the full table, see the NDMG on non-specific low back pain
+Non-pharmacological treatment
+
+Patients should be instructed to continue their usual physical activities as much as possible (??, [14]). Systematic reviews of RCTs have shown that bed rest for patients with acute non-specific low back pain either has no effect or actually delays recovery and the resumption of everyday activities, leading to longer periods of medically excused absence from work (14, 15). Bed rest should not be a part of the treatment of non-specific low back pain, and patients should be advised against it (??, [14, 15]).
+
+Exercise therapy combined with educative measures based on behavioral-therapeutic principles should be used in the primary treatment of chronic non-specific low back pain (??, [16, e14–e38]). It yields more effective pain reduction and better functional ability than can be achieved with general medical care and passive treatment measures (16, e14– e34). Programs for strengthening and stabilizing the musculature seem to relieve low back pain better than programs with a cardiopulmonary orientation (e35, e36). Reviews of RCTs have shown that exercise programs based on a behavior-therapeutic approach improve physical functional ability and speed up the return to work (e22, e37). Current evidence does not show which specific type of exercise therapy is best for pain relief and improved functional ability (e14– e34). The choice of exercise therapy is, therefore, based mainly on the patient’s preference, everyday life circumstances, and physical fitness and the availability of a qualified therapist to carry it out (e39).
+
+Weaker recommendations are given for rehabilitative sports and functional training (?, expert consensus) and progressive muscle relaxation (?, [e40]). Self-administered heat therapy (?, [15, e41–e43]), manual therapies such as manipulation and mobilization (?, [e44–e47]), massage (?, [17, e34, e48, e49]), ergotherapy (?, [e50]), “back school” (?, [17, e51–e54]), and acupuncture (?, [e28, e55–e57]) can be used to treat chronic low back pain as part of an overall concept in combination with activating therapeutic measures.
+
+Strongly negative recommendations are given with regard to interventions for which there is little or no evidence of benefit, even if there is no evidence of harm either. This is done so as not to imply that these methods are an acceptable alternative to maintaining physical activity; a passive approach to treatment should not be promoted. The authors of the guideline, considering this to be a relevant potential harm, have altered the recommendation strengths accordingly. These interventions, while discouraged, may still be used in individual cases, in combination with physical exercise, as long as there is no evidence that they cause harm. Negative recommendations are given for interference-current therapy (e58– e62), kinesiotaping (e63, e64), short-wave diathermy (e65– e68), laser therapy (17, e69), magnetic field therapy (e70), medical aids (e71– e74), percutaneous electrical nerve stimulation (PENS) (17, e75), traction devices (17, e76), cryotherapy (e41), transcutaneous electrical nerve stimulation (TENS), and therapeutic ultrasound (e77, e78).
+Pharmacotherapy
+
+The treatment of non-specific low back pain with drugs is purely symptomatic. In the acute phase, drugs are used to support non-pharmacologic measures, so that the patient can return to his or her usual activities as soon as possible. The treatment of chronic low back pain with drugs is indicated if the physician considers it potentially helpful for the implementation of activating measures, or else when, despite the appropriate performance of these measures, the patient still has an intolerable functional impairment due to pain.
+
+Overall, there is moderate evidence with a low-to-intermediate effect size showing that treatment with drugs relieves acute and chronic non-specific low back pain. Particularly long-term treatment carries relevant risks including major adverse effects. It follows that the physician must carefully weigh the risks and benefits of pharmacotherapy when starting pharmacotherapy (box 2).
+BOX 2
+The principles of pharmacotherapy for non-specific low back pain
+
+The following principles apply regardless of the choice of drug and the mode of its introduction and administration (??, expert consensus):
+
+    The patient should be informed that drugs are only a supportive measure for persons with low back pain.
+
+    A realistic, relevant therapeutic goal should be set, with reference to physical function (e.g., an increase in the distance the patient can walk or in some other type of physical exertion, relevant pain relief [>30% or >50%]).
+
+    The drug should be chosen on an individual basis, with due consideration of comorbidities and comedication, drug intolerances, and the patient’s prior experiences and preferences (see also the guideline on multiple drug prescription [DEGAM)] [e79] and the PRISCUS and FORTA lists [DGIM] [e80, e81]).
+
+    The dose of the drug should be titrated in steps until the benefit is achieved at the lowest possible dose.
+
+    The patient should be monitored at regular intervals (ca. every 4 weeks) to assess the desired and undesired effects of medication.
+
+    Drugs for acute pain should be stopped or tapered to off when the pain improves.
+
+    Drug treatment should be continued only if effective and well tolerated; its effects should be monitored at regular intervals (every three months).
+
+    Drugs that are inadequately effective (despite appropriately prescribed doses) or that cause relevant side effects should be stopped or tapered to off.
+
+DEGAM: German College of General Practitioners and Family Physicians (Deutsche Gesellschaft für Allgemeinmedizin und Familienmedizin e. V.); DGIM: German Society for Internal Medicine (Deutsche Gesellschaft für Innere Medizin e. V.); FORTA: “Fit for the aged”; PRISCUS, “potentially inappropriate medication in the elderly“
+
+Nonsteroidal anti-inflammatory drugs (NSAID) are the pain-relieving drugs most likely recommended. Multiple reviews have documented the short-term analgesic effect and the functional benefit of oral NSAID, compared to placebo, in patients with acute and chronic non-specific low back pain, with a median difference of -5.96 points [-10.96; -0.96] at 16 weeks on a Visual Analog Scale ranging from 0 to 100 (15, 18– 21). To minimize side effects NSAIDs should be given in the lowest effective dose and for the shortest possible time (?). Considering the contraindications, COX-2-inhibitors can be used if NSAIDs are contraindicated or poorly tolerated (off-label-use) (?, [18–20]).
+
+In individual cases, metamizole can be considered as an treatment option if non-opiod analgesics are contraindicated or poorly tolerated. (?, expert consensus). The systematic literature search yielded no reviews documenting its efficacy against non-specific low back pain. The Medicines Committee of the German Medical Association (Arzneimittelkommission der deutschen Ärzteschaft, AkdÄ) recommends its use only for the approved indications (severe pain for which other treatments are not indicated) and states that the patient must be adequately informed about its side effects, particularly the manifestations of agranulocytosis, which include fever, sore throat, and lesions of the oral mucosa. Monitoring of the complete blood count is recommended whenever agranulocytosis is suspected, as well as for all patients taking the drug over the long term (22).
+
+In the light of new evidence, paracetamol (= acetaminophen) should no longer be used (?, [23]). In comparison to placebo, the use of this drug did not lead to any improvement in pain (weighted mean difference [WMD] 1.4 [-1.3; 4.1]) or functional ability (WMD -1.9 [-4.8; 1.0]) in patients with either acute or chronic non-specific low back pain. Nor should flupirtine be used to treat non-specific low back pain (??, [24–32]): its inadequately documented benefit is outweighed by its risks—mainly hepatotoxicity, ranging from elevated liver function parameters to organ failure, and potential dependence (27– 29) (cf. the risk assessment of the European Medicines Agency [EMA] [33]).
+
+Opioid drugs can be a treatment option for acute non-specific low back pain if non-opioid analgesics are contraindicated or have been found to be ineffective in the individual patient (?, [e82–e86]). The indication for opioid drugs should be regularly reassessed at intervals of no longer than 4 weeks (??, [7]). They can be used to treat chronic non-specific low back pain for 4 to 12 weeks initially (?, [19, 34–36]). If this brief period of treatment brings about a relevant improvement in the patient’s pain and/or subjective physical impairment, while causing only minor or no side effects, then opioid drugs can also be a long-term therapeutic option (?, [37]). In the review articles that were identified for the creation of this guideline, the administration of opioid drugs (weak and strong, oral and transdermal) for a brief or intermediate period of time (4 to 26 weeks) significantly reduced pain (SMD: -0.43 [-0.52; -0.33]) and mildly improved physical functional ability (SMD: -0.26 [-0.37; -0.15]) compared to placebo (19, 34– 36). Open long-term observations from the late observational phase of RCTs have revealed long-term analgesic efficacy in approximately 25% of the patients initially included in the trials (37). The most important points to be considered with respect to opioid therapy are summarized in the Table.
+Go to:
+Invasive treatments
+
+Non-specific low back pain should not be treated with percutaneous procedures (??, [e34, e87–e94]) or with surgery (??, [e95–e103]). Nor should intravenously, intramuscularly, or subcutaneously administered analgesic drugs, local anesthetics, glucocorticoids, or mixed infusions be used (??, [e104–e112]).
+Go to:
+Multimodal treatment programs
+
+Patients with subacute and chronic non-specific low back pain should be treated in multimodal programs if less intensive evidence-based treatments have yielded an insufficient benefit (??, [17, 38, 39]). Trials have shown the superiority of multimodal programs over traditional treatments, waiting lists, or less intensive forms of treatment (17, 38, 39). According to the most recent review, including data from a total of 6858 study participants, multimodal treatment was better than traditional treatment at lowering pain intensity (SMD: -0.21 [-0.37; -0.04]) and increasing physical functional ability (SMD: -0.23 [-0.40; -0.06]) at 12 months in patients with chronic, non-specific low back pain (38). The evidence in the underlying trials is of low to moderate quality, and some of the measured effects are weak. The heterogeneity of the findings can be attributed, in part, to wide variation in the content of the multimodal programs (39). In practice, such programs are offered by pain clinics and rehabilitation clinics (etable 2).
+​
+Table
+Considerations regarding opioid treatment
+Aspects of opioid treatment
+Choice of drug and formulation 	– long-acting drugs, sustained-release preparations
+– oral intake is generally preferred; transdermal systems might be an option if oral intake is contraindicated
+– note the side-effect profile of the opioid analgesic drug
+– consider the patient’s comorbidities
+– take patient preferences into account
+Titration (dose-finding)phase 	– agree on treatment goals
+– educate the patient about side effects, risk of addiction, traffic safety
+– start at a low dose
+– fixed dosing schedule
+– incrementally raise dose depending on efficacy and tolerability
+– the optimal dose is the one at which the treatment goals are met with tolerable (or no) side effects
+– the oral morphine-equivalent dose should not exceed 120 mg/day, with rare exceptions
+– short-term use of non-sustained-release oral opioid analgesic drugs can be given “as needed” as an aid to titration
+Long-term treatment	– no non-sustained-release oral opioid analgesic drugs administered as needed
+– if the pain worsens, add-on therapy with a nonsteroidal anti-inflammatory drug (NSAID) should be tried first, rather than an increase of the opioid dose
+– reevaluate at regular intervals:
+– attainment of treatment goals
+– side effects (e.g., loss of libido, psychological changes such as loss of interest, inattention, falls)
+– evidence of inappropriate use of prescribed medication
+– after 6 months of treatment with good response:
+– consider dose reduction or cessation
+– reassess the indication for continued treatment and the response to non-pharmacological treatment
+Cessation of treatment	– individual treatment goals attainable by other therapeutic measures
+– individual treatment goals not met after 4–12 weeks of opioid therapy
+– appearance of intolerable or inadequately treatable side effects
+– persistent loss of effect despite modification of opioid therapy (dose adjustment, change of drug)
+– inappropriate use of prescribed opioid analgesic drug by the patient despite treatment in collaboration with an addiction specialist
+– the cessation of opioid analgesic treatment must be gradual
+eTable 2
+Differences between multimodal pain therapy in the curative sector and multimodal treatment in the rehabilitative sector
+	Multimodal pain therapy in the curative sector	Multimodal treament in the rehabilitative sector
+Indications	– The requirements for indicated treatments with curative intent according to the current regulations in Germany [§27 (1) SGB V] must be met: the purpose of such treatment is “to detect or cure a disease, to prevent its worsening, or to alleviate its symptoms.”
+– comprehensive diagnostic evaluation required
+– rehabilitative capacity not present /not given
+– comorbidities impeding effective treatment (e.g., severely limited cardiopulmonary reserve, poorly controlled metabolic diseases, neurological diseases, impaired mobility)
+– continual worsening of pain over the past six months: spreading of the painful area, appearance of new kinds of pain, change in the character of pain, increase in the duration or frequency of painful attacks
+– increased physical impairment or drug consumption
+– inappropriate drug use
+– difficulties encountered in the initiation or switching of drugs or in drug withdrawal
+– increased need for interventional procedures
+– need for more frequent and intensive treatment
+– need for intensive medical supervision with daily rounds or team discussions
+– significant psychosocial factors or comorbid mental disorders that are relevant to pain 	– The requirements for indicated rehabilitative treatment according to current regulations in Germany [§ 11 (2) SGB V or § 15 SGB VI] must be met: the purpose of such treatment is “to prevent, eliminate, lessen, or compensate for disability or nursing dependency, prevent its worsening, or alleviate its consequences.”
+– rehabilitative capacity and motivation must be present
+– limitation of daily activities and participation because of disease
+– marked endangerment of capacity for employment
+– already impaired capacity for employment
+– imminent need for nursing care
+– conse quences of disease that require treatment, and imminent or already existing physical impairment due to disease
+Criteria for inpatient rehabilitation in a facility far from the patient’s home:
+– longstanding ineffective treatment
+– absence of local treatment facilities
+– need to eliminate contextual stress factors, e.g., workplace-related factors
+– need for (or recognized claim upon) participatory measures that require inpatient treatment
+Special considerations	– reimbursement as per the German Operations and Procedures Key (Operationen- und Prozedurenschlüssel, OPS), defined in consideration of patient features and structural and procedural quality
+– is part of few selective contracts
+– intensive, bundled use of resources to achieve cure or stability for further outpatient care 	– medically / occupation–oriented rehabilitation
+– behavior-therapy-oriented rehabilitation
+Hospitalization	– partial or full hospitalization	– on either an outpatient or an inpatient basis
+Key Messages
+
+    If, on the initial contact of a patient complaining of low back pain with a physician, the history and physical examination yield no evidence of a dangerous or otherwise serious pathological abnormality, no further studies are indicated for the time being.
+
+    Psychosocial and workplace-related factors should be asked about at the initial contact. If the pain persists four weeks later despite treatment, these factors should be systematically assessed with standardized questionnaires.
+
+    The physician should advise the patient to maintain or intensify physical exercise and should advise against bed rest. Exercise therapy should be used to treat chronic non-specific low back pain.
+
+    Analgesic drugs are only moderately effective; their main role is to support physical activity. Nonsteroidal anti-inflammatory drugs (NSAID) are, under these circumstances, the most recommended drugs.
+
+    Patients with persistent pain and relevant impairment in the activities of daily living after (at most) 12 weeks of treatment should undergo a multidisciplinary assessment. Depending on the results of this assessment, they should then be offered multimodal treatment.

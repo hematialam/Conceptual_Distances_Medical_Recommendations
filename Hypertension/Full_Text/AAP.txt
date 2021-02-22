@@ -1,0 +1,1041 @@
+1. Introduction
+1. Scope of the Clinical Practice Guideline
+
+Interest in childhood hypertension (HTN) has increased since the 2004 publication of the “Fourth Report on the Diagnosis, Evaluation, and Treatment of High Blood Pressure in Children and Adolescents” (Fourth Report).1 Recognizing ongoing evidence gaps and the need for an updated, thorough review of the relevant literature, the American Academy of Pediatrics (AAP) and its Council on Quality Improvement and Patient Safety developed this practice guideline to provide an update on topics relevant to the diagnosis, evaluation, and management of pediatric HTN. It is primarily directed at clinicians caring for children and adolescents in the outpatient setting. This guideline is endorsed by the American Heart Association.
+
+When it was not possible to identify sufficient evidence, recommendations are based on the consensus opinion of the expert members of the Screening and Management of High Blood Pressure in Children Clinical Practice Guideline Subcommittee (henceforth, “the subcommittee”). The subcommittee intends to regularly update this guideline as new evidence becomes available. Implementation tools for this guideline are available on the AAP Web site (https://www.aap.org/en-us/professional-resources/quality-improvement/quality-improvement-resources-and-tools/Pages/hypertension.aspx).
+1.1 Methodology
+
+The subcommittee was co-chaired by a pediatric nephrologist and a general pediatrician and consisted of 17 members, including a parent representative. All subcommittee members were asked to disclose relevant financial or proprietary conflicts of interest for members or their family members at the start of and throughout the guideline preparation process. Potential conflicts of interest were addressed and resolved by the AAP. A detailed list of subcommittee members and affiliations can be found in the Consortium section at the end of this article. A listing of subcommittee members with conflicts of interest will be included in the forthcoming technical report.
+
+The subcommittee epidemiologist created a detailed content outline, which was reviewed and approved by the subcommittee. The outline contained a list of primary and secondary topics generated to guide a thorough literature search and meet the goal of providing an up-to-date systemic review of the literature pertaining to the diagnosis, management, and treatment of pediatric HTN as well as the prevalence of pediatric HTN and its associated comorbidities.
+
+Of the topics covered in the outline, ∼80% were researched by using a Patient, Intervention/Indicator, Comparison, Outcome, and Time (PICOT) format to address the following key questions:
+
+    How should systemic HTN (eg, primary HTN, renovascular HTN, white coat hypertension [WCH], and masked hypertension [MH]) in children be diagnosed, and what is the optimal approach to diagnosing HTN in children and adolescents?
+
+    What is the recommended workup for pediatric HTN? How do we best identify the underlying etiologies of secondary HTN in children?
+
+    What is the optimal goal systolic blood pressure (SBP) and/or diastolic blood pressure (DBP) for children and adolescents?
+
+    In children 0 to 18 years of age, how does treatment with lifestyle versus antihypertensive agents influence indirect measures of cardiovascular disease (CVD) risk, such as carotid intimamedia thickness (cIMT), flow-mediated dilation (FMD), left ventricular hypertrophy (LVH), and other markers of vascular dysfunction?
+
+To address these key questions, a systematic search and review of literature was performed. The initial search included articles published between the publication of the Fourth Report (January 2004) and August 2015. The process used to conduct the systematic review was consistent with the recommendations of the Institute of Medicine for systematic reviews.2
+
+For the topics not researched by using the PICOT format, separate searches were conducted. Not all topics (eg, economic aspects of pediatric HTN) were appropriate for the PICOT format. A third and final search was conducted at the time the Key Action Statements (KASs) were generated to identify any additional relevant articles published between August 2015 and July 2016. (See Table 1 for a complete list of KASs.)
+
+
+TABLE 1
+
+Summary of KASs for Screening and Management of High BP in Children and Adolescents
+
+A detailed description of the methodology used to conduct the literature search and systematic review for this clinical practice guideline will be included in the forthcoming technical report. In brief, reference selection involved a multistep process. First, 2 subcommittee members reviewed the titles and abstracts of references identified for each key question. The epidemiologist provided a deciding vote when required. Next, 2 subcommittee members and the epidemiologist conducted full-text reviews of the selected articles. Although many subcommittee members have extensively published articles on topics covered in this guideline, articles were not preferentially selected on the basis of authorship.
+
+Articles selected at this stage were mapped back to the relevant main topic in the outline. Subcommittee members were then assigned to writing teams that evaluated the evidence quality for selected topics and generated appropriate KASs in accordance with an AAP grading matrix (see Fig 1 and the detailed discussion in the forthcoming technical report).3 Special working groups were created to address 2 specific topics for which evidence was lacking and expert opinion was required to generate KASs, “Definition of HTN” and “Definition of LVH.” References for any topics not covered by the key questions were selected on the basis of additional literature searches and reviewed by the epidemiologist and subcommittee members assigned to the topic. When applicable, searches were conducted by using the PICOT format .
+
+
+AAP grading matrix.
+
+In addition to the 30 KASs listed above, this guideline also contains 27 additional recommendations that are based on the consensus expert opinion of the subcommittee members. These recommendations, along with their locations in the document, are listed in Table 2.
+
+    View inlineView popup
+
+TABLE 2
+
+Additional Consensus Opinion Recommendations and Text Locations
+2. Epidemiology and Clinical Significance
+2.1 Prevalence of HTN in Children
+
+Information on the prevalence of high blood pressure (BP) in children is largely derived from data from the NHANES and typically is based on a single BP measurement session. These surveys, conducted since 1988, indicate that there has been an increase in the prevalence of childhood high BP, including both HTN and elevated BP.4,5 High BP is consistently greater in boys (15%–19%) than in girls (7%–12%). The prevalence of high BP is higher among Hispanic and non-Hispanic African American children compared with non-Hispanic white children, with higher rates among adolescents than among younger children.6
+
+However, in a clinical setting and with repeated BP measurements, the prevalence of confirmed HTN is lower in part because of inherent BP variability as well as an adjustment to the experience of having BP measured (also known as the accommodation effect). Therefore, the actual prevalence of clinical HTN in children and adolescents is ∼3.5%.7,8 The prevalence of persistently elevated BP (formerly termed “prehypertension,” including BP values from the 90th to 94th percentiles or between 120/80 and 130/80 mm Hg in adolescents) is also ∼2.2% to 3.5%, with higher rates among children and adolescents who have overweight and obesity.7,9
+
+Data on BP tracking from childhood to adulthood demonstrate that higher BP in childhood correlates with higher BP in adulthood and the onset of HTN in young adulthood. The strength of the tracking relationship is stronger in older children and adolescents.10 Trajectory data on BP (including repeat measurements from early childhood into midadulthood) confirm the association of elevated BP in adolescence with HTN in early adulthood11 and that normal BP in childhood is associated with a lack of HTN in midadulthood.11
+2.2 Awareness, Treatment, and Control of HTN in Children
+
+Of the 32.6% of US adults who have HTN, almost half (17.2%) are not aware they have HTN; even among those who are aware of their condition, only approximately half (54.1%) have controlled BP.12 Unfortunately, there are no large studies in which researchers have systematically studied BP awareness or control in youth, although an analysis of prescribing patterns from a nationwide prescription drug provider found an increase in the number of prescriptions written for high BP in youth from 2004 to 2007.13
+
+The SEARCH for Diabetes in Youth study found that only 7.4% of youth with type 1 diabetes mellitus (T1DM) and 31.9% of youth with type 2 diabetes mellitus (T2DM) demonstrated knowledge of their BP status.14 Even after becoming aware of the diagnosis, only 57.1% of patients with T1DM and 40.6% of patients with T2DM achieved good BP control.14 The HEALTHY Primary Prevention Trial of Risk Factors for Type 2 Diabetes in Middle-School Youth, which examined a school-based intervention designed to reduce cardiovascular (CV) risk among middle school students, found the prevalence of stage 1 or 2 HTN to be ∼9.5%.15 There was no significant reduction in HTN in the control group after the intervention; the intervention group saw a reduction in the prevalence of HTN of ∼1%, leaving 8.5% with BP still above the ideal range.
+
+Researchers in a number of small, single-center studies have evaluated BP control in children and adolescents with HTN. One study found that lifestyle change and medications produced adequate BP control in 46 of 65 youth (70%) with HTN.16 Another study in which researchers used ambulatory blood pressure monitoring (ABPM) to assess BP control among a group of 38 children (of whom 84% had chronic kidney disease [CKD]) found that only 13 children (34%) achieved adequate BP control even among those who received more than 1 drug.17 A similar study found that additional drugs did increase rates of BP control in children with CKD, however.18
+2.3 Prevalence of HTN Among Children With Various Chronic Conditions
+
+It is well recognized that HTN rates are higher in children with certain chronic conditions, including children with obesity, sleep-disordered breathing (SDB), CKD, and those born preterm. These are described below.
+2.3a Children With Obesity
+
+HTN prevalence ranges from 3.8% to 24.8% in youth with overweight and obesity. Rates of HTN increase in a graded fashion with increasing adiposity.19–24 Similar relationships are seen between HTN and increasing waist circumference.4,25,26 Systematic reviews of 63 studies on BMI27 and 61 studies on various measures of abdominal adiposity28 have shown associations between these conditions and HTN. Obesity is also associated with a lack of circadian variability of BP,29,30 with up to 50% of children who have obesity not experiencing the expected nocturnal BP dip.31–33
+
+Studies have shown that childhood obesity is also related to the development of future HTN.22 Elevated BMI as early as infancy is associated with higher future BP.34 This risk appears to increase with obesity severity; there is a fourfold increase in BP among those with severe obesity (BMI >99th percentile) versus a twofold increase in those with obesity (BMI 95th–98th percentiles) compared with normal-weight children and adolescents.35
+
+Collectively, the results of these cross-sectional and longitudinal studies firmly establish an increasing prevalence of HTN with increasing BMI percentile. The study results also underscore the importance of monitoring BP in all children with overweight and/or obesity at every clinical encounter.
+
+Obesity in children with HTN may be accompanied by additional cardiometabolic risk factors (eg, dyslipidemia and disordered glucose metabolism)36,37 that may have their own effects on BP or may represent comorbid conditions arising from the same adverse lifestyle behaviors.25,38 Some argue that the presence of multiple risk factors, including obesity and HTN, leads to far greater increases in CV risk than is explained by the individual risk factors alone. Although this phenomenon has been hard to demonstrate definitively, the Strong Heart Study did show that American Indian adolescents with multiple cardiometabolic risk factors had a higher prevalence of LVH (43.2% vs 11.7%), left atrial dilation (63.1% vs 21.9%; P < .001), and reduced LV systolic and diastolic function compared with those without multiple cardiometabolic risk factors.39 Notably, both obesity and HTN were drivers of these CV abnormalities, with obesity being a stronger determinant of cardiac abnormalities than HTN (odds ratio, 4.17 vs 1.03).
+2.3b Children With SDB
+
+SDB occurs on a spectrum that includes (1) primary snoring, (2) sleep fragmentation, and (3) obstructive sleep apnea syndrome (OSAS). Researchers in numerous studies have identified an association between SDB and HTN in the pediatric population.40–42 Studies suggest that children who sleep 7 hours or less per night are at increased risk for HTN.43 Small studies of youth with sleep disorders have found the prevalence of high BP to range between 3.6% and 14%.40,41 The more severe the OSAS, the more likely a child is to have HTN.45,46 Even inadequate duration of sleep and poor-quality sleep have been associated with elevated BP.43
+2.3c Children With CKD
+
+There are well-established pathophysiologic links between childhood HTN and CKD. Certain forms of CKD can lead to HTN, and untreated HTN can lead to CKD in adults, although evidence for the latter in pediatric patients is lacking. Among children and adolescents with CKD, ∼50% are known to be hypertensive.46–48 In children and adolescents with end-stage renal disease (either those on dialysis or after transplant), ∼48% to 79% are hypertensive, with 20% to 70% having uncontrolled HTN.49–53 Almost 20% of pediatric HTN may be attributable to CKD.54
+2.3d Children With History of Prematurity
+
+Abnormal birth history—including preterm birth and low birth weight—has been identified as a risk factor for HTN and other CVD in adults55; only low birth weight has been associated with elevated BP in the pediatric age range.56 One retrospective cohort study showed a prevalence of HTN of 7.3% among 3 year olds who were born preterm.57 Researchers in another retrospective case series noted a high prevalence of HTN in older children with a history of preterm birth.58 It also appears that preterm birth may result in abnormal circadian BP patterns in childhood.59 These data are intriguing but limited. Further study is needed to determine how often preterm birth results in childhood HTN.
+2.4 Importance of Diagnosing HTN in Children and Adolescents
+
+Numerous studies have shown that elevated BP in childhood increases the risk for adult HTN and metabolic syndrome.10,60–62 Youth with higher BP levels in childhood are also more likely to have persistent HTN as adults.60,63 One recent study found that adolescents with elevated BP progressed to HTN at a rate of 7% per year, and elevated BMI predicted sustained BP elevations.64 In addition, young patients with HTN are likely to experience accelerated vascular aging. Both autopsy65 and imaging studies66 have demonstrated BP-related CV damage in youth. These intermediate markers of CVD (eg, increased LV mass,67 cIMT,68 and pulse wave velocity [PWV]69) are known to predict CV events in adults, making it crucial to diagnose and treat HTN early.
+
+Eighty million US adults (1 in 3) have HTN, which is a major contributor to CVD.12 Key contributors to CV health have been identified by the American Heart Association (AHA) as “Life’s Simple 7,” including 4 ideal health behaviors (not smoking, normal BMI, physical activity at goal levels, and a healthy diet) and 3 ideal health factors (untreated, normal total cholesterol; normal fasting blood glucose; and normal untreated BP, defined in childhood as ≤90th percentile or <120/80 mm Hg). Notably, elevated BP is the least common abnormal health factor in children and adolescents70; 89% of youth (ages 12–19 years) are in the ideal BP category.6
+
+Given the prevalence of known key contributors in youth (ie, tobacco exposure, obesity, inactivity, and nonideal diet12,71), adult CVD likely has its origins in childhood. One-third of US adolescents report having tried a cigarette in the past 30 days.72 Almost half (40%–48%) of teenagers have elevated BMI, and the rates of severe obesity (BMI >99th percentile) continue to climb, particularly in girls and adolescents.73–75 Physical activity measured by accelerometry shows less than half of school-aged boys and only one-third of school-aged girls meet the goal for ideal physical activity levels.72 More than 80% of youth 12 to 19 years of age have a poor diet (as defined by AHA metrics for ideal CV health); only ∼10% eat adequate fruits and vegetables, and only ∼15% consume <1500 mg per day of sodium, both of which are key dietary determinants of HTN.76
+
+Finally, measuring BP at routine well-child visits enables the early detection of primary HTN as well as the detection of asymptomatic HTN secondary to another underlying disorder. Early detection of HTN is vital given the greater relative prevalence of secondary causes of HTN in children compared with adults.
+3. Definition of HTN
+3.1 Definition of HTN (1–18 Years of Age)
+
+Given the lack of outcome data, the current definition of HTN in children and adolescents is based on the normative distribution of BP in healthy children.1 Because it is a major determinant of BP in growing children, height has been incorporated into the normative data since the publication of the 1996 Working Group Report.1 BP levels should be interpreted on the basis of sex, age, and height to avoid misclassification of children who are either extremely tall or extremely short. It should be noted that the normative data were collected by using an auscultatory technique,1 which may provide different values than measurement obtained by using oscillometric devices or from ABPM.
+
+In the Fourth Report, “normal blood pressure” was defined as SBP and DBP values <90th percentile (on the basis of age, sex, and height percentiles). For the preadolescent, “prehypertension” was defined as SBP and/or DBP ≥90th percentile and <95th percentile (on the basis of age, sex, and height tables). For adolescents, “prehypertension” was defined as BP ≥120/80 mm Hg to <95th percentile, or ≥90th and <95th percentile, whichever was lower. HTN was defined as average clinic measured SBP and/or DBP ≥95th percentile (on the basis of age, sex, and height percentiles) and was further classified as stage 1 or stage 2 HTN.
+
+There are still no data to identify a specific level of BP in childhood that leads to adverse CV outcomes in adulthood. Therefore, the subcommittee decided to maintain a statistical definition for childhood HTN. The staging criteria have been revised for stage 1 and stage 2 HTN for ease of implementation compared with the Fourth Report. For children ≥13 years of age, this staging scheme will seamlessly interface with the 2017 AHA and American College of Cardiology (ACC) adult HTN guideline.* Additionally, the term “prehypertension” has been replaced by the term “elevated blood pressure,” to be consistent with the AHA and ACC guideline and convey the importance of lifestyle measures to prevent the development of HTN (see Table 3).
+
+TABLE 3
+
+Updated Definitions of BP Categories and Stages
+3.2 New BP Tables
+
+New normative BP tables based on normal-weight children are included with these guidelines (see Tables 4 and 5). Similar to the tables in the Fourth Report,1 they include SBP and DBP values arranged by age, sex, and height (and height percentile). These values are based on auscultatory measurements obtained from ∼50 000 children and adolescents. A new feature in these tables is that the BP values are categorized according to the scheme presented in Table 3 as normal (50th percentile), elevated BP (>90th percentile), stage 1 HTN (≥95th percentile), and stage 2 HTN (≥95th percentile + 12 mm Hg). Additionally, actual heights in centimeters and inches are provided.
+
+   
+
+TABLE 4
+
+BP Levels for Boys by Age and Height Percentile
+
+    
+
+TABLE 5
+
+BP Levels for Girls by Age and Height Percentile
+
+Unlike the tables in the Fourth Report,1 the BP values in these tables do not include children and adolescents with overweight and obesity (ie, those with a BMI ≥85th percentile); therefore, they represent normative BP values for normal-weight youth. The decision to create these new tables was based on evidence of the strong association of both overweight and obesity with elevated BP and HTN. Including patients with overweight and obesity in normative BP tables was thought to create bias. The practical effect of this change is that the BP values in Tables 4 and 5 are several millimeters of mercury lower than in the similar tables in the Fourth Report.1 These tables are based on the same population data excluding participants with overweight and obesity, and the same methods used in the Fourth Report.1 The methods and results have been published elsewhere.77 For researchers and others interested in the equations used to calculate the tables’ BP values, detailed methodology and the Statistical Analysis System (SAS) code can be found at: http://sites.google.com/a/channing.harvard.edu/bernardrosner/pediatric-blood-press/childhood-blood-pressure.
+
+There are slight differences between the actual percentile-based values in these tables and the cut-points in Table 3, particularly for teenagers ≥13 years of age. Clinicians should understand that the scheme in Table 3 was chosen to align with the new adult guideline and facilitate the management of older adolescents with high BP. The percentile-based values in Tables 4 and 5 are provided to aid researchers and others interested in a more precise classification of BP.
+3.2a. Simplified BP Table
+
+This guideline includes a new, simplified table for initial BP screening (see Table 6) based on the 90th percentile BP for age and sex for children at the 5th percentile of height, which gives the values in the table a negative predictive value of >99%.78 This simplified table is designed as a screening tool only for the identification of children and adolescents who need further evaluation of their BP starting with repeat BP measurements. It should not be used to diagnose elevated BP or HTN by itself. To diagnose elevated BP or HTN, it is important to locate the actual cutoffs in the complete BP tables because the SBP and DBP cutoffs may be as much as 9 mm Hg higher depending on a child’s age and length or height. A typical-use case for this simplified table is for nursing staff to quickly identify BP that may need further evaluation by a clinician. For adolescents ≥13 years of age, a threshold of 120/80 mm Hg is used in the simplified table regardless of sex to align with adult guidelines for the detection of elevated BP.
+
+ 
+
+TABLE 6
+
+Screening BP Values Requiring Further Evaluation
+3.3 Definition of HTN in the Neonate and Infant (0–1 Year of Age)
+
+Although a reasonably strict definition of HTN has been developed for older children, it is more difficult to define HTN in neonates given the well-known changes in BP that occur during the first few weeks of life.79 These BP changes can be significant in preterm infants, in whom BP depends on a variety of factors, including postmenstrual age, birth weight, and maternal conditions.80
+
+In an attempt to develop a more standardized approach to the HTN definition in preterm and term neonates, Dionne et al79 compiled available data on neonatal BP and generated a summary table of BP values, including values for the 95th and 99th percentiles for infants from 26 to 44 weeks’ postmenstrual age. The authors proposed that by using these values, a similar approach to that used to identify older children with elevated BP can be followed in neonates, even in those who are born preterm.
+
+At present, no alternative data have been developed, and no outcome data are available on the consequences of high BP in this population; thus, it is reasonable to use these compiled BP values in the assessment of elevated BP in newborn infants. Of note, the 1987 “Report of the Second Task Force on Blood Pressure Control in Children” published curves of normative BP values in older infants up to 1 year of age.81 These normative values should continue to be used given the lack of more contemporary data for this age group.
+4. Measurement of BP
+4.1 BP Measurement Technique
+
+BP in childhood may vary considerably between visits and even during the same visit. There are many potential etiologies for isolated elevated BP in children and adolescents, including such factors as anxiety and recent caffeine intake.82 BP generally decreases with repeated measurements during a single visit,83 although the variability may not be large enough to affect BP classification.84 BP measurements can also vary across visits64,85; one study in adolescents found that only 56% of the sample had the same HTN stage on 3 different occasions.8 Therefore, it is important to obtain multiple measurements over time before diagnosing HTN.
+
+The initial BP measurement may be oscillometric (on a calibrated machine that has been validated for use in the pediatric population) or auscultatory (by using a mercury or aneroid sphygmomanometer86,87). (Validation status for oscillometric BP devices, including whether they are validated in the pediatric age group, can be checked at www.dableducational.org.) BP should be measured in the right arm by using standard measurement practices unless the child has atypical aortic arch anatomy, such as right aortic arch and aortic coarctation or left aortic arch with aberrant right subclavian artery (see Table 7). Other important aspects of proper BP measurement are illustrated in an AAP video available at http://youtu.be/JLzkNBpqwi0. Care should be taken that providers follow an accurate and consistent measurement technique.88,89
+
+
+TABLE 7
+
+Best BP Measurement Practices
+
+An appropriately sized cuff should be used for accurate BP measurement.83 Researchers in 3 studies in the United Kingdom and 1 in Brazil documented the lack of availability of an appropriately sized cuff in both the inpatient and outpatient settings.91–94 Pediatric offices should have access to a wide range of cuff sizes, including a thigh cuff for use in children and adolescents with severe obesity. For children in whom the appropriate cuff size is difficult to determine, the midarm circumference (measured as the midpoint between the acromion of the scapula and olecranon of the elbow, with the shoulder in a neutral position and the elbow flexed to 90°86,95,96) should be obtained for an accurate determination of the correct cuff size (see Fig 2 and Table 7).95
+
+
+Determination of proper BP cuff size.95 A, Marking spine extending from acromion process. B, Correct tape placement for upper arm length. C, Incorrect tape placement for upper arm length. D, Marking upper arm length midpoint.
+
+If the initial BP is elevated (≥90th percentile), providers should perform 2 additional oscillometric or auscultatory BP measurements at the same visit and average them. If using auscultation, this averaged measurement is used to determine the child’s BP category (ie, normal, elevated BP, stage 1 HTN, or stage 2 HTN). If the averaged oscillometric reading is ≥90th percentile, 2 auscultatory measurements should be taken and averaged to define the BP category (see Fig 3).
+
+
+Modified BP measurement algorithm.
+4.1a Measurement of BP in the Neonate
+
+Multiple methods are available for the measurement of BP in hospitalized neonates, including direct intra-arterial measurements using indwelling catheters as well as indirect measurements using the oscillometric technique. In the office, however, the oscillometric technique typically is used at least until the infant is able to cooperate with manual BP determination (which also depends on the ability of the individual measuring the BP to obtain auscultatory BP in infants and toddlers). Normative values for neonatal and infant BP have generally been determined in the right upper arm with the infant supine, and a similar approach should be followed in the outpatient setting.
+
+As with older children, proper cuff size is important in obtaining accurate BP readings in neonates. The cuff bladder length should encircle 80% to 100% of the arm circumference; a cuff bladder with a width-to-arm circumference ratio of 0.45 to 0.55 is recommended.79,97,98 Offices that will be obtaining BP measurements in neonates need to have a variety of cuff sizes available. In addition, the oscillometric device used should be validated in neonates and programmed to have an initial inflation value appropriate for infants (generally ≤120 mm Hg). Auscultation becomes technically feasible once the infant’s upper arm is large enough for the smallest cuff available for auscultatory devices. Measurements are best taken when the infant is in a calm state; multiple readings may be needed if the first reading is elevated, similar to the technique recommended for older children.99,100
+4.2 BP Measurement Frequency
+
+It remains unclear what age is optimal to begin routine BP measurement in children, although available data suggest that prevention and intervention efforts should begin at a young age.10,60,101–106 The subcommittee believes that the recommendation to measure BP in the ambulatory setting beginning at 3 years of age should remain unchanged.1 For otherwise healthy children, however, BP need only be measured annually rather than during every health care encounter.
+
+Some children should have BP measured at every health encounter, specifically those with obesity (BMI ≥95 percentile),5,27,107–109 renal disease,46 diabetes,110,111 aortic arch obstruction or coarctation, or those who are taking medications known to increase BP (see Table 8 and the “Secondary Causes: Medication-related” section of this guideline).112,113
+
+
+
+TABLE 8
+
+Common Pharmacologic Agents Associated With Elevated BP in Children
+
+Children younger than 3 years should have BP measurements taken at well-child care visits if they are at increased risk for developing HTN (see Table 9).1
+
+
+TABLE 9
+
+Conditions Under Which Children Younger Than 3 Years Should Have BP Measured
+Key Action Statement 1
+
+BP should be measured annually in children and adolescents ≥3 years of age (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Early detection of asymptomatic HTN; prevention of short- and long-term HTN-related morbidity
+Risks, harm, cost	Overtesting, misclassification, unnecessary treatment, discomfort from BP measurement procedure, time involved in measuring BP
+Benefit–harm assessment	Benefit of annual BP measurement exceeds potential harm
+Intentional vagueness	None
+Role of patient preferences	Increased visit time, discomfort of cuff
+Exclusions	None
+Strength	Moderate recommendation
+Key references	10,60,102,103
+Key Action Statement 2
+
+BP should be checked in all children and adolescents ≥3 years of age at every health care encounter if they have obesity, are taking medications known to increase BP, have renal disease, a history of aortic arch obstruction or coarctation, or diabetes (see Table 9) (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Early detection of HTN and prevention of CV morbidity in predisposed children and adolescents
+Risks, harm, cost	Time for and difficulty of conducting measurements
+Benefit–harm assessment	Benefits exceed harm
+Intentional vagueness	Frequency of evaluation
+Role of patient preferences	Increased visit time, discomfort of cuff
+Exclusions	Children and adolescents who are not at increased risk for HTN
+Strength	Moderate recommendation
+Key references	27,46,107,110–112
+4.3 Patient Management on the Basis of Office BP
+4.3a Normal BP
+
+If BP is normal or normalizes after repeat readings (ie, BP <90th percentile), then no additional action is needed. Practitioners should measure the BP at the next routine well-child care visit.
+4.3b Elevated BP
+
+    If the BP reading is at the elevated BP level (Table 3), lifestyle interventions should be recommended (ie, healthy diet, sleep, and physical activity); the measurement should be repeated in 6 months by auscultation. Nutrition and/or weight management referral should be considered as appropriate;
+
+    If BP remains at the elevated BP level after 6 months, upper and lower extremity BP should be checked (right arm, left arm, and 1 leg), lifestyle counseling should be repeated, and BP should be rechecked in 6 months (ie, at the next well-child care visit) by auscultation;
+
+    If BP continues at the elevated BP level after 12 months (eg, after 3 auscultatory measurements), ABPM should be ordered (if available), and diagnostic evaluation should be conducted (see Table 10 for a list of screening tests and the populations in which they should be performed). Consider subspecialty referral (ie, cardiology or nephrology) (see Table 11); and
+
+    If BP normalizes at any point, return to annual BP screening at well-child care visits.
+
+
+
+TABLE 10
+
+Screening Tests and Relevant Populations
+
+
+TABLE 11
+
+Patient Evaluation and Management According to BP Level
+4.3c Stage 1 HTN
+
+    If the BP reading is at the stage 1 HTN level (Table 3) and the patient is asymptomatic, provide lifestyle counseling and recheck the BP in 1 to 2 weeks by auscultation;
+
+    If the BP reading is still at the stage 1 level, upper and lower extremity BP should be checked (right arm, left arm, and 1 leg), and BP should be rechecked in 3 months by auscultation. Nutrition and/or weight management referral should be considered as appropriate; and
+
+    If BP continues to be at the stage 1 HTN level after 3 visits, ABPM should be ordered (if available), diagnostic evaluation should be conducted, and treatment should be initiated. Subspecialty referral should be considered (see Table 11).
+
+4.3d Stage 2 HTN
+
+    If the BP reading is at the stage 2 HTN level (Table 3), upper and lower extremity BP should be checked (right arm, left arm, and 1 leg), lifestyle recommendations given, and the BP measurement should be repeated within 1 week. Alternatively, the patient could be referred to subspecialty care within 1 week;
+
+    If the BP reading is still at the stage 2 HTN level when repeated, then diagnostic evaluation, including ABPM, should be conducted and treatment should be initiated, or the patient should be referred to subspecialty care within 1 week (see Table 11); and
+
+    If the BP reading is at the stage 2 HTN level and the patient is symptomatic, or the BP is >30 mm Hg above the 95th percentile (or >180/120 mm Hg in an adolescent), refer to an immediate source of care, such as an emergency department (ED).
+
+Key Action Statement 3
+
+Trained health care professionals in the office setting should make a diagnosis of HTN if a child or adolescent has auscultatory-confirmed BP readings ≥95th percentile on 3 different visits (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Early detection of HTN; prevention of CV morbidity in predisposed children and adolescents; identification of secondary causes of HTN
+Risks, harm, cost	Overtesting, misclassification, unnecessary treatment, discomfort from BP measurement, time involved in taking BP
+Benefit–harm assessment	Benefits of repeated BP measurement exceeds potential harm
+Intentional vagueness	None
+Role of patient preferences	Families may have varying levels of concern about elevated BP readings and may request evaluation on a different time line
+Exclusions	None
+Strength	Moderate recommendation
+Key references	8,84,85
+4.4 Use of Electronic Health Records
+
+Studies have demonstrated that primary care providers frequently fail to measure BP and often underdiagnose HTN.85,115,116 One analysis using nationally representative survey data found that providers measured BP at only 67% of preventive visits for children 3 to 18 years of age. Older children and children with overweight or obesity were more likely to be screened.117 In a large cohort study of 14 187 children, 507 patients met the criteria for HTN, but only 131 (26%) had the diagnosis documented in their electronic health records (EHRs). Elevated BP was only recognized in 11% of cases.7
+
+It is likely that the low rates of screening and diagnosis of pediatric HTN are related, at least in part, to the need to use detailed reference tables incorporating age, sex, and height to classify BP levels.118 Studies have shown that using health information technology can increase adherence to clinical guidelines and improve practitioner performance.119–121 In fact, applying decision support in conjunction with an EHR in adult populations has also been associated with improved BP screening, recognition, medication prescribing, and control; pediatric data are limited, however.122–125 Some studies failed to show improvement in BP screening or control,122,126 but given the inherent complexity in the interpretation of pediatric BP measurements, EHRs should be designed to flag abnormal values both at the time of measurement and on entry into the EHR.
+Key Action Statement 4
+
+Organizations with EHRs used in an office setting should consider including flags for abnormal BP values both when the values are being entered and when they are being viewed (grade C, weak recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Improved rate of screening and recognition of elevated BP
+Risks, harm, cost	Cost of EHR development, alert fatigue
+Benefit–harm assessment	Benefit of EHR flagging of elevated BP outweighs harm from development cost and potential for alert fatigue
+Intentional vagueness	None
+Role of patient preferences	None
+Exclusions	None
+Strength	Weak recommendation (because of a lack of pediatric data)
+Key references	7,117,120,125
+4.5 Oscillometric Versus Auscultatory (Manual) BP Measurement
+
+Although pediatric normative BP data are based on auscultatory measurements, oscillometric BP devices have become commonplace in health care settings.127 Ease of use, a lack of digit preference, and automation are all perceived benefits of using oscillometric devices. Unlike auscultatory measurement, however, oscillometric devices measure the oscillations transmitted from disrupted arterial flow by using the cuff as a transducer to determine mean arterial pressure (MAP). Rather than directly measuring any pressure that correlates to SBP or DBP, the device uses a proprietary algorithm to calculate these values from the directly measured MAP.127 Because the algorithms vary for different brands of oscillometric devices, there is no standard oscillometric BP.128
+
+Researchers in several studies have evaluated the accuracy of oscillometric devices127,129–134 and compared auscultatory and oscillometric readings’ ability to predict target organ damage.135 These studies demonstrated that oscillometric devices systematically overestimate SBP and DBP compared with values obtained by auscultation.129,133 BP status potentially can be misclassified because of the different values obtained by these 2 methods, which may be magnified in the office setting.86,88,129 Target organ damage (such as increased LV mass and elevated PWV) was best predicted by BPs obtained by auscultation.135
+
+A major issue with oscillometric devices is that there appears to be great within-visit variation with inaccurately high readings obtained on initial measurement.136 An elevated initial oscillometric reading should be ignored and repeat measures averaged to approximate values obtained by auscultation.
+Key Action Statement 5
+
+Oscillometric devices may be used for BP screening in children and adolescents. When doing so, providers should use a device that has been validated in the pediatric age group. If elevated BP is suspected on the basis of oscillometric readings, confirmatory measurements should be obtained by auscultation (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	Use of auscultatory readings prevents potential misclassification of patients as hypertensive because of inaccuracy of oscillometric devices
+Risks, harm, cost	Auscultation requires more training and experience and has flaws such as digit preference
+Benefit–harm assessment	Benefit exceeds harm
+Intentional vagueness	None
+Role of patient preferences	Patients may prefer the convenience of oscillometric monitors
+Exclusions	None
+Strength	Strong recommendation
+Key references	86,88,128–136
+4.6 Forearm and/or Wrist BP Measurement
+
+Wrist monitors have several potential advantages when compared with arm devices. They are smaller; they can be placed more easily; and, because wrist diameter is less affected by BMI, they do not need to be modified for patients with obesity.83,137 Several studies in adults have found excellent reproducibility of wrist BP measurements, equivalence to readings obtained by mercury sphygmomanometers or ABPM, and better correlation with left ventricular mass index (LVMI) than systolic office BP.138,139
+
+Although many wrist devices have been validated in adults,140–142 some studies have shown greater variation and decreased accuracy in the resulting measurements.143–146 These negative outcomes may possibly result from differences in the number of measurements taken,139 the position of the wrist in relation to the heart,147 flexion or extension of the wrist during measurement,148 or differences in pulse pressure.149 Technologies are being developed to help standardize wrist position.150,151
+
+Few studies using wrist monitors have been conducted in children. One study in adolescents compared a wrist digital monitor with a mercury sphygmomanometer and found high agreement between systolic measurements but lower agreement for diastolic measurements, which was clinically relevant.152 Researchers in 2 small studies conducted in PICUs compared wrist monitors with indwelling arterial lines and found good agreement between the 2 measurement modalities.153,154 No large comparative studies or formal validation studies of wrist monitors have been conducted in children, however. Because of limited data, the use of wrist and forearm monitors is not recommended in the diagnosis or management of HTN in children and adolescents at this time.
+4.7 ABPM
+
+An ambulatory BP monitor consists of a BP cuff attached to a box slightly larger than a cell phone, which records BP periodically (usually every 20–30 minutes) throughout the day and night; these data are later downloaded to a computer for analysis.155
+
+ABPM has been recommended by the US Preventive Services Task Force for the confirmation of HTN in adults before starting treatment.156 Although a growing number of pediatric providers have access to ABPM, there are still gaps in access and knowledge regarding the optimal application of ABPM to the evaluation of children’s BP.155,157 For example, there are currently no reference data for children whose height is <120 cm. Because no outcome data exist linking ABPM data from childhood to hard CV events in adulthood, recommendations either rely largely on surrogate outcome markers or are extrapolated from adult studies.
+
+However, sufficient data exist to demonstrate that ABPM is more accurate for the diagnosis of HTN than clinic-measured BP,158,159 is more predictive of future BP,160 and can assist in the detection of secondary HTN.161 Furthermore, increased LVMI and LVH correlate more strongly with ABPM parameters than casual BP.162–166 In addition, ABPM is more reproducible than casual or home BP measurements.159 For these reasons, the routine application of ABPM is recommended, when available, as indicated below (see also Tables 12 and 13). Obtaining ABPM may require referral to a specialist.
+
+
+TABLE 12
+
+High-Risk Conditions for Which ABPM May Be Useful
+
+TABLE 13
+
+Recommended Procedures for the Application of ABPM
+Key Action Statement 6
+
+ABPM should be performed for the confirmation of HTN in children and adolescents with office BP measurements in the elevated BP category for 1 year or more or with stage 1 HTN over 3 clinic visits (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Avoids unnecessarily exposing youth with WCH to extensive diagnostic testing or medication
+Risks, harm, cost	Risk of discomfort to patient. Some insurance plans may not reimburse for the test
+Benefit–harm assessment	The risk of ABPM is lower than the risk of unnecessary treatment. The use of ABPM has also been shown to be more cost-effective than other approaches to diagnosing HTN
+Intentional vagueness	None
+Role of patient preferences	Some patients may prefer repeat office or home measurements to ABPM
+Exclusions	None
+Strength	Moderate recommendation
+Key references	23,155,158,159
+
+For technical reasons, ABPM may need to be limited to children ≥5 years of age who can tolerate the procedure and those for whom reference data are available.
+Key Action Statement 7
+
+The routine performance of ABPM should be strongly considered in children and adolescents with high-risk conditions (see Table 12) to assess HTN severity and determine if abnormal circadian BP patterns are present, which may indicate increased risk for target organ damage (grade B, moderate recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	Improved 24-h control of BP improves outcomes. Recognition of MH or nocturnal HTN might lead to therapeutic changes that will limit end organ damage
+Risks, harm, cost	Risk of discomfort to patient. Some insurance plans may not reimburse for the test. The risk of diagnosing and labeling a patient as having MH or nocturnal HTN might lead to increased anxiety and cost of evaluation
+Benefit–harm assessment	The risk of ABPM is much lower than the risk of inadequate treatment
+Intentional vagueness	Frequency at which normal or abnormal ABPM should be repeated is not known
+Role of patient preferences	Some patients may prefer repeat office or home measurements to ABPM
+Exclusions	None
+Strength	Moderate recommendation
+Key references	47,155,199–202
+Key Action Statement 8
+
+ABPM should be performed by using a standardized approach (see Table 13) with monitors that have been validated in a pediatric population, and studies should be interpreted by using pediatric normative data (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Validated monitors applied and interpreted correctly will provide the most accurate results
+Risks, harm, cost	Risk of discomfort to patient. Some insurance plans may not reimburse for the test. Monitors validated in the pediatric population and expertise in reading pediatric ABPM may not be universally available
+Benefit–harm assessment	There is substantial evidence showing incorrect application or interpretation reduces the accuracy of results
+Intentional vagueness	None
+Role of patient preferences	Some patients may prefer repeat office or home measurements to ABPM
+Exclusions	None
+Strength	Moderate recommendation
+Key references	155
+4.7a Masked Hypertension
+
+MH occurs when patients have normal office BP but elevated BP on ABPM, and it has been found in 5.8% of unselected children studied by ABPM.199 There is growing evidence that compared with those with normal 24-hour BP, these patients have significant risk for end organ hypertensive damage.200,203 Patients who are at risk of MH include patients with obesity and secondary forms of HTN, such as CKD or repaired aortic coarctation. MH is particularly prevalent in patients with CKD48 and is associated with target organ damage.203 Children with CKD should be periodically evaluated using ABPM for MH as part of routine CKD management.201,204–206
+4.7b White Coat Hypertension
+
+WCH is defined as BP ≥95th percentile in the office or clinical setting but <95th percentile outside of the office or clinical setting. WCH is diagnosed by ABPM when the mean SBP and DBP are <95th percentile and SBP and DBP load are <25%; load is defined as the percentage of valid ambulatory BP measurements above a set threshold value (eg, 95th percentile) for age, sex, and height.155,156,206 It is estimated that up to half of children who are evaluated for elevated office BP have WCH.207,208
+
+In adults, compared with normotension, WCH is associated with only a slightly increased risk of adverse outcomes but at a much lower risk compared with those with established HTN.209 Most (but not all) studies suggest that WCH is not associated with increased LV mass.200,207,210 Although the distinction between WCH and true HTN is important, abnormal BP response to exercise and increased LVM has been found to occur in children with WCH.207 Furthermore, the identification of WCH may reduce costs by reducing the number of additional tests performed and decreasing the number of children who are exposed to antihypertensive medications.208 Children and adolescents with WCH should have screening BP measured at regular well-child care visits with consideration of a repeat ABPM in 1 to 2 years.
+Key Action Statement 9
+
+Children and adolescents with suspected WCH should undergo ABPM. Diagnosis is based on the presence of mean SBP and DBP <95th percentile and SBP and DBP load <25% (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B (Evidence Level A in Adults)
+Benefits	Improved diagnosis of WCH and the benefit of fewer additional laboratory tests and/or treatment of primary HTN. Costs might be reduced if the treatment of those misdiagnosed as hypertensive is prevented
+Risks, harm, cost	Additional costs; costs may not be covered by insurance companies. The ambulatory BP monitor is uncomfortable for some patients
+Benefit–harm assessment	Benefit exceeds risk
+Intentional vagueness	None
+Role of patient preferences	Important; some patients may not want to undergo ABPM. Benefits of the procedure should be reviewed with families to assist in decision-making
+Exclusions	None
+Strength	Strong recommendation
+Key references	206
+4.8 Measurement in Children With Obesity
+
+Accurate BP measurement can be challenging in individuals with obesity.23,211,212 Elevated BMI in children and adolescents is associated with an increase in the midarm circumference,96 requiring the use of a larger cuff to obtain accurate BP measurements.83 During NHANES 2007–2010, among children 9 to 11 years of age with obesity, one-third of boys and one-quarter of girls required an adult BP cuff, and a fraction required a large adult cuff or an adult thigh cuff for an accurate measurement of BP.213 Researchers in studies of adults have also noted the influence of the conical upper arm shape on BP measurements in people with obesity.214,215 ABPM is a valuable tool in the diagnosis of HTN in children with obesity because of the discrepancies between casual and ambulatory BP23,33 and the higher prevalence of MH.26,29,155,216,217
+4.9. At-Home Measurement
+
+Home measurement (or self-monitoring) of BP has advantages over both office and ambulatory monitoring, including convenience and the ability to obtain repeated measurements over time.83,218 Furthermore, automated devices with memory capacity are straightforward to use and avoid potential problems, such as observer bias, inaccurate reporting, and terminal digit preference (ie, overreporting of certain digits, like 0, as the terminal digit in recording BP).219,220
+
+Numerous studies have shown that it is feasible for families to conduct repeated measurements at home.221–223 Home BP measurements appear to be more reproducible than those conducted in the office, likely because of the familiarity of the home environment and greater comfort with repeated measurements.159,223,224 Inaccuracies occur when measurements obtained at home are either excluded or inappropriately recorded.219 Inconsistencies in home, office, and ambulatory BP measurements seem to be influenced by both age and HTN status, with ABPM tending to be higher than home BP measurements in children.222,225–227 Home BP measurements show no consistent pattern when compared with office measurements.228–230
+
+There are several practical concerns with the use of home BP measurement, however. The only normative data available are from the relatively small Arsakeion School study.231 In addition, only a few automated devices have been validated for use in the pediatric population, and available cuff sizes for them are limited. Furthermore, there is no consensus regarding how many home measurements across what period of time are needed to evaluate BP.
+Key Action Statement 10
+
+Home BP monitoring should not be used to diagnose HTN, MH, or WCH but may be a useful adjunct to office and ambulatory BP measurement after HTN has been diagnosed (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Convenient, cost-effective, widely available, can be used over time
+Risks, harm, cost	Risk of inaccurate diagnosis. Unclear what norms or schedule should be used. Few validated devices in children, and cuff sizes are limited
+Benefit–harm assessment	Benefits outweigh harm when used as an adjunctive measurement technique
+Intentional vagueness	None
+Role of patient preferences	Patients may find home BP more convenient and accessible than office or ambulatory BP
+Exclusions	None
+Strength	Moderate recommendation
+Key references	159,221–225,227,230
+4.10 School Measurement and the Role of School-Based Health Professionals
+
+There is limited evidence to support school-based measurement of children’s BP.8,232 Observational studies demonstrate that school measurements can be reliable233 and that longitudinal follow-up is feasible.8,232,234 Available data do not distinguish between the efficacy of school-based screening programs in which measurements are obtained by trained clinical personnel (not a school nurse) versus measurements obtained by the school nurse. Because of insufficient evidence and a lack of established protocols, the routine use of school-based measurements to diagnose HTN cannot be recommended. However, school-based BP measurement can be a useful tool to identify children who require formal evaluation as well as a helpful adjunct in the monitoring of diagnosed HTN. Note: School-based health clinics are considered part of systems of pediatric primary care, and these comments would not apply to them.
+5. Primary and Secondary Causes of HTN
+5.1 Primary HTN
+
+Primary HTN is now the predominant diagnosis for hypertensive children and adolescents seen in referral centers in the United States,235,236 although single-center studies from outside the United States still find primary HTN to be uncommon.237 Although prospective, multicenter studies are generally lacking, at least one large study in which researchers used insurance claims data confirmed that primary HTN is significantly more common than secondary HTN among American youth.238
+
+General characteristics of children with primary HTN include older age (≥6 years),239,240 positive family history (in a parent and/or grandparent) of HTN,236,237,240 and overweight and/or obesity.16,236,237,239 Severity of BP elevation has not differed significantly between children with primary and secondary HTN in some studies,235,237 but DBP elevation appears to be more predictive of secondary HTN,239,240 whereas systolic HTN appears to be more predictive of primary HTN.236,239
+Key Action Statement 11
+
+Children and adolescents ≥6 years of age do not require an extensive evaluation for secondary causes of HTN if they have a positive family history of HTN, are overweight or obese, and/or do not have history or physical examination findings (Table 14) suggestive of a secondary cause of HTN (grade C, moderate recommendation).
+
+
+
+TABLE 14
+
+Examples of Physical Examination Findings and History Suggestive of Secondary HTN or Related to End Organ Damage Secondary to HTN
+Aggregate Evidence Quality	Grade C
+Benefits	Avoidance of unnecessary diagnostic evaluation
+Risks, harm, cost	Potential to miss some children with secondary HTN
+Benefit–harm assessment	Benefit equals harm
+Intentional vagueness	Not applicable
+Role of patient preferences	Some families may want further testing performed
+Exclusions	Hypertensive children <6 y of age
+Strength	Moderate recommendation
+Key references	16,129,235–240
+5.2 Secondary Causes: Renal and/or Renovascular
+
+Renal disease and renovascular disease are among the most common secondary causes of HTN in children. Renal parenchymal disease and renal structural abnormalities accounted for 34% to 79% of patients with secondary HTN in 3 retrospective, single-center case series, and renovascular disease was present in 12% to 13%.101,240,241 The literature suggests that renal disease is a more common cause of HTN in younger children.239 Renal disorders (including vascular problems) accounted for 63% to 74% of children <6 years of age who were enrolled in 3 recent clinical trials of angiotensin receptor blockers (ARBs).239,242–244 No increased frequency was seen in younger patients in a recent single-center case series, however.101 It is appropriate to have a high index of suspicion for renal and renovascular disease in hypertensive pediatric patients, particularly in those <6 years of age.
+5.3 Secondary Causes: Cardiac, Including Aortic Coarctation
+
+Coarctation of the aorta is a congenital abnormality of the aortic arch characterized by discrete narrowing of the aortic arch, generally at the level of the aortic isthmus. It is usually associated with HTN and right arm BP that is 20 mm Hg (or more) greater than the lower extremity BP. Repair in infants is often surgical; adolescents may be treated with angioplasty or stenting. Long-segment narrowing of the abdominal aorta can also cause HTN and should be considered in children with refractory HTN and a gradient between the upper and lower extremities in which the upper extremity SBP exceeds the lower extremity SBP by 20 mm Hg.245 Of note, children with abdominal aortic obstruction may have neurofibromatosis, Williams syndrome, Alagille syndrome, or Takayasu arteritis.
+
+Patients with coarctation can remain hypertensive or develop HTN even after early and successful repair, with reported prevalence varying from 17% to 77%.112 HTN can be a manifestation of recoarctation. Recoarctation in repaired patients should be assessed for by using 4 extremity BP measurements and echocardiography. HTN can also occur without recoarctation.246 The prevalence of HTN increases over time after successful coarctation repair.112
+
+Routine office BP measurement alone is often insufficient for diagnosing HTN after coarctation repair.113,246 Children who have undergone coarctation repair may have normal in-office BP but high BP out of the office, which is consistent with MH.58,112 Of children with a history of aortic coarctation, ∼45% have MH at ∼1 to 14 years after coarctation repair.58,113 Children with a history of repaired aortic coarctation and normal in-office BP are at risk for LVH,58 HTN, and MH.58,112
+
+ABPM has emerged as the gold standard for diagnosing HTN among individuals who have undergone coarctation repair, and it is likely more useful than casual BP.58,245–247 Screening is recommended as a part of usual care on an annual basis beginning, at most, 12 years after coarctation repair. Earlier screening may be considered on the basis of risk factors and clinician discretion.
+Key Action Statement 12
+
+Children and adolescents who have undergone coarctation repair should undergo ABPM for the detection of HTN (including MH) (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B (Aggregate Level of Evidence Equals B, Given 3 Studies With Similar Findings)
+Benefits	Early detection of HTN
+Risks, harm, cost	Additional costs related to the placement of ABPM
+Benefit–harm assessment	Benefits exceed harms
+Intentional vagueness	Frequency of measurement. Because the development of HTN after coarctation repair is influenced by many factors, the ideal onset of screening for HTN (including MH) is unknown
+Role of patient preferences	None
+Exclusions	Individuals with a history of residual aortic arch obstruction
+Strength	Strong recommendation
+Key references	58,112,113
+5.4 Secondary Causes: Endocrine HTN
+
+HTN resulting from hormonal excess accounts for a relatively small proportion of children with secondary HTN. Although rare (with a prevalence ranging from 0.05% to 6% in children101,237,239,240), an accurate diagnosis of endocrine HTN provides the clinician with a unique treatment opportunity to render a surgical cure or achieve a dramatic response with pharmacologic therapy.248 Known endocrine causes with associated molecular defects (when known) are summarized in Table 15.
+
+
+
+TABLE 15
+
+Endocrine Causes of HTN
+5.5 Secondary Causes: Environmental Exposures
+
+Several environmental exposures have been associated with higher childhood BP, although most studies are limited to small case series. Among the most prominent are lead, cadmium, mercury, and phthalates.
+
+    Lead: Long-term exposure to lead in adults has been associated with higher BP in population studies295,296 and in studies of industrial workers with high lead exposure,297 although findings have not been consistent.298 At least 1 cross-sectional study of 122 children demonstrated that children with higher blood lead concentrations had higher BP; lower socioeconomic status was also seen in this group, which may have confounded the BP results.299 Furthermore, in a randomized study of lead-exposed children, those who received chelation with succimer did not have lower BP than in those who received a placebo.300
+
+    Cadmium: Environmental cadmium exposure has been linked to higher BP levels and the development of HTN in adults, particularly among women.296,301–303 Although cross-sectional studies have confirmed potential nephrotoxicity of cadmium in children,304 no definite effect on BP has been demonstrated.304,305
+
+    Mercury: Mercury is a known nephrotoxin, particularly in its elemental form.306,307 Severe mercury intoxication has been linked to acute HTN in children in several case reports; patients’ symptoms may resemble those seen in patients with pheochromocytoma (PCC).308–310
+
+    Phthalates: Antenatal and childhood exposure to phthalates has recently been associated with higher childhood BP311–313 but not with the development of overt HTN. Specific metabolites of these ubiquitous chemicals may have differential effects on BP,313 indicating that much more detailed study is needed to completely understand the effect of such exposure.
+
+5.6 Secondary Causes: Neurofibromatosis
+
+Neurofibromatosis type 1 (NF-1) (also known as Von Recklinghausen disease) is a rare autosomal dominant disorder characterized by distinct clinical examination findings. These include the following: cafe-au-lait macules, neurofibromas, Lisch nodules of the iris, axillary freckling, optic nerve gliomas, and distinctive bone lesions. Patients with NF-1 have several unique and potential secondary causes of HTN, most commonly renal artery stenosis (RAS); coarctation of the aorta, middle aortic syndrome, and PCC are also well described.314–319
+
+Additionally, an increased incidence of idiopathic HTN has been documented in patients with NF-1, as high as 6.1% in a recent pediatric case series, which is a much greater incidence than in the general population.320 PCC has also been well described in patients with NF-1, although exact incidences are difficult to determine, and patients may not have classic symptoms of PCC.321,322
+
+Vascular causes of HTN and PCC all require specific treatment and follow-up, so maintaining a high index of suspicion for these disorders is important in evaluating hypertensive children and adolescents with NF-1.
+5.7 Secondary Causes: Medication Related
+
+Many over-the-counter drugs, prescription medications, alternative therapies (ie, herbal and nutritional supplements), dietary products, and recreational drugs can increase BP. Common prescription medications associated with a rise in BP include oral contraceptives,323–325 central nervous system stimulants,326 and corticosteroids.1,327 When a child has elevated BP measurements, the practitioner should inquire about the intake of pharmacologic agents (see Table 8).
+
+Usually, the BP elevation is mild and reversible on discontinuation of the medication, but a significant increase in BP can occasionally occur with higher doses or as an idiosyncratic response. Over-the-counter cold medications that contain decongestants (eg, pseudoephedrine and phenylpropanolamine) may cause a mild increase in BP with the recommended dosing, but severe HTN has been observed as an idiosyncratic response with appropriate dosing as well as with excessive doses.
+
+Nonsteroidal anti-inflammatory drugs may antagonize the BP-lowering effect of antihypertensive medications (specifically, angiotensin-converting enzyme [ACE] inhibitors) but do not appear to have an impact on BP in those without HTN. The commonly used supplement ephedra (ma haung) likely contains some amount of ephedrine and caffeine that can cause an unpredictable rise in BP. Recreational drugs associated with HTN include stimulants (eg, cocaine and amphetamine derivatives) and anabolic steroids.
+5.8 Monogenic HTN
+
+Monogenic forms of HTN are uncommon, although the exact incidence is unknown. In a study of select hypertensive children without a known etiology, genetic testing for familial hyperaldosteronism type I (FH-I), or glucocorticoid-remediable aldosteronism, confirmed responsible genetic mutations in 3% of the population.263
+
+Other monogenic forms of HTN in children include Liddle syndrome, pseudohypoaldosteronism type II (Gordon syndrome), apparent mineralocorticoid excess, familial glucocorticoid resistance, mineralocorticoid receptor activating mutation, and congenital adrenal hyperplasia (see “Secondary Causes: Endocrine Causes of Hypertension”).328 All manifest as HTN with suppressed plasma renin activity (PRA) and increased sodium absorption in the distal tubule. Other features may include serum potassium abnormalities, metabolic acid-base disturbances, and abnormal plasma aldosterone concentrations, although the clinical presentations can be highly variable.263,328,329 In the study of FH-I, all affected children had suppressed PRA and an aldosterone to renin ratio (ARR) (ng/dL and ng/M1 per hour, respectively) of >10; the authors suggest that an ARR >10 is an indication to perform genetic testing in a hypertensive child.263 Monogenic forms of HTN should be suspected in hypertensive children with a suppressed PRA or elevated ARR, especially if there is a family history of early-onset HTN.
+6. Diagnostic Evaluation
+6.1 Patient Evaluation
+
+As with any medical condition, appropriate diagnostic evaluation is a critical component in the evaluation of a patient with suspected HTN. Evaluation focuses on determining possible causes of and/or comorbidities associated with HTN. Evaluation, as is detailed in the following sections, should include appropriate patient history, family history, physical examination, laboratory evaluation, and imaging.
+6.2 History
+
+The first step in the evaluation of the child or adolescent with elevated BP is to obtain a history. The various components of the history include the perinatal history, past medical history, nutritional history, activity history, and psychosocial history. Each is discussed in the following sections.
+6.2a Perinatal History
+
+As discussed, perinatal factors such as maternal HTN and low birth weight have been shown to influence later BP, even in childhood.56,330 Additionally, a high incidence of preterm birth among hypertensive children has recently been reported in 1 large case series.101 Thus, it is appropriate to obtain a history of pertinent prenatal information, including maternal pregnancy complications; gestational age; birth weight; and, if pertinent, complications occurring in the neonatal nursery and/or ICU. It is also appropriate to document pertinent procedures, such as umbilical catheter placement.
+6.2b Nutritional History
+
+High sodium intake has been linked to childhood HTN and increased LVMI and is the focus of several population health campaigns.4,331 In NHANES 2003–2008, among children 8 to 18 years of age (n = 6235), higher sodium intake (as assessed by dietary recall) was associated with a twofold increase in the combined outcome of elevated BP or HTN. The effect was threefold among participants with obesity.332 Limited data suggest the same effect is seen in younger children.333 One study found that high intake of total fat and saturated fat, as well as adiposity and central obesity, were also predictors of SBP.334–336
+
+Nutrition history is an important part of the patient assessment because it may identify dietary contributors to HTN and detect areas in which lifestyle modification may be appropriate. The important components to discuss include salt intake (including salt added in the kitchen and at the table and sodium hidden in processed and fast food), consumption of high-fat foods, and consumption of sugary beverages.337,338 Infrequent consumption of fruits, vegetables, and low-fat dairy products should also be identified.
+6.2c Physical Activity History
+
+A detailed history of physical activity and inactivity is an integral part of the patient assessment, not only to understand contributors to the development of HTN but also to direct lifestyle modification counseling as an important part of management.339–344
+6.2d Psychosocial History
+
+Providers should obtain a psychosocial history in children and adolescents with suspected or confirmed HTN. Adverse experiences both prenatally345 and during childhood (including maltreatment, early onset depression, and anxiety) are associated with adult-onset HTN.346,347 The identification of stress may suggest a diagnosis of WCH. The psychosocial history should include questions about feelings of depression and anxiety, bullying, and body perceptions. The latter is particularly important for patients with overweight or obesity because ∼70% of these children report having bullying and body perception concerns.348 Starting at 11 years of age, the psychosocial history should include questions about smoking,349,350 alcohol, and other drug use.351
+6.2e Family History
+
+Taking and updating the family history is a quick and easy way to risk-stratify pediatric patients with an increased risk for HTN. It is important to update the family history for HTN over the course of the pediatric patient’s lifetime in the practice (typically until 18–21 years of age) because first- and second-degree relatives may develop HTN during this time. All too often, the diagnosis of HTN in the pediatric patient stimulates the collection of a detailed family history of HTN, sometimes even years after the pediatric patient has had elevated BP, instead of the other way around.352
+6.3 Physical Examination
+
+A complete physical examination may provide clues to potential secondary causes of HTN and assess possible hypertensive end organ damage. The child’s height, weight, calculated BMI, and percentiles for age should be determined at the start of the physical examination. Poor growth may indicate an underlying chronic illness.
+
+At the second visit with confirmed elevated BP or stage 1 HTN or the first visit with confirmed stage 2 HTN, BP should be measured in both arms and in a leg. Normally, BP is 10 to 20 mm Hg higher in the legs than the arms. If the leg BP is lower than the arm BP, or if femoral pulses are weak or absent, coarctation of the aorta may be present. Obesity alone is an insufficient explanation for diminished femoral pulses in the presence of high BP.
+
+The remainder of the physical examination should pursue clues found in the history and should focus on body systems and findings that may indicate secondary HTN and/or end organ damage related to HTN. Table 14 lists important physical examination findings in hypertensive children.353 These are examples of history and physical findings and do not represent all possible history and physical examination findings. The physical examination in hypertensive children is frequently normal except for the BP elevation.
+Key Action Statement 13
+
+In children and adolescents being evaluated for high BP, the provider should obtain a perinatal history, appropriate nutritional history, physical activity history, psychosocial history, and family history and perform a physical examination to identify findings suggestive of secondary causes of HTN (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	Identify personal risk factors for HTN
+Risks, harm, cost	None
+Benefit–harm assessment	Identification of personal risk factors is useful in the assessment of childhood HTN
+Intentional vagueness	None
+Role of patient preferences	None
+Exclusions	Children with normal BP
+Strength	Strong recommendation
+Key references	56,330
+6.4 Laboratory Evaluation
+
+The purpose of the laboratory evaluation is to identify underlying secondary causes of HTN (eg, renal or endocrine disease) that would require specific treatment guided by a subspecialist. In general, such testing includes a basic set of screening tests and additional, specific tests; the latter are selected on the basis of clues obtained from the history and physical examination and/or the results of the initial screening tests.354 Table 10 provides a list of screening tests and the populations in which they should be performed.
+6.5 Electrocardiography
+
+Approximately one-half of adolescents with HTN have undergone electrocardiography at least once as an assessment for LVH.355 Unlike echocardiography, electrocardiography takes little time and is a relatively low-cost test. Electrocardiography has high specificity but poor sensitivity for identifying children and adolescents with LVH.356–358 The positive predictive value of electrocardiography to identify LVH is extremely low.359
+Key Action Statement 14
+
+Clinicians should not perform electrocardiography in hypertensive children and adolescents being evaluated for LVH (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B (Aggregate of Level of Evidence Equals B Because of Multiple Level of Evidence C References With Similar Findings)
+Benefits	Electrocardiography is less expensive than echocardiography or other imaging modalities for identifying LVH
+Risks, harm, cost	Electrocardiography has a low sensitivity for detecting LVH
+Benefit–harm assessment	The risk of concluding that a child with HTN does not have LVH on the basis of a normal electrocardiogram means that a diagnosis of end organ injury is potentially missed
+Intentional vagueness	None
+Role of patient preferences	Patients and families may prefer electrocardiography because of cost and convenience, but the sensitivity of the test is poor
+Exclusions	None
+Strength	Strong recommendation
+Key references	1,355–360
+6.6 Imaging Evaluation, Echocardiography: Detection of Target Organ Damage
+
+Echocardiography was identified in the Fourth Report as a tool to measure left ventricular (LV) target organ injury related to HTN in children.1 The basis for this assessment is as follows: (1) the relationship of LV mass to BP,361 (2) the independent and strong relationship of LVH to adverse CVD outcomes in adults,362–364 and (3) that a significant percentage of children and adolescents with HTN demonstrate the degree of LVH associated with adverse outcomes in adults.365–367 Antihypertensive treatment reduces LVH. Observational data suggest that the regression of LVH independently predicts outcomes in adults.368
+
+The best-studied measures of LV target organ injury are measures of LV structure (LV mass and the relationship of LV wall thickness or mass to LV cavity volume) and systolic function (LV ejection fraction). LV structure is usually stratified into 4 groups on the basis of LV mass (normal or hypertrophied) and relative LV wall thickness (normal or increased). These 4 are as follows: (1) normal geometry with normal LV mass and wall thickness, (2) concentric geometry with normal LV mass and increased LV wall thickness, (3) eccentric LVH with increased LV mass and normal LV wall thickness, and (4) concentric LVH with both increased LV mass and increased relative wall thickness.369,370
+
+The American Society of Echocardiography recommendations should be followed with regard to image acquisition and LV measurement for calculating LV ejection fraction, mass, and relative wall thickness.369,371 LV ejection fraction may be significantly decreased in severe or acute onset HTN with associated congestive heart failure.1 Rarely, LV ejection fraction may be mildly depressed in chronic HTN.
+
+Because the heart increases in size in relation to body size, indexing LV mass is required.361 Indexing LV mass is particularly important in infants and younger children because of their rapid growth.372,373 Physical training increases LV mass in a healthful manner. Lean body mass is more strongly associated with LV mass than fat mass.370 Because body composition is not routinely measured clinically, surrogate formulae for indexing are required. It is unclear whether expected values for LV mass should be derived from reference populations of normal weight and normotensive children or should include normotensive children who have overweight or obesity. The best method for indexing LV mass in children is an area of active investigation.
+
+For this document, the following definitions for LV target organ injury have been chosen regarding hypertrophy, relative wall thickness, and ejection fraction. These definitions are based on published guidelines from the American Society of Echocardiography and associations of thresholds for indexed LV mass with adverse outcomes in adults362,363,369:
+
+    LVH is defined as LV mass >51 g/m2.7 or LV mass >115 g per body surface area (BSA) for boys and LV mass >95 g/BSA for girls. (Note that the values for LVH are well above the 95th percentile for distributions of LV mass in children and adolescents.369 The clinical significance of values between the 95th percentile of a population-based distribution and these thresholds is uncertain372);
+
+    An LV relative wall thickness >0.42 cm indicates concentric geometry. LV wall thickness >1.4 cm is abnormal373; and
+
+    Decreased LV ejection fraction is a value <53%.
+
+There are a number of additional evidence gaps related to the echocardiographic assessment of LV target organ injury. The value of LV mass assessment in risk reclassification independent of conventional risk assessment has not been established in adults.364 The costs and benefits of incorporation of echocardiography into HTN care has not been assessed. Quality control regarding reproducibility of measurements across laboratories may be suboptimal.374 The most accurate method to measure LV mass (M-mode; two-dimensional; or, in the near future, three-dimensional techniques) requires further research.
+Key Action Statement 15
+
+It is recommended that echocardiography be performed to assess for cardiac target organ damage (LV mass, geometry, and function) at the time of consideration of pharmacologic treatment of HTN;
+
+LVH should be defined as LV mass >51 g/m2.7 (boys and girls) for children and adolescents older than 8 years and defined by LV mass >115 g/BSA for boys and LV mass >95 g/BSA for girls;
+
+Repeat echocardiography may be performed to monitor improvement or progression of target organ damage at 6- to 12-month intervals. Indications to repeat echocardiography include persistent HTN despite treatment, concentric LV hypertrophy, or reduced LV ejection fraction; and
+
+In patients without LV target organ injury at initial echocardiographic assessment, repeat echocardiography at yearly intervals may be considered in those with stage 2 HTN, secondary HTN, or chronic stage 1 HTN incompletely treated (noncompliance or drug resistance) to assess for the development of worsening LV target organ injury (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Severe LV target organ damage can only be identified with LV imaging. May improve risk stratification
+Risks, harm, cost	Adds cost; improvement in outcomes from incorporating echocardiography into clinical care is not established
+Benefit–harm assessment	Benefits exceed harms
+Intentional vagueness	None
+Role of patient preferences	Patients may elect to not to have the study
+Exclusions	None
+Strength	Moderate recommendation
+Key references	361,363,364,367–369
+6.7 Vascular Structure and Function
+
+Emerging data demonstrate an association of higher levels of BP in youth with adverse changes in measures of vascular structure and function, including ultrasonography of the cIMT, PWV, a robust measure of central arterial stiffness66 that is related to hard CV events in adults (eg, stroke, myocardial infarction, etc),69 and FMD, which assesses endothelial function and describes the ability of the endothelium to release nitric oxide in response to stress.375
+
+Although there are multiple large studies of PWV in youth,376–381 they all suffer from notable limitations, primarily the lack of racial and ethnic diversity and differences in measurement devices and protocols. Researchers in the largest study of PWV in youth to date (N = 6576) only evaluated 10 and 11 year olds and measured only carotid-radial PWV across the arm; this measure has not been linked to CV events in adults.382 Researchers in one large study of FMD performed in youth (N = 5809) only included 10- to 11-year-old children in England.382 The largest set of data for cIMT included 1155 European youth who were 6 to 18 years of age.383 No racial and ethnic breakdown was provided for this study. The wide heterogeneity in the methods for cIMT measurement hinders the pooling of data. For instance, researchers in the aforementioned article only measured common carotid,383 although the bulb and internal carotid are the sites of earliest atherosclerotic disease.384
+
+Many studies have had significant issues related to methodology. For example, carotid-femoral PWV is not measured identically with different devices and is not equivalent to other measures of PWV, such as brachial-femoral PWV.385,386 No direct comparisons have been made between carotid-femoral and brachial-ankle PWV, methods in which brachial-ankle PWV provide values considerably higher than carotid-femoral PWV.378 The brachial-ankle PWV measures stiffness along both a central elastic artery (aorta) and the medium muscular arteries of the leg.
+
+Therefore, insufficient normative data are available to define clinically actionable cut-points between normal and abnormal for these vascular parameters. The routine measurement of vascular structure and function to stratify risk in hypertensive youth cannot be recommended at this time.
+6.8 Imaging for Renovascular Disease
+6.8a Renal Ultrasonography
+
+The utility of Doppler renal ultrasonography as a noninvasive screening study for the identification of RAS in children and adolescents has been examined in at least 2 recent case series; sensitivity has been reported to be 64% to 90%, with a specificity of 68% to 70%.387,388 In another study that included both children and adults, sensitivity and specificity for the detection of renal artery stenoses was 75% and 89%, respectively.389 Factors that may affect the accuracy of Doppler ultrasonography include patient cooperation, the technician’s experience, the age of the child, and the child’s BMI. Best results are obtained in older (≥8 years),388 nonobese (BMI ≤85th percentile), cooperative children and adolescents who are examined in a facility with extensive pediatric vascular imaging experience. Doppler ultrasonography should probably not be obtained in patients who do not meet these criteria or in facilities that lack appropriate pediatric experience.
+
+There are no evidence-based criteria for the identification of children and adolescents who may be more likely to have RAS. Some experts will do a more extensive evaluation for RAS in children and adolescents with stage 2 HTN, those with significant diastolic HTN (especially on ABPM), those with HTN and hypokalemia on screening laboratories, and those with a notable size discrepancy between the kidneys on standard ultrasound imaging. Bruits over the renal arteries are also suggestive of RAS but are not always present. Consultation with a subspecialist is recommended to help decide which patients warrant further investigation and to aid in the selection of the appropriate imaging modality.
+Key Action Statement 16
+
+Doppler renal ultrasonography may be used as a noninvasive screening study for the evaluation of possible RAS in normal-weight children and adolescents ≥8 years of age who are suspected of having renovascular HTN and who will cooperate with the procedure (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Avoidance of complications of invasive procedure (angiography) or radiation from traditional or computed tomography angiography
+Risks, harm, cost	Potential false-positive or false-negative results
+Benefit–harm assessment	Potential for avoidance of an invasive procedure outweighs risk of false-negative or false-positive results
+Intentional vagueness	None
+Role of patient preferences	None
+Exclusions	Children and adolescents without suspected renovascular HTN
+Strength	Moderate recommendation
+Key references	387–390
+6.8b Computed Tomographic Angiography, Magnetic Resonance Angiography, and Renography
+
+Other noninvasive imaging studies that have been assessed for their ability to identify RAS include computed tomographic angiography (CTA), magnetic resonance angiography (MRA), and nuclear medicine studies. Each of these has been compared with the gold standard, renal arteriography. CTA and MRA have generally been found to be acceptable as noninvasive imaging modalities for the identification of hemodynamically significant vascular stenosis. One study that included both pediatric and adult patients showed that the sensitivity and specificity for the detection of RAS was 94% and 93% for CTA and 90% and 94% for MRA, respectively.389
+
+Unfortunately, studies of either technique that include only pediatric patients are limited at best for CTA and are nonexistent for MRA. Despite this, expert opinion holds that either modality may be used for noninvasive screening for suspected RAS, but neither is a substitute for angiography.390 CTA typically involves significant radiation exposure, and MRA generally requires sedation or anesthesia in young children, which are factors that must be considered when deciding to use one of these modalities.
+
+Nuclear renography is based on the principle that after the administration of an agent affecting the renin-angiotensin-aldosterone system (RAAS), there will be reduced blood flow to a kidney or kidney segment affected by hemodynamically significant RAS. Such reduced blood flow can be detected by a comparison of perfusion before and after the administration of the RAAS agent. Limited pediatric nuclear renography studies exist that show variable sensitivity and specificity, ranging from 48% to 85.7% and 73% to 92.3%, respectively.391–393 The utility of nuclear renography may be less in children then adults because children with RAS often have more complicated vascular abnormalities than adults.394 Given these issues, nuclear renography has generally been abandoned as a screening test for RAS in children and adolescents.390
+Key Action Statement 17
+
+In children and adolescents suspected of having RAS, either CTA or MRA may be performed as a noninvasive imaging study. Nuclear renography is less useful in pediatrics and should generally be avoided (grade D, weak recommendation).
+Aggregate Evidence Quality	Grade D
+Benefits	Avoidance of complications of an invasive procedure (angiography)
+Risks, harm, cost	Potential false-positive or false-negative results
+Benefit–harm assessment	Potential for avoidance of an invasive procedure outweighs risk of false-negative or false-positive results
+Intentional vagueness	None
+Role of patient preferences	None
+Exclusions	Children and adolescents without suspected RAS
+Strength	Weak recommendation; pediatric data are limited
+Key references	389,390
+6.9 Uric Acid
+
+Cross-sectional data have suggested a relationship between elevated serum uric acid (UA) levels and HTN. Two recent studies of adolescents included in NHANES 1999–2000 and a small study conducted in Italy found that elevated UA levels were associated with higher BP.395–397 In the Italian study and in another US study of youth with obesity and HTN,397,398 elevated UA was also associated with other markers of CV risk. These findings suggest that the measurement of UA levels may best be viewed as 1 component of CV risk assessment, especially in those with obesity.
+
+A causative role for elevated UA in the development of childhood HTN has not been definitively established, although recent studies suggest that it may be on the causal pathway. A longitudinal study in which researchers followed a group of children for an average of 12 years demonstrated that childhood UA levels were associated with adult BP levels even after controlling for baseline BP.399 A few small, single-center clinical trials have also shown that lowering UA can decrease BP levels, and increased UA levels blunt the efficacy of lifestyle modifications on BP control.400–404 No large-scale, multicenter study has yet been conducted to confirm these preliminary findings. Hence, there is currently not sufficient evidence to support the routine measurement of serum UA in the evaluation and management of children with elevated BP.
+6.10 Microalbuminuria
+
+Microalbuminuria (MA), which should be differentiated from proteinuria in CKD, has been shown to be a marker of HTN-related kidney injury and a predictor of CVD in adults.405–408 MA has been shown to be effectively reduced via the use of ARBs and ACE inhibitors in adults. Lowering the degree of MA in adults has been associated with decreased CVD risk.
+
+In contrast, data to support a clear relationship between HTN and MA in pediatric patients with primary HTN are limited.408–410 A single, retrospective study of children with primary HTN and WCH found that 20% of the former had MA versus 0% of the latter.411 MA appears to be a nonspecific finding in children that can occur in the absence of HTN; it can occur in children who have obesity, insulin resistance, diabetes, dyslipidemia, and even in those who have recently participated in vigorous physical activity.412 The previously mentioned study by Seeman et al411 did not control for these potential confounders.
+
+Limited, single-center data suggest that a reduction in the degree of MA, more than a reduction in BMI or SBP, is associated with a decrease in LVMI. In particular, researchers in this single-center, nonrandomized, prospective study of 64 hypertensive children without kidney disease who were 11 to 19 years of age evaluated the children at baseline and after 12 months of combination ACE and hydrochlorothiazide (N = 59) or ACE, hydrochlorothiazide, and ARB therapy (N = 5). Results found that lowering MA in children is associated with a regression of LVH.413 Given the single-center design and lack of a control group, however, the applicability of these findings to the general population of children with primary HTN is unknown.
+Key Action Statement 18
+
+Routine testing for MA is not recommended for children and adolescents with primary HTN (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Avoid improper detection of MA in children with HTN. Detection of MA is strongly influenced by other factors, such as recent participation in rigorous physical activity, obesity, insulin resistance and diabetes. Hence, there is no clear benefit for testing for MA in the absence of other known comorbidities
+Risks, harm, cost	No known risks given a lack of clear association between MA and primary HTN in children
+Benefit–harm assessment	Limited data to support any real benefit for screening children for MA
+Intentional vagueness	Screening of children with primary HTN versus screening of children with single kidney or CKD and HTN
+Role of patient preferences	Unknown
+Exclusions	None
+Strength	Moderate recommendation
+Key references	408,410,411,413
+7. Treatment
+7.1 Overall Goals
+
+The overall goals for the treatment of HTN in children and adolescents, including both primary and secondary HTN, include achieving a BP level that not only reduces the risk for target organ damage in childhood but also reduces the risk for HTN and related CVD in adulthood. Several studies have shown that currently available treatment options can even reverse target organ damage in hypertensive youth.105,414,415
+
+The previous recommendations for HTN treatment target in children without CKD or diabetes were SBP and DBP <95th percentile. Since that recommendation was made, evidence has emerged that markers of target organ damage, such as increased LVMI, can be detected among some children with BP >90th percentile (or >120/80 mm Hg) but <95th percentile.66,416,417 Longitudinal studies on BP from childhood to adulthood that include indirect measures of CV injury indicate that the risk for subsequent CVD in early adulthood increases as the BP level in adolescence exceeds 120/80 mm Hg.11,103,418 In addition, there is some evidence that targeting a BP <90th percentile results in reductions in LVMI and prevalence of LVH.104 Therefore, an optimal BP level to be achieved with treatment of childhood HTN is <90th percentile or <130/80 mm Hg, whichever is lower.
+
+Treatment and management options are discussed below, including lifestyle modifications and pharmacologic therapy to achieve optimal BP levels in children and adolescents with HTN.
+Key Action Statement 19
+
+In children and adolescents diagnosed with HTN, the treatment goal with nonpharmacologic and pharmacologic therapy should be a reduction in SBP and DBP to <90th percentile and <130/80 mm Hg in adolescents ≥ 13 years old (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Lower risk of childhood target organ damage, lower risk of adulthood HTN and CVD
+Risk, harm, cost	Risk of drug adverse effects and polypharmacy
+Benefit–harm assessment	Preponderance of benefit
+Intentional vagueness	None
+Role of patient preferences	Patient may have preference for nonpharmacologic or pharmacologic treatment
+Exclusions	None
+Strength	Moderate recommendation
+Key references	11,66,103,104,416–418
+7.2 Lifestyle and Nonpharmacologic Interventions
+
+Lifestyle interventions are recommended to lower BP. There is good evidence from studies in adults showing that nutritional interventions lower BP,419 including clinical trials demonstrating that reducing dietary sodium results in lower BP and CV mortality,338 and a diet high in olive oil polyphenols lowers BP.420 Studies of hypertensive youth suggest that the relationship between diet, physical activity, and BP in childhood is similar to that observed in adults.
+7.2a Diet
+
+The Dietary Approaches to Stop Hypertension (DASH) approach and specific elements of that diet have been the primary dietary strategy tested in the literature. These elements include a diet that is high in fruits, vegetables, low-fat milk products, whole grains, fish, poultry, nuts, and lean red meats; it also includes a limited intake of sugar and sweets along with lower sodium intake (see Table 16). Cross-sectional studies demonstrate associations between elements of the DASH diet and BP. For example, population-based data from NHANES show correlations between dietary sodium and BP in childhood and elevated BP and HTN, particularly in people with excess weight.332
+
+
+
+TABLE 16
+
+DASH Diet Recommendations
+
+A high intake of fruits, vegetables, and legumes (ie, a plant-strong diet) is associated with lower BP.421 A lack of fruit consumption in childhood has been linked to increases in cIMT in young adulthood in the Young Finns study.422 Higher intake of low-fat dairy products has been associated with lower BP in childhood.423
+
+Longitudinal, observational, and interventional data also support relationships between diet and BP in youth. The National Heart Lung and Blood Institute’s Growth and Health Study, which followed 2185 girls over 10 years, demonstrated that consuming ≥2 servings of dairy and ≥3 servings of fruits and vegetables daily was associated with lower BP in childhood and a 36% lower risk of high BP by young adulthood.424 Similar associations have been demonstrated in children and adolescents with diabetes.425 Moreover, an improvement in diet led to lower BP in some studies of adolescents with elevated BP,426 youth with overweight,427 girls with metabolic syndrome,428 and youth with T2DM.429 However, consuming a healthier diet may increase costs.430
+7.2b Physical Activity
+
+Observational data support a relationship between physical activity and lower BP, although the data are scant.339 Interventional data demonstrate increasing physical activity leads to lower BP. A review of 9 studies of physical activity interventions in children and adolescents with obesity suggested that 40 minutes of moderate to vigorous, aerobic physical activity at least 3 to 5 days per week improved SBP by an average of 6.6 mm Hg and prevented vascular dysfunction.340 A number of subsequent, additional studies with small sample sizes support a benefit of physical activity on BP.341 A more recent analysis of 12 randomized controlled trials including 1266 subjects found reductions of 1% and 3% for resting SBP and DBP, respectively. These results did not reach statistical significance, however, and the authors suggested that longer studies with larger sample sizes are needed.344 Any type of exercise, whether it’s aerobic training, resistance training, or combined training, appears to be beneficial342 (see “HTN and the Athlete”).
+
+Programs that combine diet and physical activity can have a beneficial effect on SBP, as is shown in several studies designed to prevent childhood obesity and address cardiometabolic risk.431
+Key Action Statement 20
+
+At the time of diagnosis of elevated BP or HTN in a child or adolescent, clinicians should provide advice on the DASH diet and recommend moderate to vigorous physical activity at least 3 to 5 days per week (30–60 minutes per session) to help reduce BP (grade C, weak recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Potential to reduce BP
+Risk, harm, cost	No or low potential for harm. Following a healthier diet may increase costs to patients and families
+Benefit–harm assessment	Potential benefit outweighs lack of harm and minimal cost
+Intentional vagueness	None
+Role of patient preferences	Level of caregiver and patient concern may influence adoption of the DASH diet and physical activity. Patients may also have preferences around the use of a medication. These factors may influence the efficacy of lifestyle change
+Exclusions	None
+Strength	Weak recommendation
+Key references	332,339–342,424–431
+7.2c Weight Loss and Related CV Risk Factors
+
+As is true for children and adolescents with isolated HTN, a DASH diet426,432 and vigorous physical activity431 are recommended in pediatric patients with multiple obesity-related risk factors as part of intensive weight-loss therapy.433,434 Motivational interviewing (MI) is a tool recommended for pediatricians’ use by the AAP Expert Committee Statement on Obesity.435 MI may be a useful counseling tool to use in combination with other behavioral techniques to address overweight and obesity in children.436 Studies in hypertensive adults support the use of MI to improve adherence to antihypertensive medications437 and decrease SBP.436 Although there are no trials investigating the use of MI in the care of hypertensive youth, a number of studies have shown that MI can be used successfully to address or prevent childhood obesity by promoting physical activity and dietary changes.438–441 However, other studies have been less promising.442,443 In addition to the standard lifestyle approaches, intensive weight-loss therapy involving regular patient and/or family contact and at least 1 hour of moderate to vigorous physical activity on a daily basis should be offered to children and adolescents with obesity and HTN.444
+7.2d Stress Reduction
+
+Complimentary medicine interventions have shown some promise in studies in normotensive children and adolescents and in those with elevated BP. Breathing-awareness meditation, a component of the Mindfulness-Based Stress Reduction Program at the University of Massachusetts Memorial Medical Center,445 led to a reduction in daytime, nighttime, and 24-hour SBP (3–4 mm Hg) and DPB (1 mm Hg) in normotensive African American adolescents and African American adolescents with elevated BP.446 Another study of transcendental meditation showed no significant BP effect but did lead to a decrease in LVM in African American adolescents with elevated BP.447 Scant data suggest yoga may also be helpful.448
+7.3 Pharmacologic Treatment
+
+Children who remain hypertensive despite a trial of lifestyle modifications or who have symptomatic HTN, stage 2 HTN without a clearly modifiable factor (eg, obesity), or any stage of HTN associated with CKD or diabetes mellitus therapy should be initiated with a single medication at the low end of the dosing range (see Table 17). Depending on repeated BP measurements, the dose of the initial medication can be increased every 2 to 4 weeks until BP is controlled (eg, <90th percentile), the maximal dose is reached, or adverse effects occur. Although the dose can be titrated every 2 to 4 weeks using home BP measurements, the patient should be seen every 4 to 6 weeks until BP has normalized. If BP is not controlled with a single agent, a second agent can be added to the regimen and titrated as with the initial drug. Because of the salt and water retention that occurs with many antihypertensive medications, a thiazide diuretic is often the preferred second agent.
+
+
+TABLE 17
+
+Dosing Recommendations for the Initial Prescription of Antihypertensive Drugs for Outpatient Management of Chronic HTN
+
+Lifestyle modifications should be continued in children requiring pharmacologic therapy. An ongoing emphasis on a healthy, plant-strong diet rich in fruits and vegetables; reduced sodium intake; and increased exercise can improve the effectiveness of antihypertensive medications. The use of a combination product as initial treatment has been studied only for bisoprolol and hydrochlorothiazide,449 so the routine use of combination products to initiate treatment in children cannot be recommended. Once BP control has been achieved, a combination product can be considered as a means to improve adherence and reduce cost if the dose and formulation are appropriate.
+7.3a Pharmacologic Treatment and Pediatric Exclusivity Studies
+
+Studies completed in hypertensive children show that antihypertensive drugs decrease BP with few adverse effects.173,202,242–244,450–467 There are few studies in children in which researchers compare different antihypertensive agents.453 These studies do not show clinically significant differences in the degree of BP lowering between agents. There are no clinical trials in children that have CV end points as outcomes. Long-term studies on the safety of antihypertensive medications in children and their impact on future CVD are limited.455
+
+Because of legislative acts that provide incentives and mandates for drug manufacturers to complete pediatric assessments,468 most of the newer antihypertensive medications have undergone some degree of efficacy and safety evaluation. Antihypertensive drugs without patent protection have not been, and are unlikely to be, studied in children despite their continued widespread use.238
+7.3b Pharmacologic Treatment: Choice of Agent
+
+Pharmacologic treatment of HTN in children and adolescents should be initiated with an ACE inhibitor, ARB,469 long-acting calcium channel blocker, or a thiazide diuretic. Because African American children may not have as robust a response to ACE inhibitors,470,471 a higher initial dose for the ACE inhibitor may be considered; alternatively, therapy may be initiated with a thiazide diuretic or long-acting calcium channel blocker. In view of the expanded adverse effect profile and lack of association in adults with improved outcomes compared with other agents, β-blockers are not recommended as initial treatment in children. ACE inhibitors and ARBs are contraindicated in pregnancy because these agents can cause injury and death to the developing fetus. Adolescents of childbearing potential should be informed of the potential risks of these agents on the developing fetus; alternative medications (eg, calcium channel blocker, β-blocker) can be considered when appropriate.
+
+In children with HTN and CKD, proteinuria, or diabetes mellitus, an ACE inhibitor or ARB is recommended as the initial antihypertensive agent unless there is an absolute contraindication. Other antihypertensive medications (eg, α-blockers, β-blockers, combination α- and β-blockers, centrally acting agents, potassium-sparing diuretics, and direct vasodilators) should be reserved for children who are not responsive to 2 or more of the preferred agents (see “Treatment in CKD”).
+Key Action Statement 21
+
+In hypertensive children and adolescents who have failed lifestyle modifications (particularly those who have LV hypertrophy on echocardiography, symptomatic HTN, or stage 2 HTN without a clearly modifiable factor [eg, obesity]), clinicians should initiate pharmacologic treatment with an ACE inhibitor, ARB, long-acting calcium channel blocker, or thiazide diuretic (grade B, moderate recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	Potential prevention of progressive CVD; regression or avoidance of target organ damage; resolution of hypertensive symptoms; improved cognition; avoidance of worsening HTN; potential avoidance of stroke, heart failure, coronary artery disease, kidney failure
+Risks, harm, cost	Potential for hypotension, financial cost, chronic medication treatment, adverse medication effects, impact on insurability (health and life)
+Benefit–harm assessment	Preponderance of benefits over harms
+Intentional vagueness	None
+Role of patient preferences	The choice of which antihypertensive medication to use should be made in close discussion with the patient and parent regarding risk, benefits, and adverse effects
+Exclusions	None
+Strength	Moderate recommendation
+Key references	452,455,467
+7.3c Treatment: Follow-Up and Monitoring
+
+Treatment of a child or adolescent with HTN requires ongoing monitoring because goal BP can be difficult to achieve.472 If the decision has been made to initiate treatment with medication, the patient should be seen frequently (every 4–6 weeks) for dose adjustments and/or addition of a second or third agent until goal BP has been achieved (see the preceding section). After that, the frequency of visits can be extended to every 3 to 4 months.
+
+If the decision has been made to proceed with lifestyle changes only, then follow-up visits can occur at longer intervals (every 3–6 months) so that adherence to lifestyle change can be reinforced and the need for initiation of medication can be reassessed.
+
+In patients treated with antihypertensive medications, home BP measurement is frequently used to get a better assessment of BP control (see “At-Home Measurement”). Repeat ABPM may also be used to assess BP control and is especially important in patients with CKD (see “Treatment: Use of ABPM and Assessment”).
+
+At each follow-up visit, the patient should be assessed for adherence to prescribed therapy and for any adverse effects of the prescribed medication; such assessment may include laboratory testing depending on the medication (for example, electrolyte monitoring if the patient is on a diuretic). It is also important to continually reinforce adherence to lifestyle changes because effective treatment will depend on the combination of effects from both medication and lifestyle measures. Finally, known hypertensive target organ damage (such as LVH) should be reassessed according to the recommendations in “Imaging Evaluation, Echocardiography: Coarctation of the Aorta and Detection of Target Organ Damage.”
+7.3d Treatment: Use of ABPM to Assess Treatment
+
+ABPM can be an objective method to evaluate treatment effect during antihypertensive drug therapy. Data obtained in a multicenter, single-blind, crossover study in which hypertensive children received a placebo or no treatment demonstrated no change in ABPM after receiving the placebo.473 A report from a single center found that among hypertensive children receiving antihypertensive drugs, BP data from ABPM resulted in medication changes in 63% of patients.474 Another study of 38 hypertensive children used ABPM to evaluate the effectiveness of antihypertensive therapy (nonpharmacologic and pharmacologic). After 1 year of treatment, ABPM results indicated that treatment-goal BP was achieved in only one-third of children with HTN.17
+Key Action Statement 22
+
+ABPM may be used to assess treatment effectiveness in children and adolescents with HTN, especially when clinic and/or home BP measurements indicate insufficient BP response to treatment (grade B, moderate recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	ABPM results can guide adjustment in medication. ABPM can facilitate achieving treatment-goal BP levels
+Risks, harm, cost	Inconvenience and patient annoyance in wearing an ABPM monitor. Cost of ABPM monitors
+Benefit–harm assessment	Overall benefit
+Intentional vagueness	None
+Role of patient preferences	Patients may choose not to wear the ambulatory BP monitor repeatedly, which may necessitate alternative approaches to evaluate treatment efficacy
+Exclusions	Uncomplicated HTN with satisfactory BP control
+Strength	Moderate recommendation
+Key references	17,474,475
+7.4 Treatment-Resistant HTN
+
+Resistant HTN in adults is defined as persistently elevated BP despite treatment with 3 or more antihypertensive agents of different classes. All of these drugs should be prescribed at maximally effective doses, and at least 1 should be a diuretic. Key to the identification of patients with true resistant HTN is correct office BP measurement, confirmation of adherence to current therapy, and confirmation of treatment resistance by ABPM.
+
+The treatment of patients with resistant HTN includes dietary sodium restriction, the elimination of substances known to elevate BP, the identification of previously undiagnosed secondary causes of HTN, the optimization of current therapy, and the addition of additional agents as needed.475 Recent clinical trial data suggest that an aldosterone receptor antagonist (such as spironolactone) is the optimal additional agent in adults with resistant HTN; it helps address volume excess as well as untreated hyperaldosteronism, which is common in adult patients with true resistant HTN.476,477
+
+At present, there are no data on whether true treatment-resistant HTN exists in pediatric patients. Evaluation and management strategies similar to those proven effective in adults with resistant HTN would be reasonable in children and adolescents who present with apparent treatment resistance.
+8. Treatment in Special Populations
+8.1 Treatment in Patients With CKD and Proteinuria
+8.1a CKD
+
+Children and adolescents with CKD often present with or develop HTN.478 HTN is a known risk factor for the progression of kidney disease in adults and children.173,479,480 Evidence suggests that the treatment of HTN in children with CKD might slow the progression of or reverse end organ damage.173,415 When evaluated by 24-hour ABPM, children and adolescents with CKD often have poor BP control even if BP measured in the clinic appears to be normal.48 MH is associated with end organ damage, such as LVH.203,481 Threshold values that define HTN are not different in children with CKD, although there is some evidence that lower treatment goals might improve outcomes.
+
+In the European Effect of Strict Blood Pressure Control and ACE-Inhibition on Progression of Chronic Renal Failure in Pediatric Patients study, researchers randomly assigned children with CKD to standard antihypertensive therapy (with a treatment goal of 24-hour MAP <90th percentile by ABPM) or to intensive BP control (24-hour MAP <50th percentile by ABPM). The study demonstrated fewer composite CKD outcomes in children with the lower BP target.173 Recent adult data from the Systolic Blood Pressure Intervention Trial suggest lower BP targets may be beneficial in preventing other, adverse CV outcomes as well.482
+Key Action Statement 23
+
+Children and adolescents with CKD should be evaluated for HTN at each medical encounter;
+
+Children or adolescents with both CKD and HTN should be treated to lower 24-hour MAP to <50th percentile by ABPM; and
+
+Regardless of apparent control of BP with office measures, children and adolescents with CKD and a history of HTN should have BP assessed by ABPM at least yearly to screen for MH (grade B; strong recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	Control of BP in children and adolescents with CKD has been shown to decrease CKD progression and lead to resolution of LVH
+Risks, harm, cost	Cost of ABPM and BP control, both financial and nonfinancial
+Benefit–harm assessment	Benefits of BP control in patients with CKD outweigh treatment risks
+Intentional vagueness	Threshold
+Role of patient preferences	Patients may not want to wear the ambulatory BP monitor repeatedly, which should lead to detailed counseling regarding the benefits of this procedure in CKD
+Exclusions	None
+Strength	Strong recommendation
+Key references	47,173,203,415,480–483
+8.1b Proteinuria
+
+Proteinuric renal disease is often associated with HTN and a rapid decline in glomerular filtration.483 Studies in both adults and children have indicated that both BP control and a reduction in proteinuria are beneficial for preserving renal function. Researchers in multiple studies have evaluated the utility of RAAS blockade therapy in patients with CKD and HTN.452,464,465,484–487 These medications have been shown to benefit both BP and proteinuria.
+
+The benefit of such therapies may not be sustained, however.173,488 The Effect of Strict Blood Pressure Control and ACE-Inhibition on Progression of Chronic Renal Failure in Pediatric Patients study demonstrated an initial 50% reduction in proteinuria in children with CKD after treatment with ramipril but with a rebound effect after 36 months.450,464,488 This study also showed that BP reduction with a ramipril-based antihypertensive regimen improved renal outcomes. In children with HTN related to underlying CKD, the assessment of proteinuria and institution of RAAS blockade therapy appears to have important prognostic implications.
+Key Action Statement 24
+
+Children and adolescents with CKD and HTN should be evaluated for proteinuria (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	Detection of proteinuria among children with CKD and HTN may foster early detection and treatment of children at risk for more advanced renal disease
+Risks, harm, cost	Additional testing
+Benefit–harm assessment	Benefit of detection of a higher-risk group exceeds the risk of testing
+Intentional vagueness	Whether to screen children with HTN without CKD for proteinuria
+Role of patient preferences	None
+Exclusions	Children without CKD
+Strength	Strong recommendation
+Key references	47,484
+Key Action Statement 25
+
+Children and adolescents with CKD, HTN, and proteinuria should be treated with an ACE inhibitor or ARB (grade B, strong recommendation).
+Aggregate Evidence Quality	Grade B
+Benefits	ACE inhibitor and ARB therapy has been shown in the short-term to be effective in reducing urine proteinuria
+Risks, harm, cost	Positive effect on urine protein concentrations after the receipt of an ACE inhibitor may not be sustained over time
+Benefit–harm assessment	Treatment with an ACE inhibitor or ARB may lower the rate of progression of renal disease even if the effect is not sustained in the long-term
+Intentional vagueness	Whether to aggressively treat the BP so that it is <90th percentile
+Role of patient preferences	Patients may have concerns about the choice of medication, which should be addressed
+Exclusions	Children without CKD
+Strength	Strong recommendation
+Key references	173,464,465,485,487,488
+8.2. Treatment in Patients With Diabetes
+
+Based on the Fourth Report criteria for the diagnosis of HTN,1 between 4% and 16% of children and adolescents with T1DM are found to have HTN.14,489–491 In the SEARCH study of 3691 youth between the ages of 3 and 17 years, elevated BP was documented in 6% of children with T1DM, with the highest prevalence in Asian Pacific Islander and American Indian children followed by African American and Hispanic children and those with higher glycosylated hemoglobin A1c levels.14 An office-based study in Australia found much higher rates (16%) and a positive correlation with BMI.490 BP >130/90 mm Hg has been associated with a more-than-fourfold increase in the relative risk of coronary artery disease and mortality at 10-year follow-up of individuals with T1DM.492
+
+The prevalence of HTN is higher in youth with T2DM compared with T1DM, ranging from 12% at baseline (N = 699) in the Treatment Options for Type 2 Diabetes in Adolescents and Youth study493 to 31% (N = 598) in the Pediatric Diabetes Consortium Type 2 Diabetes Clinic Registry.494 BP and arterial stiffness in cohort studies have correlated with BMI, male sex, African American race, and age of onset of diabetes.14,494,495 Unlike T1DM, HTN in T2DM is not correlated with glycosylated hemoglobin A1c levels or glycemic failure, and it develops early in the course of the disease.496 It is also associated with rapid onset of adverse cardiac changes111,497 and may not respond to diet changes.425 The concurrence of obesity and T2DM compounds the risks for target end organ damage.111,498
+
+Empirical evidence shows a poor awareness of HTN in youth with T1DM and T2DM.14 Additionally, only a fraction of children with HTN and diabetes were found to be on pharmacologic therapy14,490,498,499 despite treatment recommendations from the American Diabetes Association,499 the International Society for Pediatric and Adolescent Diabetes,500 AHA,110 and the National Heart, Lung, and Blood Institute.501
+Key Action Statement 26
+
+Children and adolescents with T1DM or T2DM should be evaluated for HTN at each medical encounter and treated if BP is ≥95th percentile or >130/80 mm Hg in adolescents ≥13 years of age (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Early detection and treatment of HTN in children with T1DM and T2DM may reduce future CV and kidney disease
+Risks, harm, cost	Risk of drug adverse effects and polypharmacy
+Benefit–harm assessment	Preponderance of benefit
+Intentional vagueness	None
+Role of patient preferences	Family concerns about additional testing and/or medication may need to be addressed
+Exclusions	None
+Strength	Weak to moderate recommendation
+Key references	14,110,111,494
+9. Comorbidities
+9.1 Comorbidities: Dyslipidemia
+
+Children and adolescents with HTN are at increased risk for lipid disorders attributable to the “common soil” phenomenon,502 in which poor diet, inactivity, and obesity contribute to both disorders. Some observational pediatric data confirm this association.503–506 Furthermore, both HTN and dyslipidemias are associated with subclinical atherosclerosis206 and are risk factors for future CVD.503 Screening is recommended to identify those at increased risk for early atherosclerosis.503 Treatment of lipid disorders identified in the setting of HTN should follow existing pediatric lipid guidelines with lifestyle advice, including weight loss and pharmacotherapy, as necessary.503
+9.2 Comorbidities: OSAS
+
+Children with snoring, daytime sleepiness (in adolescents), or hyperactivity (in younger children) may have OSAS and consequent HTN.507 The more severe the OSAS, the more likely a child is to have elevated BP44,45 (see Table 18). Children with moderate to severe OSAS are at increased risk for HTN. However, it is not known whether OSAS treatment with continuous positive airway pressure results in improved BP in all children.44 Furthermore, adenotonsillectomy may not result in BP improvement in all children with OSAS. In particular, children who have obesity and OSAS may be less likely to experience a lowering of BP after an adenotonsillectomy.508
+
+
+TABLE 18
+
+OSAS Symptoms and Signs
+
+Therefore, children with signs of OSAS (eg, daytime fatigue, snoring, hyperactivity, etc) should undergo evaluation for elevated BP regardless of treatment status. Given that both nighttime and daytime BP is affected by OSAS, the use of ABPM is the recommended method for assessing the BP of children with suspected OSAS.
+9.3 Comorbidities: Cognitive Impairment
+
+Data from studies conducted in adults suggest that the central nervous system is a target organ that can be affected by HTN.419 Preliminary studies suggest that this is true in children as well. Hypertensive children score lower on tests of neurocognition and on parental reports of executive function compared with normotensive controls.509,510 Adams et al511 found an increased prevalence of learning disabilities in children with primary HTN compared with normotensive controls. The postulated mechanism for these findings is impaired cerebrovascular reactivity.512–515 At the present time, these findings do not have specific clinical implications with respect to the diagnostic evaluation of childhood HTN, although they underscore the importance of early detection and treatment.
+10. Sex, Racial, and Ethnic Differences in BP and Medication Choice
+
+BP differences between various ethnic groups are well described in the adult population.216,516 Large, cross-sectional studies have demonstrated that, per capita, minority ethnic groups have both a higher prevalence of HTN and more significant end organ damage and outcomes.517,518 Although a growing body of evidence indicates that racial and ethnic differences in BP appear during adolescence,519–521 the cause of these differences and when they develop in childhood are yet to be fully determined. The risk of HTN correlates more with obesity status than with ethnicity or race, although there may be some interaction.216 At this time, although limited data suggest that there may be a racial difference in response to ACE inhibitors in the pediatric age group,471 the strength of available evidence is insufficient to recommend using racial, sex, or ethnic factors to inform the evaluation or management of HTN in children.
+11. Special Populations and Situations
+11.1 Acute Severe HTN
+
+There is a lack of robust evidence to guide the evaluation and management of children and adolescents with acute presentations of severe HTN. Thus, much of what is known is derived from studies conducted in adults, including medication choice.522 The evidence base has been enhanced somewhat over the past decade by the publication of several pediatric clinical trials and case series of antihypertensive agents that can be used to treat such patients.465,523–530
+
+Although children and adolescents can become symptomatic from HTN at lesser degrees of BP elevation, in general, patients who present with acute severe HTN will have BP elevation well above the stage 2 HTN threshold. In a study of 55 children presenting to a pediatric ED in Taiwan with hypertensive crisis, 96% had SBP greater than that of stage 2 HTN, and 76% had DBP greater than that of stage 2 HTN.531 The major clinical issue in such children is that this level of BP elevation may produce acute target organ effects, including encephalopathy, acute kidney injury, and congestive heart failure. Clinicians should be concerned about the development of these complications when a child’s BP increases 30 mm Hg or more above the 95th percentile.
+
+Although a few children with primary HTN may present with features of acute severe HTN,532 the vast majority will have an underlying secondary cause of HTN.532,533 Thus, for patients who present with acute severe HTN, an evaluation for secondary causes is appropriate and should be conducted expediently. Additionally, target organ effects should be assessed with renal function, echocardiography, and central nervous system imaging, among others.
+
+Given the potential for the development of potentially life-threatening complications, expert opinion holds that children and adolescents who present with acute severe HTN require immediate treatment with short-acting antihypertensive medications that may abort such sequelae.533,534 Treatment may be initiated with oral agents if the patient is able to tolerate oral therapy and if life-threatening complications have not yet developed. Intravenous agents are indicated when oral therapy is not possible because of the patient’s clinical status or when a severe complication has developed (such as congestive heart failure) that warrants a more controlled BP reduction. In such situations, the BP should be reduced by no more than 25% of the planned reduction over the first 8 hours, with the remainder of the planned reduction over the next 12 to 24 hours.533,534 The ultimate short-term BP goal in such patients should generally be around the 95th percentile. Table 19 lists suggested doses for oral and intravenous antihypertensive medications that may be used to treat patients with acute severe HTN.
+
+TABLE 19
+
+Oral and Intravenous Antihypertensive Medications for Acute Severe HTN
+Key Action Statement 27
+
+In children and adolescents with acute severe HTN and life-threatening symptoms, immediate treatment with short-acting antihypertensive medication should be initiated, and BP should be reduced by no more than 25% of the planned reduction over the first 8 hours (grade expert opinion D, weak recommendation).
+Aggregate Evidence Quality	Expert Opinion, D
+Benefits	Avoidance of complications caused by rapid BP reduction
+Risks, harm, cost	Severe BP elevation may persist
+Benefit–harm assessment	Benefit outweighs harm
+Intentional vagueness	None
+Role of patient preferences	None
+Exclusions	Patients without acute severe HTN and life-threatening symptoms
+Strength	Weak recommendation because of expert opinion
+Key references	240,533,535
+11.2 HTN and the Athlete
+
+Sports participation and increased physical activity should be encouraged in children with HTN. In adults, physical fitness is associated with lower all-cause mortality.536 Although meta-analyses and randomized controlled trials consistently show lower BP after exercise training in adults,535 the results are less robust in children.340 On the basis of this evidence, sports participation should improve BP over time. Additionally, there is evidence that exercise itself has a beneficial effect on cardiac structure in adolescents.537
+
+The athlete interested in participating in competitive sports and/or intense training presents a special circumstance. Existing guidelines present conflicting recommendations.1,538 Although increased LV wall dimension may be a consequence of athletic training,360 recommendations from AHA and ACC include the following: (1) limiting competitive athletic participation among athletes with LVH beyond that seen with athlete’s heart until BP is normalized by appropriate antihypertensive drug therapy, and (2) restricting athletes with stage 2 HTN (even among those without evidence of target organ injury) from participating in high-static sports (eg, weight lifting, boxing, and wrestling) until HTN is controlled with either lifestyle modification or drug therapy.539
+
+The AAP policy statement “Athletic Participation by Children and Adolescents Who Have Systemic Hypertension” recommends that children with stage 2 HTN be restricted from high-static sports (classes IIIA to IIIC) in the absence of end organ damage, including LVH or concomitant heart disease, until their BP is in the normal range after lifestyle modification and/or drug therapy.538 It is further recommended that athletes be promptly referred and evaluated by a qualified pediatric medical subspecialist within 1 week if they are asymptomatic or immediately if they are symptomatic. The subcommittee agrees with these recommendations.
+
+It should be acknowledged that there are no data linking the presence of HTN to sudden death related to sports participation in children, although many cases of sudden death are of unknown etiology. That said, athletes identified as hypertensive (eg, during preparticipation sports screening) should undergo appropriate evaluation as outlined above. For athletes with more severe HTN (stage 2 or greater), treatment should be initiated before sports participation.
+Key Action Statement 28
+
+Children and adolescents with HTN may participate in competitive sports once hypertensive target organ effects and risk have been assessed (grade C, moderate recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Aerobic exercise improves CVD risk factors in children and adolescents with HTN
+Risks, harm, cost	Unknown, but theoretical risk related to a rise in BP with strenuous exercise may exist
+Benefit–harm assessment	The benefits of exercise likely outweigh the potential risk in the vast majority of children and adolescents with HTN
+Intentional vagueness	None
+Role of patient preferences	Families may have different opinions about sports participation in children with HTN
+Exclusions	None
+Strength	Moderate recommendation
+Key references	341,360,538,540,541
+Key Action Statement 29
+
+Children and adolescents with HTN should receive treatment to lower BP below stage 2 thresholds before participating in competitive sports (grade C, weak recommendation).
+Aggregate Evidence Quality	Grade C
+Benefits	Aerobic exercise improves CVD risk factors in children and adolescents with HTN
+Risks, harm, cost	Unknown, but theoretical risk related to a rise in BP with strenuous exercise may exist
+Benefit–harm assessment	The benefits of exercise likely outweigh the potential risk in the vast majority of children and adolescents with HTN
+Intentional vagueness	None
+Role of patient preferences	None
+Exclusions	None
+Strength	Weak recommendation
+Key references	341,360,538,540,541
+11.3 HTN and the Posttransplant Patient
+
+HTN is common in children after solid-organ transplants, with prevalence rates ranging from 50% to 90%.179,180,540,541 Contributing factors include the use of steroids, calcineurin inhibitors, and mTOR (mammalian target of rapamycin) inhibitors. In patients with renal transplants, the presence of native kidneys, CKD, and transplant glomerulopathy are additional risk factors for HTN. HTN rates are higher by 24-hour ABPM compared with clinic BP measurements because these populations commonly have MH and nocturnal HTN.179–183,542 Control of HTN in renal-transplant patients has been improved with the use of annual ABPM.184,185 Therefore, ABPM should be used to identify and monitor nocturnal BP abnormalities and MH in pediatric kidney and heart-transplant recipients. The use of home BP assessment may provide a comparable alternative to ABPM for BP assessment after transplant as well.186
+
+The management of identified HTN in the pediatric transplant patient can be challenging. Rates of control of HTN in renal-transplant patients generally range from 33% to 55%.180,187 In studies by Seeman et al,188 intensified antihypertensive treatment in pediatric renal-transplant recipients improved nocturnal SBP and significantly reduced proteinuria.543 Children in these studies who achieved normotension had stable graft function, whereas those who remained hypertensive at 2 years had a progression of renal disease.544
+
+Antihypertensive medications have rarely been systematically studied in this population. There is limited evidence that ACE inhibitors and ARBs may be superior to other agents in achieving BP control and improving long-term graft survival in renal-transplant patients.185,543,544 However, the combination of ACE inhibitors and ARBs in renal-transplant patients has been associated with acidosis and hyperkalemia and is not recommended.545
+12. Lifetime HTN Treatment and Transition to Adulthood
+
+For adolescents with HTN requiring ongoing treatment, the transition from pediatric care to an adult provider is essential.546 HTN definition and treatment recommendations in this guideline are generally consistent with the forthcoming adult HTN treatment guideline, so diagnosis and treatment should not typically change with transition.
+Key Action Statement 30
+
+Adolescents with elevated BP or HTN (whether they are receiving antihypertensive treatment) should typically have their care transitioned to an appropriate adult care provider by 22 years of age (recognizing that there may be individual cases in which this upper age limit is exceeded, particularly in the case of youth with special health care needs). There should be a transfer of information regarding HTN etiology and past manifestations and complications of the patient’s HTN (grade X, strong recommendation).
+Aggregate Evidence Quality	Grade X
+Benefits	Provides continuity of care for patients
+Risks, harm, cost	None
+Benefit–harm assessment	No risk
+Intentional vagueness	None
+Role of patient preferences	Patient can pick adult care provider
+Exclusions	None
+Strength	Strong recommendation
+Key references	547
+13. Prevention of HTN
+13.1 Importance of Preventing HTN
+
+BP levels tend to increase with time even after adult height is reached. The rate of progression to frank HTN in a study of more than 12 000 Japanese adults (20–35 years of age at baseline, followed for 9 years) was 36.5% and was greater with higher baseline BP category.548 The rate of progression may also be accelerated in African American individuals. Similarly, both the Bogalusa Heart63 and Fels Longitudinal60 studies have clearly demonstrated that the risk of HTN in early adulthood is dependent on childhood BP, with greater numbers of elevated BP measurements in childhood conferring an increased risk of adult HTN.
+
+Because the tracking of BP levels in children has also been well documented,10 it is not surprising that analyses of the National Childhood BP database found 7% of adolescents with elevated BP per year progressed to true hypertensive BP levels. Of note, initial BMI and change in BMI were major determinants of the development of HTN.22 Therefore, in both children and adults, efforts (discussed below) should be made to prevent progression to sustained HTN and to avoid the development of hypertensive CV diseases.
+13.2 Strategies for Prevention
+
+One of the largest trials of preventing progression to HTN in adults, the Trial of Preventing Hypertension study, proved that 2 years of treatment with candesartan reduced the number of subjects with elevated BP from developing stage 1 HTN even after the drug was withdrawn.547 However, no similar study has been conducted in youth; for this reason, prevention efforts to date have focused on lifestyle modification, especially dietary intervention,426 exercise,549 and treatment of obesity.550 The best evidence for the potential of such prevention strategies comes from epidemiologic evidence for risk factors for the development of HTN or from studies focused on the treatment of established HTN. These risk factors include positive family history, obesity, a high-sodium diet, the absence of a DASH-type diet, larger amounts of sedentary time, and possibly other dietary factors.551–553
+
+Because family history is immutable, it is difficult to build a preventive strategy around it. However, a positive family history of HTN should suggest the need for closer BP monitoring to detect HTN if it occurs.
+
+Appropriate energy balance with calories eaten balanced by calories expended in physical activity is important. This is the best strategy to maintain an appropriate BMI percentile for age and sex and to avoid the development of obesity.554 From a broader dietary perspective, a DASH-type diet (ie, high in fruits, vegetables, whole grains, and low-fat dairy, with decreased intake of foods high in saturated fat or sugar) may be beneficial (see Table 16).423,427 Avoiding high-sodium foods may prove helpful in preventing HTN, particularly for individuals who are more sensitive to dietary sodium intake.555
+
+Adhering to recommendations for 60 minutes a day of moderate to vigorous physical activity can be important to maintaining an appropriate weight and may be independently helpful to maintaining a lower BP.344 The achievement of normal sleep habits and avoidance of tobacco products are also reasonable strategies to reduce CV risk.
+
+These preventive strategies can be implemented as part of routine primary health care for children and adolescents.
+14. Challenges in the Implementation of Pediatric HTN Guidelines
+
+Many studies have shown that physicians fail to meet benchmarks with respect to screening, especially universal screening for high BP in children.7,115 Although the reasons for this failure likely vary from practice to practice, a number of common challenges can be identified.
+
+The first challenge is determining how to identify every child in a clinic who merits a BP measurement. This could be accomplished through flags in an EHR, documentation rules for specific patients, and/or clinic protocols.
+
+The second challenge is establishing a local clinic protocol for measuring BP correctly on the basis of the algorithms in this guideline. It is important to determine the optimal approach on the basis of the available equipment, the skills of clinic personnel, and the clinic’s throughput needs.
+
+The third challenge is for clinic personnel to be aware of what to do with high BP measurements when they occur. Knowing when to counsel patients, order tests or laboratory work, and reach out for help is essential. Making this part of standard practice so every child follows the prescribed pathway may be challenging.
+
+The final diagnosis of HTN also relies on a number of sequential visits. Ensuring that patients return for all of these visits and are not lost to follow-up may require new clinic processes or mechanisms. Information technology may help remind providers to schedule these visits and remind patients to attend these visits; even with that assistance, however, completing all the visits may be difficult for some patients.
+
+In addition, family medicine physicians and general pediatricians may face challenges in having normative pediatric BP values available for use at all times. Although adult BP cutoffs are easy to memorize, pediatric BP percentile cutoffs are greatly dependent on age and height. The BP tables in this guideline provide cutoffs to use for the proper diagnosis of HTN; their availability will simplify the recognition of abnormal BP values.
+
+The AAP Education in Quality Improvement for Pediatric Practice module on HTN identification and management556 and its accompanying implementation guide557 should be of assistance to practitioners who wish to improve their approach to identifying and managing childhood HTN. This module is currently being updated to incorporate the new recommendations in this guideline.
+15. Other Topics
+15.1 Economic Impact of BP Management
+
+Researchers in a small number of studies have examined the potential economic impacts related to pediatric BP management.208,558,559 Wang et al558 estimated both the effectiveness and cost-effectiveness of 3 screening strategies and interventions to normalize pediatric BP based on the literature and through a simulation of children (n = 4 017 821). The 3 screening strategies included the following: (1) no screening; (2) selected screening and treatment, as well as “treating everyone” (ie, with population-wide interventions, such as targeted programs for overweight adolescents [eg, weight-loss programs, exercise programs, and salt-reduction programs]); and (3) nontargeted programs for exercise and salt reduction.
+
+The simulation suggested that these various strategies could reduce mortality, with a modest expected survival benefit of 0.5 to 8.6 days. The researchers also examined quality-adjusted life-years (QALYs) and the cost per QALY. Only 1 intervention, a nontargeted salt-reduction campaign, had a negative cost per QALY. This intervention and the other 2 described in that article support the concept that population-wide interventions may be the most cost-effective way to improve CV health. The article has serious limitations, however, including the fact that population-wide interventions for exercise and the reduction of sodium intake have not, thus far, been effective.
+
+The accurate determination of those who actually have HTN (as opposed to WCH) is fundamental to providing sound care to patients. Researchers in two studies examined the effects of using ABPM in the diagnosis of HTN.208,559 Davis et al559 compared 3 HTN screening strategies; these options are summarized in the following value-analysis framework (see Table 20).560 It appears that the implementation of ABPM for all patients is not ensured. The next best option, screening clinic BP with ABPM, is most likely to be implementable and has significant clinical benefit given the high prevalence of WCH.
+
+
+
+TABLE 20
+
+Comparison of HTN Screening Strategies
+
+Swartz et al208 conducted a retrospective review of 267 children with elevated clinic BP measurements referred for ABPM. Of the 126 patients who received ABPM, 46% had WCH, 49% had stage 1 HTN, and 5% had stage 2 HTN. This is consistent with the concept that screening with clinic BP alone results in high numbers of false-positive results for HTN. The diagnosis of HTN in this study resulted in an additional $3420 for evaluation (includes clinic visit, facility fee, laboratory testing, renal ultrasound, and echocardiography) vs $1265 (includes clinic visit, facility fee, and ABPM). This suggests that ABPM is cost-effective because of the reduction of unnecessary testing in patients with WCH.
+
+When examining these costs, the availability of ABPM, and the availability of practitioners who are skilled in pediatric interpretation, the most cost-effective and implementable screening solution is to measure clinic BP and confirm elevated readings by ABPM.
+15.2 Patient Perspective and Pediatric HTN
+
+Children and adolescents are not just patients; they are active participants in their health management. If children and adolescents lack a clear understanding of what is happening inside their bodies, they will not be able to make informed choices in their daily activities. Better choices lead to better decisions executed in self-care. For clear judgments to be made, there needs to be open communication between physicians and families, a provision of appropriate education on optimal HTN management, and a strong partnership assembled within a multidisciplinary health care team including physicians, advanced practice providers, dietitians, nurses, and medical and clinical assistants.
+
+It is important for physicians to be mindful that children and adolescents want, and need, to be involved in their medical care. Pediatric HTN patients are likely to feel excluded when clinicians or other providers speak to their parents instead of including them in the conversation. When patients are neither included in the discussion nor encouraged to ask questions, their anxiety can increase, thus worsening their HTN. Keeping an open line of communication is important and is best done by using a team approach consisting of the patient, the family, health care support staff, and physicians. With practical education on HTN management provided in easily understandable terms, the patients will be more likely to apply the concepts presented to them. Education is important and should be given in a way that is appropriate for young children and their families to understand. Education should consist of suitable medication dosing, a proper diet and level of activity, the identification of symptoms, and appropriate BP monitoring (including cuff size).
+Patient Perspective, by Matthew Goodwin
+
+“I am not just a 13 year old, I am a teenager who has lived with hypertension, renal disease, and midaortic syndrome since I was 4 years old. I have experienced surgeries, extended hospitalizations, daily medications, procedures, tests, continued blood pressure monitoring, lifestyle changes, and dietary restrictions. Hypertension is a part of my everyday life. It will always be a component of me. I had to learn the effects of hypertension at a young age. I knew what would happen to me if I ate too much salt or did not fully hydrate, thus I became watchful. I did this so I could efficiently communicate with my physicians any changes I physically felt or any symptoms that were new or different regarding my illness. This has allowed me, my family, and my doctors to work effectively as one unit. I am grateful for my doctors listening to me as a person and not as a kid.”
+15.3 Parental Perspective and Pediatric HTN
+
+Parents play a key role in the management and care of their children’s health. Parents and physicians should act as a cohesive unit to foster the best results. It is vital for physicians to provide concise information in plain language and do so using a team approach. This will facilitate parents having a clear understanding of the required tests, medications, follow-ups, and outcomes.
+
+Parents of children with hypertensive issues can encounter 1 or more specialists in addition to their pediatric clinician. This can prove to be overwhelming, frightening, and may fill the parent with anxiety. Taking these things into account and creating unified partners, built with the physician and family, will encourage the family to be more involved in the patient’s health management. Plain language in a team approach will yield the most positive outcomes for the patient.
+
+Understanding the family and patient’s perception of HTN and any underlying disease that may be contributing to it is important to resolve any misconceptions and encourage adherence to the physician’s recommendations. To attain therapeutic goals, proper education must be provided to the family as a whole. This education should include proper medication dosages, recommended sodium intake, any dietary changes, exercise expectations, and any other behavioral changes. It is equally important to stress to the family the short- and long-term effects of HTN if it is not properly managed. Parents with younger children will carry the ultimate burden of daily decisions as it applies to medications, food choices, and activity. Parents of older adolescents will partner with the children to encourage the right choices. Education as a family unit is important for everyone involved to understand the consequences.
+
+A family-based approach is important for all pediatric diseases but plays a particular role in conditions that are substantially influenced by lifestyle behaviors. This has been shown in several pediatric populations, including those with T2DM and obesity.561–565
+16. Evidence Gaps and Proposed Future Directions
+
+In general, the pediatric HTN literature is not as robust as the adult HTN literature. The reasons for this are many, but the 2 most important are as follows: (1) the lower prevalence of HTN in childhood compared with adults, and (2) the lack of adverse CV events (myocardial infarction, stroke, and death) attributable to HTN in young patients. These factors make it difficult to conduct the types of clinical trials that are needed to produce high-quality evidence. For example, no large pediatric cohort has ever been assembled to answer the question of whether routine BP measurement in childhood is useful to prevent adult CVD.566 Given this, other types of evidence, such as from cross-sectional and observational cohort studies, must be examined to guide practice.567
+
+From the standpoint of the primary care provider, the most significant evidence gaps relate to whether diagnosing elevated BP and HTN in children and adolescents truly has long-term health consequences, whether antihypertensive medications should be used in a child or adolescent with elevated BP, and what medications should be preferentially used. These evidence gaps have been alluded to previously in this document.
+
+Other important evidence gaps should be highlighted, including the following:
+
+    Is there a specific BP level in childhood that predicts adverse outcomes, and can a single number (or numbers) be used to define HTN, as in adults?
+
+    Can and should ABPM ever replace auscultation in the diagnosis of childhood HTN?
+
+    Are the currently used, normative standards for ABPM appropriate, or are new normative data needed?568
+
+    What is the best diagnostic evaluation to confidently exclude secondary causes of HTN?
+
+    Are other assessments of hypertensive target organ damage (such as urine MA or vascular studies) better than echocardiography?
+
+    How confident can we be that a child or teenager with elevated BP will have HTN and/or CVD disease as an adult?
+
+Some of these questions may eventually be answered by research that is currently in progress, such as further analysis of the International Childhood Cardiovascular Cohort Consortium569 and the promising Adult Hypertension Onset in Youth study, which seeks to better define the level of BP in childhood that predicts the development of hypertensive target organ damage.570 Other studies will need to be performed in children and adolescents to fill in the remaining gaps, including more rigorous validation studies of automated BP devices in the pediatric population, expanded trials of lifestyle interventions, further comparative trials of antihypertensive medications, and studies of the clinical applicability of hypertensive target organ assessments.
+
+Furthermore, and perhaps more crucially, there needs to be prospective assessment of the recommendations made in this document with regular updates based on new evidence as it is generated (generally, per AAP policy, these occur approximately every 5 years). With such ongoing reassessment and revision, it is hoped that this document and its future revisions will come to be viewed as an effective guide to practice and will improve the care of the young patients who are entrusted to us.
+
+Implementation tools for this guideline are available on the AAP Web site (https://www.aap.org/en-us/about-the-aap/Committees-Councils-Sections/coqips/Pages/Implementation-Guide.aspx).

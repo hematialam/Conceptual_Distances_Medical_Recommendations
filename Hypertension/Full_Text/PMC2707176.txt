@@ -1,0 +1,216 @@
+Résumé
+OBJECTIF :
+Fournir des recommandations probantes et à jour pour le diagnostic et l’évaluation des adultes hypertendus.
+POSSIBILITÉS ET ISSUES :
+Le diagnostic d’hypertension dépend d’une mesure pertinente de la tension artérielle, de l’évaluation opportune de lectures sérielles élevées, du taux d’élévation de la tension artérielle, du mode de mesure (en cabinet, en milieu ambulatoire, à domicile) et des comorbidités connexes. Il faut évaluer la présence de facteurs de risque cardiovasculaires et l’atteinte des organes cibles afin de déterminer le risque cardiovasculaire global ainsi que l’urgence, l’intensité et le type de traitement.
+DONNÉES PROBANTES :
+Des recherches dans MEDLINE ont été exécutées entre novembre 2007 et octobre 2008 avec l’aide d’un bibliothécaire médical. On a dépouillé les listes de référence, communiqué avec des experts et utilisé les dossiers personnels des auteurs et des membres des sous-groupes pour repérer d’autres études publiées. Des spécialistes du contenu et de la méthodologie ont évalué les études au moyen d’algorithmes normalisés, probants et préétablis. Les recommandations sont fondées sur des données probantes tirées d’articles intégraux révisés par des pairs.
+RECOMMANDATIONS :
+Le présent document contient des recommandations sur la mesure de la tension artérielle, les critères de diagnostic et de suivi de l’hypertension, l’évaluation du risque cardiovasculaire global, les tests diagnostiques, le diagnostic des causes rénovasculaires et endocriniennes de l’hypertension, la surveillance ambulatoire et à domicile et le recours à l’échocardiographie chez les hypertendus. Les principaux messages exposent l’importance d’un diagnostic rapide et exact de l’hypertension, de l’évaluation du risque global et du besoin d’assurer une surveillance continue des patients hypertendus afin de repérer les cas incidents de diabète de type 2.
+VALIDATION :
+Toutes les recommandations sont classées selon la solidité des données probantes, et les 57 membres du groupe de travail des recommandationsprobantesduProgrammeéducatifcanadiensurl’hypertension ont exercé leur vote à leur égard. Toutes les recommandations devaient obtenir un consensus d’au moins 70 % de la part des membres du groupe de travail. Les présentes lignes directrices continueront d’être mises à jour chaque année.
+Hypertension affects 27% of the Canadian adult population 35 to 64 years of age ( 1 ), and remains one of the most common modifiable risk factors for cardiovascular disease in Canada and globally ( 2 , 3 ). The present document summarizes the 2009 Canadian Hypertension Education Program (CHEP) recommendations for the diagnosis and assessment of hypertension in adults, focusing on those recommendations that are new or updated. For issues related to the diagnosis and evaluation of high blood pressure in children and adolescents, the reader is referred to separate guidelines ( 4 ). A more detailed discussion of previous changes to the Canadian recommendations is available in previous publications ( 5 – 8 ). Summary documents of all recommendations, including downloadable slide kits, are available free of charge on the Canadian Hypertension Society Web site ( www.hypertension.ca ).
+METHODS
+The previously published methodology remains unchanged ( 9 ) and was previously described ( 10 ). In brief, grade A recommendations are based on studies with high levels of internal validity, statistical precision, generalizability and clinical relevance. Grade B and C recommendations are derived from studies characterized by lower internal validity, precision or generalizability, or from studies reporting intermediate or surrogate outcomes instead of more clinically relevant ones. Grade D recommendations are based on expert opinion or studies with lower levels of internal validity or precision than grade C recommendations.
+THE 2009 CHEP RECOMMENDATIONS
+I. Accurate measurement of blood pressure
+Recommendations 
+Health care professionals who have been specifically trained to measure blood pressure (BP) accurately should assess BP in all adult patients at all appropriate visits to determine cardiovascular risk and monitor antihypertensive treatment (grade D).
+Use of standardized measurement techniques (  Table 1  ) is recommended when assessing blood pressure (grade D).
+TABLE 1
+Recommended technique for measuring blood pressure
+ 
+ Open in a separate window 
+These are instructions for blood pressure measurement when using a sphygmomanometer and stethoscope; many steps may not apply when using automated devices. Reprinted with permission from the Canadian Hypertension Education Program
+Background 
+There have been no changes to these recommendations in 2009.
+II. Criteria for diagnosis of hypertension and recommendations for follow-up (  Figure 1  )
+ 
+ 
+ 
+ Open in a separate window 
+ 
+ Figure 1) 
+The expedited assessment and diagnosis of patients with hypertension (HTN): focus on validated technologies for blood pressure (BP) assessment. *Thresholds refer to BP values averaged across the corresponding number of visits, and not just the most recent office visit. ABPM Ambulatory BP monitoring; BPM BP monitoring; DBP Diastolic BP; SBP Systolic BP. Reprinted with permission from the Canadian Hypertension Education Program
+Recommendations 
+At initial presentation, patients demonstrating features of a hypertensive urgency or emergency (  Table 2  ) should be diagnosed as hypertensive and require immediate management (grade D).
+TABLE 2
+Examples of hypertensive urgencies and emergencies
+ 
+ Open in a separate window 
+Reprinted with permission from the Canadian Hypertension Education Program
+If systolic BP (SBP) is 140 mmHg or higher and/or diastolic BP (DBP) is 90 mmHg or higher, a specific visit should be scheduled for the assessment of hypertension (grade D). If BP is high normal (SBP 130 mmHg to 139 mmHg and/or DBP 85 mmHg to 89 mmHg), annual follow-up is recommended (grade C).
+At the initial visit for the assessment of hypertension, if SBP is 140 mmHg or higher and/or DBP is 90 mmHg or higher, at least two more readings should be taken during the same visit using a validated device and according to the recommended procedure for accurate BP determination (  Table 1  ). The first reading should be discarded and the latter two averaged. A history and physical examination should be performed and, if clinically indicated, diagnostic tests to search for target organ damage (  Table 3  ) and associated cardiovascular risk factors (  Table 4  ) should be arranged within two visits. Exogenous factors that can induce or aggravate hypertension should be assessed and removed if possible (  Table 5  ). Schedule visit 2 within one month (grade D).
+TABLE 3
+Examples of target organ damage
+ 
+ Open in a separate window 
+Reprinted with permission from the Canadian Hypertension Education Program
+TABLE 4
+Examples of key cardiovascular risk factors for atherosclerosis
+ 
+ Open in a separate window 
+A history of clinically overt atherosclerotic disease indicates a very high risk for a recurrent atherosclerotic event (eg, peripheral arterial disease, previous stroke or transient ischemic attack). Reprinted with permission from the Canadian Hypertension Education Program
+TABLE 5
+Examples of exogenous factors that can induce or aggravate hypertension
+ 
+ Open in a separate window 
+Reprinted with permission from the Canadian Hypertension Education Program
+At visit 2 of the assessment of hypertension, patients with macrovascular target organ damage, diabetes mellitus or chronic kidney disease (CKD) (glomerular filtration rate [GFR] less than 60 mL/min) can be diagnosed as hypertensive if SBP is 140 mmHg or higher and/or DBP is 90 mmHg or higher (grade D).
+At visit 2 of the assessment of hypertension, patients without macrovascular target organ damage, diabetes mellitus and/or chronic kidney disease can be diagnosed as hypertensive if the SBP is 180 mmHg or higher and/or the DBP is 110 mmHg or higher (grade D). Patients without macrovascular target organ damage, diabetes mellitus or CKD but with lower BP levels should undergo further evaluation using any of the three approaches outlined below:
+Office BPs:
+ Using office BP measurements, patients can be diagnosed as hypertensive if the SBP is 160 mmHg or higher or the DBP is 100 mmHg or higher averaged across the first three visits, or if the SBP averages 140 mmHg or higher or the DBP averages 90 mmHg or higher across five visits (grade D).
+Ambulatory BP monitoring (ABPm):
+ Using ABPM (see section VIII), patients can be diagnosed as hypertensive if the mean awake SBP is 135 mmHg or higher or the DBP is 85 mmHg or higher, or if the mean 24 h SBP is 130 mmHg or higher or the DBP is 80 mmHg or higher (grade C).
+Home BP measurement:
+ Using home BP measurements (see section VII), patients can be diagnosed as hypertensive if the average SBP is 135 mmHg or higher or the DBP is 85 mmHg or higher (grade C). If the average home BP is less than 135/85 mmHg, it is advisable to perform 24 h ABPM to confirm that the mean 24 h ABPM is less than 130/80 mmHg and the mean awake ABPM is less than 135/85 mmHg before diagnosing white coat hypertension (grade D).
+Investigations for secondary causes of hypertension should be initiated in patients with suggestive clinical and/or laboratory features (outlined below) (grade D).
+If at the last diagnostic visit the patient is not diagnosed as hypertensive, and has no evidence of macrovascular target organ damage, the patient’s BP should be assessed at yearly intervals (grade D).
+Hypertensive patients receiving lifestyle modification advice alone (nonpharmacological treatment) should be followed up at three- to six-month intervals. Shorter intervals (every one or two months) are needed for patients with higher BPs (grade D).
+Patients on antihypertensive drug treatment should be seen monthly or every two months, depending on the level of BP, until readings on two consecutive visits are below their target (grade D). Shorter intervals between visits will be needed for symptomatic patients and those with severe hypertension, intolerance to antihypertensive drugs or target organ damage (grade D). Once the target BP has been reached, patients should be seen at three- to six-month intervals (grade D).
+Background 
+The criteria for the diagnosis of hypertension were previously discussed in detail ( 11 ). It should be emphasized that when using office BPs to diagnose hypertension, the thresholds given above refer to readings averaged over the specified number of visits and not just on the last visit.
+III. Assessment of overall cardiovascular risk in hypertensive patients
+Recommendations 
+Global cardiovascular risk should be assessed. Multifactorial risk assessment models can be used to predict more accurately an individual’s global cardiovascular risk (grade A) and to use antihypertensive therapy more efficiently (grade D). In the absence of Canadian data to determine the accuracy of risk calculations, avoid using absolute levels of risk to support treatment decisions (grade C).
+Consider informing patients of their global risk to improve the effectiveness of risk factor modification (grade C).
+Background 
+Recognizing the importance of global risk assessment as a component of hypertension therapy ( 12 ), the 2006 recommendations ( 13 ) included a detailed review of risk assessment tools ( 14 ) including the Framingham Heart Study model ( www.nhlbi.nih.gov/about/framingham/riskabs.htm ) ( 15 – 18 ), the cardiovascular life expectancy model ( www.chiprehab.com ) ( 19 ), the United Kingdom Prospective Diabetes Study (UKPDS) model ( www.dtu.ox.ac.uk/index ) ( 20 , 21 ) and the Symptoms-Causes-Output-Resources-Effects (SCORE) model ( www.scorecanada.ca ) ( 22 ). Measurement of the ankle-brachial index may improve the accuracy of cardiovascular risk prediction beyond risk scoring alone ( 23 ).
+Detailed guidelines for hypertension treatment based on absolute risk thresholds are not available at this time, given the lack of published studies examining the validity of these models in the Canadian population. However, global risk assessment in general, and the use of these models specifically, can be used as a tool to assist physicians in identifying subjects with hypertension who are most likely to benefit from therapy. When considering an individual’s future risk of developing cardiovascular disease and the potential impact of antihypertensive therapy, one should consider assessing both the risk of future cardiac as well as cerebrovascular events ( 24 ).
+A recently published randomized clinical trial among Canadians with dyslipidemia has demonstrated that explicitly calculating a patient’s cardiovascular risk and discussing the results can significantly increase the likelihood of achieving lipid targets, even after adjustment for the intensity of statin therapy ( 25 ). This suggests that informed patients are more adherent to lifestyle recommendations and/or pharmacotherapy. Although a similar trial focusing on hypertensive management has not been completed, these results are potentially generalizable to individuals with hypertension.
+IV. Routine and optional laboratory tests for the investigation of patients with hypertension
+Recommendations 
+Routine laboratory tests that should be performed for the investigation of all patients with hypertension include:
+urinalysis (grade D);
+blood chemistry (potassium, sodium and creatinine) (grade D);
+fasting blood glucose (grade D);
+fasting serum total cholesterol and high-density lipoprotein cholesterol, low-density lipoprotein cholesterol and triglycerides (grade D); and
+standard 12-lead electrocardiography (grade C).
+Assess urinary albumin excretion in patients with diabetes (grade D).
+All treated hypertensive patients should be monitored according to the current Canadian Diabetes Association guidelines for the new appearance of diabetes (grade B).
+During the maintenance phase of hypertension management, tests (including those for electrolytes, creatinine and fasting lipids) should be repeated with a frequency reflecting the clinical situation (grade D).
+Background 
+As previously discussed, the routine ascertainment of microalbuminuria in all nondiabetic hypertensive patients is currently not recommended ( 5 ). However, assessment for microalbuminuria may be indicated in selected patients when a global risk assessment is being performed to identify high-risk hypertensive patients eligible for statin therapy ( 6 , 26 ). Assessment of microalbuminuria is also required to guide therapy in patients with diabetes and those with chronic kidney disease.
+Monitoring all hypertensive patients for incident diabetes according to the recommendations outlined in the guidelines of the Canadian Diabetes Association ( www.diabetes.ca ) is recommended. In part, hypertensive patients are at higher risk for developing type 2 diabetes because of the tendency of cardiometabolic risk factors to cluster, particularly in the presence of central adiposity ( 27 – 29 ). At minimum, new-onset diabetes occurs in 1% to 2% of hypertensive patients each year ( 30 , 31 ). Among 18,411 nondiabetic hypertensive patients older than 55 years of age who had follow-up measurements of fasting plasma glucose (43% of the original cohort), the cumulative incidence of diabetes was 8% to 11% at four years ( 32 ). Furthermore, the prognosis of patients who develop diabetes is worse than those who do not ( 30 – 34 ). After 14.3 years of follow-up in the placebo arm of the Systolic Hypertension in Elderly Patients (SHEP) trial ( 33 ) (older than 60 years of age), cardiovascular mortality (hazard ratio [HR] 1.56, 95% CI 1.12 to 2.18) and total mortality (HR 1.35, 95% CI 1.05 to 1.73) were significantly increased among those who developed diabetes.
+Although based on weaker evidence, the type of antihypertensive drug treatment also appears to influence future risk of type 2 diabetes ( 27 , 28 ). Studies suggest that both beta-blockers and thiazides are associated with an increased risk of diabetes, and angiotensin-converting enzyme inhibitors, angiotensin receptor blockers and calcium channel blockers are neutral or associated with decreased risk ( 27 ). However, in the Diabetes REduction Assessment with ramipril and rosiglitazone Medication (DREAM) trial ( 35 ) (three-year randomized controlled trial involving 5269 prediabetic patients), ramipril did not significantly reduce the incidence of type 2 diabetes (HR 0.91, 95% CI 0.81 to 1.03) or mortality. Thus, no specific antihypertensive drugs are currently recommended to prevent the development of diabetes mellitus.
+It is important to note that there are currently no conclusive data that directly implicate drug-induced type 2 diabetes with increased cardiovascular risk ( 33 ). Furthermore, in patients with or without diabetes, thiazide-based treatment regimens reduce cardiovascular and overall mortality to a similar extent as ‘nondiabetogenic’ agents ( 6 ). The task force will continue to monitor this area closely and issue updated recommendations as required.
+V. Assessment for renovascular hypertension
+Recommendations 
+Patients presenting with two or more of the clinical clues listed below, suggesting renovascular hypertension, should be investigated (grade D): 
+sudden onset or worsening of hypertension and age older than 55 years or younger than 30 years;
+the presence of an abdominal bruit;
+hypertension resistant to three or more drugs;
+a rise in serum creatinine level of 30% or more associated with use of an angiotensin-converting enzyme inhibitor or angiotensin II receptor antagonist;
+other atherosclerotic vascular disease, particularly in patients who smoke or have dyslipidemia; and
+recurrent pulmonary edema associated with hypertensive surges.
+When available, the following tests are recommended to aid in the usual screening for renal vascular disease: captopril-enhanced radioisotope renal scan, Doppler sonography, magnetic resonance angiography and computed tomographic angiography (for those with normal renal function) (grade B). Captopril-enhanced radioisotope renal scan is not recommended for those with CKD (GFR less than 60 mL/min) (grade D).
+Background 
+There are no changes from the 2008 recommendations ( 7 ). Most diagnostic testing for renovascular hypertension has been validated in patients with normal renal function. In patients with CKD, there are notable limitations to current screening methods and the optimal method is uncertain. The diagnostic accuracy of captopril renal scanning is poor in the setting of GFR levels below 60 mL/min ( 36 ). Nephrogenic systemic fibrosis may very rarely occur (estimated incidence one per million) in patients receiving gadolinium-based contrast media for magnetic resonance angiography. The risk may vary by contrast agent and is higher in patients with CKD (particularly those with end-stage renal failure); similarly, computed tomographic angiography carries a risk of contrast nephropathy ( 37 ). Duplex Doppler ultrasonography of the renal vessels is safe, but is highly specialized, operator-dependent and not widely available ( 38 ).
+VI. Endocrine hypertension
+Recommendations 
+A. Hyperaldosteronism – screening and diagnosis 
+Screening for hyperaldosteronism should be considered for the following patients (grade D): 
+hypertensive patients with spontaneous hypokalemia (K level lower than 3.5 mmol/L);
+hypertensive patients with marked diuretic-induced hypokalemia (K level lower than 3.0 mmol/L);
+patients with hypertension refractory to treatment with three or more drugs; and
+hypertensive patients found to have an incidental adrenal adenoma.
+Screening for hyperaldosteronism should include assessment of plasma aldosterone and plasma renin activity (  Table 6  ).
+TABLE 6
+Hyperaldosteronism – screening and diagnosis
+ 
+ Open in a separate window 
+Reprinted with permission from the Canadian Hypertension Education Program
+For patients with suspected hyperaldosteronism (on the basis of the screening test,   Table 6   [iii]), a diagnosis of primary aldosteronism should be established by demonstrating inappropriate autonomous hyper secretion of aldosterone using at least one of the manoeuvres listed in   Table 6   (iv). When the diagnosis is established, the abnormality should be localized using any of the tests described in   Table 6   (v).
+B. Pheochromocytoma – screening and diagnosis 
+If pheochromocytoma is strongly suspected, the patient should be referred to a specialized hypertension centre, particularly if biochemical screening tests (  Table 7  ) have already been found to be positive (grade D).
+TABLE 7
+Pheochromocytoma: Screening and diagnosis
+ 
+ Open in a separate window 
+Reprinted with permission from the Canadian Hypertension Education Program
+The following patients should be considered for screening for pheochromocytoma (grade D): 
+patients with paroxysmal and/or severe (BP 180/110 mmHg or higher) sustained hypertension refractory to usual antihypertensive therapy;
+patients with hypertension and multiple symptoms suggestive of catecholamine excess (eg, headaches, palpitations, sweating, panic attacks and pallor);
+patients with hypertension triggered by beta-blockers, monoamine oxidase inhibitors, micturition or changes in abdominal pressure; and
+patients with incidentally discovered adrenal masses, patients with hypertension and multiple endocrine neoplasia 2A or 2B, von Recklinghausen’s neurofibromatosis or von Hippel-Lindau disease.
+For patients with positive biochemical screening tests, localization of pheochromocytomas should employ magnetic resonance imaging (preferable), computed tomography (if magnetic resonance imaging is unavailable), and/or iodine-131 metaiodobenzylguanidine scintigraphy (grade C for each modality).
+Background 
+There are no changes to these recommendations in 2009.
+VII. Home measurement of BP
+Recommendations 
+Home BP readings can be used in the diagnosis of hypertension (grade C).
+The use of home BP monitoring on a regular basis should be considered for patients with hypertension, particularly those with: 
+diabetes mellitus (grade D);
+chronic kidney disease (grade C);
+suspected nonadherence (grade D);
+demonstrated white coat effect (grade C); and
+BP controlled in the office but not at home (masked hypertension) (grade C).
+When white coat hypertension is suggested by home monitoring, its presence should be confirmed with ABPM before making treatment decisions (grade D).
+Patients should be advised to purchase and use only home BP monitoring devices that are appropriate for the individual and have met standards of the Association for the Advancement of Medical Instrumentation, the most recent requirements of the British Hypertension Society protocol or the international protocol for validation of automated BP measuring devices. Patients should be encouraged to use devices with data recording capabilities or automatic data transmission to increase the reliability of reported home BP values (grade D).
+Home SBP values of 135 mmHg or higher or DBP values of 85 mmHg or higher should be considered elevated and associated with an increased overall mortality risk analogous to office SBP readings of 140 mmHg or higher or DBP of 90 mmHg or higher (grade C).
+Health care professionals should ensure that patients who measure their BP at home have adequate training and, if necessary, repeat training in measuring their BP. Patients should be observed to determine whether they measure BP correctly and should be given adequate information about interpreting these readings (grade D).
+The accuracy of all individual patients’ validated devices (including electronic devices) must be regularly checked against a device of known calibration (grade D).
+Home BP values for assessing white coat hypertension or sustained hypertension should be based on duplicate measures, morning and evening, for an initial seven-day period. First-day home BP values should not be considered (grade D).
+Background 
+Information on validated blood pressure monitors can be found at < www.hypertension.ca/chep/approved-home-bp-devices >. There are no changes to these recommendations for 2009.
+VIII. Ambulatory BP measurement
+Recommendations 
+Ambulatory BP readings can be used in the diagnosis of hypertension (grade C).
+ABPM should be considered when an office-induced increase in BP is suspected in treated patients with: 
+BP that is not below target despite receiving appropriate chronic antihypertensive therapy (grade C);
+symptoms suggestive of hypotension (grade C); or
+fluctuating office BP readings (grade D).
+Physicians should use only ABPM devices that have been validated independently using established protocols (grade D).
+Therapy adjustment should be considered in patients with a 24 h ambulatory SBP of 130 mmHg or higher or DBP of 80 mmHg or higher, or an awake SBP of 135 mmHg or higher or DBP of 85 mmHg or higher (grade D).
+The magnitude of changes in nocturnal BP should be taken into account in any decision to prescribe or withhold drug therapy based on ambulatory BP (grade C) because a decrease in nocturnal blood pressure of less than 10% is associated with increased risk of cardiovascular events.
+Background 
+There are no new recommendations in this section.
+IX. Role of echocardiography
+Recommendations 
+Routine echocardiographic evaluation of all hypertensive patients is not recommended (grade D).
+An echocardiogram for assessment of left ventricular hypertrophy is useful in selected cases to help define the future risk of cardiovascular events (grade C).
+Echocardiographic assessment of left ventricular mass, as well as systolic and diastolic left ventricular function, is recommended for hypertensive patients suspected to have left ventricular dysfunction or coronary artery disease (grade D).
+Patients with hypertension and evidence of heart failure should have an objective assessment of left ventricular ejection fraction, either by echocardiogram or nuclear imaging (grade D).
+Background 
+This section was updated in 2006 ( 13 ) and there are no new changes in 2009.
+FUTURE DIRECTIONS
+The CHEP Recommendations Task Force will continue to monitor the published literature and update these guidelines annually based on new developments in the literature and feedback from stakeholders and other users of these recommendations.
+REFERENCES
+1.  Wolf-Maier K, Cooper RS, Kramer H, et al.  Hypertension treatment and control in five European countries, Canada, and the United States.   Hypertension.  2004; 43 :10–7.    [ PubMed ]  
+2.  Kannel WB. Blood pressure as a cardiovascular risk factor: Prevention and treatment.   JAMA.  1996; 275 :1571–6.    [ PubMed ]  
+3.  Yusuf S, Hawken S, Ounpuu S, et al.  Effect of potentially modifiable risk factors associated with myocardial infarction in 52 countries (the INTERHEART study): Case-control study.   Lancet.  2004; 364 :937–52.    [ PubMed ]  
+4.  National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescents  The fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents.   Pediatrics.  2004; 114 :555–76.    [ PubMed ]  
+5.  Padwal RS, Hemmelgarn BR, McAlister FA, et al. for the Canadian Hypertension Education Program  The 2007 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 1 – blood pressure measurement, diagnosis and assessment of risk.   Can J Cardiol.  2007; 23 :529–38.   [ PMC free article ]    [ PubMed ]  
+6.  Khan NA, Hemmelgarn B, Padwal R, et al. for the Canadian Hypertension Education Program  The 2007 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 2 – therapy.   Can J Cardiol.  2007; 23 :539–50.   [ PMC free article ]    [ PubMed ]  
+7.  Padwal RS, Hemmelgarn BR, Khan NA, et al. for the Canadian Hypertension Education Program  The 2008 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 1 – blood pressure measurement, diagnosis and assessment of risk.   Can J Cardiol.  2008; 24 :455–63.   [ PMC free article ]    [ PubMed ]  
+8.  Khan NA, Hemmelgarn B, Herman RJ, et al. for the Canadian Hypertension Education Program  The 2008 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 2 – therapy.   Can J Cardiol.  2008; 24 :465–75.   [ PMC free article ]    [ PubMed ]  
+9.  Zarnke KB, Campbell NR, McAlister FA, Levine M, Canadian Hypertension Recommendations Working Group  A novel process for updating recommendations for managing hypertension: Rationale and methods.   Can J Cardiol.  2000; 16 :1094–102.    [ PubMed ]  
+10.  McAlister FA. The Canadian Hypertension Education Program – a unique Canadian initiative.   Can J Cardiol.  2006; 22 :559–64.   [ PMC free article ]    [ PubMed ]  
+11.  Hemmelgarn BR, McAlister FA, Myers MG, et al.  The 2005 Canadian Hypertension Education Program recommendations for the management of hypertension: Part I – blood pressure measurement, diagnosis and assessment of risk.   Can J Cardiol.  2005; 21 :645–56.    [ PubMed ]  
+12.  Topol EJ, Lauer MS. The rudimentary phase of personalised medicine: Coronary risk scores.   Lancet.  2003; 362 :1776–7.    [ PubMed ]  
+13.  Hemmelgarn BR, McAlister FA, Grover S, et al. for the Canadian Hypertension Education Program  The 2006 Canadian Hypertension Education Program recommendations for the management of hypertension: Part I – blood pressure measurement, diagnosis and assessment of risk.   Can J Cardiol.  2006; 22 :573–81.   [ PMC free article ]    [ PubMed ]  
+14.  Grover SA, Hemmelgarn B, Joseph L, Milot A, Tremblay G. The role of global risk assessment in hypertension therapy.   Can J Cardiol.  2006; 22 :606–13.   [ PMC free article ]    [ PubMed ]  
+15.  Anderson KM, Wilson PW, Odell PM, Kannel WB. An updated coronary risk profile. A statement for health professionals.   Circulation.  1991; 83 :356–62.    [ PubMed ]  
+16.  Deber RB, Kraetschmer N, Irvine J. What role do patients wish to play in treatment decision making?   Arch Intern Med.  1996; 156 :1414–20.    [ PubMed ]  
+17.  D’Agostino RB, Sr, Grundy S, Sullivan LM, Wilson P. Validation of the Framingham coronary heart disease prediction scores: Results of a multiple ethnic groups investigation.   JAMA.  2001; 286 :180–7.    [ PubMed ]  
+18.  D’Agostino RB, Russell MW, Huse DM, et al.  Primary and subsequent coronary risk appraisal: New results from the Framingham study.   Am Heart J.  2000; 139 :272–81.    [ PubMed ]  
+19.  Grover SA, Paquet S, Levinton C, et al.  Estimating the benefits of modifying risk factors of cardiovascular disease: A comparison of primary vs secondary prevention.   Arch Intern Med.  1998; 158 :655–62.    [ PubMed ]  
+20.  Kothari V, Stevens RJ, Adler AI, et al.  UKPDS 60: Risk of stroke in type 2 diabetes estimated by the UK Prospective Diabetes Study risk engine.   Stroke.  2002; 33 :1776–81.    [ PubMed ]  
+21.  Stevens RJ, Kothari V, Adler AI, Stratton IM. The UKPDS risk engine: A model for the risk of coronary heart disease in type II diabetes (UKPDS 56)   Clin Sci.  2001; 101 :671–9.    [ PubMed ]  
+22.  Conroy RM, Pyorala K, Fitzgerald AP, et al.  Estimation of ten-year risk of fatal cardiovascular disease in Europe: The SCORE project.   Eur Heart J.  2003; 24 :987–1003.    [ PubMed ]  
+23.  Ankle Brachial Index Collaboration  Ankle brachial index combined with Framingham risk score to predict cardiovascular events and mortality. A meta-analysis.   JAMA.  2008; 300 :197–208.   [ PMC free article ]    [ PubMed ]  
+24.  Lewington S, Clarke R, Qizilbash N, Peto R, Collins R. Age-specific relevance of usual blood pressure to vascular mortality: A meta-analysis of individual data for one million adults in 61 prospective studies.   Lancet.  2002; 360 :1903–13.    [ PubMed ]  
+25.  Grover SA, Lowensteyn I, Joseph L, et al. for the Cardiovascular Health Evaluation to Improve Compliance and Knowledge Among Uninformed Patients (CHECK-UP) Study Group  Patient knowledge of coronary risk profile improves the effectiveness of dyslipidemia therapy: The CHECK-UP study: A randomized controlled trial.   Arch Intern Med.  2007; 167 :2296–303.    [ PubMed ]  
+26.  Sever PS, Dahlof B, Poulter NR, et al. ASCOT investigators  Prevention of coronary and stroke events with atorvastatin in hypertensive patients who have average or lower-than-average cholesterol concentrations, in the Anglo-Scandinavian Cardiac Outcomes Trial-Lipid Lowering Arm (ASCOT-LLA): A multicentre randomised controlled trial.   Lancet.  2003; 361 :1149–58.    [ PubMed ]  
+27.  Elliot WJ, Meyer PM.  Incident diabetes in clinical trials of antihypertensive drugs: A network meta-analysis   Lancet  2007 369 201–7.(Erratum in 2007;369:1518)   [ PubMed ]  
+28.  Padwal R, Laupacis A. Antihypertensive therapy and incidence of type 2 diabetes. A systematic review.   Diabetes Care.  2004; 27 :247–55.    [ PubMed ]  
+29.  Gress TW, Nieto FJ, Shahar E, et al.  Hypertension and antihypertensive therapy as risk factors for type 2 diabetes.   N Engl J Med.  2000; 342 :905–12.    [ PubMed ]  
+30.  Verdecchia P, Reboldi G, Angeli F, et al.  Adverse prognostic significance of new diabetes in treated hypertensive subjects.   Hypertension.  2004; 43 :963–9.    [ PubMed ]  
+31.  Almgren T, Wilhelmsen L, Samuelsson O, et al.  Diabetes in treated hypertension is common and carries a high cardiovascular risk: Results from a 28-year follow-up.   J Hypertens.  2007; 25 :1311–7.    [ PubMed ]  
+32.  Barzilay JI, Davis BR, Cutler JA, et al. for the ALLHAT Collaborative Research Group  Fasting glucose levels and incident diabetes mellitus in older nondiabetic adults randomized to receive 3 different classes of antihypertensive treatment: A report from the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT)   Arch Intern Med.  2006; 166 :2191–201.    [ PubMed ]  
+33.  Kostis JB, Wilson AC, Freudenberger RS, et al.  Long-term effect of diuretic-based therapy on fatal outcomes in subjects with isolated systolic hypertension with and without diabetes.   Am J Cardiol.  2005; 95 :29–35.    [ PubMed ]  
+34.  Aksnes TA, Kjeldsen SE, Rostrup M, et al.  Impact of new-onset diabetes mellitus on cardiac outcomes in the Valsartan Antihypertensive Long-term Use Evaluation (VALUE) trial population.   Hypertension.  2007; 50 :467–73.    [ PubMed ]  
+35.  The DREAM Trial Investigators  Effect of ramipril on the incidence of diabetes.   N Engl J Med.  2006; 355 :1551–62.    [ PubMed ]  
+36.  Bongers V, Bakker J, Beutler JJ, Beek FJ, De Klerk JM. Assessment of renal artery stenosis: Comparison of captopril renography and gadolinium-enhanced breath-hold MR angiography.   Clin Radiol.  2000; 55 :346–53.    [ PubMed ]  
+37.  Grobner T, Prischl FC. Gadolinium and nephrogenic systemic fibrosis.   Kidney Int.  2007; 72 :260–4.    [ PubMed ]  
+38.  Williams GJ, Macaskill P, Chan SF, et al.  Comparative accuracy of renal duplex sonographic parameters in the diagnosis of renal artery stenosis: Paired and unpaired analysis.   Am J Roentgenol.  2007; 188 :798–811.    [ PubMed ]  

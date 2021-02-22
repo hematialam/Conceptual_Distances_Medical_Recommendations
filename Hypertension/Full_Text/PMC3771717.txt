@@ -1,0 +1,172 @@
+Approximately 4.6 million Canadians aged 20 years and older (19% of the population) have high blood pressure,
+ which is a risk factor for stroke, myocardial infarction, and other diseases. A further 20% have high-normal blood pressure levels, defined as systolic blood pressure between 120 and 139 mm Hg or diastolic blood pressure between 80 and 89 mm Hg (the term 
+prehypertension
+ is also used to refer to this group).
+ The prevalence of hypertension is similar in men and women, although the prevalence of high-normal blood pressure (prehypertension) is greater in men.
+ Obesity is one of the most important risk factors for hypertension
+ and even high-normal blood pressure increases risk of cardiovascular disease.
+ While the prevalence of hypertension has remained stable over the past several years, rates of awareness, treatment, and control of hypertension have improved.
+ In the early 1990s only 57% of Canadians were aware of their hypertensive status, but in 2009 that number increased to 83%. In the same period, the percentage of Canadians who had their hypertension under control rose from 13% to 65%.
+The Canadian Hypertension Education Program (CHEP) recommends that all health care professionals “who have been specifically trained to measure blood pressure ... accurately should assess [blood pressure] in all adult patients at all appropriate visits to determine cardiovascular risk and monitor antihypertensive treatment,”
+ although no definitive screening interval is specified. Those with high-normal blood pressure should be reassessed annually.
+ Evidence regarding the benefit of treatment forms the basis of this recommendation, but no specific evidence about the benefits of screening is cited.
+Previous Canadian
+–
+ and US reviews
+ have focused on the indirect evidence for benefit from treatment and none have summarized the direct effects of hypertension screening on reducing blood pressure or cardiovascular outcomes. We sought to determine if there was any direct evidence of the effectiveness of hypertension screening using office and out-of-office blood pressure measurement in adults. Home blood pressure measurement in this context is not considered a primary screening test; however, it could be used as an adjunct in the diagnostic process. For this hypertension screening guideline, cardiovascular disease and morbidity includes stroke, heart disease, renal disease, peripheral vascular disease, and retinal disease.
+The objective of these guidelines is to provide recommendations on screening for hypertension for adults aged 18 years and older without previously diagnosed hypertension. Recommendations apply to the general population including adults with average baseline blood pressure and those at higher than average risk of hypertension and vascular disease. This document updates previous guidelines by the Canadian Task Force on Preventive Health Care (CTFPHC), which were last reviewed in 1994.
+With respect to guidelines on the most appropriate methods for measuring blood pressure and for diagnosing hypertension, the CTFPHC defers to current guidance from CHEP to avoid duplication of effort. The CHEP recommendations have undergone critical appraisal by the CTFPHC to assess the quality of the guideline development process and have met our criteria for rigorously developed guidelines.
+Quality of evidence
+The development of these recommendations was led by a CTFPHC working group, in collaboration with CHEP and the Public Health Agency of Canada. Only members of the CTFPHC were involved in the final voting for these recommendations.
+The working group established the research questions (
+Detailed Methods
+)
+ and analytical framework (  Figure 1  ) for the guideline. Evidence was found through a systematic search of 3 electronic databases—MEDLINE, EMBASE, and the Cochrane Database of Systematic Reviews (EBM Reviews)—restricted to English- and French-language articles published from January 1985 to September 2011. A total of 13 283 citations were retrieved and screened, with 205 publications meeting the inclusion criteria for full-text review. Study types were limited to randomized controlled trials, systematic reviews, and observational studies with control groups. Modeling studies were also examined to address key question 1 (  Figure 1  ). The systematic review that supports these guidelines is published on the CTFPHC website.
+ Detailed information about CTFPHC methods has been published elsewhere,
+ and specific information related to these guidelines is available from 
+CFPlus
+.
+ 
+ 
+ 
+ Open in a separate window 
+ 
+ Figure 1 
+Hypertension analytical framework:
+ 
+This framework does not include management of diagnosed hypertension, as it is beyond the scope of the CTFPHC mandate.
+CHEP—Canadian Hypertension Education Program, CTFPHC—Canadian Task Force on Preventive Health Care, CQ—contextual question, CVD—cardiovascular disease, HTN—hypertension, KQ—key question.
+Cardiovascular morbidity includes stroke, heart disease, renal disease, peripheral vascular disease, and retinal disease.
+The recommendations will defer to CHEP for a description of the specific processes for taking office, home, and ambulatory blood pressure measurements.
+The CHEP recommendations were assessed based on the CTFPHC’s critical appraisal process,
+ which is designed to review and critically appraise the guideline development process from other organizations.
+Main message
+A systematic review was conducted to examine the effectiveness of hypertension screening in primary care in reducing the risk of important patient outcomes of cardiovascular morbidity, and cardiovascular and all-cause mortality. The effectiveness of screening on reducing blood pressure (an intermediate outcome) and an examination of the harms of screening were also included. Critical appraisal of CHEP’s recommendations on methods for hypertension screening was conducted by the CTFPHC.
+Recommendations for adults aged 18 years and older without previously diagnosed hypertension
+1. We recommend blood pressure measurement at all appropriate primary care visits:
+ “Appropriate” visits might include periodic health examinations, urgent office visits for neurologic or cardiovascular-related issues, medication renewal visits, and other visits where the primary care practitioner deems it an appropriate opportunity to monitor blood pressure. It is not necessary to measure the blood pressure of every patient at every office visit.
+The frequency and timing of blood pressure screening might vary among patients. The risk of high blood pressure and the risk of stroke or heart disease change over a person’s natural lifespan and increase with age, comorbidities, and the presence of other risk factors. Therefore, screening frequency might increase accordingly, especially in patients with more than 1 vascular risk factor. Adults identified as belonging to a high-risk ethnic group (Southeast Asian, aboriginal, or African ancestry) might benefit from more frequent monitoring. Having recent consistently normal blood pressure measurements might decrease the need for more frequent monitoring, while a tendency toward high-normal blood pressure could indicate that more frequent monitoring is needed.
+This is a strong recommendation, with moderate-quality evidence (
+ Box 1 
+).
+ The evidence rating is based on a substantial body of indirect evidence and moderate-quality evidence from 1 randomized controlled trial.
+Box 1.
+Grading of recommendations
+Recommendations are graded according to the GRADE (Grading of Recommendations Assessment, Development and Evaluation) system,
+ which offers 2 strengths of recommendation: strong and weak. The strength of recommendations is based on the quality of supporting evidence; degree of uncertainty about the balance between desirable and undesirable effects; degree of uncertainty or variability in values and preferences; and degree of uncertainty about whether the intervention represents a wise use of resources.
+Strong recommendations are those for which the task force is confident that the desirable effects of an intervention outweigh its undesirable effects (strong recommendation for an intervention) or that the undesirable effects of an intervention outweigh its desirable effects (strong recommendation against an intervention). A strong recommendation implies that most individuals will be best served by the recommended course of action.
+Weak recommendations are those for which the desirable effects probably outweigh the undesirable effects (weak recommendation for an intervention) or undesirable effects probably outweigh the desirable effects (weak recommendation against an intervention) but appreciable uncertainty exists. A weak recommendation implies that most people would want the recommended course of action but that many would not. For clinicians this means they must recognize that different choices will be appropriate for each individual, and they must help each person arrive at a management decision consistent with his or her values and preferences. Policy making will require substantial debate and involvement of various stakeholders. Weak recommendations result when the balance between desirable and undesirable effects is small, the quality of evidence is lower, or there is more variability in the values and preferences of patients.
+Evidence is graded as high, moderate, low, or very low, based on how likely further research is to change our confidence in the estimate of effect.
+This recommendation is in part based on direct evidence from a randomized controlled trial that showed a community-based screening program that included a comprehensive cardiovascular risk assessment and education session reduced cardiovascular mortality, compared with usual practice (  Table 1  ).
+ After adjustment for hospital admission rates during the year before intervention, intervention communities had 3 fewer annual hospital admissions for cardiovascular disease per 1000 people 65 years of age and older compared with control communities. The risk of admission was reduced for myocardial infarction (relative risk [RR] 0.87, 95% CI 0.79 to 0.97, 
+P
+ = .008) and congestive heart failure (RR 0.90, 95% CI 0.81 to 0.99, 
+P
+ = .029), with non-significant trends toward decreases in stroke and cardiovascular mortality. Residents in the intervention communities were also more likely to start antihypertensive therapy (RR 1.10, 95% CI 1.02 to 1.20, 
+P
+ = .02) than those in the control communities who underwent usual screening practices.
+Table 1
+Evidence summary of benefits associated with hypertension screening:
+ 
+The mean follow-up was 1 y. Each end point was assessed using mean cumulative hospital rates from 1 RCT.15 There was no serious risk of bias in this trial. There are no concerns about lack of blinding, as blinding is part of the intervention and therefore there is no risk of bias. There was no serious inconsistency, as only a single study was used (inconsistency is not applicable). There was serious indirectness, as the study focused on the population > 65 y of age (although younger patients were not denied participation); therefore, the study results are not generalizable to the general population. In addition to hypertension screening, the intervention included comprehensive cardiovascular risk assessment and education sessions. The efficacy of hypertension screening in isolation was not directly assessed. There was no serious imprecision seen in the trial. There was an insufficient number of studies to assess publication bias. The study was of moderate quality and critical importance.
+ 
+ Open in a separate window 
+KQ1—key question 1, RCT—randomized controlled trial, RR—relative risk.
+These outcomes represent the effect of the Cardiovascular Health Awareness Program. Outcome measures reported have been adjusted for hospital admission rates in the year before the intervention.
+Calculations based on mean cumulative admissions.
+Calculations based on the number of unique admissions.
+Data from Kaczorowski et al.
+This recommendation is also based on the substantial body of indirect evidence that demonstrates the benefits of treating diagnosed hypertension, whether mild or severe.
+–
+ One meta-analysis on the effectiveness of treatment of hypertension (which included 147 studies) found that lowering blood pressure by 10/5 mm Hg (the equivalent of taking 1 drug at a standard dose) could prevent 22% of coronary artery disease events and 41% of strokes in those aged 60 to 69 years.
+ Previous guidance
+,
+ also used indirect evidence demonstrating that hypertension can be effectively diagnosed through office blood pressure measurements
+ and that treatment of elevated blood pressure can decrease cardiovascular events
+,
+ as the basis for their recommendations.
+The working group identified and searched for literature on the following clinically important harms associated with screening: false positives, false negatives, anxiety, psychological effects, and economic costs such as lost time from work or lost insurance. We found no evidence to indicate that any of these clinically relevant harms result from hypertension screening,
+ although we do acknowledge that no evidence of harm does not ensure that there is no harm. Recent evidence suggests that although pharmacologic therapy for early hypertension has common side effects, serious adverse effects are rare.
+ An examination of the harms of treatment of hypertension was outside the scope of our review. Although we did not identify studies of patients’ values and preferences about screening for hypertension, in the judgment of the CTFPHC, blood pressure screening is an acceptable preventive intervention for Canadian patients. Experience from the Cardiovascular Health Awareness Program,
+ which had no problems recruiting volunteers, also suggests that this type of screening is acceptable to the general public.
+Screening interval 
+We found no evidence to support a particular screening interval, although checking a patient’s blood pressure during almost any health care encounter has become a part of common clinical practice for patients who might be considered at higher risk of hypertension based on age and existing comorbidities. Given the potential value of detecting hypertension, the lack of evidence for substantial harms associated with screening, and the noninvasive nature of blood pressure measurement, the CTFPHC supports assessing blood pressure at all appropriate visits—and that Canadians with high-normal blood pressure should have their blood pressure assessed at least annually. These recommendations are consistent with those from CHEP.
+Recommendations on methods for hypertension screening
+2. We recommend that blood pressure be measured according to the current techniques described in the CHEP recommendations for office and out-of-office blood pressure measurement
+: The 2012 CHEP recommendations for office and ambulatory blood pressure measurement were critically appraised by the CTFPHC to assess the quality of the guideline development process, and were found to meet the CTFPHC criteria for rigorously developed guidelines (see 
+Critical Appraisal Results
+ for details).
+This is a strong recommendation based on moderate-quality evidence. Recommendations from CHEP were assessed with AGREE II (Appraisal of Guidelines for Research and Evaluation)
+ criteria and not with the GRADE (Grading of Recommendations Assessment, Development and Evaluation)
+ criteria. The quality of evidence was determined based on the CTFPHC’s confidence in their estimates and the rigour of their guideline development process.
+3. For people who are found to have an elevated blood pressure measurement during screening, the CHEP criteria for assessment and diagnosis of hypertension should be applied to determine whether the patients meet diagnostic criteria for hypertension
+: The 2012 CHEP recommendations for assessment and diagnosis of high blood pressure were critically appraised by the CTFPHC to assess the quality of the guideline development process, and were found to meet the CTFPHC criteria for rigorously developed guidelines (see 
+Critical Appraisal Results
+ for details).
+ This is a strong recommendation based on moderate-quality evidence. Recommendations from CHEP were assessed with AGREE II
+ criteria and not with the GRADE
+ criteria. The quality of evidence was determined based on the CTFPHC’s confidence in their estimates and the rigour of their guideline development process.
+Considerations for implementation of recommendations 
+Although no evidence was found to indicate that screening practices should differ according to patients’ risk profiles, hypertension appears to be more common in certain population subgroups. The prevalence of hypertension and cardiovascular disease increases as people age, and has been found to be higher in those of Southeast Asian and African ancestry,
+,
+ and in aboriginal populations, who also have a higher prevalence of associated comorbidities.
+,
+ Clinical experience suggests that access to preventive health care is also reduced in aboriginal populations
+ and in remote and rural areas.
+ Hypertension is also common in pregnancy.
+ Therefore, these populations might benefit from more frequent monitoring. Screening methods for populations in which English is not a first language could be optimized by using different knowledge translation tools to present information about hypertension screening in culturally appropriate and relevant ways. For instance, adapting pamphlets to accommodate differing literacy skills in Canadians of Indo-Asian descent improved users’ understanding of hypertension over the original English versions.
+,
+Practitioners should remain alert for opportunities to screen those who infrequently attend their practices and others who have not been screened recently. These patients are often younger, appear healthy, and might not have risk factors for hypertension or cardiovascular disease and therefore might be overlooked for screening opportunities.
+Suggested performance measures for implementation 
+A key objective of the CTFPHC is to support the uptake of our guidelines into clinical practice and to facilitate quality improvement. To achieve this goal, an important step in our guideline development process is the identification and selection of a small set of standardized key quality indicators. These quality indicators are directly linked to the recommendations contained in this guideline, and are designed and intended for individual practitioners to monitor their compliance and performance for hypertension screening. They will also enable groups of physicians to conduct comparisons for the sake of improvement and benchmarking (  Table 2  ).
+Table 2
+Suggested performance measures for the implementation of the recommendations on screening for high BP in adult Canadians
+ 
+ Open in a separate window 
+BP—blood pressure, CHEP—Canadian Hypertension Education Program, DBP—diastolic blood pressure, SBP—systolic blood pressure.
+Differences from previous guidelines 
+There are no differences from previous CTFPHC guidelines. Since 1984 the CTFPHC has recommended blood pressure measurement during regular physician visits. This recommendation is reaffirmed with the current guidelines, which in turn are consistent with recommendations from CHEP and the US Preventive Services Task Force (  Table 3  ).
+,–,,
+Table 3
+Comparison of national and international hypertension screening guidelines
+ 
+ Open in a separate window 
+BP—blood pressure, CHEP—Canadian Hypertension Education Program, CTFPHC—Canadian Task Force on Preventive Health Care, DBP—diastolic blood pressure, SBP—systolic blood pressure, USPSTF—US Preventive Services Task Force.
+The interval comes from the 2000 sixth report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure,
+ which recommends screening every 2 y with BP < 120/80 mm Hg and screening every year with SBP of 120–139 mm Hg or DBP of 80–90 mm Hg.
+Conclusion
+Limited evidence exists to demonstrate that screening for high blood pressure leads to improved cardiovascular and other health outcomes. However, substantial indirect evidence exists to demonstrate that measurement of blood pressure can identify adults at increased risk of cardiovascular disease, that diagnosis of hypertension leads to treatment, and that treatment in turn leads to improved outcomes. Awareness of hypertension status is high in Canada, which is probably because blood pressure screening has become a routine medical practice in recent years. Further research should focus on reaching populations who have less access to health care and as such are less likely to be aware of their hypertension or to have it appropriately controlled.
+Notes
+EDITOR’S KEY POINTS
+Blood pressure measurement is recommended at all appropriate primary care visits. “Appropriate” visits might include periodic health examinations, urgent office visits for neurologic or cardiovascular-related issues, medication renewal visits, and other visits where the primary care practitioner deems it an appropriate opportunity to monitor blood pressure. It is not necessary to measure the blood pressure of every patient at every office visit.
+Blood pressure should be measured according to the current techniques described in the Canadian Hypertension Education Program recommendations for office and ambulatory blood pressure measurement.
+For people who are found to have elevated blood pressure during screening, the Canadian Hypertension Education Program criteria for assessment and diagnosis of hypertension should be applied to determine whether patients meet diagnostic criteria for hypertension.
+Footnotes
+This article is eligible for 
+Mainpro-M1
+ credits. To earn credits, go to 
+ www.cfp.ca 
+ and click on the 
+Mainpro
+ link.
+La traduction en français de cet article se trouve à 
+ www.cfp.ca 
+ dans la table des matières du numéro de 
+septembre 2013
+ à la page 
+ e393 .
+The 
+Decision Table to Inform Hypertension Screening Recommendations
+, 
+Critical Appraisal Results
+, and 
+Detailed Methods
+ are available at 
+ www.cfp.ca 
+. Go to the full text of the article online, then click on 
+CFPlus
+ in the menu at the top right-hand side of the page.
+Contributors
+All authors contributed to the literature review and interpretation, and to preparing the manuscript for submission.
+Competing interests
+None declared

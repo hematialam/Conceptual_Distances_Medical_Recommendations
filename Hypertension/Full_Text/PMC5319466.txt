@@ -1,0 +1,127 @@
+Introduction
+The initial assessment of a patient with systemic arterial hypertension (SAH) comprises diagnostic confirmation, suspicion and identification of the secondary cause, and assessment of CV risks. In addition, target-organ damage (TOD) and associated diseases should be investigated. Such assessment comprises BP measurement in the office and/or outside the office, by use of proper technique and validated equipment, medical history (personal and family), physical examination and clinical and laboratory investigation.
+General assessments directed to all, and, in some cases, complementary assessments only for specific groups are proposed.
+Measurement of BP
+In the office 
+Blood pressure should be measured in all assessments performed by physicians of any specialty and other health care professionals properly trained.
+Blood pressure should be measured at least every two years for adults with BP levels ≤ 120/80 mm Hg, and annually for those with BP levels > 120/80 mm Hg and < 140/90 mm Hg. Manual, semi-automated or automated sphygmomanometers can be used. They should be validated, and calibrated annually following the INMETRO recommendations (  Chart 1  ). The BP should be taken in the arm, with a cuff size adequate to arm circumference (  Chart 2  ). When AH secondary to coarctation of the aorta is suspected, BP should be measured in the lower limbs with proper cuffs.
+Chart 1
+INMETRO ordinances n. 24, of February 22, 1996, for mechanical aneroid sphygmomanometers, and n. 96, of March 20, 2008, for digital electronic sphygmomanometers for non-invasive measurement.
+ 
+ Open in a separate window 
+Chart 2
+Correction factors of BP measurement with standard adult cuff ( width, 13 cm, and length, 30 cm), according to patient’s arm circumference
+ 
+ Open in a separate window 
+Orthostatic hypotension should be suspected in elderly, diabetic and dysautonomic patients, as well as in those on any antihypertensive medication. Thus, particularly in such conditions, BP should be read with the patient standing for 3 minutes, and orthostatic hypotension being defined as a reduction in SBP > 20 mm Hg or in DBP > 10 mm Hg. Several measurements should be taken, with the patient sitting in a calm and comfortable environment to improve reproducibility and to obtain office BP levels closer to those provided by ambulatory BP monitoring (ABPM) during wakefulness.
+Procedures recommended for BP measurement:
+Patient's preparation: 
+Explain the procedure to the patient, who should be left to rest for 3-5 minutes in a calm environment and instructed not to talk during the measurement. Possible doubts should be clarified before or after the procedure.
+Make sure the patient:
+- does not have a full urinary bladder;
+- did not practice physical exercise in the past 60 minutes;
+- did not consume alcohol, coffee or any food;
+- did not smoke in the past 30 minutes.
+Position:
+- The patient should be sitting relaxed in a chair, with back supported, legs uncrossed and feet on the floor;
+- The patient's arm should be supported at heart level, not compressed by clothes, with hand palm turned upward.
+After 3 minutes, BP should be read in the upstanding position in diabetic and elderly patients, or in any other situation at risk for orthostatic hypotension.
+Steps of BP measurement 
+Determine arm circumference in the middle point between the acromion and olecranon;
+Select proper cuff size (  Chart 3  );
+Chart 3
+Cuff dimensions (bladder width and length) according to arm circumference
+ 
+ Open in a separate window 
+Place the cuff snugly, 2-3 cm above the cubital fossa;
+Centralize the compressive part of the cuff on the brachial artery;
+Estimate BP level based on palpation of the radial pulse*;
+Palpate the brachial artery on the cubital fossa and place the stethoscope's diaphragm without excessive compression*;
+Inflate cuff rapidly until the estimated SBP level obtained on palpation is exceeded by 20-30 mm Hg*;
+Proceed to deflation slowly (velocity of 2 mm Hg/second)*;
+Determine SBP by auscultation of the first sound (Korotkoff phase I), and then, slightly increase the deflation velocity*;
+Determine DBP when the sounds disappear (Korotkoff phase V)*;
+Auscultate until 20-30 mm Hg below the last sound to confirm its disappearance, and then proceed to rapid and complete deflation*;
+If heart beats persist until level zero, determine DBP on the muffling of sounds (Korotkoff phase IV) and write down the values of SBP/DBP/zero*;
+Take at least two measurements at 1-minute intervals. If the first two are very different, additional readings should be taken. When appropriate, consider the mean value;
+Measure BP in both arms on the first medical visit and take the higher value as reference;
+Inform the patient of the BP reading; and
+Write down the exact BP values, with no rounding, and the arm used for the measurement.
+* Items performed exclusively in the auscultatory technique.
+The use of validated and periodically calibrated equipment is paramount.
+Outside-the-office BP measurement 
+Outside the office, BP can be measured by use of home BP monitoring (HBPM), following a specific protocol, or by use of 24-hour ABPM.
+Outside-the-office BP measurements should be stimulated, and can be performed by using a patient's semi-automated device or one belonging to a health care provider. The major advantages of outside-the-office BP measurements are as follows:
+Higher number of BP readings;
+Assessment of the individuals' usual activities;
+Abolition or significant reduction of the 'white-coat effect' (WCE);
+Patients' higher adhesion to diagnosis and follow-up.
+The methods usually used to measure BP outside the office are ABPM and HBPM. Both provide similar BP information, but only ABPM assesses BP during sleep. However, both estimate CV risk, and should be considered to assess BP outside the office, provided their indications and limitations are respected.   Chart 4   lists the reference values for SAH definition by using office measurements, ABPM and HBPM. Because they are different assessment methods, certain values will be considered for the definition of abnormality.   Chart 5   lists the indications for outside-the-office BP measurement by using ABPM and HBPM.
+Chart 4
+Reference values for the definition of AH based on office, ABPM and HBPM measurements
+ 
+ Open in a separate window 
+SBP: systolic blood pressure; DBP: diastolic blood pressure.
+Chart 5
+Clinical indications for outside-the-office BP measurement aimed at diagnosis
+ 
+ Open in a separate window 
+AH: arterial hypertension; MH: masked hypertension; TOD: target-organ damage; WCE: white coat effect; CKD: chronic kidney disease.
+Measurement of BP in children, elderly, obese and pregnant individuals
+Children 
+Measuring BP in children is recommended at all clinical assessments after the age of 3 years, at least once a year, as part of primary pediatric care, and should abide by the standards established for adults. The interpretation of the BP levels for children and adolescents should consider age, sex and height. The assessment of BP levels according to those variables should be based on specific tables (Chapter 10 of this guideline) or smartphone applications, BP Kids and Ped(z).
+Elderly 
+Special aspects of BP measurement in the elderly are due to changes resulting from aging, such as higher frequency of auscultatory gap, which is the absence of sounds during cuff deflation, resulting in falsely low SBP or falsely high DBP readings. The wide BP variability in the elderly throughout 24 hours makes ABPM a useful tool. Pseudohypertension, associated with the atherosclerotic process, can be detected by use of Osler's maneuver, that is, the radial artery remains palpable after cuff inflation at least 30 mm Hg above the reading of radial pulse disappearance. The higher occurrence of WCE and orthostatic and postprandial hypotension, and the presence of arrhythmias, such as atrial fibrillation, can hinder BP measurement.
+Obese individuals 
+The BP measurement of obese patients requires longer and wider cuffs to prevent BP overestimation. When the arm circumference exceeds 50 cm, and a proper cuff is not available, BP can be taken in the forearm, and the radial pulse should be auscultated. However, restrictions apply to that practice. Cone-shaped, wide, short arms, where large cuffs do not fit, represent a special difficulty.
+Pregnant women 
+The BP should be measured following the same methodology recommended for adults, emphasizing that it can also be taken on the left arm in the left lateral decubitus position at rest, and should not differ from that obtained in the sitting position. Consider Korotkoff's fifth sound as DBP. White-coat hypertension (WCH) and masked hypertension (MH) are common during pregnancy, and, thus, ABPM and HBPM can be useful for clinical decision making. Chapter 9 provides further information on AH during pregnancy.
+Recommendations for diagnosis and follow-up
+To establish the diagnosis and to identify WCH and MH, HBPM and ABPM are recommended (  Figure 1  ). Another recommendation is suspected AH originating from auto-measurement, when ABPM or HBPM should be used to confirm or rule out the suspected diagnosis of WCH or MH.
+ 
+ 
+ 
+ Open in a separate window 
+ 
+ Figure 1 
+Flowchart for the diagnosis of arterial hypertension (modified from Canadian Hypertension Education Program). Laboratory assessment recommended in Chapter 3. ** Cardiovascular risk stratification recommended in Chapter 3.
+Home BP measurement
+Home BP measurement is performed with a specific protocol, and consists in taking three BP readings in the morning, prior to breakfast and medication intake, and three in the evening, before dinner, for five days. Another option is to take two BP measurements in each of those sessions, for seven days.
+Blood pressure levels ≥ 135/85 mm Hg are considered abnormal.
+Ambulatory BP monitoring
+Ambulatory BP monitoring allows indirect and intermittent BP recording during 24 hours or longer, while the patient performs their usual chores during wakefulness and sleep. One of its most specific characteristics is the likelihood to identify BP circadian changes, especially during sleep, which has considerable prognostic implications.
+Currently, the following BP means are considered abnormal: 24-hour ≥ 130/80 mm Hg, wakefulness ≥ 135/85 mm Hg, and sleep ≥ 120/70 mm Hg.
+Classification
+The BP limits considered normal are arbitrary. However, the values to classify BP in adults by using casual or office measurements are shown in   Chart 6  .
+Chart 6
+Classification of BP according to casual or office measurement from 18 years of age onwards
+ 
+ Open in a separate window 
+Isolated systolic hypertension: SBP ≥ 140 mm Hg and DBP < 90 mm Hg, and is should be classified into stages 1, 2 and 3.
+Hypertension
+  Chart 4   shows the values that define SAH. The BP readings obtained by using different methods have different abnormality levels, therefore, the abnormality levels defined for each method should be considered when establishing the diagnosis of SAH. When using office measurements, the diagnosis should always be validated with repeated readings, under ideal conditions, on at least two occasions, and confirmed by use of outside-the-office measurements (ABPM or HBPM), except for patients with detected TOD. Non-controlled SAH is defined as maintenance of elevated BP, both in and outside the office, by use of either ABPM or HBPM, even under anti-hypertensive treatment.
+Normal blood pressure
+Blood pressure is considered normal when office BP levels are ≤ 120/80 mm Hg, and outside-the-office measurements (ABPM or HBPM) confirm those normal readings (  Figure 2  ). Controlled AH is defined as maintenance of controlled BP levels, both in the office and outside it, under anti-hypertensive treatment.
+ 
+ 
+ 
+ Open in a separate window 
+ 
+ Figure 2 
+Diagnostic possibilities based on casual BP measurement, ABPM or HBPM. *Consider the diagnosis of prehypertension for casual SBP levels between 121 and 139 and/or DBP between 81 and 89 mm Hg.
+Prehypertension
+Prehypertension is characterized by SBP levels between 121 and 139 and/or DBP levels between 81 and 89 mm Hg. Prehypertensive individuals are more likely to become hypertensive and at higher risk for CV complications than those with normal BP levels, ≤ 120/80 mm Hg, requiring, thus, periodical assessment.
+White-coat effect
+The WCE is the BP difference between measurements taken in the office and outside it, if that difference equals at least 20 mm Hg in SBP and/or 10 mm Hg in DBP. It does not change the diagnosis: if normotensive, the individual will remain normotensive; if hypertensive, the individual will remain hypertensive. However, the BP stage can change and/or there might be a false impression of need for change in the therapeutic regimen.
+White-coat hypertension
+It is the clinical situation characterized by abnormal office BP levels, but normal BP readings on ABPM or HBPM (  Figure 2  ). Based on four population-based studies, the overall WCH prevalence is 13% (range, 9-16%), and WCH can affect 32% (range, 25-46%) of hypertensive individuals, being more common (55%) in stage 1 hypertensives and affecting 10% of stage 3 hypertensives. However, in terms of prognosis, whether WCH is comparable to normal BP is still controversial, because some studies have shown that its long-term CV risk is intermediate between that of AH and of normotension.
+Masked hypertension
+It is characterized by normal office BP, but elevated BP on ABPM or HBPM (  Figure 2  ). The MH prevalence is 13% (range, 10-17%) in population-based studies. Several factors can elevate outside-the-office BP as compared to office BP, such as young age, male sex, smoking habit, alcohol consumption, physical activity, exercise-induced hypertension, anxiety, stress, obesity, DM, CKD and family history of SAH. The MH prevalence is higher when office BP is borderline. Meta-analyses of prospective studies report that the incidence of CV events is twice higher in MH than in normal BP, and comparable to that in SAH. In diabetic individuals, MH is associated with an increased risk of nephropathy, especially when BP elevation occurs during sleep.
+  Figure 2   shows the different possibilities of BP classification according to its diagnosis, based on the new definition forms.
+Isolated systolic hypertension
+Isolated systolic hypertension (ISH) is defined as increased SBP with normal DBP, and, along with pulse pressure (PP), is an important cardiovascular risk factor (CVRF) in middle-aged and elderly patients.
+The recommendations are summarized in   Chart 7  .
+Chart 7
+Summary of the recommendations
+ 
+ Open in a separate window 

@@ -1,0 +1,516 @@
+1.	Introduction
+Low back pain is a common painful condition that is encountered both in general and specialist practice. The prevalence of low back pain varied between 10-63% with a median of 37% in several studies and it did not differ by sex in most of them. Recent studies in Malaysia have shown similar results: in a semi-rural community survey the incidence of low back pain was found to be around 12% whereas there was a much higher prevalence (60%) in a population at risk (commercial vehicle drivers).
+For many years now, low back pain has been recognized as one of the most common causes of work disability and accounts for a large proportion of workers' compensation costs. Despite all our efforts and skill, for all our resources, low back disability is getting steadily worse.
+Back pain is a problem. It is a problem to patients, health professionals and to society. It is a problem to patients because they cannot get clear advice on its cause, how to deal with it and its likely outcome. It is a problem to doctors and therapists because in a large number of patients there is no definite disease so no real ‘cure’ can be offered. Hence many are unsure about its management. To society, back pain is one of the most common reasons for work loss, healthcare use and sickness benefits. The economic loss to the nation can run into millions of ringgit due to loss of productivity and healthcare expenditure.
+Low back pain causes a great deal of suffering and is the most common cause of disability during the working years of life. Pain and disability often go together but it is important to distinguish one from the other. Pain is a symptom whereas disability is restricted functioning and the relationship between them is much weaker than clinicians and patients assume.
+Low back pain may present as back pain alone or back pain associated with leg pain (sciatica). For the purpose of this guideline, back pain is defined as pain in the lumbosacral region, buttocks and /or thighs, which varies with physical activity. Nerve root pain (neuropathic pain) is a better term than sciatica and is pain in the back associated with leg pain, which radiates to the calf, foot or toes and may be associated with numbness and/or muscle weakness .
+References: • Dionne CE. Low back pain. In: Crombie IK, et al. (Eds). Epidemiology of Pain. Seattle : IASP Press, 1999, pp 283-298. • Veerapen K, Wigley RD , Valkenburg H. Musculoskeletal pain in Malaysia . J Rheumatol 2007; 34(1): 207-13. • Tamrin SB, Yokoyama K, Jalaludin J et al. The Association between risk factors and low back pain among commercial vehicle drivers in peninsula' Malaysia : a preliminary result. Ind Health 2007; 45(2): 268-78. • Allan DB, Waddell G. An historical perspective on low back pain and disability. Acta Orthop Scand 1989; 60(suppl 234): 1-23. • Waddell G. The Problem. In Waddell G (Ed). The Back Pain Revolution. Churchill Livingstone, Edinburgh , London , New York , 2004, 1-7. • Maniadakis N, Gray A. The economic burden of back pain in the UK . Pain 2000; 84(1): 95-103.
+ 
+2.	Back Pain
+Back pain is a very common condition affecting most people at least once in their lifetime. Most back pain heals spontaneously, without any active intervention and this is probably due to ligament or muscle sprain. Some unfortunately suffer acute and severe back pain which may go on to chronic back pain. Then there those that have acute on chronic back pain. Back pain can be classified as follows:
+2.1	Classification of Back pain
+Acute < 12 weeks
+Chronic > 12 weeks
+2.2	Types of Back pain
+Vertebral I Non vertebral
+Non specific back pain
+2.3	Causes of Back pain (Table 2.1, 2.2 & 2.3)
+Back pain can arise from any of the anatomical structures seen in Figure 1. If the structure causes nerve root irritation or compression, then it can result in back and leg pain.
+Table 2.1
+Non-Specific Causes Notes / Additional information
+Non-Specific Back Pain • The most common cause of back pain. (“Ordinary” Back Pain) It is usually poorly localized, not related to posture or work.
+•	Long periods of being very well, with occasional episodes of vague, poorly defined pain.
+•	Patients may claim it is better with massage, acupuncture or chiropractic treatment.
+•	No serious spinal pathology.
+•	The fact that there are episodes of pain free periods, show that the condition is not sinister.
+2
+ 
+Table 2.2
+Vertebral Causes - The anatomical structures which can give rise to pain are as follow :	
+Disc •	Degeneration •	Prolapse •	Tear •	Infection	Degeneration, prolapse, and tears of one or more discs may cause back pain alone. Leg and buttock pain usually occurs when there is pressure on nerve roots.
+Bone and Joints •	Traumatic Fracture •	Pathological Fracture •	Infection •	Metastasis •	Degenerative Disease	Bone per se does not have any pain fibres, the periosteum surrounding bone is the structure with nerve fibres. Bone fracture fragments, blood or pus causing pressure on the periosteum causes pain.
+Soft Tissue •	Ligaments - Anterior and Posterior Longitudinal, Interspinous, Supraspinous •	Muscle - (Paraspinal)	Pain from soft tissue structures - ligaments and muscles are poorly localized.
+The pathological conditions causing pain in the anatomical structures are as follow:	
+Infection •	Pyogenic •	Tuberculosis •	Fungal	Infection whether with the presence or absence of pus causes pain.
+Inflammatory •	Rheumatoid Arthritis •	Systemic Lupus Erythematosis (SLE) •	Ankylosing Spondylitis	Inflammatory conditions, auto-immune diseases and vasculitis may cause pain.
+Malignancy •	Nerve (tumor) •	Bone Metastasis	Bone tumours can be secondary or primary. Spread of tumour into the epidural space can cause neuropathic pain in the affected dermatomes.
+Degenerative Disease •	Osteoarthritis/ spondylosis •	Osteoporosis	Facet joints and sacroiliac joints can be affected by degenerative disease (osteoarthritis) and cause pain.
+Trauma	Trauma to any of the bones or soft tissues may cause pain
+Instability	Spondylolisthesis, Spondylolysis
+
+Tumors of the spinal cord or cauda equina
+Bone tumor of the spinal column
+Figure 1: Some Causes of Low Back Pain and Leg Pain
+Annulus Fibrosus
+Nucleus Pulposus
+Nerve root
+Prolapsed Disc
+Dura
+Figure 2: Prolapsed Intervertebral Disc
+
+Back pain from non vertebral causes is not uncommon.
+Table 2.3
+Non Vertebral Causes	Notes / Additional information
+GIT Posterior stomach ulcer	Posterior stomach ulcers are not commonly seen now due to the widespread use of H2 antagonist drugs and proton pump inhibitors.
+Pancreas Tumor, Chronic / Acute Pancreatitis	Pancreatic tumors are usually diagnosed late due to poor localization of pain and vague symptoms.
+GUT Renal, Ureteric Stones	Renal and ureteric stones may present with back pain but the pain is usually colicky in nature and radiates to the groin. Associated symptoms of dysuria and haematuria are also commonly present.
+Vascular Abdominal Aortic Aneurysm, Thrombus, Embolus	Obstruction of blood flow in major vessels may cause back pain which may be associated with pallor or cyanosis in the lower limbs.
+Gynaecological Ovarian/ Pelvic Tumors	Ovarian and pelvic tumors may not be associated with abnormal menstrual cycles, but a careful history will usually help to identify the diagnosis. Ovarian tumours may occasionally present with pain along the distribution of the obturator nerve (inner aspect of the thigh).
+Normal ovulation	Dysmenorrhea may be associated with back pain.
+Reference: Esses S.l. Textbook of Spinal Disorders. J.B. Lipponcott Company (1995)
+
+3.	Evaluating a Patient with Low Back Pain
+The hallmark of treating a patient with low back pain is understanding the symptoms and accurate interpretation of the physical signs. Only then can proper treatment be initiated. However, it is not always possible to determine the anatomic pain generator or extent of damage in the spine just by the site of pain or tenderness elicited from examination.
+The main aim of history and physical examination is to differentiate the serious spinal pathology (“Red Flags”*) from benign musculoskeletal pain. Furthermore it is useful for the physician to gain more information on the degree of disability, patient's expectation and response to treatment during subsequent follow-up visits. If the symptoms do not fit into any known diagnostic profile or the patient fails to improve, then reassessment to identify factors (“Yellow Flags”*) that may interfere with the diagnosis or recovery must be made.
+3.1 History
+History must always be taken in a careful and consistent manner. The factors that need to be considered in the history of patient with low back pain are summarised in Table 3.1
+While taking history, the physician must be constantly vigilant for symptoms of Red Flags* and Yellow Flags*. Red Flags* are symptoms which denote serious underlying pathology e.g. Cauda Equina Syndrome, malignancy, fracture or infection, which require prompt intervention. Yellow Flags* refer to psychosocial factors which indicate poor prognosis and deviation from the “normal” course of recovery. These patients will require more complex intervention (including psychological ones), and referral to a multidisciplinary pain service may be required.
+* Refer to Glossary
+
+Table 3.1
+History
+Age
+Pain History
+Duration
+Location
+Character
+Radiation - Buttock, thigh,
+- Calf, foot (sciatica*)
+Precipitating factors
+Aggravating factors
+Relieving factors
+Strain or Impulse pain* - Sneezing, Coughing, Straining Spinal Claudication*
+Neurological Symptoms
+Numbness including its distribution
+Weakness
+Bladder and bowel dysfunction (retention or incontinence)
+Constitutional Symptoms
+Fever
+Weight loss
+Night Sweats
+Previous Low Back Pain
+Previous Back Surgery
+Medical Illness
+Work and Lifestyle History
+Social and Psychological Issues
+Refer to Glossary
+
+3.2	Physical Examination
+Physical examination should go hand-in-hand with history to obtain a differential diagnosis. It should seek identifiable patterns of findings suggestive of a diagnosis as well as identify potential sources of referred pain (non-vertebral causes).
+Components of physical examination of the spine are summarised in Table 3.2.
+Table 3.2
+Physical Examination of the Spine
+Standing
+Inspect the back for deformities e.g. stooping forward or list* (Figure 3)
+Palpate for muscle guarding, trigger points
+Lumbar excursion* and range of motion
+Gait
+Heel and Toe Walking (Inability to walk on heels alone or toes alone signifies significant muscle weakness)
+Supine
+Hip joint range of motion
+FABER* test (Flexion, Abduction and External
+Rotation) of hip
+Straight Leg Raising Test* (SLR)
+Cross SLR*
+Neurological examination (Table 3.3)
+Prone
+Palpate for muscle guarding, trigger points
+Femoral Extension Test
+Sitting
+Straight Leg Raising Test* (SLR)
+Refer to Glossary
+
+Figure 3: Differentiating between Listing and Scoliosis
+Table 3.3
+Neurological Examination of The Lower Limbs
+Inspect for muscle atrophy (calf and thigh)
+Muscle Strength
+Hip flexion, extension, abduction and adduction
+Knee flexion and extension
+Ankle flexion and extension
+Big toe flexion and extension
+Deep Tendon Reflexes
+Knee
+Ankle
+Sensation
+Light touch
+Pin prick
+
+3.3	The 5-minute History and Physical Examination (if time is short)
+This aims to differentiate the serious from the non-serious causes of low back pain (Tables 3.4 and 3.5).
+Table 3.4
+Essential Questions	Points to note
+Neurological Symptoms -	Presence of saddle anaesthesia -	Weakness of the leg or foot -	Loss of bladder or bowel control	Cauda equina lesion or cord compression
+Pain -	Nerve root pain (Sciatica) -	Unremitting night pain	Nerve root compression Spinal infection or malignancy
+Constitutional Symptoms -	Fever -	Night sweats -	Significant loss of weight	Spinal infection Chronic spinal infection or malignancy
+Table 3.5
+Essential Examinations	Points to note
+Heel and Toe walking	Significant muscle weakness if unable to perform this
+Cross Straight Leg Raising	Prolapsed disc with significant nerve root impingement
+Muscle Strength -	Big toe flexion and extension -	Ankle flexion and extension	Weakness indicates significant nerve root or cord compression
+If loss of bladder/bowel control is present check perianal sensation and anal tone	Saddle anaesthesia and/or lax anal tone indicates cauda equina lesion
+ 
+4.	Red Flags
+4.1	Introduction
+The evaluation of low back pain should involve looking for potentially dangerous symptoms, or “Red Flags”. Red Flags are symptoms and signs that indicate possible serious spinal pathology due to tumour, infection or trauma and require early referral to a specialist.
+4.2	Types of Red Flags
+i.	Cauda equina syndrome
+ii.	Possible serious spinal pathology - trauma or tumour
+iii.	Infection (e.g. TB, pyogenic abscess)
+4.3	History and Physical Examination
+When taking history and doing the physical examination for the patient, the following signs and symptoms are considered as Red Flags:
+Table 4.1
+History
+1.	History of trauma, cancer (present or past), osteoporosis, significant loss of weight, use of systemic steroids, HIV infection, drug or alcohol abuse
+2.	Onset of pain at age < 20 years or > 55 years
+3.	Thoracic pain
+4.	Unrelenting night pain or pain at rest
+5.	Fever > 38°C for 48 hours
+6.	Sudden onset or unexplained changes in bowel or bladder control (incontinence or retention).
+7.	Sudden onset or otherwise unexplained bilateral leg weakness, or progressive motor weakness in the legs with gait disturbances.
+8.	Saddle numbness or anaesthesia (anus, perineum or genitals).
+ 
+11
+Table 4.2
+Physical examination:
+1.	Fever > 38°C
+2.	Structural spinal deformity
+3.	Severe restriction of lumbar flexion
+4.	Widespread neurological deficit
+5.	Saddle anaesthesia
+Reference: Waddell G (Ed). The Back Pain Revolution. Churchill Livingstone, Edinburgh, London, New York, 2004,10-11.
+5.	Yellow Flags
+5.1	Introduction
+“Yellow flags” are psychosocial factors that increase the risk of individuals with acute back pain developing long term disability and work loss. They may be identified as early as the first visit to the doctor.
+Table 5.1
+Psychosocial factors that predict poor outcomes include:
+1.	A belief that back pain is harmful or potentially disabling
+2.	Fear avoidance behaviour and reduced activity levels
+3.	Tendency to low mood and withdrawal from social interaction
+4.	An expectation of passive treatments rather than a belief that active participation will help
+5.	Problems with claims and compensation
+6.	Past history of back pain, time-off, other claims
+7.	Problems at work, poor job satisfaction
+8.	Heavy work, unsociable hours
+9.	Overprotective family or lack of support
+12
+ 
+Table 5.2
+Questions to ask to identify the above factors:
+1.	Have you had time off work in the past with back pain?
+2.	What do you understand is the cause of your back pain?
+3.	What do you think will help you?
+4.	How is your employer I co-workers I family responding to your back pain?
+5.	What are you doing to cope with back pain?
+6.	Do you think you will return to work? When?
+5.2	Identification of yellow flags
+The goal of the practitioner is to identify risk factors that increase the probability of long term disability and work-loss with the associated suffering and negative effects on patients, families and society.
+Identification of yellow flags leads to
+•	a decision as to whether more detailed assessment is needed
+•	identification of factors that can be addressed by specific interventions
+•	secondary prevention of chronic back pain
+A person is at risk if they have one or more strong indicators of risk or several less important factors that might be cumulative.
+References: • The New Zealand Guide to Assessing Psychosocial Yellow Flags in Acute Low back Pain. • Kendell NAS, Linton SJ, Main CJ 1997 Guide to assessing psychosocial yellow flags in acute low back pain. Accident Rehabilitation and Compensation Insurance Corporation and National Advisory Committee on health and disability, Wellington, NZ.
+•	www.acc.org.nz
+ 
+13
+6.	Investigations
+All investigations must be correlated with clinical findings and should not be interpreted on their own.
+Table 6.1
+Investigation	Indication	What can be diagnosed
+Radiological investigations		
+Lumbosacral Spine X rays - AP and Lateral viev©	When acute back pain persists for more than 2 weeks AND No red flags present	Anterior and posterior osteophytes Decreased disc height Fractures Loss of vertebral height Osteopaenia Spondylolisthesis Spondylolysis Lytic lesions
+Lumbosacral Spine X rays: Flexion extension views Oblique views	When lumbosacral spine instability, spondylolysis or spondylolisthesis is suspected	Lumbosacral spine instability Spondylolysis Spondylolisthesis
+MRI LS spine: MRI must be correlated with clinical findings and should not be interpreted on its own	If prolapsed disc and/or nerve root or cord compression is suspected	Disc degeneration Disc prolapse Spinal stenosis Spinal cord compression Cauda equina lesion Metastatic disease Infection
+CT Scan pelvis	If extra-spinal pathology is suspected	Intrapelvic mass compressing lumbosacral plexus Paravertebral masses
+CT Myelogram	As an alternative to MRI, in the presence of spinal implants	Better visualization of neural tissue compared to normal CT scan
+Other tests		
+Nerve conduction studies	If extra-spinal causes are suspected	Pelvic tumours with nerve compression Spinal metastases or primary spine tumours Peripheral neuropathy
+Bone scan	Past history of any malignancy	Metastatic spine disease
+Blood tests		
+Full Blood Count, Erythrocyte Sedimentation Rate (ESR)	Presence of fever, loss of weight, constitutional symptoms. Particularly in patients with diabetes, chronic renal failure on dialysis.	TB / Pyogenic infection
+Rheumatological screen	When rheumatological diseases are suspected	
+14
+ 
+7.	Diagnostic and Management Algorithm for Low Back Pain
+ 
+15
+8.	Management of Low Back Pain
+“It is important to keep in mind that we are treating people and not spines’’ ~ Waddell 2004
+8.1	General principles
+Clinical management of low back pain aims to provide the best possible relief of pain, but it must also prevent or minimize disability; one cannot assume that controlling pain will lead to reduction in disability. Total pain relief is not essential for reduction in the level of disability.
+Most low back pain is managed in primary care. Management will generally depend on whether the pain is acute or chronic .
+8.2	Acute Low Back Pain
+1	Rule out ‘red flags' - i.e. exclusion of serious disease. If red flags are present, patients should be referred immediately to a specialist spine or orthopaedic surgeon.
+2	Reassurance.
+3	Symptomatic pain relief with paracetamol or NSAIDs I COX-2 inhibitors.
+4	Advice to continue ordinary activities as normally as possible; avoid bed rest.
+5	Avoidance of over-investigation at this stage.
+6	Early return to work.
+Bed rest is not an effective treatment and may delay recovery. Advice to stay active leads to faster recovery and return to work, less chronic disability and fewer recurrent problems.
+The majority of patients with acute back pain of musculoskeletal origin recover within 4-6 weeks. A small minority of patients with non-specific back pain who continue to have persistent pain and do not return to work, may need more intensive rehabilitation.
+8.3	Chronic Low Back Pain (non-specific back pain)
+Management of chronic low back pain involves a multidisciplinary approach and includes the following:
+1.	Activity modification
+2.	Medication
+16
+ 
+3.	Physiotherapy
+4.	Occupational therapy
+5.	Patient education
+6.	Prevention programme
+7.	Psychological approaches
+8.	Smoking cessation (where appropriate)
+9.	Weight loss programme (when indicated)
+10.	Assistive devices I orthosis (when indicated)
+There is now wide consensus of agreement that management based on the traditional bio-medical model* has not met with much success for non-specific low back pain. Chronic pain can now be understood according to the bio-psycho-social model* that includes the biological, psychological and social dimensions.
+Psychosocial factors, often referred to as ‘yellow flags’*, are predictors of chronicity in low back pain. It is now acknowledged that the “pain behaviours” and the resulting disability that are seen in chronic pain patients can have their origins in the first few weeks of the development of back pain.
+In the management of low back pain, one of the primary objectives should be the prevention of chronicity, as chronic back pain is much more challenging to manage. ‘Yellow flags'* have been found to be better predictors of recovery and return to work than the physical condition of the back or the physical demands of the job. These should be addressed early if the patient does not improve within 4-6 weeks.
+Excessive disability in patients can result from the following attitudes and beliefs of treating doctors :
+1.	Reliance on a narrow medical model of pain
+2.	Discouragement of self care strategies and failure to instruct the patient in self management
+3.	Sanctioning of disability and not providing interventions that will improve function
+4.	Over-investigation and perpetuation of belief in the “broken-part hypothesis (biomedical model*)”
+* Refer to Glossary
+ 
+17
+Therefore, in order to prevent chronicity in patients with risk factors, the following is what a doctor can do :
+Table 8.1
+Things the doctor can do to prevent chronicity in patients with back pain
+1.	Identify and address specifically the patient’s worries and anxieties about health matters that they suspect is related to their back pain. (Don’t say “there’s nothing wrong”)
+2.	Give clear explanations about why exercise and activity are both safe and necessary, to provide a clear picture of the benefits of maintaining activity despite continuing pain.
+3.	Reinforce and support patients' efforts for self care (things they are doing for themselves to manage their pain). Discourage reliance on passive medical interventions for recovery. For example, ask the patient what they are doing currently for exercise and relaxation, and encourage maintenance of these activities.
+4.	Give patients realistic information about their back pain. Tell them that the pain may take a while to settle, perhaps up to a couple of months. Also tell them about the possibility of flare-ups and that this does not mean that there is anything seriously wrong with them.
+5.	Talk about activities that patients can and cannot do - reassure them that it is ok to try to do activities despite the pain, rather than waiting for the pain to completely settle before going back to their normal activities.
+6.	Give written advice at the end of the consultation (patient information leaflet available)
+7.	Refer to a Pain specialist if Yellow Flags still persist and activity has not returned to normal after 3 months.
+References: • Hagen KB, Hilde G, Jamtvedt G, Winnem M. Bed rest for acute low back pain and sciatica (Cochrane Review). Spine 2000; 25: 2932-2939. • Hagen KB, Hilde G, Jamtvedt G, Winnem M. The Cochrane Review of advice to stay active as a single treatment for acute low back pain and sciatica. Spine 2002; 27: 1736-1741. (Based on systematic reviews of 28 randomized controlled trials). • Waddell G. The Back Pain Revolution. 2nd Edition. Edinburgh: Churchill Livingstone, 2004. • Engel GL. The need for a new medical model: a challenge for biomedicine. Science 1977; 196: 129-136. • Kendall NAS, Linton SJ, Main GJ. 1997 Guide to assessing psychosocial yellow flags in acute low back pain. Accident Rehabilitation and Compensation Insurance Corporation and National Advisory Committee on Health and Disability, Wellington, NZ. Available online at: www.acc.org.nz • Thompson B. Low back pain management in primary care. NZFP 2004 31:2, 72-77. • Von Korff, M. Pain Management in primary care, an individualized step care approach, in Gatchel and Turk (eds), Psychosocial factors in Pain: Critical perspectives. NY 1999. • The NZ Guidelines Group: Acute Low back pain Guide. 1998. • Weisberg, MB, Clavel AL. Why is chronic pain so difficult to treat? Psychological considerations from simple to complex care. Postgraduate medicine, v 106 No. 6, Nov 1999. • Spiegel D. Healing words: emotional expression and disease outcome. (Editorial) JAMA 1999;281 (14): 1328-9.
+18
+ 
+9.	Pharmacotherapy Guidelines
+9.1	Management Strategies
+•	The management strategies of low back pain includes management of the underlying disease process causing the pain and symptomatic treatment. Both the management strategies should run in parallel. Pharmacotherapy can play a substantial role in both strategies.
+•	It is essential to individualise the pharmacotherapy because the effect, side-effect and toxicity profile for each drug shows marked variation from person to person.
+•	It is also important to ensure that each medication is given in adequate doses for the appropriate length of time. A medication should not be abandoned and regarded as being ineffective until the maximum possible dose that does not produce significant side effects is reached.
+•	Once adequate pain relief is obtained, the dose should be maintained for 2 to 3 weeks, while encouraging appropriate exercise and normal activity levels.The dose and duration of drug treatment should be reviewed from time to time,
+•	If a patient continues to require analgesics for 3 months or more, consider referral to a Specialist. If pain control is not achieved with adequate doses of a drug, it is advisable to discontinue that drug.
+ 
+19
+Summary of the groups of medications to treat low back pain based on the types of pain.
+Table 9.1
+For mixed nociceptive and neuropathic pain, a combination of drugs from the above classes can be used.
+•	The decision on what type of medication to use in pain management is determined primarily by the severity and type of pain.
+•	Pain severity
+As pain severity increases, so does the likelihood that medications will be used. In acute pain, the aim is to provide some pain relief so that active rehabilitation can be started earlier in an effort to assist healing. In acute pain,the problems of ill-effects and addiction are not an issue. In chronic pain however, the medication can become less effective, as tolerance and habituation can develop in some people with some medications.
+20
+ 
+•	Pain types
+While doing the pain assessment, the medical practitioner has to decide whether the pain is nociceptive,neuropathic or a combination of both. The choice of medication for nociceptive or neuropathic pain is different. Nociceptive pain is the pain that occurs in response to potential or actual tissue damage. Patients tend to describe it using simple terms. In the context of back pain, nociceptive pain concentrates in the back and can refer diffusely into the legs.
+Neuropathic pain is defined as pain derived from a nervous system lesion. It has typical pain qualities that include burning and shooting. In the context of back pain, neuropathic pain presents as radicular pain (pain radiating down the leg), due to injury to the spinal nerve by disc prolapse and I lateral canal stenosis.
+Medication options:
+•	Simple analgesia
+Paracetamol is the first line of treatment especially if back pain is mild as it is has few side effects and is widely available.
+Do not exceed> 4g I day
+•	Compound analgesics and NSAIDS/COX-2 selective inhibitors
+If simple analgesics are not effective, compound analgesics an d nonsteroidal anti-inflammatory drugs (NSAIDs)/COX-2 selective inhibitors can be used. In view of the long-term side-effects of NSAIDs, these drugs should only be used for short-term duration (up to three months) or during flare-ups. There is insufficient data on the use of NSAIDS in chronic low back pain
+ 
+21
+• Opioids
+Weak opioids such as tramadol can be considered in situations where the use of NSAIDs are contraindicated or not effective and when patients require long-term use of analgesics. In elderly patients, chronic opioid therapy may have fewer lifethreatening risks than long-term daily use of NSAIDs/ COX-2 inhibitors. Tramadol, an atypical opioid with anti-neuropathic activity, may be useful as a single agent in combination nociceptive and neuropathic pain.
+Careful assessment of comorbid psychosocial issues including history of substance abuse, must be performed before initiation of treatment with these drugs.
+The use of intermittent injections of potent opioids such as pethidine for chronic back pain is strongly discouraged as it can lead to the development of dependency.
+22
+ 
+Muscle relaxants
+There is conflicting evidence on the use of muscle relaxants in acute back pain. It may be added for short periods of time (usually less than one week), especially if there is severe muscle spasm involved. These medication can cause significant central nervous system side effects.
+•	Anticonvulsants / Antidepressants
+Anticonvulsants and/or antidepressants should be added when there is a neuropathic pain component.
+•	Topical medication
+Topical NSAIDs are effective for acute musculoskeletal disorders. However, there is no evidence supporting its long term use.
+References: • European guidelines for the management of chronic non-specific low back pain. November 2004. • BW Koes, MW Van Tulder, S Thomas, Diagnosis and treatment of low back pain. BMJ Volume 332 (17): 1430-4, June 2006. • Gevirt C. Muscle Relaxants for Low Back Pain: What is the evidence? Topic in Pain Management. 22 (12): 1-5, July 2007. • Staiger TO, Gaster B, Sullivan MD, Deyo RA. Systematic review of antidepressants in the treatment of chronic lower back pain. Spine. 2003;28:2540-2545. • Me Carberg et al. Target Pain with Topical Peripheral Analgesics. The nurse practitioner, Vol 32(7):44, July 2007. • CD-ROM on low back pain by clinical media Pte. Ltd. 2007
+ 
+23
+Table 9.2 Drug options for the treatment of low back pain
+Drug class	Drug	Recommended dosage	Side effects	Cautions and contraindications	Comments
+Simple analgesic	Paracetamol	0.5-1 g every 4-6 hours to a max of 4g daily	Rare	Hepatic impairment, alcohol dependence	-	Preferred drug particularly in elderly patients -	Liver damage following overdosage
+NSAIDs	Mefenamic acid	500 mg 8 hourly	Peptic ulcer, GI bleed, Platelet dysfunction, Renal failure, Hypertension, Allergic reaction in susceptible individuals, Increase in CVS events.	Gastroduodenal ulcer, Asthma, Bleeding disorder, Renal dysfunction, Ischaemic heart disease, Cerebrovascular disease, Inflammatory bowel disease,	Current data suggest that increased CV risk may be an effect of the NSAID/coxib class. Physicians and patients should weigh the benefits and risks of NSAID/coxib therapy.
+	Diclofenac	75-150 mg daily in 2-3 devided doses			
+	Naproxen	500 mg initially then 250 mg 8 hourly			
+	Meloxicam ( Mobic® )	7.5 - 15mg daily			
+COX-2 inhibitor	Celecoxib ( Celebrex® )	200 mg daily 400mg daily in acute pain	Renal impairment, Allergy reaction in susceptible individuals, Increase in CVS events.	Ischaemic heart disease, Cerebrovascular disease, Contraindicated in hypersensitivity to sulphonamides	Associated with a lower risk of serious upper Gastrointestinal sideeffects
+	Etoricoxib ( Arcoxia® )	60 - 90 mg daily; 120mg daily in acute pain	Hypertension, Renal impairment, Allergic reaction in susceptible individuals, Increase in CVS events.	Uncontrolled hypertension, Ischaemic heart disease, Cerebrovascular disease	
+Opioids	Tramadol ( Tramal® )	Start at low doses (50mg bd), then titrate over 3-7 days by 50-100 mg/day in divided doses. Maximum dose of 400 mg/day	Dizziness, nausea, constipation, somnolence, drowsiness	Risk of seizures in patients with h/o seizures	Opioid analgesics, with or without paracetamol, are useful alternatives in patients in whom NSAIDs, including COX-2 selective inhibitors (coxibs), are contraindicated,ineffective, and/or poorly tolerated.
+	DF 118 (dihydrocodeine tartrate)	30-60 mg every 4-6 hours	Nausea and vomiting, Constipation, drowsiness	Respiratory depression, acute alcoholism, paralytic ileus, raised ICP (intracranial pressure)	
+ 
+ 
+24
+25
+Table 9.3 Drug options for the treatment of low back pain (cont')
+Drug class	Drug	Recommended dosage	Side effects	Cautions and contraindications	Comments
+Combination of opioids and paracetamol	Ultracet® (Tramadol 37.5 mg & PCM 325 mg)	2 tablets 4-6 hourly. Max of 8 tabs/day	Nausea and vomiting, drowsiness	Hepatic impairment, renal impairment, alcohol dependence, epilepsy	Decrease in side-effect profile of tramadol and paracetamol while maintaining efficacy
+	Panadeine® (codeine phosphate 8 mg & PCM 500 mg)	1-2 tablets every 4-6 hours, max 8 tablets daily	Constipation	In elderly-reduce dose	
+Skeletal muscle relaxants	Baclofen	5 mg tds. Max 100 mg daily.	Drowsiness, Muscular hypotonia, nausea, ataxia	Renal impairment, psychiatric illness, Parkinson’s disease, peptic ulceration	Muscle relaxants have not been shown to be more effective than NSAIDs in fostering return to activity
+	Myonal®	50 mg tds	Weakness, dizziness	Hepatic disorders	
+	Diazepam	2-10 mg tds	Drowsiness, confusion, ataxia, muscle weakness	Respiratory depression, myasthenia gravis, sleep apnoea syndrome, severe hepatic impairment.	Potential for abuse and dependence
+Topical	Ketoprofen gel 2.5%	Apply 2-4 times daily up to 7 days.		Topical application of large amount may result in systemic effects including hypersensitivity and asthma. Photosensitivity.	Avoid contact with eyes and mucous membrane, inflamed or broken skin
+	Linctus Methyl Salicylate (LMS)	Apply 2-3 times daily		Topical application of large amount may result in systemic effects including salicylate poisoning	
+Anti-convulsants	Gabapentin ( Neurontin® )	300-3600 mg/d. Day 1 : start at 300mg nocte. Day 2 : 300 mg bd. Day 3 : 300 mg tds. Thereafter, increase by 300 mg/d every 1-7 days	Drowsiness, Dizziness, GI symptoms and mild peripheral oedema	Dose adjustment needed in renal impairment	Well tolerated, serious adverse events are rare
+	Pregabalin ( Lyrica® )	Start with 150mg/d (in 2 divided doses). If needed increase to 300mg/d after 3-7 days intervals, if needed increase to 600mg/d after 7-day interval.	Drowsiness, Dizziness, GI symptoms and mild perpheral oedema	Dose adjustment needed in renal impairment	Well tolerated, serious adverse events are rare
+TCA (Tricyclic antidepressant)	Amitriptyline	Start with 10-25 mg nocte. Increase weekly by 25 mg/d to a max of 150 mg/d	Anticholinergic effects eg. Dry mouth, drowsiness, urinary retention, arrhythmias	Not recommended in elderly patients and patients with cardiac disease, glaucoma, renal disease	
+SNRI (Serotonin and norepinephrine reuptake inhibitor)	Duloxetine	Start with 60mg once daily, increase to a maximum of 120 mg/ day in evenly divided doses.	GI disorders, excessive sweating, CNS disorders eg. dizziness, fatigue, insomnia, somnolence, blurred vision, dysuria	Concomitant use with MAOIs, potent CYP1A2 inhibitors. Hepatic or severe renal impairment. Uncontrolled narrow-angle glaucoma	
+ 
+ 
+26
+27
+10.	Physical Therapy and Rehabilitation
+10.1	Rehabilitation of Low Back Pain
+Goals of rehabilitation
+•	Return to normal functional activity
+•	Prevention of further injury
+•	Optimal strength, endurance, coordination
+•	Improve range of movement
+10.2	Phases of Low Back Pain Rehabilitation
+•	Acute Phase
+•	Recovery Phase
+•	Functional / Maintenance (for chronic low back pain)
+10.3	Physical Therapy
+Physiotherapy may be
+•	passive i.e. the therapist does something to the patient e.g. manipulation, hot pack, traction, etc,
+or
+•	active i.e. the patient does exercises for him/herself
+10.4	Acute Back Pain
+A) Acute phase
+-	Passive physiotherapy may be appropriate for a limited period of time. Passive physiotherapy using the following physical modalities can be used in the acute phase:
+-	Heat, cold, electrotherapy
+-	Superficial heat - eg. heat packs
+-	Deep heat - eg. ultrasound
+-	Electrotherapy - eg. TENS, iontophoresis, interferential stimulation
+-	Traction
+28
+Low Back Pain Management Guideline
+•	Passive physiotherapy is meant to be an adjunctive treatment and not an isolated therapy
+•	Active physiotherapy can be started in the acute phase but may be limited to gentle stretches and limited aerobic activity e.g. walking
+•	Analgesic medications should be taken during the acute phase to enable patients to remain active as advice to stay active leads to faster recovery and less long-term disability.
+B) Recovery Phase
+Begins as soon as the initial pain is under control
+•	Focus on functional restoration of motion
+•	Physiotherapy should only be through active approaches
+-	Involves the use of exercise to target improved joint range, soft tissue flexibility, muscular strength and endurance, and normalized proprioception
+-	Incorporate aerobic exercise training
+•	Occupational therapy intervention
+-	Backcare education including posture and body mechanics
+-	Activity modification
+-	Any work or leisure activity should be broken down into its component parts and practiced separately before practicing the entire activity
+ 
+29
+10.5	Chronic Back Pain
+1.	Passive physiotherapy alone is inappropriate as it only gives short term relief.
+2.	The most important component of physical therapy in chronic back pain is active physiotherapy i.e. exercise. Initiation of exercise is to prevent deconditioning.
+3.	The aim of physical therapy in patients with chronic back pain is functional restoration.
+4.	The 3 main components of exercise are stretching (to improve flexibility), strengthening (to improve muscle strength and for stabilization of joints) and aerobic exercises (to improve endurance). In addition, general fitness, coordination and stability are improved.
+5.	Patients must be advised to have a consistent daily exercise routine, and should be informed that the benefits from exercise may only be seen after weeks to months.
+6.	Activity levels should be gradually built up from the patient's baseline (what she/he can do currently, which should be measured) to a specific target. For example, if the patient's standing tolerance has deteriorated to 5 minutes, this can be gradually increased by one to two minutes every couple of days up to a target of (e.g. 30 minutes) over a period of time e.g. one month.
+7.	Patients should also be advised not to overdo on days when they have less pain; instead, they should have a planned gradual increase in exercise and activity levels, as described above -irrespective of pain levels. This is an important pain management technique called PACING.
+30
+Low Back Pain Management Guideline
+10.6 Stretches
+It is recommended to do stretches 2-3 times a day at least. For a stretch to be effective, the position should be held up to a count of 15, and each stretch should be done twice on each side.
+Triceps stretch
+Calf stretch
+Pectoral and anterior
+chest wall stretch
+Reproduced with permission from: Nicholas MK, Molloy AM, Tonkin , L and Beeston, L. Manage Your Pain. Sydney , ABC Books, 2000.
+Low Back Pain Management Guideline
+31
+Quadriceps stretch
+Hip exterior stretch
+Gluteals stretch
+Reproduced with permission from: Nicholas MK, Molloy AM, Tonkin , L and Beeston, L. Manage Your Pain. Sydney , ABC Books, 2000.
+32
+Low Back Pain Management Guideline
+10.7 Strengthening Exercises
+It is recommended to do strengthening exercises at least 3 times a week. The number of repetitions for each exercise should be increased as your strength increases with time.
+Abdominal hollowing
+Abdominal hollowing
+Hip extension with knee extension Hip extension with knee bent
+Lunge	Vastus medialis obliquus Neck retraction
+retraining
+Hip abductor strengthening
+Shoulder retraction with arm raise
+Reproduced with permission from: Nicholas MK, Molloy AM, Tonkin , L and Beeston, L. Manage Your Pain. Sydney
+, ABC Books, 2000.
+References : • Chou R et al: Diagnosis and Treatment of Low Back Pain: A Joint Clinical Practice Guideline from the American College of Physicians and the American Pain Society. Annals of Internal Medicine 147(7):478-491, 2007. • Guzman J et al: Multidisciplinary rehabilitation for chronic low back pain: systematic review. BMJ 2001 ;322;1511- 1516. • S.P. Stanos et al: The Physiatric Approach to Low Back Pain. Seminars in Pain Medicine. 2:186-196, 2005. • Guideline from National Guideline Clearinghouse for Acute Low Back Pain vwvw.guideline.gov/summaiy/summaiy • Karen P Ban' and Mark A. Harrast: Low Back pain, in Randall L. Braddom (ed) Physical Medicine and Rehabilitation, 2007, pp 883-998.
+Low Back Pain Management Guideline
+33
+10.8 Ways to Modify Activities
+(International Sports and Spine Society)
+Sitting
+Find a chair that is comfortable to you and supports the small of your back, you may have to experiment with several. Get up and stretch often.
+Rising from a chair
+Avoid slumping as in the left hand picture. Instead stick your chest out as in the right hand picture to protect your back. Getting up and down like this utilizes what is called “the hip hinge” to spare your spine. This can be incorporated in other lifting and bending activities as well.
+Desk work
+Make sure the height of the chair fits the desk. Arrange the keyboard monitor and phone so you do not feel strained. Get up and stretch often.
+Driving
+Adjust your seat from time to time. Try some support in the small of the back. Take regular stops and get out of the car for a quick break. Walk around and stretch.
+Lifting
+Think before you lift on the best way to move the load. Don't lift more than you need to. Keep the load close to your body. Lightly tighten
+34
+ 
+your stomach muscles to brace your back. Turn with your feet when carrying the load, don't twist the back. Finally, be sure to “hip hinge” to maintain an upright spine as the picture above shows.
+Carrying and shopping
+Ask yourself if you need to carry at all. Keep the load close to your body. Split the weight of the load between two hands. Push carts with both hands.
+Daily activities/hobbies
+Don't do any one thing for too long. Keep changing activities.
+Sports
+Continuing to play your normal sports is fine, but you may need to modify your game or decrease your intensity.
+Sleeping
+Some people find relief by sleeping on a firmer mattress. Taking painkillers an hour before you go to bed may help.
+Sex
+Sex is fine, but you may need to try different positions. If your pain is not settling down or getting worse, you may need further assessment from your health care provider. Make sure you ask questions or voice your concerns about your pain to your healthcare provider.
+ 
+35
+11.	Indications for Surgery
+The presence of red flags usually requires an urgent referral to a specialist. However, not all patients will have to undergo surgery. Indications for surgery can be variable and are tailored to suit the patient and the specific condition. It is important to understand the goals of treatment - both by the patient and the treating surgeon.
+Specific indications for surgery include the following:
+•	Preservation or restoration of neurologic function when neurologic deficit is caused by an identifiable pathology amenable to surgical correction.
+•	Fractures and tumours causing structural compromise
+•	Spinal stenosis with very short walking distance affecting activities of daily living (ADL)
+•	Tumours where there is risk of spinal cord compression with life expectancy of more than 3 months.
+•	Disc prolapse with leg pain in patients who have failed conservative management.
+The armamentarium of surgical treatment includes not only open surgery, but also other treatment modalities such as minimal access surgery and endoscopic surgery.
+11.1	Cauda-Equina Syndrome
+This entails emergency (within 48 hrs) decompression of the spinal canal if any resolution of the bladder and/or bowel function is to be expected.
+11.2	Spinal and/or Lateral Canal Stenosis
+The patient needs to be worked-up and an accurate diagnosis is obtained with the necessary imaging modalities (e.g. MRI scan) with/without electrophysiological studies (e.g. NCS, EMG). Surgery is indicated if radicular pain is debilitating or weakness is beginning to set in, and this usually involves decompression via laminotomies or laminectomies.
+36
+ 
+11.3	Spine Infections
+The patient needs to be investigated urgently with an MRI scan and biochemical investigations. Tuberculous or pyogenic infection have to be differentiated early as the treatment course differs. Most centres insist on a CT-guided biopsy before any treatment is started.
+If pyogenic infection is suspected, early surgery is important especially in older patients, diabetics and those with an epidural abscess on the MRI scan. These patients can have a sudden and progressive neurological deficit, which is usually irreversible -unlike tuberculous infections.
+If tuberculous infection is suspected, empirical treatment is started after biopsy. If there is clinical improvement, the patient is maintained on the initial treatment regime for 9 to 12 months. However, if there is no improvement after 2 to 3 weeks, surgery is indicated.
+11.4	Spine Tumours
+Back pain may be the first symptom of a spinal tumour in some patients. In these patients, back pain may be due to vertebral or epidural secondaries, spinal cord or nerve root tumour.
+If the pain is due to secondaries in the spine, the goal of treatment is symptom control (pain relief) and providing a good quality of life. The role of surgery here is dependent on the extent of the disease and the prognosis as well as the general condition of the patient. If survival of more than 3 months is expected, surgery for stabilization as well as for pain relief is one of the treatment options; the others are radiotherapy and chemotherapy, which may reduce the dose of analgesic medication required for pain relief.
+11.5	Instability Pain
+Persistent mechanical back pain due to instability (Spondylolisthesis, Spondylolysis) despite conservative management may improve with fusion surgery.
+ 
+37
+12.	Interventional Therapy for Low Back Pain
+The various techniques mentioned below are used by surgeons and pain specialists as indicated. Common techniques include: peripheral nerve blocks, trigger-point* injections, epidural injections, facet joint* injections and radiofrequency ablation techniques. Less common methods include: epiduroscopy, spinal endoscopy, intrathecal pump implantation, spinal cord stimulation.
+Table 12.1
+Common Techniques	Indications
+Trigger point injection*	Myofascial pain
+Epidural steroid injection*	Disc prolapse and nerve root pain (neuropathic pain)
+Medial branch blocks* / Radiofrequency Neurotomy* Facet joint injections*	Pain from facet joints
+Intra-articular sacroiliac joint injections	SI joint pain
+Less Common Techniques	Indications
+Adhesiolysis/Epiduroscopy/ spinal endoscopy	Epidural scarring Failed back surgery syndrome
+Spinal cord stimulation*	Neuropathic pain Failed back surgery syndrome
+Intrathecal pump* using opiods and adjuvants	Failed back surgery syndrome Severe back pain due to advanced cancer not responding to conventional treatment.
+Reference: • Interventional Techniques: Evidence-based Practice Guidelines in the Management of Chronic Spinal Pain. Pain Physician 2007; 10:7-111. Year Published - 2007.
+* Refer to Glossary
+38
+ 
+13.	Complementary Medicine
+There is increasing interest in practices such as acupuncture, traditional massage and chiropractic manipulation. Most practitioners are not averse to using them as complementary rather than as alternative medicine. It is important to exclude serious spinal pathology before trying any of these therapies.
+One of the reasons for this large interest in such treatment is the failure of the traditional system of western medicine in treating nonspecific low back pain or any type of chronic pain for that matter. As healthcare systems are unable to deliver ‘cures', patients turn to such alternative medical systems. However these alternative treatments are only passive therapies. It is only a patient's active participation in his pain management that will lead to improvement in function and a reduction in disability.
